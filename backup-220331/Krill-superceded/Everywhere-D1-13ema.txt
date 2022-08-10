@@ -1,0 +1,12 @@
+//@version=3
+// adapted MTF EMA indicator
+// D1-ema13 on all charts
+
+study("D1 EMA 13 everywhere" , overlay=true)
+
+mtf = input(title="MTF", type=resolution, defval="1D")
+ema_length = input(13, title = "EMA Period")
+
+ema = security(tickerid, mtf, ema(close, ema_length))
+
+p = plot(ema, title="", color=#DEB887, style=line, linewidth=2, offset=0, transp=0)

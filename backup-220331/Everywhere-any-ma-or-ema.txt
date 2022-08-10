@@ -1,0 +1,22 @@
+// MTF Moving Average indicator
+//@version=5 
+indicator(title="MTF MA/EMA", overlay=true, format=format.price, precision=1, timeframe="", timeframe_gaps=true) 
+ 
+bar = input(21, "Period") 
+ 
+string mav = input.string("EMA", "MA type", options = ["EMA", "SMA"]) 
+ 
+ 
+getMA() => 
+    ma = 0.0 
+    if mav == "SMA" 
+        ma := ta.sma(close, bar) 
+ 
+    if mav == "EMA" 
+        ma := ta.ema(close, bar)  
+    ma 
+ 
+     
+MAvg=getMA() 
+ 
+plot(MAvg,color=color.yellow, linewidth=2)

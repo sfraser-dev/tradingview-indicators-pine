@@ -1,0 +1,30 @@
+//@version=3
+// Krill: my take as an MA trader is that AO divergence
+// are simply another way to read MAs flattening without
+// displaying MAs on your chart
+//
+// AO is the simply the gap between MA5 and MA34
+//
+// MA34 on 12h is 4h MA100 and on daily that 4h MA200
+
+// Since I like MA100 a lot more than MA200 i'd naturally prefer 12h divergences
+
+study(title="AO MAMA", shorttitle="AO MAMA", overlay=true)
+
+// slow MA 
+SourceMA1 = input(defval = close)
+LengthMA1 = input(defval = 34, minval = 1)
+
+// fast MA
+SourceMA2 = input(defval = close)
+LengthMA2 = input(defval = 5, minval = 1)
+
+
+// declare MAs
+MA1 = sma(SourceMA1, LengthMA1)
+MA2 = sma(SourceMA2, LengthMA2)
+
+// draw lines
+
+plot(series=MA1, title="", color=blue, linewidth=2,transp=0)
+plot(series=MA2, title="", color=yellow, linewidth=2,transp=0)

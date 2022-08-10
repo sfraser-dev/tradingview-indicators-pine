@@ -1,0 +1,68 @@
+
+study(title="MA full set", shorttitle="MA Krill", overlay=true)
+
+// ma20 - cross with ema13 on daily = nika's trick
+ma20Source = input(defval = close)
+ma20Length = input(defval = 20, minval = 1)
+
+// ma200
+ma200Source = input(defval = close)
+ma200Length = input(defval = 200, minval = 1)
+
+// ma100
+ma100Source = input(defval = close)
+ma100Length = input(defval = 100, minval = 1)
+
+// ma300
+ma300Source = input(defval = close)
+ma300Length = input(defval = 300, minval = 1)
+
+//ema 21
+ema21Source = input(defval = close)
+ema21Length = input(defval = 21, minval = 1)
+
+//ema 34
+ema34Source = input(defval = close)
+ema34Length = input(defval = 34, minval = 1)
+
+// ema3
+ema55Source = input(defval = close)
+ema55Length = input(defval = 55, minval = 1)
+
+// ema3
+ema89Source = input(defval = close)
+ema89Length = input(defval = 89, minval = 1)
+
+// ema200
+ema200Source = input(defval = close)
+ema200Length = input(defval = 99, minval=1) 
+
+// ema13
+ema13src = input(defval = close)
+ema13len = input(7, minval=1) 
+
+
+//Declare EMA
+ma20 = sma(ema200Length, ma20Length)
+ma100 = sma(ma100Source, ma100Length)
+ma300 = sma(ma300Source, ma300Length)
+ma200 = sma(ma200Source, ma200Length)
+ema21 = ema(ema21Source, ema21Length)
+ema34 = ema(ema34Source, ema34Length)
+ema55 = ema(ema55Source, ema55Length)
+ema89 = ema(ema89Source, ema89Length)
+
+ema200 = na(ema200[1]) ? sma(ema200Source, ema200Length) : (ema200[1] * (ema200Length - 1) + ema200Source) / ema200Length 
+ema13 = na(ema13[1]) ? sma(ema13src, ema13len) : (ema13[1] * (ema13len - 1) + ema13src) / ema13len 
+
+//Draw lines
+plot(series=ma20, title="MA20", color = #ff0000, linewidth=1,transp=0)
+plot(series=ma200, title="MA200", color = black, linewidth=1,transp=0)
+plot(series=ma300, title="MA300", color=#ff00ff, linewidth=1,transp=0)
+plot(series=ema21, title="EMA21", color=#00ffd4, linewidth=1,transp=0)
+plot(series=ema34, title="EMA34", color=#ff00ba, linewidth=1,transp=0)
+plot(series=ema55, title="EMA55", color = #ff0000, linewidth=1,transp=0)
+plot(series=ema89, title="EMA89", color=#0000ff, linewidth=1,transp=0)
+plot(series=ma100, title="MA100", color = #540098, style = cross, linewidth=1,transp=0)
+plot(series=ema200, title="EMA200", color=#ff0000, linewidth=2 ,transp=0)
+plot(series=ema13, title="EMA13", color=#25ff00, linewidth=1,transp=0)

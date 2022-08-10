@@ -1,0 +1,23 @@
+// Krill, better MAs for AO
+// "one day I need to find time and work with CBS on a custom AO,
+// because the MAs used by the default AO kinda suck - maybe something
+// with an EMA13 / MA25 duo instead of MA5/MA34 used by the default AO"
+study(title="AO EMAEMA", shorttitle="AO EMAEMA", overlay=true)
+
+// slow MA 
+SourceEMA1 = input(defval = close)
+LengthEMA1 = input(defval = 34, minval = 1)
+
+// fast EMA
+SourceEMA2 = input(defval = close)
+LengthEMA2 = input(defval = 13, minval = 1)
+
+
+// declare EMAs
+EMA1 = ema(SourceEMA1, LengthEMA1)
+EMA2 = ema(SourceEMA2, LengthEMA2)
+
+// draw lines
+
+plot(series=EMA1, title="", color=blue, linewidth=2,transp=0)
+plot(series=EMA2, title="", color=yellow, linewidth=2,transp=0)

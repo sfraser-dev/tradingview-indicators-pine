@@ -1,0 +1,15 @@
+//@version=3
+
+study("ATR-MQ" , overlay=true)
+
+mtf = input(defval="", type=resolution, title="ATR4 resolution") // make defval same as chart
+the_length = input(14, type=integer, title = "ATR length")
+the_multiplier = input(1, type=float, title = "ATR multiplier", step=0.1)
+
+the_atr = atr(the_length)
+
+long_stop = low - the_atr * the_multiplier
+short_stop = high + the_atr * the_multiplier
+
+plong=plot(long_stop)
+pshort=plot(short_stop)

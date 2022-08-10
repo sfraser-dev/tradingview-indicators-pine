@@ -1,0 +1,90 @@
+//@version=5
+
+//I've rewritten my MA/EMA TradingView script in
+//version 5 of Pinescript.
+//This way no more confusion about the version bug.
+
+//Also I took the opportunity to add 4h EMA200 on all
+//timeframes in the script, so you no longer need to
+//have a separate indicator for that. 
+
+//You simply need to open the Pine Editor at the bottom of
+//the script, copy-paste the following code below, save,
+//ignore the warning saying "line 57: The function 'ta.sma'
+//should be called on each calculation for consistency.
+//It is recommended to extract the call from the ternary
+//operator or from the scope." and you're good to go!
+
+
+indicator(title="MA full set", shorttitle="MA Krill", overlay=true)
+
+// ma20
+ma20Source = input(defval = close)
+ma20Length = input.int(defval = 20, minval = 1)
+
+// ma200
+ma200Source = input(defval = close)
+ma200Length = input.int(defval = 200, minval = 1)
+
+// ma100
+ma100Source = input(defval = close)
+ma100Length = input.int(defval = 100, minval = 1)
+
+// ma300
+ma300Source = input(defval = close)
+ma300Length = input.int(defval = 300, minval = 1)
+
+//ema 21
+ema21Source = input(defval = close)
+ema21Length = input.int(defval = 21, minval = 1)
+
+//ema 34
+ema34Source = input(defval = close)
+ema34Length = input.int(defval = 34, minval = 1)
+
+// ema3
+ema55Source = input(defval = close)
+ema55Length = input.int(defval = 55, minval = 1)
+
+// ema3
+ema89Source = input(defval = close)
+ema89Length = input.int(defval = 89, minval = 1)
+
+// ema200 - actually SMMA99
+ema200Source = input(defval = close)
+ema200Length = input.int(defval = 99, minval=1) 
+
+// ema13
+ema13Source = input(defval = close)
+ema13Length = input.int(13, minval=1) 
+
+
+//Declare EMA
+ma20 = ta.sma(ema200Source, ma20Length)
+ma100 = ta.sma(ma100Source, ma100Length)
+ma300 = ta.sma(ma300Source, ma300Length)
+ma200 = ta.sma(ma200Source, ma200Length)
+ema13 = ta.ema(ema13Source, ema13Length)
+ema21 = ta.ema(ema21Source, ema21Length)
+ema34 = ta.ema(ema34Source, ema34Length)
+ema55 = ta.ema(ema55Source, ema55Length)
+ema89 = ta.ema(ema89Source, ema89Length)
+EMA200() => 
+    ema200 = 0.0
+    ema200 := na(ema200[1]) ? ta.sma(ema200Source, ema200Length) : (ema200[1] * (ema200Length - 1) + ema200Source) / ema200Length
+
+h4ema200 = 0.0
+h4ema200 := request.security(syminfo.tickerid,"240", EMA200())
+
+//Draw lines
+plot(series=ma20, title="MA20", color=color.new(#ff0000, 0), linewidth=1)
+plot(series=ma200, title="MA200", color=color.new(#000000, 0), linewidth=1)
+plot(series=ma300, title="MA300", color=color.new(#ff00ff, 0), linewidth=1, style=plot.style_cross)
+plot(series=ema21, title="EMA21", color=color.new(#00ffd4, 0), linewidth=1, style=plot.style_stepline)
+plot(series=ema34, title="EMA34", color=color.new(#ff00b4, 0), linewidth=1, style=plot.style_stepline)
+plot(series=ema55, title="EMA55", color=color.new(#ff0000, 0), linewidth=1, style=plot.style_stepline)
+plot(series=ema89, title="EMA89", color=color.new(#0000ff, 0), linewidth=1, style=plot.style_stepline)
+plot(series=ma100, title="MA100", color=color.new(#512da8, 0), linewidth=1, style=plot.style_cross)
+plot(series=EMA200(), title="EMA200", color=color.new(#ff0000, 0), linewidth=2)
+plot(series=h4ema200, title="4hEMA200", color=color.new(#311b92, 0), linewidth=2)
+plot(series=ema13, title="EMA13", color=color.new(#25ff00, 0), linewidth=1)

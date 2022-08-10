@@ -1,0 +1,38 @@
+//@version=5
+// Krill: my take as an MA trader is that AO divergence
+// are simply another way to read MAs flattening without
+// displaying MAs on your chart
+//
+// AO is the simply the gap between MA5 and MA34
+//
+// MA34 on 12h is 4h MA100 and on daily that 4h MA200
+
+// Since I like MA100 a lot more than MA200 i'd naturally prefer 12h divergences
+
+//indicator(title="AO Overlay", shorttitle="AO22", format=format.price, precision=2, timeframe="", timeframe_gaps=true)
+indicator(title="AO Overlay", shorttitle="AO Overlay")
+
+//Source=input.source(close, "Source")
+Source = close
+
+length1 = input.int(5, "Length 1", minval = 1, group="First MA")
+maType1 = input.string("SMA", title="Type", options=["SMA", "EMA"])
+
+length2 = input.int(34, "Length 2", minval = 1, group="Second MA")
+maType2 = input.string("SMA", title="Type", options=["SMA", "EMA"])
+
+// declare MAs
+MA1 = ta.sma(Source, length1)
+MA2 = ta.sma(Source, length2)
+
+ma_select(source, length, type) =>
+    switch type
+        "SMA" => ta.sma(source, length)
+        "EMA" => ta.ema(source, length)
+
+is_ma1_SMA = maType1 == "SMA"
+is_ma2_SMA = maType2 == "SMA"
+
+plot(series=ma_select(Source, length1, is_ma1_SMA ? "SMA" : "EMA"), title="", color=color.yellow, linewidth=2, style=plot.style_line)
+plot(series=ma_select(Source, length2, is_ma2_SMA ? "SMA" : "EMA"), title="", color=color.blue, linewidth=2, style=plot.style_line)
+plot(ta.sma(close,13))

@@ -1,0 +1,21 @@
+//@version=5
+// Krill, using better MAs for AO
+// "one day I need to find time and work with CBS on a custom AO,
+// because the MAs used by the default AO kinda suck - maybe something
+// with an EMA13 / MA25 duo instead of MA5/MA34 used by the default AO"
+
+indicator(title="Awesome Oscillator EMAEMA", shorttitle="AO EMAEMA", timeframe="", timeframe_gaps=true)
+
+LengthEMA1 = input.int(13, minval = 1)
+LengthEMA2 = input.int(34, minval = 1)
+color1 = input(#696969, "input color 1")
+color2 = input(color.silver, "input color 2")
+
+//ao = ta.sma(hl2,5) - ta.sma(hl2,34)
+ao = ta.ema(hl2,LengthEMA1) - ta.ema(hl2,LengthEMA2)
+diff = ao - ao[1]
+plot(ao, color = diff <= 0 ? color1 : color2, style=plot.style_columns)
+changeToGreen = ta.crossover(diff, 0)
+changeToRed = ta.crossunder(diff, 0)
+alertcondition(changeToGreen, title = "AO color changed to green", message = "Awesome Oscillator's color has changed to green")
+alertcondition(changeToRed, title = "AO color changed to red", message = "Awesome Oscillator's color has changed to red")

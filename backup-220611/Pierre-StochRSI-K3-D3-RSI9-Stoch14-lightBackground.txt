@@ -1,0 +1,23 @@
+//@version=5
+// Pierre use RSI length 9 instead of the default 14
+// Note setting thresholds at 85 and 15 for more stringinet resetting criteria
+indicator(title="Stochastic-RSI-33914-MQl", shorttitle="Stoch-RSI-33914-MQl", format=format.price, precision=2, timeframe="", timeframe_gaps=true)
+smoothK = input.int(3, "K", minval=1)
+smoothD = input.int(3, "D", minval=1)
+//lengthRSI = input.int(14, "RSI Length", minval=1)
+lengthRSI = input.int(9, "RSI Length", minval=1)
+lengthStoch = input.int(14, "Stochastic Length", minval=1)
+src = input(close, title="RSI Source")
+rsi1 = ta.rsi(src, lengthRSI)
+k = ta.sma(ta.stoch(rsi1, rsi1, rsi1, lengthStoch), smoothK)
+d = ta.sma(k, smoothD)
+//plot(k, "K", color=#696969)
+//plot(d, "D", color=#C0C0C0)
+plot(k, "K", color=color.black)
+plot(d, "D", color=color.silver)
+//h0 = hline(80, "Upper Band", color=color.gray)
+//h1 = hline(20, "Lower Band", color=color.gray)
+h0 = hline(90, "Upper Band", color=color.gray)
+h1 = hline(10, "Lower Band", color=color.gray)
+//h50 = hline(50, "Lower Band", color=color.gray)
+//fill(h0, h1, color=color.rgb(33, 150, 243, 90), title="Background")

@@ -1,0 +1,85 @@
+//@version=5
+// adapted MTF EMA indicator
+
+// using timeframe_gaps to mimic the inbuilt EMA indicator
+// (which produces smooth plots from different timeframes)
+
+//study("Everywhere", overlay=false, timeframe_gaps=true)
+indicator(title="Everywhere", overlay=false, timeframe="", timeframe_gaps=true)
+
+
+trendLen = input.int(title="Trend length", defval=13, minval=1)
+// plot the MAs along with the more important EMAs?
+plotMAs = input.bool(title="Plot MAs?", defval=false)
+// select which timeframes MA/EMAs to include by default
+plotH1s = input.bool(title="Plot H1 MA/EMAs?", defval=true)
+plotH4s = input.bool(title="Plot H4 MA/EMAs?", defval=true)
+plotD1s = input.bool(title="Plot D1 MA/EMAs?", defval=true)
+plotD3s = input.bool(title="Plot D3 MA/EMAs?", defval=false)
+
+// // select smoothing length for EMAs
+// smoothingLenH1 = input.int(title="H4 EMA smoothing length", defval=1, minval=1)
+// smoothingLenH4 = input.int(title="H4 EMA smoothing length", defval=1, minval=1)
+// smoothingLenD1 = input.int(title="D1 EMA smoothing length", defval=1, minval=1)
+// smoothingLenD3 = input.int(title="D3 EMA smoothing length", defval=1, minval=1)
+
+// getting different timeframe MA/EMAs that can use the "timeframe gaps" checkbox (from indicator function)
+BackgroundData(symbol, timeframe, data) =>
+    isLive = barstate.isrealtime
+    request.security(symbol, timeframe, data[isLive ? 1 : 0])[isLive ? 0 : 1]
+
+// H1
+H1="60"
+H1emaTrend = BackgroundData(syminfo.tickerid, H1, ta.ema(close, trendLen))
+H1ma100 = BackgroundData(syminfo.tickerid, H1, ta.sma(close, 100))
+H1ema200 = BackgroundData(syminfo.tickerid, H1, ta.ema(close, 200))
+H1ma300 = BackgroundData(syminfo.tickerid, H1, ta.sma(close, 300))
+
+// H4
+H4="240"
+H4emaTrend = BackgroundData(syminfo.tickerid, H4, ta.ema(close, trendLen))
+H4ma100 = BackgroundData(syminfo.tickerid, H4, ta.sma(close, 100))
+H4ema200 = BackgroundData(syminfo.tickerid, H4, ta.ema(close, 200))
+H4ma300 = BackgroundData(syminfo.tickerid, H4, ta.sma(close, 300))
+
+// D1
+D1="1D"
+D1emaTrend = BackgroundData(syminfo.tickerid, D1, ta.ema(close, trendLen))
+D1ma100 = BackgroundData(syminfo.tickerid, D1, ta.sma(close, 100))
+D1ema200 = BackgroundData(syminfo.tickerid, D1, ta.ema(close, 200))
+D1ma300 = BackgroundData(syminfo.tickerid, D1, ta.sma(close, 300))
+
+// D3
+D3="3D"
+D3emaTrend = BackgroundData(syminfo.tickerid, D3, ta.ema(close, trendLen))
+D3ma100 = BackgroundData(syminfo.tickerid, D3, ta.sma(close, 100))
+D3ema200 = BackgroundData(syminfo.tickerid, D3, ta.ema(close, 200))
+D3ma300 = BackgroundData(syminfo.tickerid, D3, ta.sma(close, 300))
+
+// // smooth the emas a little
+// H1emaTrendSmoothed = ta.sma(H1emaTrend, smoothingLenH1)
+// H1ema200Smoothed = ta.sma(H1ema200, smoothingLenH1)
+// H4emaTrendSmoothed = ta.sma(H4emaTrend, smoothingLenH4)
+// H4ema200Smoothed = ta.sma(H4ema200, smoothingLenH4)
+// D1emaTrendSmoothed = ta.sma(D1emaTrend, smoothingLenD1)
+// D1ema200Smoothed = ta.sma(D1ema200, smoothingLenD1)
+// D3emaTrendSmoothed = ta.sma(D3emaTrend, smoothingLenD3)
+// D3ema200Smoothed = ta.sma(D3ema200, smoothingLenD3)
+
+// Plots
+plot(plotH1s ? H1emaTrend : na, title=" H1 trend", color=color.green , style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotH1s and plotMAs ? H1ma100 : na, title=" H1 MA 100", color=color.green , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotH1s ? H1ema200 : na, title=" H1 EMA 200", color=color.green , style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotH1s and plotMAs ? H1ma300 : na, title=" H1 MA 300", color=color.green  , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotH4s ? H4emaTrend : na, title=" H4 trend", color=color.blue , style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotH4s and plotMAs ? H4ma100 : na, title=" H4 MA 100", color=color.blue , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotH4s ? H4ema200 : na, title=" H4 EMA 200", color=color.blue , style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotH4s and plotMAs ? H4ma300 : na, title=" H4 MA 300", color=color.blue , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotD1s ? D1emaTrend : na, title=" D1 trend", color=color.orange, style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotD1s and plotMAs ? D1ma100 : na, title=" D1 MA 100", color=color.orange , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotD1s ? D1ema200 : na, title=" D1 EMA 200", color=color.orange , style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotD1s and plotMAs ? D1ma300 : na, title=" D1 MA 300", color=color.orange , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotD3s ? D3emaTrend : na, title=" D3 trend", color=color.yellow, style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotD3s and plotMAs? D3ma100 : na, title=" D3 MA 100", color=color.yellow , style=plot.style_cross, linewidth=1, offset=0, transp=0)
+plot(plotD3s ? D3ema200 : na, title=" D3 EMA 200", color=color.yellow , style=plot.style_line, linewidth=2, offset=0, transp=0)
+plot(plotD3s and plotMAs ? D3ma300 : na, title=" D3 MA 300", color=color.yellow , style=plot.style_cross, linewidth=1, offset=0, transp=0)

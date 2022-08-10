@@ -1,0 +1,40 @@
+// MTF Moving Average indicator
+// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/ 
+// © ysantur 
+
+//@version=5 
+indicator(title="MTF Moving Average", overlay=true, format=format.price, precision=1, timeframe="", timeframe_gaps=true) 
+ 
+bar = input(21, "Periyot") 
+ 
+string mav = input.string("EMA", "MA type", options = ["EMA", "WMA", "SMA"]) 
+ 
+ 
+getMA() => 
+    ma = 0.0 
+    if mav == "SMA" 
+        ma := ta.sma(close, bar) 
+ 
+    if mav == "EMA" 
+        ma := ta.ema(close, bar) 
+ 
+    if mav == "WMA" 
+        ma := ta.wma(close, bar) 
+    ma 
+ 
+     
+MAvg=getMA() 
+ 
+gun = request.security(syminfo.tickerid, "1D", MAvg) 
+h4 =  request.security(syminfo.tickerid, "240", MAvg) 
+h1 =  request.security(syminfo.tickerid, "60", MAvg) 
+ 
+renk=color.yellow 
+ 
+if(h1>=h4 and h4>=gun) 
+    renk:=color.blue 
+if (h1<h4 and h4< gun) 
+    renk:=color.red 
+ 
+ 
+plot(gun,color=renk, linewidth=2)
