@@ -7,20 +7,13 @@
 //
 indicator('Levels', shorttitle='Levels', overlay=true, max_lines_count=100)
 //35 works
-displayStyle = input.string(defval='Standard', title='Display Style', options=['Standard', 'Right Anchored'], inline='Display')
-mergebool = input.bool(defval=true, title='Merge Levels?', inline='Display')
-distanceright = input.int(defval=30, title='Distance', minval=5, maxval=500, inline='Dist')
-radistance = input.int(defval=250, title='Anchor Distance', minval=5, maxval=500, inline='Dist')
-labelsize = input.string(defval='Medium', title='Text Size', options=['Small', 'Medium', 'Large'])
-linesize = input.string(defval='Small', title='Line Width', options=['Small', 'Medium', 'Large'], inline='Line')
-linestyle = input.string(defval='Solid', title='Line Style', options=['Solid', 'Dashed', 'Dotted'], inline='Line')
-
-
-
-GlobalTextType = input.bool(defval=false, title='Global Text ShortHand', tooltip='Enable for shorthand text on all text')
-var globalcoloring = input.bool(defval=false, title='Global Coloring', tooltip='Enable for all color controls via one color', inline='GC')
-GlobalColor = input.color(title='', defval=color.black, inline='GC')
-//var show_tails = input(defval = false, title = "Always Show", type = input.bool)
+macro_select_4H = input.bool(defval=false, title='4H (intra)', group='Easy Select')
+macro_select_monday = input.bool(defval=true, title='Monday', group='Easy Select')
+macro_select_daily = input.bool(defval=true, title='Previous Day', group='Easy Select')
+macro_select_weekly = input.bool(defval=true, title='Previous Week', group='Easy Select')
+macro_select_monthly = input.bool(defval=true, title='Previous Month', group='Easy Select')
+macro_select_quarterly = input.bool(defval=true, title='Previous Quarter', group='Easy Select')
+macro_select_yearly = input.bool(defval=true, title='Previous Year', group='Easy Select')
 
 [daily_time, daily_open] = request.security(syminfo.tickerid, 'D', [time, open], lookahead=barmerge.lookahead_on)
 [dailyh_time, dailyh_open] = request.security(syminfo.tickerid, 'D', [time[1], high[1]], lookahead=barmerge.lookahead_on)
@@ -58,53 +51,76 @@ var monday_low = low
 
 //------------------------------ Inputs -------------------------------
 
+var is_intra_enabled_temp = input.bool(defval=false, title='Open', group='4H (intra)', inline='4H')
+var is_intra_enabled = is_intra_enabled_temp and macro_select_4H
+var is_intrarange_enabled = input.bool(defval=false, title='Prev H/L', group='4H (intra)', inline='4H')
+var is_intram_enabled = input.bool(defval=false, title='Prev Mid', group='4H (intra)', inline='4H')
 
 
-var is_intra_enabled = input.bool(defval=false, title='Open', group='4H', inline='4H')
-var is_intrarange_enabled = input.bool(defval=false, title='Prev H/L', group='4H', inline='4H')
-var is_intram_enabled = input.bool(defval=false, title='Prev Mid', group='4H', inline='4H')
-IntraTextType = input.bool(defval=false, title='ShortHand', group='4H', inline='4Hsh')
-
-var is_daily_enabled = input.bool(defval=false, title='Open', group='Daily', inline='Daily')
+var is_daily_enabled_temp = input.bool(defval=false, title='Open', group='Daily', inline='Daily')
+var is_daily_enabled = is_daily_enabled_temp and macro_select_daily
 var is_dailyrange_enabled = input.bool(defval=true, title='Prev H/L', group='Daily', inline='Daily')
 var is_dailym_enabled = input.bool(defval=false, title='Prev Mid', group='Daily', inline='Daily')
-DailyTextType = input.bool(defval=false, title='ShortHand', group='Daily', inline='Dailysh')
 
-var is_monday_enabled = input.bool(defval=true, title='Range', group='Monday Range', inline='Monday')
+var is_monday_enabled_temp = input.bool(defval=true, title='Range', group='Monday Range', inline='Monday')
+var is_monday_enabled = is_monday_enabled_temp and macro_select_monday
 var is_monday_mid = input.bool(defval=false, title='Mid', group='Monday Range', inline='Monday')
 var untested_monday = false
-MondayTextType = input.bool(defval=false, title='ShortHand', group='Monday Range', inline='Mondaysh')
 
-var is_weekly_enabled = input.bool(defval=false, title='Open', group='Weekly', inline='Weekly')
+
+var is_weekly_enabled_temp = input.bool(defval=false, title='Open', group='Weekly', inline='Weekly')
+var is_weekly_enabled = is_weekly_enabled_temp and macro_select_weekly
 var is_weeklyrange_enabled = input.bool(defval=true, title='Prev H/L', group='Weekly', inline='Weekly')
 var is_weekly_mid = input.bool(defval=false, title='Prev Mid', group='Weekly', inline='Weekly')
-WeeklyTextType = input.bool(defval=false, title='ShortHand', group='Weekly', inline='Weeklysh')
 
-var is_monthly_enabled = input.bool(defval=false, title='Open', group='Monthly', inline='Monthly')
+var is_monthly_enabled_temp = input.bool(defval=false, title='Open', group='Monthly', inline='Monthly')
+var is_monthly_enabled = is_monthly_enabled_temp and macro_select_monthly
 var is_monthlyrange_enabled = input.bool(defval=true, title='Prev H/L', group='Monthly', inline='Monthly')
 var is_monthly_mid = input.bool(defval=false, title='Prev Mid', group='Monthly', inline='Monthly')
-MonthlyTextType = input.bool(defval=false, title='ShortHand', group='Monthly', inline='Monthlysh')
 
-var is_quarterly_enabled = input.bool(defval=true, title='Open', group='Quarterly', inline='Quarterly')
+
+var is_quarterly_enabled_temp = input.bool(defval=true, title='Open', group='Quarterly', inline='Quarterly')
+var is_quarterly_enabled = is_quarterly_enabled_temp and macro_select_quarterly
 var is_quarterlyrange_enabled = input.bool(defval=false, title='Prev H/L', group='Quarterly', inline='Quarterly')
 var is_quarterly_mid = input.bool(defval=false, title='Prev Mid', group='Quarterly', inline='Quarterly')
-QuarterlyTextType = input.bool(defval=false, title='ShortHand', group='Quarterly', inline='Quarterlysh')
 
-var is_yearly_enabled = input.bool(defval=true, title='Open', group='Yearly', inline='Yearly')
+
+var is_yearly_enabled_temp = input.bool(defval=true, title='Open', group='Yearly', inline='Yearly')
+var is_yearly_enabled = is_yearly_enabled_temp and macro_select_yearly
 var is_yearlyrange_enabled = input.bool(defval=true, title='Current H/L', group='Yearly', inline='Yearly')
 var is_yearly_mid = input.bool(defval=true, title='Mid', group='Yearly', inline='Yearly')
-YearlyTextType = input.bool(defval=false, title='ShortHand', group='Yearly', inline='Yearlysh')
+
 
 var is_londonrange_enabled = input.bool(defval=false, title='London Range', group='FX Sessions', inline='FX')
 var is_usrange_enabled = input.bool(defval=false, title='New York Range', group='FX Sessions', inline='FX')
 var is_asiarange_enabled = input.bool(defval=false, title='Asia Range', group='FX Sessions', inline='FX')
-SessionTextType = input.bool(defval=false, title='ShortHand', group='FX Sessions', inline='FXColor')
+
+GlobalTextType = input.bool(defval=false, title='Global Text ShortHand', tooltip='Enable for shorthand text on all text')
+var globalcoloring = input.bool(defval=false, title='Global Coloring', tooltip='Enable for all color controls via one color', inline="Global")
+//var show_tails = input(defval = false, title = "Always Show", type = input.bool)
 
 
+// IntraTextType = input.bool(defval=false, title='4H', group='Shorthand', inline='4H')
+// DailyTextType = input.bool(defval=false, title='Daily', group='Shorthand', inline='Daily')
+// MondayTextType = input.bool(defval=false, title='Monday', group='Shorthand', inline='Monday')
+// WeeklyTextType = input.bool(defval=false, title='Weekly', group='Shorthand', inline='Weekly')
+// MonthlyTextType = input.bool(defval=false, title='Monthly', group='Shorthand', inline='Monthly')
+// QuarterlyTextType = input.bool(defval=false, title='Quarterly', group='Shorthand', inline='Quarterly')
+// YearlyTextType = input.bool(defval=false, title='Yearly', group='Shorthand', inline='Yearly')
+// SessionTextType = input.bool(defval=false, title='Session', group='Shorthand', inline='FXColor')
+IntraTextType = GlobalTextType
+DailyTextType = GlobalTextType
+MondayTextType = GlobalTextType
+WeeklyTextType = GlobalTextType
+MonthlyTextType = GlobalTextType
+QuarterlyTextType = GlobalTextType
+YearlyTextType = GlobalTextType
+SessionTextType = GlobalTextType
 
 Londont = input.session("0800-1600", "London Session")
 USt = input.session("1400-2100", "New York Session")
 Asiat = input.session("0000-0900", "Tokyo Session")
+
 
 // colors
 DailyColor = input.color(title='', defval=color.green, group='Daily', inline='Dailysh')
@@ -113,10 +129,21 @@ WeeklyColor = input.color(title='', defval=#ab47bc, group='Weekly', inline='Week
 MonthlyColor = input.color(title='', defval=color.orange, group='Monthly', inline='Monthlysh')
 YearlyColor = input.color(title='', defval=color.red, group='Yearly', inline='Yearlysh')
 quarterlyColor = input.color(title='', defval=#f48fb1, group='Quarterly', inline='Quarterlysh') // pink
-IntraColor = input.color(title='', defval=color.green, group='4H', inline='4Hsh')
-LondonColor = input.color(title='', defval=color.black, group='FX Sessions', inline='FXColor')
-USColor = input.color(title='', defval=color.black, group='FX Sessions', inline='FXColor')
-AsiaColor = input.color(title='', defval=color.black, group='FX Sessions', inline='FXColor')
+IntraColor = input.color(title='', defval=color.black, group='4H (intra)', inline='4Hsh')
+LondonColor = input.color(title='', defval=color.black, group='FX Sessions', inline='FXColorsh')
+USColor = input.color(title='', defval=color.black, group='FX Sessions', inline='FXColorsh')
+AsiaColor = input.color(title='', defval=color.black, group='FX Sessions', inline='FXColorsh')
+GlobalColor = input.color(title='', defval=color.black, inline='Global')
+
+displayStyle = input.string(defval='Standard', title='Display Style', options=['Standard', 'Right Anchored'], inline='Display')
+mergebool = input.bool(defval=true, title='Merge Levels?', inline='Display')
+distanceright = input.int(defval=30, title='Distance', minval=5, maxval=500, inline='Dist')
+radistance = input.int(defval=250, title='Anchor Distance', minval=5, maxval=500, inline='Dist')
+labelsize = input.string(defval='Medium', title='Text Size', options=['Small', 'Medium', 'Large'])
+linesize = input.string(defval='Small', title='Line Width', options=['Small', 'Medium', 'Large'], inline='Line')
+linestyle = input.string(defval='Solid', title='Line Style', options=['Solid', 'Dashed', 'Dotted'], inline='Line')
+
+
 var pdhtext = GlobalTextType or DailyTextType ? 'PDH' : 'Prev Day High'
 var pdltext = GlobalTextType or DailyTextType ? 'PDL' : 'Prev Day Low'
 var dotext = GlobalTextType or DailyTextType ? 'DO' : 'Daily Open'
@@ -521,7 +548,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////            
             
 //////////////////////////////////////////////////////////////////////////////////
-    if can_draw_intra
+    if can_draw_intra and macro_select_4H
         intra_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             intra_time := get_limit_right(radistance)
@@ -544,7 +571,7 @@ if barstate.islast
 
 //////////////////////////////////////////////////////////////////////////////////
 //HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH HIGH
-    if can_draw_intrah
+    if can_draw_intrah and macro_select_4H
         intrah_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             intrah_time := get_limit_right(radistance)
@@ -567,7 +594,7 @@ if barstate.islast
 
 //////////////////////////////////////////////////////////////////////////////////
 //LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW LOW
-    if can_draw_intral
+    if can_draw_intral and macro_select_4H
         intral_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             intral_time := get_limit_right(radistance)
@@ -590,7 +617,7 @@ if barstate.islast
 
 ///////////////////////////////////////////////////////////////////////////////   
 
-    if can_draw_intram
+    if can_draw_intram  and macro_select_4H
         intram_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         intram_time = intrah_time
         intram_open = (intral_open + intrah_open) / 2
@@ -612,7 +639,7 @@ if barstate.islast
 
 ////////////////////////////////////////// MONDAY
 
-    if is_monday_enabled
+    if is_monday_enabled and macro_select_monday
         monday_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             monday_time := get_limit_right(radistance)
@@ -632,7 +659,7 @@ if barstate.islast
             f_LevelMerge(pricearray, labelarray, monday_high, monday_label, MondayColor)
 
 
-    if is_monday_enabled
+    if is_monday_enabled and macro_select_monday
         monday_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             monday_time := get_limit_right(radistance)
@@ -655,7 +682,7 @@ if barstate.islast
 
 
 
-    if is_monday_mid
+    if is_monday_mid and macro_select_monday
         mondaym_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
 
         mondaym_open = (monday_high + monday_low) / 2
@@ -679,7 +706,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 ////////////////////////DAILY OPEN DAILY OPEN DAILY OPEN DAILY OPEN DAILY OPEN DAILY OPEN DAILY OPEN
 
-    if is_daily_enabled
+    if is_daily_enabled and macro_select_daily
         daily_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             daily_time := get_limit_right(radistance)
@@ -701,7 +728,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////DAILY HIGH DAILY HIGH DAILY HIGH DAILY HIGH DAILY HIGH DAILY HIGH DAILY HIGH 
 
-    if is_dailyrange_enabled
+    if is_dailyrange_enabled and macro_select_daily
         dailyh_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             dailyh_time := get_limit_right(radistance)
@@ -726,7 +753,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////DAILY LOW DAILY LOW DAILY LOW DAILY LOW DAILY LOW DAILY LOW DAILY LOW DAILY LOW 
 
-    if is_dailyrange_enabled
+    if is_dailyrange_enabled and macro_select_daily
         dailyl_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             dailyl_time := get_limit_right(radistance)
@@ -750,7 +777,7 @@ if barstate.islast
 
 //////////////////////////////////////////////////////////////////////////////// Daily MID
 
-    if is_dailym_enabled
+    if is_dailym_enabled and macro_select_daily
         dailym_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         dailym_time = dailyh_time
         dailym_open = (dailyl_open + dailyh_open) / 2
@@ -773,7 +800,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 
 
-    if is_weekly_enabled
+    if is_weekly_enabled and macro_select_weekly
         weekly_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         cweekly_time = weekly_time
         if displayStyle == 'Right Anchored'
@@ -802,7 +829,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// WEEKLY HIGH WEEKLY HIGH WEEKLY HIGH
 
 
-    if is_weeklyrange_enabled
+    if is_weeklyrange_enabled and macro_select_weekly
         weeklyh_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             weeklyh_time := get_limit_right(radistance)
@@ -826,7 +853,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// WEEKLY LOW WEEKLY LOW WEEKLY LOW
 
 
-    if is_weeklyrange_enabled
+    if is_weeklyrange_enabled and macro_select_weekly
         weeklyl_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             weeklyl_time := get_limit_right(radistance)
@@ -851,7 +878,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////// Weekly MID
 
-    if is_weekly_mid
+    if is_weekly_mid and macro_select_weekly
         weeklym_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         weeklym_time = weeklyh_time
         weeklym_open = (weeklyl_open + weeklyh_open) / 2
@@ -873,7 +900,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// YEEEAARRLLYY LOW LOW LOW
 
 
-    if is_yearlyrange_enabled
+    if is_yearlyrange_enabled and macro_select_yearly
         yearlyl_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             yearlyl_time := get_limit_right(radistance)
@@ -901,7 +928,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// YEEEAARRLLYY HIGH HIGH HIGH
 
 
-    if is_yearlyrange_enabled
+    if is_yearlyrange_enabled and macro_select_yearly
         yearlyh_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             yearlyh_time := get_limit_right(radistance)
@@ -928,7 +955,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// YEEEAARRLLYY OPEN
 
 
-    if is_yearly_enabled
+    if is_yearly_enabled and macro_select_yearly
         yearly_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             yearly_time := get_limit_right(radistance)
@@ -956,7 +983,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////// yearly MID
 
-    if is_yearly_mid
+    if is_yearly_mid and macro_select_yearly
         yearlym_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         yearlym_time = yearlyh_time
         yearlym_open = (yearlyl_open + yearlyh_open) / 2
@@ -980,7 +1007,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// QUATERLLYYYYY OPEN
 
 
-    if is_quarterly_enabled
+    if is_quarterly_enabled and macro_select_quarterly
         quarterly_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             quarterly_time := get_limit_right(radistance)
@@ -1008,7 +1035,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// QUATERLLYYYYY High
 
 
-    if is_quarterlyrange_enabled
+    if is_quarterlyrange_enabled and macro_select_quarterly
         quarterlyh_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             quarterlyh_time := get_limit_right(radistance)
@@ -1036,7 +1063,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// QUATERLLYYYYY Low
 
 
-    if is_quarterlyrange_enabled
+    if is_quarterlyrange_enabled and macro_select_quarterly
         quarterlyl_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             quarterlyl_time := get_limit_right(radistance)
@@ -1062,7 +1089,7 @@ if barstate.islast
 //////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////// QUATERLLYYYYY MID
 
-    if is_quarterly_mid
+    if is_quarterly_mid and macro_select_quarterly
         quarterlym_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         quarterlym_time = quarterlyh_time
         quarterlym_open = (quarterlyl_open + quarterlyh_open) / 2
@@ -1085,7 +1112,7 @@ if barstate.islast
 ////////////////////////////////////////////////////////////////////////////////// Monthly LOW LOW LOW
 
 
-    if is_monthlyrange_enabled
+    if is_monthlyrange_enabled and macro_select_monthly
         monthlyl_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             monthlyl_time := get_limit_right(radistance)
@@ -1113,7 +1140,7 @@ if barstate.islast
 
 
 
-    if is_monthlyrange_enabled
+    if is_monthlyrange_enabled and macro_select_monthly
         monthlyh_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             monthlyh_time := get_limit_right(radistance)
@@ -1137,7 +1164,7 @@ if barstate.islast
 
 //////////////////////////////////////////////////////////////////////////////// MONTHLY MID
 
-    if is_monthly_mid
+    if is_monthly_mid and macro_select_monthly
         monthlym_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         monthlym_time = monthlyh_time
         monthlym_open = (monthlyl_open + monthlyh_open) / 2
@@ -1159,7 +1186,7 @@ if barstate.islast
 
 
 
-    if is_monthly_enabled
+    if is_monthly_enabled and macro_select_monthly
         monthly_limit_right = get_limit_right(DEFAULT_EXTEND_RIGHT)
         if displayStyle == 'Right Anchored'
             monthly_time := get_limit_right(radistance)
