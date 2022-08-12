@@ -1,0 +1,109 @@
+=== Many MAs on one indicator (just use Krill's script instead)
+INDICATOR: Name of the indicator: "Andre's 8EMA+8MA+BB+Ichimoku"
+INDICATOR: here's the Youtube video he made back then to set it up: https://www.youtube.com/watch?v=almTrFf3Q3c
+INDICATOR: I'll share this in the last piece of my educational content!  All showed here on this chart: https://www.tradingview.com/x/NiOAr20y/
+
+=== Stoch info and using Stoch to adjust full risk
+STOCH: My Stoch Notes from Web:
+STOCH: Stoch RSI moves faster than RSI (from overbought to oversold)
+STOCH: Stoch RSI is not good in choppy / range-bound market; too many false signals
+TREND: Stoch is for trending coins
+TREND: Pierre is trend trader only
+TREND: says he's not good at ranges (MAs flat and getting chopped through)
+CALC: Compare current RSI with LOWEST RSI in lookback
+CALC: Scale this comparison by RSI range size
+RISK-TRENDING: If price approach SR & trend from below and Stoch overbought - go full risk short
+RISK-TRENDING: If price approach SR & trend from above and Stoch oversold - go full risk long
+RISK-CHOP: If in stong downtrend and Stoch goes from oversold to overbought without claiming above SR / trend - full risk short
+RISK-CHOP: If in stong uptrend and Stoch goes from overbought to oversold without claiming below SR / trend - full risk long
+RISK: "pierre-stoch-usage-risk-adjust-aresgod1.JPG"
+
+=== Pierre's simple methodology (in order of priority)
+METHOD: Pierre's simple 3 point method:
+METHOD: (1) Horizontal S/R flips and/or pivot 
+METHOD: (2) Trend (13/25 EMA)
+METHOD: (3) Stoch RSI at cycle low
+METHOD: ---
+METHOD: Ideally:
+METHOD: Breaks above a horizontal SR
+METHOD: Breaking this SR causes StochRSI into overbought
+METHOD: Consolidate above SR (TraderSZ) allowing trend to catch up (Krill trend-consolidation-pattern / "flag")
+METHOD: "krill-trend-consolidation-pattern1.JPG"
+METHOD: Consolidate above SR allowing StochRSI to reset
+METHOD: Long to catch next leg up
+CANDLES: He uses candle closes, not wicks, to mark SR levels
+TREND-TRADER: Pierre is a trend trader, not good at ranges
+TIMEFRAMES: He mostly just trades H4 and D1 (occasionally H1)
+TIMEFRAMES: Krill: H4-ema200 and D1-ema13 are the GOATs
+
+=== Pierre's Simple Trend System for going with MS
+METHOD: Pierre's simple 3 point method is designed to long on HH, HL, HH, HL structure, buying on a HL
+METHOD: ---
+METHOD: (A) Entering long on HL using horizontal and trend
+METHOD: (i) Horizontal pulled from prev high ("must hold")
+METHOD: (ii) If horizontal held, long will be a from HL
+METHOD: (iii) Bullish trend (pointing up)
+METHOD: (iv) trend retest buy will be a from a HL
+METHOD: (v) Enter on the SECOND retest of horizontal & trend, NOT THE FIRST, let market structure establish itself
+METHOD: (B) Stoch used to help with timing (and risk adjustment)
+METHOD: ---
+METHOD: Horizontal and trend are designed so that the trade goes with the prevailing & established market structure & trend
+METHOD-SUMMARY: Stoch is used to help with timing
+METHOD: "pierre-trend-system-is-designed-to-long-on-bullish-MS-1.JPG"
+
+=== Pierre use of MAs
+MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs
+MA-USAGE: He uses MAs for bias (pointing up/down, steep/shallow, gaps between MAs, MA order)
+MA-USAGE: Macro MAs can be used for SLs and TPs
+MA-USAGE: Krill: Can judge relative performance between cons on their ability to hold MAs (eg: coin X held H4-ma100 on the dump but coin B didn't - look for shorts on coin B)
+MA-USAGE: "pierre-stoch-usage-risk-adjust-aresgod3-sf-original-answer.JPG"
+
+=== Pierre trend DEVIATIONS
+TREND-DEVIATIONS: "pierre-trend-DEVIATION-using-stoch-and-SR.JPG"
+--
+SYSTEM-BULLISH-REVERSAL: SR reclaimed above
+SYSTEM-BULLISH-REVERSAL: Trend EMAs need one previous successful retest (get in on second)
+SYSTEM-BULLISH-REVERSAL: Stoch floored
+--
+DEVIATION-DOWNTREND?: price peaks above the trend
+DEVIATION-DOWNTREND?: Stoch floored
+DEVIATION-DOWNTREND?: first trend retest from above
+DEVIATION-DOWNTREND?: cannot say SR fully reclaimed
+DEVIATION-DOWNTREND?: system requirements for longing (trend reversal) not met
+DEVIATION-DOWNTREND?: possibly just a trend deviation
+DEVIATION-DOWNTREND?: (Loma: if the case for longing isn't valid, look to short)
+--
+UPTREND-STRENGTH: Stoch resets to floored on retracement / "dump" without going below SR or below trend
+
+=== Bias
+D1-TREND-BIAS: Look at D1-trends (ema13, ema25 & ema32) to really help with bias
+D1-TREND-BIAS: "pierre-above-below-D1trend-for-bias-4-good.JPG"
+
+=== Compounding and trading philosophy 
+COMPOUND: Pierre compounds a lot (H4 / D1 trader, low RR trades)
+COMPOUND: Krill doesn't compound so much (scalper, high RR trades, tries to enter as close as possible to invalidation and TP on the way up)
+COMPOUND: "krill-doesnt-really-compound-MA-theory101-2.JPG"
+
+=== Folio increasing
+FOLIO: "pierre-folio-increasing-month-on-month-SINGLE-SYSTEM.JPG"
+FOLIO: He's using a single system. Trade management, goes heavy when systmem says to, sits on hands when no signal
+FOLIO: Clear invalidations using his TA system, trade on this, don't know what direction trade will take, assymetric betting based on TA invalidations?
+
+==== Begin GENERIC
+TRADES-TAKEN: "pierre-if-setup-shared-entry-retested-assume-he-is-in.JPG"
+TRADES-TAKEN: If he posts a setup and entry is tapped, assume he has taken it (220728)
+
+COMPOUNDING: Bullish compounding on retests of taken highs
+COMPOUNDING: "pierre-bullish-compound-plans-taken-highs-retested.JPG"
+==== End GENERIC
+
+===== Gap fills & "reversal reclaim"
+GAP-FILL: (1) flip the trend
+GAP-FILL: (2) aim for ma100
+GAP-FILL: (3) flip ma100
+GAP-FILL: (4) aim for ema200
+GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-1.JPG"
+GAP-FILL: "pierre-macro-MA-gap-fill-education1.JPG"
+GAP-FILL: Different from Krill!
+GAP-FILL: Krill needs ma100 to start to curl-up AND ema200 to be flat, Pierre does not
+

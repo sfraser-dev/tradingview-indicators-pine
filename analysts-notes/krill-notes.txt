@@ -1,0 +1,1102 @@
+=====+++++=====
+"Krillin live stream for the Haven - Scanning and observing MA patterns on 4h and daily chart" 210221
+https://www.youtube.com/watch?v=uDFVC0Mv89M
+
+STREAM: Use MA system to scan really quickly and flag interesting coin
+
+STREAM: ema13 (trend)
+STREAM: [[ema25 (trend) used by pierre, not krillin]]
+STREAM: H4-ema200 (macro "fastest")
+STREAM: ma100 (macro fast)
+STREAM: [[ema200 (macro slower) used by pierre, not krillin]]
+STREAM: ma300 (macro slowest)
+
+STREAM: Scan on daily chart, ready when
+STREAM 1: ema13 crosses above H4-200ema
+STREAM 2: ema13 & H4-200ema point up
+STREAM 3: COMPRESSION between H4-200ema & 100ma (100ma points up)
+
+STREAM: MAs should point up to act as support and down to act as resistance. Wait for them to point up
+
+--
+BANANA pattern for ** full reset & trend reversal from down (bear) to up (bull)** should be in ascending order (bottom=ma100, middle=ema200, top=ma300)
+BANANA pattern order will be opposite if strongly trending up (bullish) (bottom=ma300, middle=ema200, top=ma100) 
+BANANA: fast MAs cross from below to above slow MAs=bull-up
+BANANA: slow MAs cross from above to below slow MAs=bear-dwn
+BANANA: 
+BANANA: Target will be the next ma, should be obvious, FILL THE GAP
+
+EXEC: manual SL on daily-timeframes for spot (avoid wicks)
+EXEC: Can layer bids to average down price
+EXEC: MAs should provide enough support for this
+EXEC: COMPRESSION between 100ma & 200ema usually leads to big candles; switch to D3 to check
+EXEC: Spot trade on daily chart; don't use binance futures
+EXEC: He uses H4 & D1 charts, but can use on any time-frame
+
+SR-LINES: Add in Fib levels for confluence too (on VERY HTF) - don't need other horizontal lines
+
+MA-USAGE: 1. Tell the trend (up / down)
+MA-USAGE: 2. S/R levels
+MA-USAGE: 3. Compression and expansion
+MA-USAGE: "Compression is all the MAs moving together into a tight beam"
+MA-USAGE: Compression can occur below PA if PA is also consolidating == hint that explosive move soon
+MA-USAGE: Hit rate very high if all the MAs go from descending to ascending
+
+MA-200: He uses ema200 rather than ma200 as it guarentees it's between ma100 and ma300; Krill only uses ema200 (not ma200)
+
+
+=====+++++=====
+"Krillin live stream for The Haven - Binance scan"
+https://www.youtube.com/watch?v=dHx7JMcm03Y
+210508 2h20mins mins
+
+GAP: (34 mins) BAT/BTC perfect example of filling MA gaps with compression
+
+COMP: Compression is ranging / ping-ponging between correct order MAs
+COMP: banana compression in correct order for moon up:
+COMP: ma100 bottom
+COMP: ema200 middle
+COMP: ma300 top
+COMP: Compress / range in this correct order banana for pop up and then huge exansion above and beyond the ma300 (look for untapped highs far away)
+COMP: Pre-empting the close / completion of the banana
+COMP: fast ma100 crosses the slower ema300; trend reversal
+
+COMP: Beautiful compression within banana (with clean PA) then strong breakout (these are the best)
+COMP: Clean PA means reacting well with MAs
+
+COMP: Bullish compression (point up, ma100 cross up)
+COMP: Bearish compression (point down, ma100 cross down)
+
+COMP: All MAs super tight = big move soon
+
+BLUECHIP: link & bnb are two of the blue chips that you should be hodling
+
+GENERAL:' MA gets "reset" when it goes from falling to flat
+GENERAL: He uses log scale quite a lot
+GENERAL: If no (ma300 or ema200), switch on H4-ema200
+
+GENERAL: Every coin is different. Sometimes a particular MA is just not relevant for a particular coin (eg: ma100 not relevant on PPT)
+
+GENERAL: $5k "small bag" for fun scam pump coins (spot with no SL)
+
+
+
+=====+++++===== My own MA notes
+EXCHANGE: The way we trade on Huobi is similar to Binance but there are a few differences:
+EXCHANGE: - MA structure is the same:
+EXCHANGE: H4-ema200-> D1-ma100 -> D1-ma200 -> D1-ema200 -> D1-ma300
+EXCHANGE: ma200 and ma300 might be at a different location, but the order that never changes is: H4-ema200-> D1-ma100-> D1-ema200
+
+--
+SLOWBLEED-DOWNTREND: MA gaps = FVG that will get pumped to and then retrace (against the trend trades)
+
+TREND-REVERSAL: compression of macro MAs and short MAs break above compression, get in on short MA retest (ema13/25)
+
+MA-SWEEP: Pierre pointed out that MAs are like Price Action: Compression of macro MAs, fast MAs dump below these (sweep / SFP) then near vertical after this
+
+TERMINOLOGY: Ping pong chop chop 
+
+The angle of the ma100 at least needs to be flat / pointing up for bullishness
+
+HISTORY: Look back and see how the MAs are being respected (check different time-frames too)
+
+HISTORY: If MA (ma100, ema200 or ma300) is acting as support in uptrend, keep buying support If it is lost, don't "revenge trade", WAIT for COMPRESSION to re-enter
+
+TREND: ema13/ema25 acts as S/R on higher time-frames (D1+)
+
+EARLY-BANANA-BO: If price breaks out early from a forming banana compression, high chance it'll get retested from above
+"krill-early-breakout-of-banana-compression-means-likely-retested1.JPG"
+
+
+=====+++++=====
+-- Krillin live stream for The Haven - Risk Management
+https://www.youtube.com/watch?v=7ugEotEkNcM
+210314
+
+SCALPING-FEES: Fees take a huge toll on scalping with leverage
+SCALPING-FEES: TheHaven RR excel cheatsheet include FEEs - important
+
+RR: Krillian hits plenty of SLs but uses high RR
+RR: Others like to aim for ~1.5R trades but with high bit rate
+RR: His friend RektProof has a hitrate of more than 60%
+RR: 1h10m into video: Setup: 1.8R, HR: 60%, EV: 0.68
+RR: ie: expect 0.68R per trade
+RR: trading success is not non-linear and people don't think non-linear
+
+LAYER-ENTRIES: Layer 4 entries 10% 20% 30% 40%
+
+PSYCH: It's a survival game
+PSYCH: Not about get rich quick scheme
+PSYCH: IT'S ALL ABOUT COMPOUNDING
+PSYCH: Loma's challenge 10k to 1 million in 6 weeks
+PSYCH: Loma was compounding all the way with good EV
+
+
+=====+++++=====
+-- Krillin MA Theory Part 1
+https://www.youtube.com/watch?v=U08mJ_oGyPY
+210403
+
+MA-PART1: ema13, H4-ema200, ma100, ema200, ma300
+MA-PART1: Bots use MA/EMAs as they are easy to calculate
+MA-PART1: MA/EMAs not used much in crypto TA
+MA-PART1: MAs define the trend:
+MA-PART1: - eg: price is above the MA
+MA-PART1: - eg: the MA is pointing up
+
+MA-PART1: An ascending MA will be strong support & weak resistance
+MA-PART1: A descending MA will be weak support and strong resistance
+
+MA-PART1: A "dip" is a retracement in an uptrend.
+
+MA-PART1: *** H4-ema200 is the absolute best one (GOAT)***
+MA-PART1: *** D1-ma100 is second most important one ***
+MA-PART1: D1-ema13 starts pointing up AND being used for support
+MA-PART1: But H4-200ema is still sloping down and above therefore will be resistance so price still uncertain
+MA-PART1: Want to enter when price above D1-ema13 & H4-ema200 (and both pointing up) 
+
+MA-PART1: When all macro D1 MAs are pointing down means bear market
+
+MA-PART1: HTF MA gaps equals trending market
+
+MA-PART1: Reversal on D1: LTF (ema13 & H4-ema200) pointing up, ma300 starts to flatten, ema200 & ma100 start to rise giving a HTF MA banana compression.
+
+MA-PART1: 1) Angle of MA (steep equals trend strength)
+MA-PART1: 2) MA Pointing up or down
+MA-PART1: 3) Compression of MAs
+MA-PART1: 4) MAs (or compression) above or below price
+
+MA-PART1: Safer trade is to wait for the compression
+
+MA-PART1: Bollinger Bands derived from MAs, centre line is ma20.
+MA-PART1: MA/EMA compression is very like what BB does (but much better)
+
+MA-PART1: Compression is a sign of volatility
+
+MA-PART1: Highest hitrate (long):
+MA-PART1: Key MAs claimed as support
+MA-PART1: All MAs ascending
+MA-PART1: Compression is reaching its apex
+
+MA-PART1: V reversals are unlikely (even at a critical Fib)
+MA-PART1: Don't knife catch a dump to an MA, Fib (harmonics!)
+MA-PART1: Large moves occur after balance between supply and demand found and this occurs after a bit of time (wait for MA compression, don't expect instant V reversal)
+MA-PART1: The main purpose of compression is to avoid opportunity cost (don't wait too long for breakout / impulse)
+
+MA-PART1: Opportunity cost. Wait for compression of all MAs.
+MA-PART1: If most MAs are compressing but one isn't (eg: ma100 above and pointing down) then don't buy yet
+
+MA-PART1: PA & moving averages
+MA-PART1: Coin might be at support / demand
+MA-PART1: But there may be resistive MA nearby (above & pointing down) so perhaps just a little bounce from demand
+
+MA-PART1: Keep higher time-frame confluence in mind to maximise win rate
+MA-PART1: If using compression on H1 chart, check H4 chart
+MA-PART1: If using compression on H4 chart, check H12/D1 chart
+
+MA-PART1: Day-trading: H1-ma100 & H1-ema200 bullish retest
+
+MA-PART1: Scalping
+MA-PART1: After compression, we look for expansion of MAs (we know we're in an uptrend now)
+MA-PART1: Can scalp on 15m or H1 using ema21, ema34, ema55 catch wicks / retests on these emas (the one which is giving support)
+MA-PART1: ema55 is very strong for scalps
+MA-PART1: ema34 is very strong for scalps
+
+MA-PART1: What's his ema squeeze pattern? He says he will cover it later.
+
+MA-PART1: H4-ema200 used a lot by krill as support to protect his SL
+
+
+
+=====+++++=====
+-- Krillin MA Theory Part 2
+https://www.youtube.com/watch?v=sCmxDomfzKE
+210614
+
+MA-PART2: Fractal nature of MAs (ie: same at different timeframes)
+
+MA-PART2: Continuation compression macro MAs (bullish continuation): top: ma100, centre: ema200, bottom: ma300
+MA-PART2: Reversal compression macro MAs (reversal of bearish trend) top: ma300, centre: ema200, bottom: ma100
+
+MA-PART2: ema200 should nearly always be in the middle of macro MAs because of how it's calculated
+
+MA-PART2: MA theory is very like Ichimoku (only much better!)
+MA-PART2: krill banana = MA cloud!
+MA-PART2: Macro MA compression is a kumo twist!
+
+MA-PART2: Price bottoming & no longer making LLs
+MA-PART2: Classic PA (horizontal demand), but opportunity cost. Demand may hold but choppy for a while as macro MAs are decending and gapped.
+MA-PART2: May end up buying a bit higher but won't wait so long for break-out
+
+- 200ma 200 moving average
+MA-200: If using ma200 as well as ema200 (correct macro order for strong bull trend): top:ma100, ema200, ma200, bottom:ma300
+MA-200: (trend very bullish pulls ema200 up more than ma200)
+-
+MA-200: correct macro order for strong bear trend: top:ma300, ma200, ema200, bottom:ma100
+MA-200: (trend very bearish pulls ema200 down more than ma200)
+-
+
+MA-200: **TREND REVERSAL** 
+MA-200: if bear trend going to banana reverse, ema200 should cross above ma200 as price rises/stalls to CREATE the compression
+-
+MA-200: if bull trend going to banana reverse, ema200 should cross below ma200 as price dips/stalls to CREATE the compression
+--
+MA-200: The trend is not fully reset / reversed until the MAs are in back in their correct order
+
+MA-200: See "krill-bullish-bearish-reversal-continuation-matrix1.JPG"
+
+MA-200: ma200 can be a little funky
+MA-200: MAs are not lagging as they can be used to make accurate predictions
+MA-200: ma200 looks erratic compared to the other 3 macro MAs
+
+MA-PART2: Trend reversal or continuation compression (H4 to D3)?
+MA-PART2: Bullish reversals will be bottoming patterns at the end of a long downtrend (flattened MAs)
+MA-PART2: Bearish continuation will be at the beginning of a downtrend (steep MAs)
+MA-PART2: Clue ema13: acting as resistance (bear) or support (bull)
+MA-PART2: Clue H1 zoom: need to reclaim ma100 to perhaps be bullish
+MA-PART2: Won't really know if continuation or reversal until MAs uncompress
+
+-
+MA-PART2: Compression we want flat and tight macro (cloud) MAs
+
+-
+MA-PART2: Pump. Consolidate. Macro MAs gapped. ema200 to be support, if not, to ma300 and ping-pong between ma300 & ma100. Either:
+MA-PART2: (1) wait for compression
+MA-PART2: (2) ma100 broken, get in on retest
+
+MA-PART2: If buying from H1 chart, always check H4 chart for resistance
+MA-PART2: If buying from H4 chart, always check D1 chart for resistance
+
+--
+TREND: SHORT MAs (my rainbow 6 emas, "ROYGBIV")
+TREND: He doesn't use them on HTF, only on <=H4
+TREND: Good for retests in trending market
+TREND: Above or below price?
+TREND: Pointing up or down?
+TREND: In correct order? (if not, more chop)
+TREND: Much more bullish if all emas in correct order, ascending and acting as support (break out impulse rather than small range pump)
+TREND: Thinking of longing ma100 retest on <=H4?
+Look at rainbow emas to see if below price, pointing up, correct order?
+
+SQUEEZE-PATTERN: *** EMA squeeze pattern (42mins into video, see krill-ema-squeeze-pattern1.jpg)
+SQUEEZE-PATTERN: Very flat macro MA/EMAs
+SQUEEZE-PATTERN: All the short EMAs in correct order curling up
+SQUEEZE-PATTERN: Increasing volume
+
+LAZY: *** Lazy mode 
+LAZY: MA cheat code (54mins, see krill-lazy-mode-cheat-code.jpg)
+LAZY: The lazy mode puts H4 & H1 MA/EMAs onto 1 chart for quick scan
+LAZY: Turn off all the candles! (remove price info!)
+LAZY: Long the supercross (all crossing flat H4ema200)
+LAZY: MA compression is best indicator of volatility
+LAZY: USE H4 CHART (My multi-indicator): ema13, ema25, ema34, ema55, ema100, (& H4-ma25==H1-ma100) & H4-ema200
+LAZY: Tight cluster of bullish crosses indicates volatility
+
+
+
+=====+++++=====
+-- Krillin Fibonacci Video
+https://www.youtube.com/watch?v=HoilmP5QgEU
+210217
+FIB-RANGE: Fibs, no rule for using wick or bodies
+FIB-RANGE: Mostly saying use Fib levels as range
+FIB-RANGE: Match the Fib levels to PA S/R
+FIB-RANGE: Just like drawing range so great reaction from EQ
+On savage dumps want to see bounce at 786
+
+COMPRESSION: MA/EMA compression just needs to be a comparative narrowing of the MAs, not a full-on melding of them.
+
+TARGETS: Can also use Fibs for TP targets
+
+
+
+=====+++++=====
+-- Krill DZ Journal Trade Analysis
+https://youtu.be/qLHCcIO9bLY
+211102
+INFO: Account staying the same is not bad (as you're paying fees so actually a slightly winning trader)
+GREEN: DZ having a green trade is special, he gets attached to it
+RISK-FREE: Moving SL to BE means selling the dip
+RISK-FREE: Put a post-it, "don't change SL without TPing"
+RISK-FREE: TP1 at RR1 sell 50% trade
+INFO: Capital is source of income, always preserve capital
+ASSYMETRIC-BETTING: TA gives an asymmetric RR in our favour (lose 1R, win 3R)
+ASSYMETRIC-BETTING: We're gamblers playing with probabilities
+EXEC: Krill is a day-trader (scalper)
+EXEC: Krill will TP before bed (approx 30% to 50%)
+EXEC: You should always assume there will be a retest (diagonal, MAs, FVG)
+EXEC: I want to buy as close as possible to not being bullish anymore
+EXEC: Only look at 15m if you're a scalper
+EXEC: If you're careful and lock profit frequently you can get 1% per day; 1.01^365=37.8 (x38 your account in a year)
+Always use "reduce only" TPs to prevent shorting after a SL
+TP1: About 50% of trades will come back to entry after TP1
+TP1: So can treat entry after TP1 as a compunding level
+TP1: (if MAs still agree)
+TP1: This will get you an additional 0.3R per trade
+TP1: Brain thinks in linear way, but successful trader needs to think non-linearly for assymetric gambling
+TP1: This could happen often, most don't V-reverse quick, you could be making multiple 1R trades before a V-reverse
+ANALYSTS: Fine to copy analysts trades (entries good) ...
+ANALYSTS: ... entry & invalidation/SL 2 most important things
+ANALYSTS: ... think why their TPs are where they are ...
+ANALYSTS: ... SR, MA gap, FVG, FTA/supply, Fib
+ANALYSTS: but MAKE YOUR OWN PLAN, don't base on emotions
+WEEKEND: Avoid weekend PA, often of reversed on Monday
+DAILYPLAN-BTC: Krills daily plan is to give a bias for BTC, not to follow his squiggles exactly - BTC more chance of BULL than BULL, then look for good alt entries. If more bearish, then look to TP a bit more profits on alt trades
+DAILYPLAN-BTC: It's Krill's BTC bias for that day and the next few days
+LAYERING-BIDS: 1h36m: It's all about probabilities and math
+LAYERING-BIDS: **It's the same R if only 1/3 entries hit**
+LAYERING-BIDS: 1st bid should be for NO wick, other bids should be for a stinky wick down
+LAYERING-BIDS: keep a note of how much lower than intial entry the trade went (0.2R, 0.6R, 0.99R)
+LIMITS: Most of your trades should be waiting for limit bids to fill, don't be market buying unless swing/hodl
+LIMITS: FTX no fee, BYBIT you get a little money for limits
+TRADING 1. look at charts find good RR trades
+TRADING 2. game theory: is this where people would buy or take profits?
+TRADING 3: Execution plan for TPs (retest level then good for next level, what BTC doing?, don't babysit all the time, no stress.) Greater CONFIDENCE means greater CONVICTION means greater PATIENCE
+DAY-TRADE-KRILL: Mostly H1 chart
+DAY-TRADE-KRILL: He'll be doing TP1 full then reload at entry again a few times
+DAY-TRADE-KRILL: He'll set important SR levels using D1 chart
+DAY-TRADE-KRILL: Loma will do the same, use D1 for SR level, mix of D1 & H1, nails his entries, and it looks like magic
+DAY-TRADE-KRILL: You cannot use 15m to find setups, use D1 mostly
+-1h55mins AXS discuss
+
+-- Compression REVERSAL STRUCTURE (reclaiming bearish MAs in order, SQUEEZING and trend acting as support)
+https://www.youtube.com/watch?v=W3thQ5YZ_Ps&t=4215s
+REVERSAL-RECLAIM: Initially bearish
+(top=ma300, mid=ema200, bot=ma100)
+REVERSAL-RECLAIM: Starts reclaiming each of these macro/cloud MAs (1st ma100, then ema200, then ma300)
+REVERSAL-RECLAIM: ALL THE WHILE having ema13 actings as support
+REVERSAL-RECLAIM: Compressing (ping-ponging) between ema200 and ma300.
+REVERSAL-RECLAIM: MA100 & EMA200 start going flat or pointing up
+
+
+=====+++++=====
+-- Krill general notes / generic notes
+EXEC: He is primarily a scalper.
+EXEC: Even when in a swing trade, he'll remove some and add it back in as it's ongoing (constant compunding)
+GAPS: He scalps mostly H1-compressions to H4-ema200
+GAPS: (Can also scalp 15m compressions to H1-ema200)
+GAPS: If gaps on H4 macros wide (strong downtrend), can scalp instead from H1-compression to H4-ma100 (nearest macro MA)
+SIZE: 7 figure account, usually risks 6k per trade
+"krill-7-figure-account-15R-per-month-6k-per-trade.JPG"
+
+-- Bridging (defi farming) nano caps for explosive growth
+BRIDGE: 10k to 1M (look for nano caps if you want ot 50x)
+BRIDGE: ICX bridging
+BRIDGE: NEAR bridging
+
+### Scalping Multi-timeframe (IGNORE)
+SCALP: Multi-timeframe scalping (overview, full video soon)
+SCALP: D1 chart for bias / volatility
+SCALP: H4 chart: compression = impulse
+SCALP: H4 chart: no compression = ranging
+SCALP: If H4 ranging, can scalp the 15m chart when there is a 15m compression
+SCALP: Ideal setup:
+SCALP: Long D1 ema13 support while price ranging between SCALP: H4ema100 & #H4ema300. Use H1-ma100 or H1-ema200 reclaim.
+SCALP: Check slope of MAs.
+SCALP: Can also check short rainbow 6 emas curling up for confluence.
+
+-- New MAs
+NEW: New MAs that appear are important.
+NEW: Bouncing on new MA is bullish (eg: smma100 (ema200) has just appeared and bounced off of it)
+
+-- MA order importance
+ORDER: Macro MAs not in correct order, then less strong signal (shitty compression)
+ORDER: In weak market wait for more confirmation on longs**, less confirmation needed for shorts
+ORDER: In strong market wait for more confirmation on shorts, less confirmation needed for longs
+ORDER: reclaim D1-ema13 (HH), then get in on HL (HL would be confirmation) Higher Low is confirmation of trend shift
+
+-- Levels
+RETEST-ENTRY: levels, including our entries, will get retested 20% of the time
+RETEST-ENTRY: a better hit rate than any indicator.
+RETEST-ENTRY: Should TP partially then reenter on level / entry retest
+RETEST-ENTRY: "krill-dont-SL-at-BE-worst-mistake-TP-then-reenter-2.JPG"
+
+-- What time of the day to trade
+TIME: If swing trading, use daily chart, 2 hours per day, any time of the day, mark levels and wait / set limits
+TIME: If day-trading/scalping, (1) scan at the beginning of your trading session, NYSE open and NYSE close
+TIME: NYSE open = 1430
+TIME: NYSE close = 2100
+TIME: NYSE futures open = 2300
+
+-- Compression above / below price
+COMP-ABV-BELOW: Price not in macro banana-compression
+COMP-ABV-BELOW: Price following downtrend and banana-compression is above the price (this compression is a volatility bonus)
+COMP-ABV-BELOW: "krill-bonus-shorting-trend-with-compression-above.JPG"
+COMP-ABV-BELOW: ... "I wanna scale into short for alts doing bearish retests of 4h ema200 or daily EMA13 depending on what trend it's following, bonus if 4h is doing a bearish compression above"
+-
+COMP-ABV-BELOW: Before he said these compressions above downtrend are liquidity void, try and enter at these compressions
+COMP-ABV-BELOW: But in my CRV question, he said the compression had already been bearishly retested (just not at apex) so use compression above as a bonus 
+COMP-ABV-BELOW: "krill-compression-above-price1.JPG"
+COMP-ABV-BELOW: "krill-compression-above-liquidity-void1.JPG"
+
+-- Casading MA supports (see my Everywhere MTF indicator)
+NOT-SUPPORT: "krill-sf-MAs-as-support-levels-5.JPG"
+NOT-SUPPORT: From chatting with Krillin:
+NOT-SUPPORT: MA100/300 are SRs for daily and 4h only
+NOT-SUPPORT: MA100/300 only use for compressions on other time frames
+NOT-SUPPORT: On m15 you really want to focus on m15-ema200 for S/R
+NOT-SUPPORT: m15-ma100 is more of a bias/probability indicator
+NOT-SUPPORT: m15-ma100 flat and curling up is good
+NOT-SUPPORT: m15-ma100 still descending is bad
+BEST: EMA13/200 are the best
+BEST: Also it's about what the coin has reacted the most to
+HISTORY: like some coins do react very very well to 1h MA100, some dont
+HISTORY: On BTC price doesn't react much to 1h MA100 but 1h MA100's slope is extremely strong (bullish if ascending, bearish if descending)
+
+-- MA system is a price action system (using Pierre as example)
+PA: "pierre-sf-MA-system-is-really-a-market-structure-system.JPG"
+PA: 1. Horizontal level (old high that becomes support = bullish MS, HH, HL, HH, HL)
+PA: 2. H4-trend curling up wait for *2nd tap* = guarentee bullish MS, HH, HL, HH, HL) - get in on a HL
+PA: 3. Stoch oversold (momentum on our side too, time to go!)
+Horizontal level (1st) and H4-trend (second) are helping to confirm bullish market structure. Stoch is used to help timing and momentum. 
+
+-- SMMA100
+NEW: Pay a lot of attention to SMMA100 (quick way to calc ema200) on new listings.
+NEW: Look for the highest timeframe it occurs; it'll give a strong reaction
+NEW: "krill-smma100-highest-timeframe-new-listings-1.JPG"
+
+-- Trend flip to reversal - Krill method different to Pierre
+"krill-when-is-trend-flipped1.JPG"
+FRACTAL: Krill method is fractal
+FRACTAL: When is H1-trend flipped support, if it has broken and closed above the trend, check the 15m chart (fractal)
+FRACTAL: If the 15m chart has flat 15m-ma100 and 15m-ema200 then it's in reversal mode
+FRACTAL: If 15m is in reversal mode, the H1 trend should now be flipped (no need for Pierre second retest)
+FRACTAL: H1 PA will be choppy until H1-ma100 and H1-ema200 are flat (ready for reversal)
+FRACTAL: MAs are fractal (trend flip, macro reversal reclaim, compression)
+FRACTAL: 5m is in compression
+FRACTAL: 15m is in macro reversal reclaim pattern
+FRACTAL: H1 trend flip
+
+-- Scalping tips
+SCALPING: For scalping, focus on 1) good entries 2) not taking losses
+SCALPING: This is more important that letting winners run. SCALPING: Letting winners run is for trending market
+SCALPING: "krill-scalping-methodology.JPG"
+
+-- Weekend scam
+SCAM: Shitcoins pumping on BTC weakness during the weekend is a scam
+SCAM: "krill-weekend-scam-shitcoins-pump-while-btc-weak.JPG"
+
+--Dino coin BTC pairs
+DINO: BTC pairs are worth looking at for dino coins (XMR, XRP)
+
+-- Trading based on NY open
+NYOPEN: Question:
+NYOPEN: Will you wait for open, watch orderflow and then if NY open pumps, you market buy the good looking coins?
+NYOPEN: Answer:
+NYOPEN: 1) strongly trending alts on 1h ema13 support are the best
+NYOPEN: 2) strongly trending alts on 4h ema13 support second best
+NYOPEN: 3) coins that are still giving the 1h compression on 1h ema200 third best
+
+-- Narratives
+NARRATIVE: ETH/BTC no longer the definitive pulse of alts
+NARRATIVE: Alts now have their own narratives and big liquidity
+
+-- MA/EMA equivaencies on different time-frames
+D1-trend: (96 15m-blocks, 24 H1-blocks, 6 H4-blocks)
+13ema*96 = 1248
+13ema*24 = 312 ... D1-trend13=H1-ma300? (wrong on chart)
+13ema*6 = 78
+21ema*96 = 2016
+21ema*24 = 504
+21ema*6 = 126 ... D1-trend21=H4-ma100? (wrong on chart)
+32ema*96 = 3072
+32ema*24 = 768
+32ema*6 = 192 ... D1-trend32=H4-ema200! (correct on chart)
+H4-trend: (16 15m-blocks, 4 H1-blocks)
+13ema*16 = 208 ... H4-trend13=15m-ema200! (correct on chart)
+13ema*4 = 52
+21ema*16 = 336 ... 
+21ema*4 = 84
+32ema*16 = 512
+32ema*4 = 128
+H1-trend: (4 15m-blocks)
+13ema*4 = 52
+21ema*4 = 84
+32ema*4 = 128
+EMAs will only match up with other timeframe EMAs, not MAs
+Only two that match on the chart are:
+**H4-ema13 = 15-ema200 (Krill and Pierre)
+**D1-ema32 = H4-ema200 (Pierre)
+##D1-ema8 = H1-ema200  (MQ TREND-DOMINOS-EDU)
+
+-- Lose of H4-ema13
+H4-TREND-LOSS: Important loss, don't auto bid H4-ema200, wait
+H4-TREND-LOSS: will need H1-ema200 to catch up to H4-ema200 first
+H4-TREND-LOSS: "krill-lose-H4ema13-then-wait-for-H1ema200-1.JPG"
+
+-- Mean revision on unchallenged trend, dynamic RR
+BAD-RR: Evolving R, dynamic R
+BAD-RR: Initial trade, short breakdown of support, 5.5R target
+BAD-RR: Unchallenged trend, many shorts in good profit (5R)
+BAD-RR: Mean revision is "far away" (2R)
+BAD-RR: Only 0.5R to close my trade
+BAD-RR: Risking 2R to win 0.5R
+BAD-RR: Dynamic R, limited downside
+BAD-RR: "krill-unchallenged-trend-lopsided-R-on-mean-revision-1.JPG"
+BAD-RR: If you feel euphoria on a big candle, take profits, Krill says this all the time (likely to mean revert)
+BAD-RR: CryptoCred video including dynamic R
+BAD-RR: https://www.youtube.com/watch?v=XeQV2ECtZVQ
+BAD-RR: "krill-cryptoCred-dynamicR-1.png"
+
+-- SL distance from entry, conviction and win-rate
+"krill-SL-distance-and-conviction1.JPG"
+SL-CONVICTION: The more conviction you have for a trade, the wider the stop should be (to prevent getting wicked out)
+SL-CONVICTION: The less conviction you have for a trade, the tighter the stop should be
+HIGH-CONVICTION: Wicks should be used to layer bids to get a better average entry
+HIGH-CONVICTION: High EV from high conviction plays comes from high win-rate
+LOW-CONVICTION: low conviction trade (low win-rate) but clean invalidation
+LOW-CONVICTION: High EV from low conviction trades comes from high RR
+
+-- Winrate, average R and EV (daily plan 220618)
+KRILLS-WINRATE: Consider my usual setup on long day-trades yielding an average 2.2R with a 45% hitrate on average I end up with an EV of 0.44 R per trade on average (=2.2*0.45-0.55*1). 
+KRILLS-WINRATE: "krill-winrate-averageR-and-EV.JPG"
+
+ALGO-FPS: Look at EMA13/21 on D1, it is great passive income,
+ALGO-FPS: This is virtually the same as FPS yellow/red ball
+ALGO-FPS: FPS HAMA is ema21 with Heiken Ashi candles
+ALGO-FPS: "krill-automate-hama-FPS-passive-income-easy.JPG" 
+
+TA-IMPORTANCE: TA is 25% of trading, the rest is execution and emotional control
+TA-IMPORTANCE: "krill-trading-is-25percent-TA-rest-is-execution-emotional-control.JPG"
+
+RISK-MANAGEMENT: Awesome post by Krill (don't move SL)
+RISK-MANAGEMENT: - your entry may be visited again without invalidating the thesis behind your trade, so why close the trade?
+RISK-MANAGEMENT: - people move SL at breakeven thinking they won't lose money and they're de-risking, but for the same EV/derisking, you can sell 1/3rd of the position at +2R or half the position at +1R and derisk the same. 
+RISK-MANAGEMENT: - selling partially even allows you to re-add on entry if hit again to compound
+RISK-MANAGEMENT: - in many instances, you see a consolidation on support, you buy the low of that mini consolidation range, but that consolidation range is like 3-5% chop, so you assuming you're online a lot you could even range trade that consolidation, and constantly sell-rebuy and by the time the real pump comes your position could be fully de-risked and yet still be using full-size.
+RISK-MANAGEMENT: -selling partially also helps preventing mindfucking yourself during trade execution, if you haven't taken partial profits, you are more likely to panic close on a retracement, hence selling the dip. If you have taken partial profits you are less likely to panic close on a retracement or you may even add if your system says so (like Pierre/my trend base system with EMA13/21 turning continuous support)
+RISK-MANAGEMENT: -overall selling partially is just a superior solution. You want to move your SL ONLY if the invalidation of your thesis has changed, in such a case move SL according to the new invalidation
+RISK-MANAGEMENT: "krill-dont-move-stop-partial-TPs-AWESOME-POST1.JPG"
+
+90%-OF-SETUPS: 90% of Krill's setups are one of the following 4 setups (deep-retrace, trend, compression or range)
+90%-OF-SETUPS: "DEEP-RETRACE": long H4-ema200 or D1-ema200 retests from above on big dumps for coins in uptrends
+90%-OF-SETUPS: "THE-TREND" (same as Pierre): ema13 or ema21 continuation on existing uptrend
+90%-OF-SETUPS: "COMPRESSION-BOs": H1 or H4 compression breakouts for continuation or reversal after accumulation
+90%-OF-SETUPS: "RANGE": sweeps above or below the range when range trading
+90%-OF-SETUPS: "krill-90-percent-of-setups-are-one-of-these-four.JPG"
+
+COMPRESSION-DIRECTION: Look to higher time-frame MAs (the macro MAs) to see likely compression volatility direction 
+COMPRESSION-DIRECTION: EG: Even price below H4-ma100
+COMPRESSION-DIRECTION: EG: but H4-ma100 curling up
+COMPRESSION-DIRECTION: EG: if H1-compression, then likely pump to an H4-reversal-reclaim pattern
+COMPRESSION-DIRECTION: MAs pointing up = weak resistance
+COMPRESSION-DIRECTION: MAs pointing up = strong support
+COMPRESSION-DIRECTION: MAs pointing down = strong resistance
+COMPRESSION-DIRECTION: MAs pointing down = weak support
+COMPRESSION-DIRECTION: "krill-compression-volatility-which-direction-to-play.JPG"
+
+BEGINNER: Only use ema200 and ema13 (the trend) if just starting TA with MAs
+
+CONSOLIDATION-TYPES: Good: consolidate under ema200 with trend support want to see strong break with follow-up (?SZ break and hold above plus extra MSB up?)
+CONSOLIDATION-TYPES: Bad: weak break with no follow-up
+CONSOLIDATION-TYPES: "krill-good-and-bad-consolidations1.JPG"
+
+MA-101: "Reversal reclaim"
+MA-101: MA theory 101 when price goes:
+MA-101: H4-ema200 -> D1-ma100 -> D1-ema200 -> D1-ma300
+MA-101: ...and typically retests the previous MA after hitting one as resistance
+
+KRILL-HIGH-RR-STRATEGY: My strategy is really about catching low entries near invalidation for high R:R and TP all the way up.
+
+MA-CONSOLIDATION-TRIANGLES: MAs are like consolidation triangles, can impulse before apex (compressions)
+MA-CONSOLIDATION-TRIANGLES: Also, MAs can be used for SRs and also for volatility (compressions)
+MA-CONSOLIDATION-TRIANGLES: "krill-MAs-like-consolidation-triangles-volatility-and-SR-levels-1.JPG"
+
+LADDERED-ENTRIES: "krill-laddering-entries-full-SL-but-partial-profits./JPG"
+LADDERED-ENTRIES: Full SL always gets hit but partial position sizes when TPs get hit.
+LADDERED-ENTRIES: Krill: But need to factor in the times that all entries filled and all TPs hit, these bangers make up for the partial position wins
+LADDERED-ENTRIES: Run 100 simulations to prove this to yourself
+LADDER: "krill-how-he-ladders-entries-4of25-or-5of20.JPG"
+LADDER: He generally ladders 4 of 25%: 25,25,25
+LADDER: or ladders 5 of 20%: 20,20,20,20,20
+LADDER: "sometimes" goes a little heavier below:
+LADDER: 20,20,30,30 or 15,15,20,25,25
+LADDER: when trend trading, he layers between ema13 and ema21
+
+MACRO-MA-PROBABILITIES: flat & tight (bear market rally / squeeze)
+MACRO-MA-PROBABILITIES: ma100 slope strongly down when at compression apex helps tell dump coming
+MACRO-MA-PROBABILITIES: MAs big gaps and all sloping down is strong down trend
+MACRO-MA-PROBABILITIES: MAs flat (ema200 flat) with ma100 curling up good probability of reversal, just need to break out of compression
+MACRO-MA-PROBABILITIES: "krill-cool-macro-MA-analysis-probabilities.JPG"
+
+GAME-THEORY: Trading mixes data analysis, game theory,
+strategy, and emotional control (& probabilities)
+GAME-THEORY: Incomplete information (in trading) forces you to use a probabilistic approach.
+GAME-THEORY: I like that since many important decisions in real life are also based on incomplete information.
+GAME-THEORY: "krill-Alpha-Illustrated-Interviews-LSDinmycoffee.pdf"
+GAME-THEORY: Loma is the GOAT, he often asks himself "what would Loma do?"
+
+TREND-DOMINOS-EDU: Educational Post for Riding the Trend
+TREND-DOMINOS-EDU: "krill-trend-domino-EDUCATION-1.JPG"
+TREND-DOMINOS-EDU: Fractal, eg: price will follow H1-trend between taps of H4-trend
+TREND-DOMINOS-EDU: Occurs when ESCAPING a range / chop, pumping but will mean-revert to trends fractally
+TREND-DOMINOS-EDU: Should start trending in domino / snowball / fractal fashion, from LTF to HTF, trend within trends
+TREND-DOMINOS-EDU: Impulse happens, look for H1-ema13 to hold for a few times (3 or 4)
+TREND-DOMINOS-EDU: ...then look for it to fail and for H4-ema13 to hold
+TREND-DOMINOS-EDU: ...bounce off H4-ema13 and then H1-ema13 to act as support again
+TREND-DOMINOS-EDU: ...after 3 or 4 taps, H4-ema13 will fail, look for bounce from D1-ema13 (if too far away, could bounce at H1-ema200 (approx D1-ema8, marginally before to D1-ema13))
+TREND-DOMINOS-EDU: GENERAL CASE: m15-ema13 to H1-ema13 to H4-ema13 (to H1-ema200 / D1-ema8) to D1-ema13
+TREND-DOMINOS-EDU: PARABOLIC CASE: Stong narrative or negative funding, high volume, m15-ema13 to H1-ema13, keep scalping m15-ema13
+TREND-DOMINOS-EDU: General case much more common than parabolic case
+TREND-DOMINOS-EDU: Execution: Entries spread between ema13 and ema21
+TREND-DOMINOS-EDU: Execution: SL below ema25 (pierre uses wider SL of 32ema)
+TREND-DOMINOS-EDU: Execution: Target between 2R-3R
+TREND-DOMINOS-EDU: Execution: 2R-3R target for trend riding are different from macro MA gap fills (eg: ma100 to ema200) where RR matters less and we just want the gap to fill 
+TREND-DOMINOS-EDU: can also be used in conjuction with other PA, like UBs range deviation: "krill-UB-range-play-with-EMA-trends1.JPG"
+
+SWING-TRADING: "krill-MAs-for-swing-setups.JPG"
+SWING-TRADING: Best MA setups for swing trading
+SWING: Flattening of D1-ma100 + D1-ema200, H4-ema200 reclaimed & D1-ema13 turning continuous support
+
+TREND-RIDING-EMA13: H4-ema13 is for trend-riding, NOT REVERSALS
+TREND-RIDING-EMA13: V-reversals are rare, and so are instant H4-ema13 long support to H4-ema13 short resistance, expect chop first
+TREND-RIDING-EMA13: wait for 2nd retest of H4-ema13, or m15 / m30 / H1 compression
+TREND-RIDING-EMA13: "krill-H4ema13-is-for-trend-riding-NOT-reversals1.JPG"
+
+TOTAL2: Krill uses TOTAL2 chart to gauge health of alts
+TOTAL2: Total2 is the market cap minus BTC
+
+SPOT-RISK: Wanted to risk 5% of account with QNT swing trade but only managed to fill for a 1.5% risk
+
+TRADER-TOM-POSITION-BUILD-WICKS: Krill was asked if layering entries was bad as "price is moving against you" as detailed in Loma's recommended book "Phantom of the Pits" by Trader Tom
+TRADER-TOM-POSITION-BUILD-WICKS: "krill-btc-scalp-H1trend-entry-PA-trader5-spread-bids-always-Trader-Tom.JPG"
+TRADER-TOM-POSITION-BUILD-WICKS: "Small wicks down are not price moving against you"
+TRADER-TOM-POSITION-BUILD-WICKS: Small wicks down are for buying, potentially really nailing entries, 
+TRADER-TOM-POSITION-BUILD-WICKS: Small wicks down give better RR
+TRADER-TOM-POSITION-BUILD-WICKS: See also "WICKS-ARE-FOR-BUYING:"
+TRADER-TOM-POSITION-BUILD-WICKS: "krill-tiny-difference-in-entry-big-diff-in-RR-real-alpha1.JPG"
+TRADER-TOM-POSITION-BUILD-WICKS: from "LAYERING-BIDS:" 1st bid should be for NO wick, other bids should be for a stinky wick down
+TRADER-TOM-POSITION-BUILD-WHY-LAYER?: The times you do fill all entries and it's a winner will eclipse the "missed gains" of partial entries...
+TRADER-TOM-POSITION-BUILD-WHY-LAYER?: ...see "krill-laddering-entries-full-SL-but-partial-profits2.JPG" - run the simulations!
+TRADER-TOM-POSITION-BUILD-ADDING?: MQ idea, can add on MA-trends (Krill style), RSI m15 resets (CBS style)
+
+## end general / generic end
+
+=====+++++=====
+Video: krill-scan-usdt-pairs-211209
+HTF always prevails in Krill's system
+The best lows are when the lows are swept
+MFI Money Flow Index
+MFI is RSI but weighted by volume
+MFI resets (oversold) are better than RSI for his system
+When ETH/BTC pumps but BTC weak usually ends up giving a market wide correction
+Mostly daytrades, he not great swing trader (hates drawdown)
+MICRO bias (btc) is D1-ma50 (ie: H12-ma100)
+MICRO bias (eth & alts) is D1-ma100
+DFK: Half in jewel farm (garden) and half in the bank 45mins
+DFK: Help guard against inpermanent loss
+GAP: MAs far apart = "messed up" = accumulation
+GAP: it'll remain accumulation until macro MA compression
+GAP: On D1 chart, add H4-ma200
+GAP: Very first sign of new trend is claim of H4-ma200
+GAP: then tightening and claiming of H4-ema200 & D1-ema13
+GAP: safest entry is OUT of compression area and get..
+GAP: ..in on retest of H4-ema200
+GAP: Don't get trapped in crab market
+FUTS: Keeps 40k in binance futures
+FUTS: ..was using 5x leverage on..
+FUTS: ..Matic example (total Matic position size 90k)
+FUTS: Risks 0.2% to 0.3% of account per DAYTRADE..
+FUTS: ..satisfied with the money he generates..
+FUTS: ..doesn't want to start trading with..
+FUTS: ..million dollar position size - too stressful
+FUTS: ..makes between 3k-20k per trade when going well
+FUTS: He keeps lots of stable coins on his ledger
+FUTS: He uses leverage to keep less money on exchange
+FUTS: So just 40k in binance futures is all he needs 
+MM: He only trades spot with exotic shitcoins in his metamask
+EXE: He used to be good at TA but bad at trade execution
+EXE: Now, will close 30%-50% before bed
+EXE: If over-sizing trades, tend to exit at BE too much...
+EXE: ..because PA is always choppy
+EXE: should TP when happy / well in the green..
+EXE: ..close 30%-50% of position..
+EXE: ..do this consistently and you'll do well
+EXE: proper (stress free) sizing will help with..
+EXE: trade execution
+EXE: He's jealous of Loma's huge position sizes..
+EXE: ..Krill just can't do it, too stressful
+SCAN: triple MAs at SR level on D1.. set stink bids there..
+SCAN: ..to catch nuke
+REV: Reversal structure, first, reclaim ma100, then ema200, then ma300 and have ema13 as support each time
+REV: Consolidate between MAs to allow ema13 to catch up
+REV: This is what MA Theory is all about
+DIAG: Parallel diagonals can give nice TP targets (ctrl-drag original support diagonal
+SL: Have to put the stop below ema13 and H4-ema200
+SL: Enter by estimating ema13 trajectory
+CLEAN: Use the "cleanest" MA (the one that seems to be respected most
+FIBS: pull Fib swing low to high (0, 236, 382, 500, 618, 786, 1) there should be a way of making the levels fit the PA very well (like Koz match range EQ)
+FIBS: just roughly fit the Fibs to the price levels
+SWINGS: Look to enter spot swings on ma300
+DAYTRADE: Look at HTFs first, then H1 for entries
+DAYTRADE: Krill is daytrader mostly on H1 chart
+STOCH: He added Stoch RSI after Pierre's success with it
+STOCH: Careful with Stoch without other confluence, it can remail oversold a very long time
+CLEANCHART: He keeps only ema200 when scanning (removes ma100, ma300 and ema13)
+H12: H12 timeframe is tricky, works on some coins but not on others (works on ETH)
+CHOPPY-PA: If have a strong compression but price is choppy around it, then ignore compression, it is gone (would like to see a quick reaction)
+CHOPPY-PA: If price is choppy, MAs can tell you if it's actually still trending up (correct order, point up)
+TIME-FRAMES: Higher time-frame always prevails (D1, very occasionally D3)
+TIME-FRAMES: Then look at H4 (and H1 when scalping)
+
+=====+++++=====
+BTC pair scanning dumb pumps
+https://www.youtube.com/watch?v=h9Tu8-4ceF8
+211125
+DUMB: All at key levels
+DUMB: Check H1 for increasing volume
+DUMB: D1 charts, enter on H4-200ema
+DUMB: Looking for coins that have pumped a little bit (vol increasing) then ape in for the bigger pump
+DUMB: Look for coins not on perps (can't be shorted), just spot
+DUMB: Thinks it's algos fomo'ing that cause these pumps
+DUMB: Scan D1 charts, retest of H4-200ema
+DUMB: But spot with no SL, set TPs between 40% and 200% up
+DUMB: No SL as can dump hard first, small bags, scam wicks up
+--** chartalerts.io **-- (shown 9mins into the video)
+--** scanning scan website (automatic scanner) **--
+CA.IO: chartalerts.io allows you to scan for coins on MA/EMAs
+CA.IO: Look for coins that are right above H4-ema200
+MA-THEORY: When ma100 & ma300 are far apart expect chop
+MA-THEORY: Chops until compression takes place
+MA-THEORY: Compression is tight and trend is support, this is where to enter swing longs
+NO-FUTS: Krill and Pierre
+NO-FUTS: Flipping shitcoins in 2019 for 10-20%, Pierre
+NO-FUTS: Buying H4-ema200.
+NO-FUTS: This is how they survived the bear market
+GAINZY-RSI: The vertical bars on this indicator represent divs (but not necessarily in extremes)
+BANANA: Reversal from downtrend, want to see ma100 starting to turn up with ema200 & ma300 tightening / flattening
+COMPRESSION: D1 macros together and flat is good 
+COMPRESSION: trend (& H4-200ema) support and curling up
+COMPRESSION: macros & trend gap getting smaller and smaller
+COMPRESSION: HH & HL too
+COMPRESSION: When everything is compressed, there will be no MA resistance above
+COMPRESSION: Compression above price is NOT good (compression below price is good)
+COMPRESSION: Usually H1 compression will pop when H4-100ma catches up
+
+=====+++++===== The Haven members using MA system - Ep. 1 with DD_PewPew
+https://www.youtube.com/watch?v=Oj2ep789gaw
+220325
+15m ema200 == H4 13ema (200/4/4 = 12.5)
+EXTEND: Extend MAs with brush to guesstimate SLs
+EXTEND: Especially MAs that have interacted well with price
+TREND: **ema13/21 must be clean continuous support before using it to buy daytrade ** especially with Stoch oversold
+TREND: Don't trust trends/MAs that are being chopped by price
+TREND: Want to use macro MAs for compression (excellent volatility indicators) and ema21 for entry / catch continuation
+TREND-PLAYS: Trend is being chopped by price (eg: H4), when trend then acts as support the macro MAs will start expanding only on lower time-frames (eg: H1), can now enter trend on H4-ema21 and ride the trend (remember 15m-ema200 = H4-ema13 trend)
+TREND-PLAYS: After this happens can enter on the next trend test
+TREND-PLAYS: When you see this, higher probability for trend to continue rather than reverse
+TREND-PLAY: Continue milking until higher time-frame resistance
+REENTER: D1 trend or H4-ema200
+GRADIENT: ma100 steep down = more chance resistance
+H4: H4 time-frame is "short term swinging"
+H4: 15m (scalp/daytrade), H12/D1 swinging. D3/W1 position
+H4: H4-ema200 is the golden entry
+SL: SL should be just below where you stop being bullish
+ALERTS: set alerts so not affected by red candles that brought price back down to your zone; stick to your plan
+ALERTS: !!Only take trades from alerts!!
+ALERTS: Don't take trades based on emotions
+TREND: If trend is accelerating, check lower time-frame to see if ema13 & ema21 are being very respected
+H1: krill normally trades H1 middle time-frame, not good for scalps, not good for swings, "bastard timeframe"
+H1: bastard time-frame, should only be used for fully compressed macro MAs
+H1: hard to trade with krill's MA system
+ma100 won't hold as support, to ema200, then ma100 acts as resistance.
+H1: must always check D1 for resistance and levels
+NOISE: when MAs on a time-frame are flat and getting chopped by price (never respected) ignore the MAs, they are just noise
+NOISE: some time-frames might be noise (eg: H4 chop) but H1 might be clean
+MA-users: MM, quants and bots are generally using MAs
+
+=====+++++===== The Haven members using MA system - Ep2 with Mannequin
+https://www.youtube.com/watch?v=htFGmf3Cu8s
+220328
+-
+ICT: ICT style is demand/supply/OB/breakers via MSBs
+ICT: ICT and MA theory go very well together
+ICT: Still using MSB, HH, HL
+ICT: Flat MAs mean undeterminded MS, choppy not good, don't trade with MAs, range trading environment
+ICT: So MAs and ICT go very, very well together, don't need to throw out ICT style levels if using MA theory
+ICT: If MAs flat / ranging, zoom out
+ICT: Goto HTF (D1, D3, etc) and mark SR levels as these ARE demand and supply level
+ICT: ICT style is the best for forex, but CBS-style SR levels / pivots better for crypto as much more wicks / volatility
+ICT: Don't just use MAs, must use MS / SRs too
+ICT: Krill "Market structure is always King"
+ICT: Going to have ridiculously good confluence between SRs and Krills MAs
+ICT: Krill is a PA / MS trader who uses MAs to give well timed entries (opportunity cost, choppy price for a week while holding via leverage, likely to sell a mini-dump as opposed to mini-pump in the chop)
+-
+TREND: 10 mins ADA, 52 mins LOOKS
+TREND: Trend, once claimed and successfully retested once, probabilty is that it'll hold on subsequent retests
+TREND: Trend and macro MAs are DIFFERENT
+TREND: Trend shows where we can compound / reenter positions withing a forming banana
+TREND: Krill typically spreads bids between ema13 and ema21 when riding the trend
+TREND: When riding the trend, make sure ema200 not too close as it might struggle to break it easily and chop for a while
+-
+PLAN: Need to plan and anticipate / assume, need to get in & anticipate / assume moves or we will miss them.
+PLAN: We will often see signs of banana compressions beginning to form on a higher timeframe
+-
+FRACTAL: MA theory is fractal in nature, H1-banana to a forming H4-banana (anticipate), this H4-banana will be in a forming D1-banana
+FRACTAL: LTF Compressions are nested within HTF timeframe compressions
+-
+PLAYOUT: H1-banana (enter) to H4-ema200 resistance (sell); Krills normal scalping method
+PLAYOUT: Now in forming H4-banana (we're anticipating this)
+PLAYOUT: If H4-100ma is far away and trend is close, reenter on H4-trend, SR & HL after H4-200ema rejection (aim for H4-300ma)**
+PLAYOUT: If H4-100ma is close and trend is close, look to enter more safely here (H4-100ma, H4-trend, SR & HL)
+PLAYOUT: Break out of H4-banana aim for forming D1-banana (likely aiming to sell on steep D1-100ma resistance)
+** HH, HL, HH, HL bullish market structure, look for HL entries with SR & MA confluence (we're PA traders)
+-
+COMPRESSIONS: Macro compression suggests both bias and timing
+COMPRESSIONS: timing helps with oppertunity cost, paper-handing position and avoiding chop
+COMPRESSIONS: Compressions are not just when macros are "tight", it must be a banana shape
+COMPRESSIONS: Ideally want to enter the banana compression at its apex
+COMPRESSIONS: Compressions at apex at superior to diagonals
+COMPRESSIONS: Krill mostly daytrades H1 charts on leverage so does not want to see chop
+COMPRESSIONS: H1-banana near apex should give pump soon (opportunity cost)
+-
+ANGLES: Very descending MA means high chance at being resistance
+ANGLES: Flat MA means high chance at being broken and turned to support (flipped)
+ANGLES: Ascending macro MA beneath (eg: H4-100ma) means bullishness confluence
+-
+SL: Krill sets tight SLs not using ATR, but looking at recent bigger wicks down. Recent bigger downwicks will give an indication of book thickness so use these to judge where to set tight SL.
+SL: Will definitely expect banana compression to hold, so very tight SL using recent downwicks as tolerance
+SL: Trend, should hold on 2nd and subsequent taps, use recent downwicks for SL tolerance setting
+SL: The stronger the trend (later tests), the tighter the SL
+SL: At trend start (less tested) use wider SL
+-
+RR: Krill has tight stops, high RR, will get stopped out quite a bot. But when everything starts very trending, he'll have high winrate and ridiculous RR ratios
+-
+BO: Krill doesn't usually play breakouts (perhaps if **volume high**)
+-
+PUMP-HL: Saw huge pump on ICX (biggest gainer of the day) so asks where is the next likely HL (D1/H4 for SR, look at H1 chart with compresssion at the SR for his entry / trigger)
+-
+INFO: Krill started using MAs early 2019, 3 years now.
+INFO: Started using compression 6 months before The Haven created
+
+==== The Haven members using MA system - Ep2 with Bansky
+https://www.youtube.com/watch?v=A9WbyaaNesI
+220422
+STANDARD: Have standard setups to use again and again
+STANDARD: H4-200ema retest
+STANDARD: H1-13ema retest on parabolic moves
+STANDARD: H1-13ema acts as mean reversion line on pumping coin making HH HL HH HL (sell when too far from ema13/21)
+STANDARD: Just playing probabilities, risk management & math
+BBALL: Base hits rather than home runs
+BBALL: Big moves up will have volatile moves down
+JOURNAL: Slows down trading process
+TRADING: TA 20%, RiskManagement 40%, mindsetAndLuck 40%
+TRADING: Variance caused by luck tempered via risk management
+CBS: Issue with CBS (BO) is he buys at resistance
+HTF-TREND: Daily MA reversal pattern happens once or twice a year
+HTF-TREND: MAs in correct order and riding the trend (Dec 2020)
+HTF-TREND: Fully reset and perfect configuration
+SL: Big wick down and reversal don't want to revisit
+SL: buy H1-ema13 on parabolic move, SL below ema25, buying open space (check volume on parabolic move)
+SL-TRICK: Don't move SL to BE, often hit entry again
+SL-TRICK: 0.25R, sell 80%, trade at BE SL not moved
+SL-TRICK: 0.50R, sell 66%, trade at BE SL not moved
+SL-TRICK: 0.75R, sell 57%, trade at BE SL not moved
+SL-TRICK: 1.00R, sell 50%, trade at BE SL not moved
+SL-TRICK: 1.25R, sell 44%, trade at BE SL not moved
+SL-TRICK: 1.50R, sell 40%, trade at BE SL not moved
+SL-TRICK: 1.75R, sell 36%, trade at BE SL not moved
+SL-TRICK: 1R, sell 1/2, trade at BE SL not moved
+SL-TRICK: 2R, sell 1/3, trade at BE SL not moved
+SL-TRICK: 3R, sell 1/4, trade at BE SL not moved
+SL-TRICK: 4R, sell 1/5, trade at BE SL not moved
+SL-TRICK: xR, sell 1/(1+x), trade at BE SL not moved
+SL-TRICK: ** Always derisk by TPing / not moving SL **
+SL-TRICK: ** Krill really advocates derisking like this **
+SL-TRICK: ** Makes it easy to hold position **
+SL-TRICK: ** Comfortable, improves trade execution**
+SL-TRICK: TP1 FRONT RUN obvious areas
+SL-TRICK: Can re-add to position only AFTER TP'ing ...
+SL-TRICK: ... never increase risk above initial amount ...
+SL-TRICK: ... don't put profits back in when compounding ...
+SL-TRICK: ... allows account to grow ... pocket profits
+D1-100EMA: BTC sees almost exclusively to look at H12-200ema as this is D1-100ema (which is quite strong on BTC D1)
+D1-100EMA: Doesn't want to add D1-100ema all the time
+BANANA: Compression doesn't need perfect apex
+BANANA: Just beginning to form can be enough
+BANANA: "krill-compression-doesnt-need-perfect-apex.png"
+BANANA: Krill's volatility indicator
+EV: RR x Probability
+EV: Low RR good in ranges / forex
+TP: Always front run your zones a bit
+TP: TP1 high probabilty of getting trade risk free
+TP: TP2 First trouble area / friction
+LOMA: Execution expert
+LOMA: Wide entries to scale in
+LOMA: Wide exits to scale out
+LOMA: De-risks on pump
+LOMA: Re-adds on dump
+LOMA: Trades big size so has to slowly scale like this
+LOMA: strength based on daily charts
+LOMA: but more trades on lower timeframes for pumps / dumps
+LOMA: range trading to build big position for nuke
+LOMA: if nuke doesn't come he'll be OK since scaling in and out a lot
+LOMA: If he posts daily chart basically need to scale in all the way between his entry and his stop
+LOMA: This is how he can counter-trend trade successfully, large scaling in and derisking quickly, adding again to compound
+LOMA: Great for learning to improve execution
+KRILL-SYSTEM-1: H1 compressions for day trading
+KRILL-SYSTEM-1: Two things that work together ma100/ma300 (Krill's ichi cloud) and ema200
+KRILL-SYSTEM-1: ema200 nearly always in the middle of ma100/ma300 because of maths
+KRILL-SYSTEM-1: Algos quants use ema200, very reliable
+KRILL-SYSTEM-1: Can ANTICIPATE the H1 "ichi" compression coming based on ma slopes
+KRILL-SYSTEM-1: Look for compressions with diagonal BOs as many people will ape the diagonal BO (diagonals don't work by themselves)
+KRILL-SYSTEM-1: Banana compression; tell when volatility coming
+KRILL-SYSTEM-1: Banana compression: H1 compression breakout and then retest
+KRILL-SYSTEM-1: Uses H1 because bananas on 15m don't play out often and H1 resistance too close
+KRILL-SYSTEM-1: Ignore 15m compressions
+KRILL-SYSTEM-1: Order of MAs important
+KrillSystem1: ma300 support means continuation compression
+KrillSystem1: ma100 support means reversal compression
+KRILL-SYSTEM-2: H4-ema200 for short term swings (3-4 days)
+KRILL-SYSTEM-2: Simple, just wait for H4-200ema retest
+KRILL-SYSTEM-2: H4-200ema works so often
+KRILL-SYSTEM-2: If we were patient traders, all we would need to do
+EXPECTED-VOLATILITY: Some coins normal to drop 20% from swing high then up 40% from swing low
+EXPECTED-VOLATILITY: Use this to help determines MAs to enter on and TPs to aim for
+ALERTS: ChartAlerts.io
+ALERTS: Doesn't identify compressions
+ALERTS: BTC nuked, which coin at H4-200ema support or D1-200ema / D1-100ma (maybe D1-trend) ...
+ALERTS: ... especially alts that have been strongly trending
+KRILL-SYSTEM-3: Reversal pattern / bottoming (daily for swings)
+KRILL-SYSTEM-3: Reclaim macro MAs 1 at time with trend support
+KRILL-SYSTEM-3: ma100 needs to be curling upward & ...
+KRILL-SYSTEM-3: ... ema200 needs to be flat
+
+=====
+https://www.youtube.com/watch?v=otih70d9xLk
+CryptoUB - Weekly NYO Stream 02 with Krillin
+"krillin-with-ub-chatting-220613.m4a" (no charts, just chat)
+JOURNEY: Krill's journey
+JOURNEY: 2017 made lots of money 2017 top
+JOURNEY: Took money from friends/family and invested it for them
+JOURNEY: Then everything crashed
+JOURNEY: Krill devestated
+JOURNEY: Trading is great for getting to know yourself, what kind of person you really are
+JOURNEY: Humiliation / embarassing
+JOURNEY: Now strong (dead inside to humiliation)
+JOURNEY: Thinks in probabilities
+JOURNEY: Trading is a job like any other
+JOURNEY: Like any other job, it is not for everyone
+JOURNEY: 1. Risk management rules
+JOURNEY: 2. Study
+JOURNEY: 3. You can be profitable (not Loma style, but OK, he's been trying for 4 years to be as good as Loma but cannot)
+JOURNEY: 4. Need passion (find strategies you like, scalping, investers, MM strategies (always hedged))
+JOURNEY: He had full time job (45h/week) PLUS 40h crypto at night and weekend PLUS ebarrasing after losing friends/family money
+JOURNEY: find strategies you like, scalping, investers, MM strategies (always hedged), writing algos
+JOURNEY: very humbling experience, ego, need to learn to be a professional loser, character building
+JOURNEY: Poker, EV, probabilities
+JOURNEY: Trading teaches a lot about yourself (Krill found out he's very impatient so being a scalper suits him)
+PSYCH: You're against your own mind when trading
+PSYCH: He's very impatient, good at m15, H1, H4 (and D1), but not vHTF (swings) as his short term bias takes over
+PSYCH: A vHTF swing might be for 5R (weeks / months) but he can get a 5R trade using his scalping method, hence his impatience
+PSYCH: He thinks he might use options as this will help with his vHTF bias changing (set and forget)
+PSYCH: He is very patient with entries (as he's learned it costs a lot to not be patient with entries)
+PSYCH: Used to be impulsive before trading, but now "dead inside", you cannot trigger him or hurt him after his JOURNEY of embaressing himeself with family and friends 
+RISK: He'll risk about 0.3% for his day trades and about 3-4% for his swings
+CHARTING: Trading is not just about charting, can be great at TA but bad at execution (maybe coding algos removes you from the difficult trading psycops)
+SKILL: Trading is a skill you'll always have, and you can trade anything (crypto, commodities, stonks)
+TREND-SYSTEM: It's really just a moving mean reversion system
+TREND-SYSTEM: H4-ema200 and D1-ema13 are his two best MAs
+TREND-SYSTEM: Very safe system
+TREND-SYSTEM: Pointing down is bearish, pointing up is bullish
+TREND-SYSTEM: Need patience to only use H4-ema200 and D1-ema13
+UB: He posts all his trades, the only other trades he takes are those from other analysts
+SPECIALIST: Trend specialist
+SPECIALIST: Doesn't believe in V-reversals
+SPECIALIST: Doesn't really buy spot or DCA, really just a LTF trader (DCAing in downtrend is bad)
+PICO: Don't need to catch pico tops or bottoms
+PICO: Thinks of trades in terms of EV, risk reward AND probability of success...
+PICO: ... can buy higher with much more confidence with cleaner invalidation so setup has much bigger EV even though buying higher (CBS says this too, TraderSZ says this too, etc, RP breakers biggest winrate, confirmation higher)
+PICO: A 3R or 5R setup is the same RR no matter what price you're buying at
+PICO: Knows folk that scale down into divs then scaling out on bounces (needs disciple and much more advanced)
+FOMO: Buy gig green candle
+FOMO: Bag-holding and just refusing to sell at any loss (no plan)
+ACCOUNTS: Should benchmark your accounts in fiat, need fiat to pay bills
+ACCOUNTS: Your capital is the source of your income
+
+===== Pre-NY open scan
+https://www.youtube.com/watch?v=dfp6LaC8eWI
+220606
+CONTINUATION: After impulse, expect H1-trend continuation to H4-ema200
+CONTINUATION: "krill-after-impulse-expect-H1trend-contination.png"
+ISSUE: Drawback of EMA system is no real price level when trying to guesstimate where the fast moving ema13 will go
+BULLISH-STRUCTURE: Coins that have a bullish structure (trend reclaimed, curl up, HH, HL, HH) will pump the most if BTC pops
+DIVS: Using Gainzy RSI Diags to identify divs (red and green vertical bars)
+DIVS: Krill / Gainzy divs are much less stringent than CBS divs
+WICKS-ARE-FOR-BUYING: Don't be afraid of wicks, they are opportunities for great entries (don't fear getting wicked out)
+WICKS-ARE-FOR-BUYING: "krill-wicks-are-for-great-entries.png"
+WICKS-ARE-FOR-BUYING: See also "TRADER-TOM-POSITION-BUILD:"
+DINOS: Will look at xxx/BTC for dino coins only (eg: xmr/btc, trx/btc)
+CHARTALERTS: 51m38 logs into chartalerts.io
+TRADING: We don't control the market, we only control our risk and our entries
+TRADING: We're here to make money, and making money starts by not losing money
+TRADING: Krill is a "trend and momentum trader" (also a PA trader)
+STATS: Trading is all about probabilities
+STATS: Riding m15-ema13 well, but statistically, 70/80% of wicking into H1-ema13 (knows as been trading MA system for years)
+RANGE: In choppy PA, Krill switches to Fib-SRs
+RANGE: Fib targets: 1.618, 2.00, 2.414
+CASHOUT: He's cashed out of binance (his main trading platform) just got "small" 5 fig account that he'll leverage up to low 6 figs for scalping
+LAYERED-BIDS: If they fill, you can de-risk on a small bounce as the low buys should give good RR.
+SWING-TRADING: Why swing? Can get similar setup with same R day-trading.
+SWING-TRADING: If he has swing (mid-term) long position open, it affects him mentally taking scalp shorts
+SWING-TRADING: XMR and QNT would be his choices for swing trading.
+SWING-TRADING: XMR for privacy, QNT as working with the EU and swift (CBDC)
+SWING-TRADING: BITREX: QNTBTC*BTCUSDT to see full history of QNT
+FAN-TOKENS: CHZ (base soccer token), PSG, ATM
+1h43m
+
+
+
+=====************************************************=====
+------------------  Krill checklist  ---------------------
+CHECKLIST: ma-cloud order
+CHECKLIST: ma-cloud pointing up/down (angle = strength)
+CHECKLIST: ma-gaps indicate trend strength
+CHECKLIST: ma-trend catchup and act as support
+CHECKLIST: price above macro MAs bullish
+CHECKLIST: price below macro MAs bearish
+CHECKLIST: stoch RSI reset (oversold)
+CHECKLIST: MS HH HL HH HL
+CHECKLIST: a strong support MA will point up
+CHECKLIST: a strong resistance MA will point down
+
+-- Update: See "Casading MA supports"
+BEST: (1) H4-ema200 (best MA)
+BEST: (2) D1-ema13 (2nd best MA)
+SR: ema13/ema200 are the best MA SRs
+SR: ma100/ma300 can be SR ONLY SR on H4 and D1
+SR: ma100/ma300 only used for compressions on non H4/D1 timeframes
+--
+TREND-DOMINOS-EDU: Ride the Trend Fractally Across Timeframes
+TREND-DOMINOS-EDU: GENERAL CASE: m15-ema13 to H1-ema13 to H4-ema13 (to H1-ema200 / D1-ema8) to D1-ema13
+TREND-DOMINOS-EDU: Trending coins ride the trend fractally, riding LTF-trend successfully a few times, fail, bounce off HTF-trend below, then re-ride the LTF-trend
+TREND-DOMINOS-EDU: eg: bounce off H1-ema13 successfully a few times, then fail, bounce off H4-ema13 as support, then back to riding H1-ema13
+
+--- covers 90% of plays Krill uses
+90%-OF-SETUPS: "krill-90percent-of-trades.JPG"
+90%-OF-SETUPS: (1.0) Dump vix to H4 or D1 ema200
+90%-OF-SETUPS: (2.0) Trend riding (trend ridden fractally across time-frames (dominos) (general and parabolic)
+90%-OF-SETUPS: (3.0) Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness
+90%-OF-SETUPS: (3.5) reversal reclaim pattern with trend support for possible trend reversal (combination of 2 and 3)
+90%-OF-SETUPS: (4.0) Range plays when MAs chopped 
+
+-- Krill close on trend reclaim (also Pierre)
+RECLAIM: Krill will SL beyond 28ema (uses 13/21emas for trend)
+RECLAIM: Pierre is more conservative (13/25/32emas for trend)
+RECLAIM: Pierre will close position when "trend reclaimed", which is:
+RECLAIM 1: break of AND retest of trend
+RECLAIM 2: SR reclaim
+RECLAIM 3: Stoch in extreme
+See also: "krill-pierre-when-to-close-on-trend-reclaim-1.JPG"
+
+-- Krill Ranges (when MAs are being chopped up)
+RANGE: In choppy PA, Krill switches to Fib-SRs
+RANGE: Adjust Fib so that levels match PA horizontal levels
+RANGE: A bit like RP & Koz
+
+-- HISTORY: From "Casading MA supports"
+HISTORY: but must check what MA coin has reacted to before
+H1-100MA: H1-100ma acts as support on some coins
+H1-100MA: H1-100ma not respected by BTC as SR
+H1-100MA-slope: H1-100ma slope gradient very informative (esp BTC)
+

@@ -1,0 +1,157 @@
+Harmonic Trader Vol 3 Scott Carney
+
+HSI = propritory Harmonic Strength Indicator (like RSI)
+
+BAMM after B point passed, not on C point creation
+
+AB=CD
+C retrace of AB=0.382-0.886 range
+D projection of BC=1.13-2.618 range
+1/.382=2.618
+1/.885=1.13
+--
+0.382 > 2.24, 2.618, 3.14, 3.618
+0.50 > 2.0
+0.618 > 1.618 (perfect)
+0.707 > 1.414
+0.786 > 1.272
+0.886 > 1.13
+1.0 > 2.0
+
+BC layering:
+AB=CD is a MINIMUM
+
+Page 100-ish for harmonics and values (including SLs)
+Tolerances on page 91
+B-point tolerances
+Gartley +/-3% (58.8-64.8)
+Butterfly +/-3%
+Alt Bat +/-3%
+Bat +/-5%
+Butterfly +/-5%
+
+Tolerance example:
+Gartley B is 0.618 = 61.8%
+Tolerance 3% is 0.03
+Gartley down tolerance is 0.588 (0.618-0.03)
+Gartley up tolerance is 0.648 (0.618+0.03)
+
+*** B-point tolerances (3%)
+Gartley B: 0.588 to 0.648
+Alt bat B: 0.352 to 0.412
+Butterfly B: 0.756-0.816
+*** B-point tolerances (5%)
+Bat B: 0.332-0.55(-0.618)
+Crab B: 0.332-0.668
+Deep crab B: 0.836-0.932 (or anything below 1.00)
+***
+[[Shark: 0.352-0.648]]
+[[Cypher B: 0.352-0.648... Carney does NOT use Cypher, use shark instead]]
+
+
+Deep Gartley approx "batley bartley batley deep gartley"
+Bat: SL 1.13XA
+---
+B Point Ratio= 0.618 (+/-3% Tolerance: 0.588-0.648)
+AB=CD Type: AB=CD
+BC: 1.618-2.618
+XA: 0.786-0.886
+Stop Loss > 1.0-1.13X (Depends upon AB=CD)
+
+Crab/deep crab 1.902XA special case extreme price action
+
+Butterfly SL is at lease 1.414. No extension to 1.618!
+If B not 786, then it'll be a crab
+
+Shark should give sharp reversal, not linger
+TP at the morph into 5-0 (or 0.618 max)
+Shark B retracement should be 0.382-0.618 (new limit added)
+Shark is distinct, not a W or M pattern
+
+5-0 patterns
+0.5 shark retrace & AB=CD square
+SL 0.618
+
+Head and shoulders harmonic (p143)
+1.618/0.618
+1.414/0.707
+
+Terminal bar (Tbar)
+”An ideal reversal usually tests all of the numbers in a 
+Potential Reversal Zone (PRZ) on the initial test. 
+The predominant trend usually reverses from this initial test of the entire PRZ and continues in the reversal direction shortly thereafter. In an ideal reversal, the price bar that tests all of the numbers in the PRZ is called the Terminal Price Bar(T-Bar).”
+--
+"It is very common for harmonic patterns to experience a degree of consolidation as the pattern completes. In these cases, it is common for the price action not to 
+immediately test the entire Potential Reversal Zone (PRZ) and require some consolidation before reversing. In fact, the price action can linger for some time and then test the final 
+number that defines the zone at the pattern completion point."
+
+Harmonics Koz reclaim style: Tbar and PEZ
+p158: All parts of PRZ (XA, BC & AB=CD) tested. Tbar is the candle that tests the most extreme part of the PRZ (bullish case = lowest point). Price then close above PRZ to confirm bullish shift. Koz like entry on "reclaim"
+--
+"Broken" harmonic Permissable Execution Zone (PEZ)
+PEZ = PRZ+ TBar
+SL below PEZ, wait for PRZ reclaim
+If no PRZ reclaim (reversal), just continuation, invalid harmonic
+Indicator triggers at or after TBar+1 (RSI or HSI)
+May drop to lower timeframe to look for indicator triggers
+For example, harmonic on H1 chart, check 15m chart
+
+Reaction (Type 1)
+All PRZ tested
+IPA = Initial Profit Area (Carney)
+Type1 reaction should reach the IPA
+The IPA is the 0.382 to 0.618 Fib pull of AD)
+IPA = golden retrace zone of Ducc
+IPA = initial reation target (SF)
+IPA also called IPO (objective, p302)
+-- p194
+Serial reversal: immediate reversal after PRZ tested
+Divergent reversal: not immediate reversal, consolidation at the TBar (range), perhaps even SFP (sweep, Carney calls this a check-back) of TBar or a Ducc "double bottom"
+-- p197
+Type 1 reaction should occur within 3 to 5 price bars
+
+Reversal (Type 2)
+Type 1 has played out (IPA reached) and it will retrace
+Price will REVISIT the PEZ (PRZ++) of initial harmonic
+Type 2 reversal will have its own TBar
+Type 2 (reversals) MUST HAVE price and indicator confirmation
+Price confirmation can be patterns / trendlines
+Price confirmation might be another harmonic (centipede)
+Indicator confirmation can be RSI or HSI
+Type 2 will not be as precise as Type 1
+Type 2 generally gives more reward (larger reversal)
+Type 1 generally gives an initial reaction (to 382 or 618)
+Carney says "harmonics often offer two oppertunities, one REACTION and one REVERSAL"
+
+SL Stop loss placement for each pattern is on page 174
+
+Indicators:
+Carney tried many - RSI works very well with harmonics
+RSI overbought (70) & oversold (30)
+RSI 50 level (bullish above 50, bearish below 50)
+-- Twice distance half the time (proprietary info)
+RSI (bullish trend) 30-to-50, price increase X1 in time Y1
+RSI (bullish trend) 50-to-70, price increase X2 in time Y2
+X2 > X1 (greater price change)
+Y2 < Y1 (in less time)
+--
+Trendline (uptrend) into overbought.
+Simultaneous trendline break-down and reversal from overbought is strong bearish signal (Gainzy trendlines)
+- HSI
+Carney's priprietary HSI is a filtered version of RSI
+HSI ranges between 0 to 100
+Overbought > 88.6
+Oversold < 11.3
+
+Timeframes
+Bars = candles
+Harmonics should be at least 30 bars
+Find the time-frame that results in the harmonic having approx 30 bars
+(discord chat said min 30 bars, max 300)
+
+
+Summary
+Difficulty in harmonics is figuring out which ones have the strongest potential
+Where in trend?
+ 
+

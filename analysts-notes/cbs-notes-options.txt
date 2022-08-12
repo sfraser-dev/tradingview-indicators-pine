@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=u0FnOU0f4B0
+CBS - Aggressive OTM Options Trading + Other set ups
+220615
+
+-- aggressive
+TA: What he looks for 2 conditions in AGGRESIVE options play
+TA: 1. Trend (strong)
+TA: 2. Continuation (level loss; turndown from rsi 50)
+TA: Strong trend, breakdown, rejection
+TA: Consolidation phase has concluded now wanting exapansion
+So look for really agressive expiries (expiries near)
+BOOKS: Always check the books (adjacent price stikes)
+BOOKS: Can sometimes get similar price for 24k calls and 23k calls!
+LIQ: Delta liquidity issue for larger accounts (not 1000's and 1000's)
+PnL: He spent 4k on recent BTC degen puts and made 150k (37x)
+DIVS: Options great for div plays that are good
+DIVS: People often forced out of div plays before the impulse
+DIVS: Options are great for helping people stay in position
+TIMEFRAME: agressive degen plays H1 chart (expect playout in 24 hours with divs)
+TIMEFRAME: H1 expect to happen in 24 hours, triple div, would expect playout in next 24 hours or the div becomes invalid because of the number of candles printed
+
+-- not aggressive
+TIMEFRAME: Daily chart, swings, OTM long-term expiry.
+TIMEFRAME: Options very very good for sticking with HTF div plays: you put your money on the table and stick with it, no personal psyops
+STRADLE: Not as agressive as short time-frame expiries
+STRADLE: Buy call and put at the same strike (play volatility)
+STRADLE: Look for as close as possible pricing in the call and the put (exact would be ideal)
+STRADLE: Stradle is a volatility play, playing a significant move (in either direction)
+STRADLE: CBS opened a stradle that expires just after FOMC (ie: playing FOMC volatility)
+STRADLE: Idea is one of the options will fail and the other will gain massively (covering the loss of the one that fails easily)
+STRADLE: His FOMC stradle call cost 8.13 and the puts cost 8.18 (pretty decent stab at a stradle play)
+STRADLE: Getting values close to each other for a stradle should be roughly at current price
+STRADLE: Prices like this don't happen often, so need to check frequenty for stradle conditions to be met
+STRADLE: Stradle will be punished if price comes back to the price you bought them at (need a big move on the market to get paid, need volatility)
+--
+SWING: Longer dated OTM calls (btc current price 21k, aim for 12k)
+SWING: Play very aggressive (approx 50% btc drop) downside
+SWING: Saying BTC will drop about 50% in 5 weeks is a degen play - if it works, rewarded handsomely (only need to buy with a few hundred bucks and see if it hits)
+SWING: Longer dated plays OTM but for huge moves - bottom of the list for options priority
+SWING: CBS went BTC puts 1st July 2022 at $14000 (he took $14000 as it's the lowest available strike price for July)
+SWING: Low probabily only buy a little big big reward IF it happens

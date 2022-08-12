@@ -1,0 +1,529 @@
+=====*****
+Loma — 27/04/2021
+REALITY-CHECK: @everyone really quick a reality check before I drive to my cabin for the week:
+
+REALITY-CHECK: Have patience.
+
+REALITY-CHECK: We will have more and more of these 20-40% pullbacks on ALTs on the way up. It WILL happen. Your goal isn't to be an overnight financial success. The likelihoods of that are extremely thin.
+
+REALITY-CHECK: What you're looking to do is this: 
+- Compound gains consistently
+- Don't lose money on those 20-40% pullbacks
+- Make more money on the recovery
+
+REALITY-CHECK: Don't get sucked into the poor man's situation. It's ironic because people want to be rich so they take on more risk which only keeps them poor.
+
+REALITY-CHECK: Break free of that mentality. I know it's not very intuitive but you have to understand that risking more, betting big and other forms of improper management is how you actually stay broke in a bull market.
+This is how you win.
+
+REALITY-CHECK: You stack boring 5-10-15% bangers consistently and don't lose 50% of your portfolio when the market turns against you.
+You take a small crack on the chin, maybe a 5-10% loss and then move forward.
+There's NOTHING admirable about making 1m and then losing 900k on the dump.
+I'd rather make 250k and lose 20k.
+1. Less stressful
+2. Proper risk management keeps you alive should the dump actually be the top.
+You don't want to be one of those people that make millions in a bull market, have like 10x leverage and see it omega dump 30% only to liquidate your portfolio.
+Think of it like boxing or MMA, you can have insane offensive capabilities but without defense, you're going to get exploited sooner or later.
+
+
+=====*****
+https://www.twitch.tv/videos/1152642054
+The Market of Madness - Endless Range (with CBS)
+
+D1: Large wicks are where liquidations have occurred (perhaps cascade liquidations)
+
+EXEC-EXPERT: He always uses a hard stop
+EXEC-EXPERT: Even if it's a huge SL for black swan protection, not really for trading
+EXEC-EXPERT: Krill says Loma is an execution expert
+EXEC-EXPERT: Chat said he has both discretionary and hard SLs, he rarely takes full 1R loss on a trade (cuts, adds, cuts, adds, adds, etc)
+TRADES: He mostly plays SR flips
+HTF-LEVELS: He uses Weekly & D3 to determine his bias to trade lower time-frames
+PSYCH: CBS & Loma said hardest thing to do is get back in after being stopped out (instead of reversing bias)
+GRADIENT-SLOPES: loma-slope-gradient-momentum.png
+GRADIENT-SLOPES: Selling medium slope
+GRADIENT-SLOPES: Selling steep slope (puts in bottom)
+GRADIENT-SLOPES: Selling tiny slope (rounded bottom)
+GRADIENT-SLOPES: Momentum rounded out
+
+=====*****
+RANGE-PATTERNS: In a range bound environment; cheesy patterns tend to work (eg: channel)
+
+=====*****
+https://www.youtube.com/watch?v=UELfdO22jHo&t=139s
+Support and Resistance Workshop by "The Haven"
+TA: SR = supply/demand = OBs = FTA = buy/sell walls
+TA: Different names for the same concepts
+TA: Loma uses swing high/lows SHSL
+TA: Swing low: mark the low of the candle that gets swept
+TA: Swing low: the sweep candle should go into an important area 
+TA: What is support... just look at the chart (lies, choppy)
+LIES: the chart / numbers do not lie
+LIES: naratives lie, people lie, govs lie, 
+LIES: lot harder to manipulate action than it is narratives
+SLBE = Stop Loss to Break Even
+CHOPPY-AREA: Choppy area = cluster
+CHOPPY-AREA: Choppy areas = lot buying and selling & market participants
+CHOPPY-AREA: up from chop = support
+CHOPPY-AREA: down from chop = resistance
+CHOPPY-AREA: support/demand, if price comes back, initial...
+CHOPPY-AREA: ..buyers have TPd on way up & SLBE...
+CHOPPY-AREA: ..don't bid the top of the demand zone
+CHOPPY-AREA: DON'T BID THE TOP OF SUPPORT
+CHOPPY-AREA: ..there will be wicks down to take the SLBEs
+CHOPPY-AREA: ..will have been many buyers IN the choppy area
+CHOPPY-AREA: ..demand is always a range...
+CHOPPY-AREA: Martyn marks demand zone using Fib / OTE range
+CHOPPY-AREA: bid 5%, 5%, 5%, 5%, down to 30% @ bottom
+CHOPPY-AREA: SLBE at demand top TRIGGERS selling wick down
+CHOPPY-AREA: psycology of people SLBE (profits have disappeared)
+CHOPPY-AREA: someone is acting out of necessity and we just took their liquidity, we act on their demise, us and the exchange should be taking their money as they're liquidated, it's a zero sum game
+CHOPPY-AREA: the more normal higher liquidity coins has more new traders who SLBE
+CHOPPY-AREA: want to areas with lots of market participants (perhaps VOLUME (on HTF on liquid coins))
+CHOPPY-AREA: downwards / upwards / sideways chop
+LOMA-ZONE: marking the bottom of the choppy area!
+LOMA-ZONE: Krill: "Loma nails his entries"
+LOMA-ZONE: Loma's zones will be choppy
+LOMA-ZONE: Lots of red candles in a chop, buy quick retest of this zone
+ACTIVE-MPs: Active market participants
+ACTIVE-MPs: This is where we want to buy
+ACTIVE-MPs: The older the levels, the less they matter (participants will have TPd already)
+ACTIVE-MPs: Lots of green candles in a row will have active participants TPing on the way up, moving their stops
+ACTIVE-MPs: Look at recent levels, not "my 1.618 Fib"
+RESISTANCE: Resistance in bull market is different to resistance in a bear market (not many participants)
+Res: Support is a lot more common in a bull market (lots of touches of support)
+RESISTANCE: Will usually have a big wick through the swing high resulting in Loma's SHSL resistance zone (wicks above but closes below; people (buyers) will be trapped here)
+RESISTANCE: If price starts trading (opening and closing) above this SHSL resistance, then expect it to pump if bull market
+RESISTANCE: He marks the wick tops at swing highs for resistance
+RESISTANCE: When price travels to the highs but fails to close above, this is resistance
+RESISTANCE: Trapped BO traders "please just let the price come back to near my entry and I will get out!"
+RESISTANCE: You don't always need an OB, months/weeks of partcipants to tell the range
+RESISTANCE: look for follow-through and go with that trend
+RESISTANCE: You HAVE to be taking profits on the way up or you're just NGMI as a trader
+RESISTANCE: resistance in bull market is normally formed by (i) people shorting (not so much this) (ii) people who bought then got trapped (much more this)
+NARRATIVE&LEVELS: when drawing SR, keep in back of mind why it's there and build your own narative (eth 2.0 out, btc ATH pulled eth up, visa news, elon tweet tesla) - helps you understand the market
+NARRATIVE&LEVELS: Fundamentals drive techs in a bull market
+NARRATIVE&LEVELS: Put a narrative to things as it is reflected in the technicals
+NARRATIVE&LEVELS: Fold get in on FA news (tesla accepting btc) and this will create a TA level
+NARRATIVE&LEVELS: He won't trade the charts on Uniswap as it's too easily manipulated due to low liquidity, no narrative
+NARRATIVE&LEVELS: could be as simple as prior ATH
+NARRATIVE&LEVELS: most of the money you make is going to come from average traders, you're not taking money from CZ, Sam, Bezos, Gates. etc
+NARRATIVE&LEVELS: Natural human reaction, hate losing, so move SLBE
+NARRATIVE&LEVELS: He mostly bids the mid to low part of the choppy range
+NARRATIVE&LEVELS: Put yourself into the shoes of a new, average or intermediate trader and ask "what are they feeling right now?", ecstasy, fear? What's the counterparty feeling?
+--
+
+-- Loma Twitch live stream 211109
+https://www.twitch.tv/lomacrypto
+HISTORY: He's been in crypto since 2015 (a little) and a lot since 2017 (in college)
+BULL: What will fcuk you up in a bull market is the volatility
+BULL: Fade your euphoria
+BULL: He's had friends "make it" within a few months; holding only small coins spot, not leverage (few thousand to million+)
+OBs: Should be buying consolidations
+PSYCH: Don't leave your non-moving coin at support to jump risk-on to the big green candle
+PSYCH: Biggest game-changer: Be comfortable (don't over-leverage going to bed, don't short pumping coins)
+NARRATIVE: He doesn't have a watchlist, he has a narrative for the next few days (gaming, metaverse, L1)
+TIMEFRAME: He's mostly a day trader, 5m or 15m charts
+SHIB: shib is indicative of the whole alt market
+SHIB: Doge & Shib won't pump together coz they share liquidity
+
+--
+Twitch stream 211120
+Bottoms form when people stop market selling, not when people market buys. Check gradients.
+Ask if you took the trade 100 times, would it make money?
+
+-- Twitch 211215
+He doesn't like demands for trending alts, doesn't want to see the pump fully retracted
+Hardly any V reversals, but mellow out / consolidate / gradient less steep
+BNB always performs decently, binance is legit, should always hold BNB spot
+Loma normally trades at H4 or H1
+People that come up as good traders come from bear markets
+Treat it like a video game, don't think about money value, it's a process (think of R). Risk 2% or 3% at a time. Make CONSISTANTLY good decisions.
+Can use full candles or just bodies to mark his OBs (SHSLs)
+
+==== Youtube live stream
+https://www.youtube.com/watch?v=IX45MHlHPCc
+HAPPY: Euphoric 1h12mins (FOMC rate information, ROSE trade)
+HAPPY: "This trading shit is too fucking easy"
+HAPPY: He took 75% off at TP1
+HAPPY: ROSE (less liquid) must sell into a pump 
+RETRACE: If pump candle is quickly retraced, bad, sellers in control
+RISK-MANAGEMENT: remove missed entries if TP1 hit
+PAIR-TRADE: short one (short AAVE defi-1.0, long NEAR L1)
+PAIR-TRADE: Finding the pairs (narratives) makes it difficult
+STRONG: he marks the bottom of expansion candles
+STRONG: indicates lots of buying so doesn't want to see price below this
+STRONG: same as martyn demand zones, need stong impulse (White Wolf Liquidity bases)
+
+===== Loma's Lounge Ep.2: HAVE WE BOTTOMED? 220128
+WICKS: Horizontal lines should be drawn from the wicks
+WICKS: Big wicks indicate emotion, ppl making irrational decsions
+WICKS: Can only be so many sweeps of lows before failure (WW style)
+CAPITULATION: Capitulation wick is like computer factory reset (OI goes, funding reset)
+CAPITULATION: Big difference between capitualtion and continuous selling
+S&P: S&P bounce to 4600 you should sell
+PAIR-CHARTING: JEWELWAVAX*AVAXUSDT (or JEWELAVAX/AVAXUSDT) (or FTTUSDT/SRMUSDT to get FTT/SRM)
+PAIR-CHARTING: Two pairs duel combined coins tokens tradingview trading view cross pair conjoined twinned 
+OBs: Too far back not good, buyers that created it won't be there
+OBs: Use the freshest OBs, they're most significant
+OBs: Unless there is big news that created the support / demand
+INFO: Master the process then the money will come
+INFO: Risk on when uptrending, risk off when downtrending
+
+===== Loma's Lounge Ep.5: McDonald's Internship Incoming
+https://www.youtube.com/watch?v=xXeZ1_tAFb8
+STUDY: At college, studies finance, accounting and economics
+MAs: moving averages exponential
+MAs: 20, 50, 100, 200 (he uses common-place EMAs)
+MAs: Lots of people using, so self-fufilling
+MAs: Prefers EMAs over MAs
+MAs: Helps to see trend (much easier than PA)
+MAs: Knows a prop trader that only longs above H4-ema20
+MAs: Not good at all in ranges
+MAs: Help with waning momentum (gradients)
+SIMPLE: Best traders keep their TA very simple
+NOTHING: Get paid more to do nothing when you have a good entry
+NOTHING: "Money is made by sitting, not by trading" Jesse Livermore entry
+SHORT: Doesn't use high leverage when shorting (usually 1x)
+SIZING: 500k is a decent position size for him (gala short)
+SIZING: He compounds / ladders as the trades goes on
+HAMMER: sell wicks (hammer) with follow-through down VERY bearish
+
+=====  Loma's Lounge Ep.7: RUSSIAN INTO POSITIONS
+https://www.youtube.com/watch?v=oXcHN3aVCJ4
+MS: Market structure is important but needs rest of the market to be good too (good MS for alt and BTC looks like shit useless) 
+
+===== Loma's Lounge Ep.8: Bitcoin Decorrelates From Stonks?!
+https://www.youtube.com/watch?v=AoTpfFTd5CQ
+BIG-CANDLE: The top of a big down candle will be strong resistance on the way back up; ie: stong supply zone
+SL: Place SL above two levels of resistance (loma-put-SL-above-2-levels-of-resistance1.JPG)
+SWEEP: Taking out highs (sweep) should be surgical and quick. There should be follow through down. Enter on follow through down with SL above the highs
+BTC-ALTS: You should be using BTC to trade alts as ALTS will give bigger moves in the same direction as BTC
+TOKEN-UNLOCKS: Bearish as there is more supply
+H4: He doesn't really trade on it (D1 levels and H1 entries)
+
+===== Loma's Lounge Ep.9: RUSSIAN ECONOMIC COLLAPSE
+https://www.youtube.com/watch?v=xHoxO4jtzvo&t=624s
+TRENDLINE: Trendline is price and time for TRENDING coins (not consolidating)
+TRENDLINE: Take into account momentum / speed
+TRENDLINE: When break, they tend to return to the trendline point of origin price
+TRENDLINE: EMAs help with trend line
+PAIRED-TRADE: KNCUSDT/AVAXUSDT
+SUPPORT: Price sitting at support/demand isn't what he wants to see (means equal amount buyers and sellers); wants to see it bought up quite quickly
+
+===== 220311 Loma's Lounge Ep.11: FRIDAY SPECIAL
+https://www.youtube.com/watch?v=HizotFUkGgE
+PUMPS: Big pumps with full retrace is BEARISH, lack of momentum
+TIMEFRAMES: Establish H1 level (via D1) then goto 15m to refine
+WEAKNESS: Mult pushes up, full retrace, then LH
+WEAKNESS: see: TRIPLE-DRIVE-DYING-MOMENTUM
+SFP: SFP on multiple timeframes with follow through = strong signal = sfp confirmed
+RSI: He doesn't use as other indicators will have already confirmed it by the time rsi confirms
+LEADING: If recent leading coin is dumping, then whole market market will dump
+WHALE: average whale ahs 20-40 million usd
+EXIT: Whale exit pump = impulse up then immediate retrace
+EXIT: Last squeeze, little coin in bear market, artificial
+RETEST: not MS demands as this is full retrace
+RETEST: Using SR levels (like CBS) better
+RETEST: impulse, full retrace (to demand), weaker bounce (LH), then big dump well below demand
+ENTRY: 10%, 20%, 20%, 50%
+
+===== Loma's Lounge Ep.12: Return of the Bull?
+https://www.youtube.com/watch?v=tEv3EaBe-h4
+TL: Trendline momentum indicator, strength relative to time
+TF: H4 timeframe where most of our work gets done
+TF: H1 is where Loma does most of his entries
+CHOP: Rising choppy PA is what knocks folk out of positions but is bullish and will pump
+STEP: stepping pattern up are steps, beware elevator down
+DISTRIBUTION-PA: where ppl are selling
+DISTRIBUTION-PA: pump, then IMMEDIATELY retraces (btc Mar 2021) - this indicates distribution rather than accumulation
+
+===== Krill: The Haven members using MA system - Ep. 3 with Banksy https://www.youtube.com/watch?v=A9WbyaaNesI)
+LOMA: About 1 hour in discusses Loma's method
+LOMA: Execution expert
+LOMA: Wide entries to scale in
+LOMA: Wide exits to scale out
+LOMA: De-risks on pump
+LOMA: Re-adds on dump
+LOMA: Trades big size so has to slowly scale like this
+LOMA: strength based on daily charts
+LOMA: but more trades on lower timeframes for pumps / dumps
+LOMA: range trading to build big position for nuke
+LOMA: if nuke doesn't come he'll be OK since scaling in and out a lot
+LOMA: If he posts daily chart basically need to scale in all the way between his entry and his stop
+LOMA: This is how he can counter-trend trade successfully, large scaling in and derisking quickly, adding again to compound
+LOMA: Great for learning to improve execution
+
+===== Loma's Lounge Ep.20: GOBLIN TOWN INCOMINGGGGGGG
+https://www.youtube.com/watch?v=VuIYimV6XE0
+NARRATIVE: Narrative and interest in the coin? This is all you need.
+NARRATIVE: He's a visual chart guy "loma-visual-chart-guy.JPG"
+NARRATIVE: Retrace every pump!
+NARRATIVE: Research coins so you know the narratives for forever-hodl longs
+S&P-SLOW: Look at S&P on weekly because it moves so SLOW
+BOOKS: (49m): "Thinking in bets" by Annie Duke
+BOOKS: (49m): "Alpha trader" by Brent Donnely
+
+
+===== Loma's Lounge Ep.21: FOMC EXCEPT YOU FOMO INTO IT
+https://www.youtube.com/watch?v=WajSZ92YYYI
+CLOSE: To close my long at support, I'd need to be able to argue for a short
+CONCEALMENT: Ability to conceal what you want to do is what makes you good at trading / basketball
+CONCEALMENT: What is the chart showing you against what it's actually doing
+CONCEALMENT: Sell support coz chart ugly
+CONCEALMENT: Buy at the "sad" lows and sell at the "euphoric" highs
+CONCEALMENT: Easy obvious long probably won't play out
+HIGHS/LOWS: Always very strong emotions
+HIGHS/LOWS: Causes volatility
+HIGHS/LOWS: "In the moment", it'll feel like end of world
+54mins in
+
+===== Loma's Lounge Ep.22: WEEKEND PAMP
+https://www.youtube.com/watch?v=DBDT9fBCUNk
+CAPITULATION: impulse through resistance on high volume is capitulation
+CAPITULATION: Can usually fade these
+VOL: Large volume indicates climax
+4THINGS: PA, risk management, volume, rsi divs
+4THINGS: You only need to master 4 distinct things
+4THINGS: not be a master of all and you can beat market
+COMPOUNDING: Essentially just taking a new trade, can treat as such
+UPONLY: Consolidation, expansion, "ACCELERATION"
+UPONLY: acceleration will be a wick (dali-lama)
+MAs: He started with MAs, but then didn't need them to trade, he could see the momentum without them
+QUIT: Planning to quit after next bull cycle
+QUIT: Following all the crypto news and staring at charts non-stop takes a lot away from you
+WGMI: SatsStar, from fast food to retired after a bull cycle
+WGMI: Couple of good months in crypto and you can retire
+WGMI: Telling DoJang he'll be retired after the next bull cycle
+WGMI: Don't be greedy, don't chase money, grind and compound your account
+WGMI: Difficulty is surviving the consolidations
+PUTS: Lazy man option; not maximising ROI
+FARM: No fucking way he's farming anything (except vegtables)
+FARM: OHM, down 98%!
+PERCENTAGE: He was betting 2% of his account on APE long
+PROPRIETARY: His method is EXECUTION behind his trades
+PROPRIETARY: He can't teach how to execute like him (market maker)
+PROPRIETARY: He doesn't use indicators
+PROPRIETARY: Gut, cannot put into words (if A then B, if C then D)
+
+===== Loma's Lounge Ep.23: WHAT A WEEK
+https://www.youtube.com/watch?v=MyV23q23HmU
+RULES:
+1. Never enter full position in one go
+1. Especially volatile price action
+1. Always average in
+2. Never project my trading style onto market
+2. Let market dictate 
+2. "Be like water" Bruce Lee
+2. 99% of pepole loss because they put THEIR entries onto the market
+2. 5 figs to 7 in a year (Loma has done it live in his journal)
+STABLE: BNB and SOL are lid-term holds, don't go up heaps in pumps and don't drop heaps in dumps
+RATE: Loma rates himself 6/10 trader
+RATE: GCR is a 8 or 9 /10
+RATE: Loma is good retail trader trades 10M, 30M, 40M
+RATE: Loma doesn't trade 100M with options and longs and fancy shit
+R: 1.4 to 4 R is what Loma aims for
+R: Loma cannot use hard market SL with 40M size as it'll slip 3% when his market stop hits
+PANIC: Don't panic when it price goes against you, trade the plan
+HYPE: New coins with hype around them: GMT APE GAL
+
+===== Loma's Lounge: Pre-Recorded Nonsense!!!!
+https://www.youtube.com/watch?v=EarriLa2eOI
+MONK: Be a market monk. Stoic. Have a plan. Wait. Execute.
+MONK: Will make so much money.
+SWING: Don't look at the market's every move, step away.
+
+==== https://www.youtube.com/watch?v=pEJ7P74bQzc
+Loma's Lounge: JULY 4TH WEEKEND 220702
+FAVORITE: "Our favorite setup" (high, sweep, sweep, LH, LH)
+FAVORITE: Atom example, short on the LHs
+FAVORITE: Gradients showing waning momentum
+FAVORITE: "loma-favorite-setup-sweep-sweep-LH-LH-short1-atom.png"
+SZ: Loma uses SZ style (enter higher on reclaim on RH or lower on deviation of RL)
+SZ: Consolidation above the highs (horizontal level) is good for a long
+MS: Use HTF (daily) for market structure (not H4)
+DEFENCE: Correct way to learn to trade is defensive strategy first, risk management
+DEFENCE: Many make lots of money, but few can keep it (Su Zhu 9 billion in profits, but can't hold onto it)
+TRIPLE-DRIVE-DYING-MOMENTUM: Visual test, pumps and pull backs
+TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
+TRIPLE-DRIVE-DYING-MOMENTUM: First pump big wih shallow pullback, 2nd pump smaller with deeper pullback, 3rd pump smaller with bigger pullback
+TRIPLE-DRIVE-DYING-MOMENTUM: momentum is waning
+TRIPLE-DRIVE-DYING-MOMENTUM: Check this HTFs (H4 at least)
+TRIPLE-DRIVE-DYING-MOMENTUM: So his demand/supply is about momentum, not blocks
+TRIPLE-DRIVE-DYING-MOMENTUM: "loma-demand-supply-momentum-game-thoery-GMT-1.JPG"
+TRIPLE-DRIVE-DYING-MOMENTUM: (SF: check with RSI and AO)
+TRIPLE-DRIVE-DYING-MOMENTUM: game thoery of demand/supply, demand is decreasing supply increasing thus reducing momentum
+TA: Just get 3/4 things that go "hand-in-hand", don't learn too much or you'll get conflicted; get good at execution
+JOURNEY: The journey of a trader is to make money! Feelings, opinons, likes, DOES NOT MATTER, only go for best performing asset and squeeze the most money as possible from ut
+
+===== https://youtu.be/pty51g4aOHU
+LOMA: The After July 4th Special
+SOL-PROXY: Sol, now determines the health of the alt market
+SOL-PROXY: Sol, new-ish, large market cap
+SOL-PROXY: Sol better than eth as proxy for alt-coin health now in Loma's opinion
+INVALIDAION: At a pivot between a long and a short, take the trade with the easy invalidation
+INVALIDATION: Like SZ, taking this trade because there's clear invalidation
+INVALIDATION: Invalidation (SL) should be where we'd flip bias
+INVALIDATION: Don't want to get stopped and have the same bias, means either (i) shit entry or (ii) risked too much
+INVALIDATION: Think as a bi-directional trader
+BEST-SETUPS: Good rule of thumb
+BEST-SETUPS: The best long setups are failed short setups
+BEST-SETUPS: The best short setups are failed long setups
+BEST-SETUPS: "loma-best-long-setups-are-failed-short-setups1.JPG"
+INVALIDATION-SZ: He's really like TraderSZ
+INVALIDATION-SZ: EG: Short just below SR, short more at SR, short even more just above SR (assume deviation,invalidation VERY close now), close on long trigger of SR reclaimed as support
+STAIRS-UP: Staircase up pattern never ends well
+STAIRS-UP: stairs up, elevator down
+STAIRS-UP: "loma-staircase-up-never-ends-well-elevator-down1.png"
+
+===== https://www.youtube.com/watch?v=jiS6P3mMsm4
+"Loma's Lounge: Bear Market Rally or Reversal?"
+MANY-SETUPS: "loma-BTC-levels-setups-nice-and-wide-likeSZ.jpg"
+MANY-SETUPS: This stream shows exactly how he creates his setups; this is exactly how he does it
+RANGE-DRAWING: can be drawn with rectangles (less accurate zones), don't need exact trend-lines
+RANGE-DRAWING: Range EQ doesn't have to be exactly 50%, can use rectangle zone not quite at 50%
+MAJORITY: Markets like to fuck with the majority
+BUYBACK-WICK: Placing SL below a buyback wick is very good
+POINT-OF-TA: Allows you to identify how prices act to certain levels and identify when you're wrong
+POINT-OF-TA: THIS is what TA is for (not pretty drawn rectangles from candle etc)
+POINT-OF-TA: If not doing this,may as well use market profile to just go with the flow of the market (long at trapped seller levels and short and trapped longer levels)
+GAMING-COINS: Newer gaming coins are always better, HYPED!
+GAMING-COINS: These are only as good as their last pump
+LOW-LIQUIDITY: Low liquidity coins dangerous; difficult to get out without slippage of an extra 2-3% on your SL
+PSYCH: If you're good to the game, it'll be good to you
+PSYCH: HTF, makes a higher low, you might e scared, but you have to trust the PA (don't trust CT, articles)
+PSYCH-HOW-TO-GET-VERY-GOOD: (1) study the charts, learn PA
+PSYCH-HOW-TO-GET-VERY-GOOD: (2) Go and apply it
+PSYCH-HOW-TO-GET-VERY-GOOD: (3) Need to do it yourself
+PSYCH-HOW-TO-GET-VERY-GOOD: (4) sit your ass down and LEARN
+PSYCH-HOW-TO-GET-VERY-GOOD: (5) Don't gamble
+PSYCH-HOW-TO-GET-VERY-GOOD: (6) Lower position sizes
+PSYCH-HOW-TO-GET-VERY-GOOD: (7) LEARN, skill development
+PSYCH-HOW-TO-GET-VERY-GOOD: (8) The money will follow
+PSYCH-HOW-TO-GET-VERY-GOOD: (9) Focus on the process, not the  results or money
+PSYCH-HOW-TO-GET-VERY-GOOD: (10) Discipline and sacrifice, you need to sacrifice a lot to get good at this
+PSYCH-HOW-TO-GET-VERY-GOOD: (11) Gave this spiel as folk are asking him for setups, and then getting rekt, because this is not what you're meant to be doing
+PSYCH-HOW-TO-GET-VERY-GOOD: (12) If you can't do this, UNSUBSCRIBE from The Haven and come back when the market is easy (market i shard right now)
+PSYCH-HOW-TO-GET-VERY-GOOD: (13) there is no TA that is magically going to get you a 60% win-rate, you need to put in the hours and be adaptable, do it yourself
+PSYCH-HOW-TO-GET-VERY-GOOD: (14) "assymetrical betting": trust yourself, your analysis, bet 2% of portfolio to win 10%
+LOMA-HISTORY: Loma did EW, Fibs, patterns - all useless
+LOMA-HISTORY: Look at things as how they are, not what you want them to be
+LOMA-HISTORY: Took him two years of trying different stuff to finally get very good
+
+===== Infinte Range
+https://www.youtube.com/watch?v=acRi8_sEGl0
+PIERRE: Watch his trend retest style, these could result in elevator down when it does fail (good short then)
+PIERRE: "loma-consolitation-pump-stairs-up-elevator-down-pattern1.png"
+POB: Point of breakdown
+POB: "loma-PoB-point-of-breakdown-reclaim.jpg"
+POB: "under over, support, resistance, support again PIVOT
+INDEXES: Compare different crypto sectors
+INDEXES: Defi Index (ftx)
+INDEXES: Altcoin Index (ftx)
+INDEXES: Shitcoin Index (ftx)
+HODL: SYNAPSE is a good long term play, accumulate now for next bull market
+FOMO: You want to be in coins people are FOMOing into, fuck support, they're front-running support by 3%
+FOMO: Do you want people to wait for lower prices to buy (no!) or do you want them to be fomoing in?
+LADDER-ENTRIES: Pyramid entries, small to big, in OB / SR.
+LADDER-ENTRIES: Want a little exposure if it pumps from top of rectangle (SR / OB), about process, managing risk
+LADDER-ENTRIES: Not full position size on every trade
+LADDER-ENTRIES: Full position should be reached at area where your comfortable getting filled at
+COPY-MARKET: If it's moving fast and violent, so should we
+COPY-MARKET: If it's moving slow, so should we
+COPY-MARKET: If it's not doing anything, we should step away
+COPY-MARKET: Flow with the market
+COPY-MARKET: Most people lose money as they go against the market (impose THEIR will on the market), keep adding to their long as the market dumps - BE LIKE WATER
+
+===== GENERIC start
+CANDLE-RANGE: Use the candle that breaks out of the range as the range to ladder entries to long
+CANDLE-RANGE: "loma-use-candle-that-broke-out-of-range-as-range-to-buy1.png"
+WATCHLIST: Should be full of top performers and / or newer coins
+TRADE-EXECUTION: Loma discussion 220811, Blacksphere
+TRADE-EXECUTION: "Dynmaic position sizing with fixed risk"
+TRADE-EXECUTION: Handling layered entries not filled
+TRADE-EXECUTION: Adding to winning position
+TRADE-EXECUTION: Dealing with layered entries giving full SLs but partial wins if not all entries hit on a winning trade
+TRADE-EXECUTION: "loma-sizing-layered-entries-and-adding-blacksphere-7-mq-chart-example.JPG"
+===== GENERIC end
+
+==== Loma's Lounge: RETURN OF THE BULLLLLLL
+https://www.youtube.com/watch?v=2yTElgRTFKA
+COMPOUNDING: Open multiple alt trades at once to compound on bullish BTC
+COMPOUNDING: Alts tend to give better RR than btc (bigger SLs, but more volatile, so better RR overall)
+LOMA-POSTION-SIZING: *** 18mins into video: AWESOME ***
+LOMA-POSTION-SIZING: Use "whole" of portfolio when trading
+LOMA-POSTION-SIZING: "If risk is 4% and SL is 8%, only enter half portfolio size max"
+LOMA-POSTION-SIZING: 100,000 portfolio, risk 4000 of it, position size 50,000 (50,000*0.08=4000)
+LOMA-POSTION-SIZING: Layer entries, with wide stops, don't cut corners, over time will win, DON'T rush trying to get rich quick
+SAME: Trading is the same questions given 100 different ways
+SAME: If price pumps, what do I do?
+SAME: If price nukes, what do I do?
+SAME: If price ping-pongs, what do I do?
+SAME: Where do I long? Where do I short. Where do I put SL? Where do I TP? How much do I enter?
+STOPS: You can have two SLs
+V-REVERSALS: Very very rarely happen
+HODL: SYN and LOOKS
+HSAKA: If he tweets, just market buy as evryone else just apes
+vLTF: He trades vLTF but can't share setups as people would just ape in
+
+===== Loma's Lounge: PLEASE PULLBACK
+https://www.youtube.com/watch?v=js5iVKsDyfA
+COINS-GOOD: MATIC, APE, OP
+COINS-BAD: SOL (weak)
+HODL: Looks (Arthur is a big looks guy, dramatic and very rich)
+HODL: Synapse, very illiquid, market-buy 5k moves price 1%
+TRADING-SECRET: Let your good idead play out, give them time
+ONE-SIDE: Try and just trade one side
+ONE-SIDE: Down only in bad market, up only in good market
+ONE-SIDE: Loma says his stats show he does much better doing this than constantly trying to play both sides
+
+===== Loma plan for major news events (FOMC)
+FOMC: Loma-usual-plan-for news-events-FOMC_Plan-wee.mp4 (on Drive)
+
+===== https://www.youtube.com/watch?v=Sd2dDcvpU2E
+Loma's Lounge: RETURN OF THE BULL...?
+NOT-PICO: buying higher can be better, easier to define our risk
+MARKET-SPRINT: market is a sprinter, sprint 5%, rest 5 days, sprint 5%
+MARKET-SPRINT: sprint, consolidate, sprint, consolidate
+NEW-COINS: Don't have underwater bag-holders
+NEW-COINS: Older coins like Sol will have underwater bag holders wanting to sell at break-even
+ETH-CLEAN: When market is bullish, ETH cleanest price action to trade
+ETH-CLEAN: Good way to help determine bullish or bearish sentiment
+2018-BEAR: 2018 bear market was slower than 2022s - there are futures to short so the pace of money transfer is faster now
+LOMA-SETUPS-RR: "a very good trade is a 2R trade"
+LOMA-SETUPS-RR: "as prices move up...
+LOMA-SETUPS-RR: ...you should also move your SL up
+LOMA-SETUPS-RR: ...thus RR is DYNAMIC
+LOMA-SETUPS-RR: ...SL will be higher than entry quick
+LOMA-SETUPS-RR: ...and (dynamic) R will be much higher now"
+LOMA-SETUPS-RR: "I don't take trades SIGNIFICANTLY below 1R"
+LOMA-SETUPS-RR: R is just a way to manipulate your trading strategies...
+LOMA-SETUPS-RR: ...low winrate needs high R
+LOMA-SETUPS-RR: ...high winrate only needs low R
+LOMA-SETUPS-RR: You can only enter a trade with a base R
+GREED: So much greed in the general retail market...
+GREED: If this is reversal into start of bull market...
+GREED: ...don't need to catch every percentage point to make bank
+NFT: He thinks they'll be great in the next bull run
+HODL: He has a decent position in LOOKS that he's staking
+NFT: He has 1M staked in LOOKS, if it makes new ATH, he'll be an 8-figure LOOKS whale (price currently $0.4USD, $7, 7/0.4=17.5M
+NFT: Good RR, lose 1M or make 17M
+SIT-YOURSELF-DOWN: why when prices go down to support do I get scared
+SIT-YOURSELF-DOWN: why are you thinking like 80% of the market?
+SIT-YOURSELF-DOWN: if 80% of the market think one way, you should be questioning it
+SIT-YOURSELF-DOWN: next time you get the fear feeling to not buy, remember to buy
+SIT-YOURSELF-DOWN: I'm buying support and CAN DEFINE MY RISK
+SIT-YOURSELF-DOWN: Build your ablity to execute when THINGS ARE HARD - this is an important ability
+SIT-YOURSELF-DOWN: Making tough decisions under stress is THE SKILL TO HAVE
+BETTER-BUYING-HIGH: better to buy higher above support than lower below resistance
+PUBLIC: He'd never publicly share a trade unless he wanted folk to also buy the coin and pump it
+PUBLIC: Folk that share trades (CT) are
+TOPS: want to see nice clean consolidation at resistance if it's to break
+TOPS: this means it's obviously not nuking
+TOPS: don't want to see pump, retrace, pump less retrace more, pump even less retrace even more (make LH too) see: "TRIPLE-DRIVE-DYING-MOMENTUM"
+TOPS: CBS also said today that increasing volatility is associated with tops forming (TRIPLE-DRIVE-DYING-MOMENTUM)
+IMPULSE-CANDLES: Want to see them not get retraced; this is a sign of weakness (ie: their FVG should be support)
+
+===== Lance Breitstein (8 figure profits 2 years in a row)
+VIDEO: Part1- https://www.youtube.com/watch?v=a3wL0OktSrA
+VIDEO: Part2- https://www.youtube.com/watch?v=d3mmLd_VO0w
+VIDEO: Part3- https://www.youtube.com/watch?v=S12sK6nC-OQ

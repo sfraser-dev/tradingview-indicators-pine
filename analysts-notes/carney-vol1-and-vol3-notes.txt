@@ -1,0 +1,30 @@
+https://www.forex.com/en-uk/education/education-themes/technical-analysis/bullish-3-drive-pattern/
+Note that a 3 drive pattern is two successful intertwined AB=CD patterns
+
+There are extension harmonics (butterfly, crab, shark) and retracement harmonics (gartley, bat) (vol1:p122). Retracement patterns are structured for entry and SL (PRZ); extension patterns are more nuanced. 
+
+The BC projection is a less significant number in the PRZ than XA and AB extensions (p98, except for the crab, BC projection more important than AB extension, vol1:p121)
+
+--
+Number (C retracement) -- Reciprocal (BC extension)  
+.236 -- 4.237
+.382 -- 2.618
+.5 -- 2
+.618 -- 1.168
+.707 -- 1.414
+.786 -- 1.272
+.886 -- 1.130
+
+**Perfect AB=CD "thunderbolt" pattern (AB leg same size as CD leg)(vol1:p69): retracement 1st then extension
+**Alternate (extended) XXXAB=CD pattern (up to 1.618AB=CD; butterfly / crab occurs in extended sell-offs)
+
+New patterns:
+**"Reciprocal AB=CD" pattern ("lazy Z in a box", not thunderbolt). Extension fib first, then retracement fib) (vol2:p74). Can draw with ABCD tool.
+**"The 5-0" pattern (OXABCD, OX being any large impulse). Can draw with XABCD tool (don't need to use the XD fib number, but need to use the BC fib number). If initial pattern fails, it'll likely fail dramatically... entering the reverse trade a good idea!(vol2:p78)
+**Alternative Bat harmoic (B retrace to 382 of XA, C range 382-886 of AB, D is 1.13 of XA)(vol2:p103)
+
+^^BAMM: Bat Action Magnet Move. For the Bat (normal, not alternative), can front-run the completion of the CD leg once point B has been reached.
+
+^^ ABCD BAMM: BAMM can also be applied to the AB=CD pattern (front-run final portion of CD leg from point B)
+
+^^ New RSI BAMM indicators

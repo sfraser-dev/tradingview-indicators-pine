@@ -1,0 +1,52 @@
+===== TA METHOD on NOTION
+https://johnnybtrader.notion.site/johnnybtrader/Crypto-Trading-Model-johnnybtrader-f607aeb9043042c79cc3b58f14292cc9
+
+
+===== OB tips
+OB: Don't just place bids at OBs, wait for a reaction from them
+OB: Switch to lower time-frame, PA in OB, look for sweep
+OB: "look for sweeps inside strong (MB) OBs, it'll change your life forever"... ie: CHoCH in the OB
+OB: Ver much SZ style, wait for pump, consolidate, LTF-break-MSB
+OB: "jb-TA-LTF-entries-007.JPG"
+OB: "jb-strong-OBs-look-for-sweeps-life-will-change-forever.JPG"
+OB: Loma: demand OB is first up candle after a down move
+OB: Loma: supply OB is first down candle after an up move
+OB: Loma-Rahmat: OB is candle that sweeps local liquidity
+OB: Talin: It's an OB ZONE, not a single candle
+
+===== Begin Generic
+TERMINOLOGY: Shout out to all those that took the trade with me
+
+TIMING: Best scalp trades should happen fast / quick
+TIMING: "jb-gmt-short-45k-position-size4-best-trades-happen-fast.JPG"
+===== End Generic
+
+===== FU / sweep
+FU: Means Fuck You, Sweep
+FU: Consolidation under bearish sweep means dump
+FU: Consolidation above bullish sweep means pump
+FU: "jb-GMT-short-FU-is-liquidity-raid2-consolidation-under-FU-bearish.JPG"
+FU: Like SZ - break, consolidate, break again
+
+===== NOTION: JB's TA Methodology:
+MB-MS: Use wicks to mark HH, HL, LH, LL (MB style)
+MB-OB: Use MB style OB (big impulse)
+MB-OB: Use OB that wasn't retested immediately upon creation
+MB-OB: ie: Use a WW Liquidity Base
+-- HTF POI with LTF Entries
+HTF-POI (i): OB retest by itself
+HTF-POI (ii): liq-grab into FVG or OB (Murfski)
+HTF-POI (iii): Monday's range
+HTF-POI (iv): SFP / sweep
+LTF-ENTRY: liq-grab into HTF POI
+LTF-ENTRY: initial reaction producing ltf msb in correct direction (leaves fvg)
+LTF-ENTRY: fvg retested producing seconardy reaction
+LTF-ENTRY: enter on successful secondary reaction
+LTF-ENTRY-EX: (DOWN) sweep of htf highs (bearish), ltf bearish MSB (leaves fvg*), enter after successful fvg* retest
+LTF-ENTRY-EX: (UP) sweep of htf lows (bullish), ltf bullish MSB (leaves fvg**), enter after successful fvg** retest
+-- Secret sauce
+SS-STEP1.0: HTF-POI created (eg: bearish OB)?
+SS-STEP2.0: would I take similar trade on BTC (eg: bearish)?
+SS-STEP3.0: LTF-entry created (eg: bearish entry)
+SS-STEP3.1: no resting liquidity nearby (eg: below)
+SS-STEP3.2: no knife-catching

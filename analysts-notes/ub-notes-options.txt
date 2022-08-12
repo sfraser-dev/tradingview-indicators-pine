@@ -1,0 +1,38 @@
+
+*** UB intro to options
+Beginners Guide to Trading OTM Options | CryptoUB
+220406
+
+C-BTC-45000-290422
+Call, BTC, StrikePrice $45000, expiry date 29th Apr 2022
+
+Buy Calls
+BUY Puts BUY Puts BUY Puts BUY Puts BUY Puts BUY Puts 
+
+Short duration is HIGH volatility (couple of days)
+Longer duration (2 weeks to 1 month) is LOWER volatility
+End of the month is a common expiry date
+
+OTM: out the money
+ITM: in the money
+Beginners should buy OTM options (cheaper)
+Beginners should not buy ITM options
+
+Stike price: price I believe asset will be at time of expiration
+Price does not need to be above or below the strike price in order to be in profit
+So long as the price is moving, your PnL will fluctuate
+
+Expiration date. Date trade will be closed no matter what
+Expiration date determine short duration (high volatility) or long duration (low volatility)
+
+Should look to close options BEFORE expiration
+As you approach expiration, option value will decrease (theta decay) if price is remaining stable
+
+Premium: price of the option contract
+ITM will have a much higher premium (more expensive)
+OTM will have a much lower premium (less expensive)
+
+Limit price: Best offer (UB uses limit best offer, CBS just market buys)
+Enter quantity in USDT (fill this how much WILLING TO LOSE, (CBS: "our risk is defined"))
+Enter quantity in CONTracts (auto-populated)
+
