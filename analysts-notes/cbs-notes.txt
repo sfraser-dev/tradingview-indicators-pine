@@ -85,6 +85,9 @@ TERMINOLOGY: Cool off (on RSI)
 TERMINOLOGY: APPRECIATION of market conditions
 TERMINOLOGY: Alignment
 TERMINOLOGY: Exhaustion rally into bear divs
+TERMINOLOGY: Calls a channel deviation an "overthrow" TERMINOLOGY: "cbs-channel-overthrow-deviation-examples1.JPG"
+TERMINOLOGY: discussion point
+TERMINOLOGY: very extended RSI, hyper extended RSI
 
 DOMINO: RSI can have domino effects on different timeframes.
 H1 bull div, H4 bouncing 50, D1 & D3 plenty room to expand up
@@ -1005,6 +1008,17 @@ SF-SUMMARY: m15 PA chop / consolidate below SR resistance only resetting RSI (co
 SF-SUMMARY: SL below m15 consolidations try and catch BO / impulse
 
 ===== Generic Notes (start)
+BEAR-DIV-THROUGH-RESISTANCE: 90% of the time, in a trending market, this breaks upwards with force
+BEAR-DIV-THROUGH-RESISTANCE: daily update 1st Nov 2021
+BEAR-DIV-THROUGH-RESISTANCE: clear bear div on eth
+BEAR-DIV-THROUGH-RESISTANCE: but it's occurring after flip and hold of very important SR level (4200)
+BEAR-DIV-THROUGH-RESISTANCE: the TRUE momentum for this move hasn't arrived
+BEAR-DIV-THROUGH-RESISTANCE: but also clear invalidation for quick close if wrong
+BEAR-DIV-THROUGH-RESISTANCE: "cbs-bear-div-through-resistance-90percent-itll-pump1.JPG"
+BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: "cbs-mq-question-H4-rsi-div-through-resistance1.JPG"
+BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: MQ: H4 bear div breaking through reistanceno
+BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: CBS: no, look at HTF levels for rejections at these levels
+
 STONKS: Good buying strategy in bull market just buy higher highs
 PIERRE: He's been slaying the bear market
 PIERRE: Very fluid trader
@@ -1018,12 +1032,22 @@ COOL-OFF: "cbs-ltf-rsi-cool-offs-for-entry.JPG"
 TOPS: Increased volatility is usually associated with a top forming
 TOPS: Fits with Loma's DEMAND-SUPPLY-MOMENTUM-SMALLER-PUMPS -  pumps get smaller as retraces get bigger then a HL (these are volatile)
 
-FINDING-COINS-FOR-HIS-METHOD: Look for most pumping and dumping coins each day 
+FINDING-COINS-FOR-HIS-METHOD: Look for most pumping and dumping coins each day
+
+CONSOLIDATION-ABV-RESISTANCE: always fantastic setups to take (like SZ)
+
+OVER-EXTEND: Doesn't like to see the market over-extend first, wants it to cool off (reset oscillators), flip SR, THEN extend (like SZ - "if it impulse away, I miss it; if it breaks-consolidates-pumpMSB, then I will have an entry"
+
+MQ-ERRORS: Took a H4 CBS short, but look at the RSI after I was under-water 
+MQ-ERRORS: "cbs-trb-short-error-should-have-flipped-long-rsi-great-1-H4.JPG"
+MQ-ERRORS: Seeing this, I should have closed and flipped long.
+MQ-ERRORS: Also, I just took one entry
 
 ===== Generic Notes (end)
 
 ===== https://www.youtube.com/watch?v=UmoYQGcl4v8
 Aggressive Trading - RSI/Psychology/Domino Effect/Preparation
+DOMINO effect video
 PICTURES: "cbs-degen-account-sand-simple-entry-rsi50-cool-off.JPG"
 PICTURES: "cbs-degen-account-sushi-HTF.JPG
 PICTURES: "cbs-degen-account-link-H4.JPG"

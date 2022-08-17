@@ -106,4 +106,5 @@ GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-1.JPG"
 GAP-FILL: "pierre-macro-MA-gap-fill-education1.JPG"
 GAP-FILL: Different from Krill!
 GAP-FILL: Krill needs ma100 to start to curl-up AND ema200 to be flat, Pierre does not
+GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-4-krill-disagrees.JPG"
 

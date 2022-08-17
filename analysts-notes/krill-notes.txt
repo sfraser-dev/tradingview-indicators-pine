@@ -670,6 +670,45 @@ TRADER-TOM-POSITION-BUILD-WHY-LAYER?: The times you do fill all entries and it's
 TRADER-TOM-POSITION-BUILD-WHY-LAYER?: ...see "krill-laddering-entries-full-SL-but-partial-profits2.JPG" - run the simulations!
 TRADER-TOM-POSITION-BUILD-ADDING?: MQ idea, can add on MA-trends (Krill style), RSI m15 resets (CBS style)
 
+FLUID-LEVEL-TO-LEVEL: +EV trades, 3R scalp same as 3R swing
+FLUID-LEVEL-TO-LEVEL: mentally, he finds it easier to daytrade, others may fnd it easier to swing
+FLUID-LEVEL-TO-LEVEL: real meaning of EV is having a system that results in profit after a series of trades
+FLUID-LEVEL-TO-LEVEL: TP and put the money in your pocket
+FLUID-LEVEL-TO-LEVEL: keep making assymetrical bets
+FLUID-LEVEL-TO-LEVEL: scalp trade 5k risk, won 7R (35k!)
+FLUID-LEVEL-TO-LEVEL: 5k risk, 0.3% of portfolio risked, 1.6M portfolio?
+FLUID-LEVEL-TO-LEVEL: "krill-be-fluid-psychology-day-trader-level-to-level1.JPG"
+
+SECURE-PROFITS: "When in doubt at resistance, secure profits" SECURE-PROFITS: can always ape back on a retest once resistance is reclaimed if needed, but you cannot sell high again if resistance rejects
+SECURE-PROFITS: it seems really obvious when written down like this, but a few people are actually managing their positions based on this because of greed
+
+AO: AO divs are a way of reading flattening (compressing) MAs without showing MAs on your chart
+AO: AO divs are a simplified version of MA compressions
+AO: AO is an MA difference, usually get AO divs on a slow bleed (price is going down, but as it happens slowly, the gap between the MA reduces and AO goes up)
+AO-MACD: Awesome Oscillator and MACD are MA based indicators and are a simplified/aggregated way of looking at the same thing Krill looks at with his MA system
+AO-MACD: Krill considers AO and MACD inferior to a full set of MAs if you know MA theory well and can guage possible momentum shifts with MAs
+AO-DIFF-PARAMETERS: He's tried different parameters (eg: ema13 and sma25)
+AO-DIFF-PARAMETERS: Some are better for automated trade signals 
+AO-DIFF-PARAMETERS: but like every indicator / strategy, always a balance between...
+AO-DIFF-PARAMETERS: (1) ...catch move early but unconfirmed 
+AO-DIFF-PARAMETERS: (2) ...catch move later with more probability of success 
+AO-DIFF-PARAMETERS: default AO parameters (sma5 and sma34) provide a decent balance between anticipation and confirmation  
+AO-DIVS: Don't mean much to him
+AO-DIVS: "syas we made a HH, but the new H wasn't high enough to increase gap between short-term MAs
+AO-DIVS: are great when you get an extended range, helps to clear the noise during chop, similar to when my MAs start curling up in a range
+AO-DIVS: if you just have 2 price "peaks" you're much better off using RSI divs
+AO-DIVS: "krill-AO-divs-dont-mean-much-to-him.JPG"
+
+
+SHITCOINS: After doge and shib pump, look for penny coins to pump next
+SHITCOINS: Usual D1-structure (D1-trend, H4-ema200, D1-ma100 reclaim, nice gap to D1-ema200)
+SHITCOINS: Also want to see H1-ma100 and H1-ema200 holding on the shitcoins for them to be pump candidates
+SHITCOINS: "krill-shitcoin-pump-1-D1-structure-usual-primed-for-pump.JPG"
+SHITCOINS: The pattern is: "flat 1h MA100 EMA200 MA300 parallel band with price hovering above 1h MA100 with retests into 1h EMA200 with 4h EMA200 also parallel below the 1h MA band"
+SHITCOINS: "krill-shitcoin-pump-11-explanation-pattern-hes-recognised-PATTERN-EXPLANATION.JPG"
+SHITCOINS: Uses 40k-70k ("smaller") positions and liquidity is very bad even with this small amount
+
+
 ## end general / generic end
 
 =====+++++=====
@@ -1043,9 +1082,33 @@ SWING-TRADING: XMR and QNT would be his choices for swing trading.
 SWING-TRADING: XMR for privacy, QNT as working with the EU and swift (CBDC)
 SWING-TRADING: BITREX: QNTBTC*BTCUSDT to see full history of QNT
 FAN-TOKENS: CHZ (base soccer token), PSG, ATM
-1h43m
 
-
+===== Full Scan 220811 (just scanning, not educating)
+MEME-PATTERNS: Expect fakeouts in both directions
+PICO-TOPS-BOTTOMS: TOTAL and TOTAL2 are way more accurate for predicting macro tops and bottoms
+GAP-FILL: period of chop / consolidation, break D1-ma100, gap-fill to D1-ema200
+GAP-FILL: best when D1-ma100 is flat/ascending too
+GAP-FILL: if still descending, check H12, close to banana?
+GAP-FILL: can compare relative strength of coins against each other based on their MA gradients
+GAP-FILL: D1-ema13 (D1-trend) should be respected as
+the gap fill is about to happen (reversal reclaim pattern)
+MARKET-OVERVIEW-6-CHARTS: DXY, SPX, BTC, ETH, GOLD, ETHBTC
+MFI-INDICATOR: H1 spikes up good sell signal
+MFI-INDICATOR: H1 spikes down good sell signal
+HEDGING: His hedges are more like swing trades, not his normal day trades
+HEDGING: "krill-hedge-setup-example-more-like-swing-than-daytrade.JPG"
+D1-TREND-MA100-COMPRESSION: Pierre doesn't need D1-ma100 to be reclaimed and curling up to preempt the pump (krill does)
+D1-TREND-MA100-COMPRESSION: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-4-krill-disagrees.JPG"
+LUCKY-ENTRIES: Layer bids between entry and SL to catch big wicks for "lucky" entries with huge RR
+PINESCRIPT: Wants to write TV code so he can auto detect compressions
+PINESCRIPT: Seeing some possible reversal reclaims on D1 charts, so have code to tell him which H12 charts are compressing would be great
+PINESCRIPT: Would be very useful but always too much to do
+D1-EMA13: If support is CLEAN, will give good krill setups
+MARKET-STRUCTURE: Must consider MS when scanning
+MARKET-STRUCTURE: bid HLs, asks LH
+MARKET-STRUCTURE: also mentioned general MS like Lomas "triple drive dying momentum" need to know these patterns
+MARKET-STRUCTURE: "krill-bullish-and-bearish-rising-structure-LOMA-triple-drive-dying-momentum1.JPG"
+1h37m in
 
 =====************************************************=====
 ------------------  Krill checklist  ---------------------
