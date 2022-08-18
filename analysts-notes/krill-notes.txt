@@ -708,6 +708,28 @@ SHITCOINS: The pattern is: "flat 1h MA100 EMA200 MA300 parallel band with price 
 SHITCOINS: "krill-shitcoin-pump-11-explanation-pattern-hes-recognised-PATTERN-EXPLANATION.JPG"
 SHITCOINS: Uses 40k-70k ("smaller") positions and liquidity is very bad even with this small amount
 
+SL-TF-MOMENTUM: SL placement depends on momentum & timeframe
+SL-TF-MOMENTUM: The higher the TF, the wider the SL
+SL-TF-MOMENTUM: When trading against the trend, the stronger the trend, the wider the SL
+SL-TF-MOMENTUM: trading against the trend is either full reversal or mean revision
+
+FIBS: ...0 1 1 2 3 5 8 13 21 34 55 89...
+FIBS-DIFF1: 5/8 = 8/13 = 13/21 = 0.618
+FIBS-DIFF1: 8/5 = 13/8 = 21/13 = 1.618
+FIBS-DIFF2: 5/13 = 13/34 = 34/89 = 0.382
+FIBS-DIFF2: 31/5 = 34/13 = 89/34 = 2.618
+FIBS-DIFF3: 3/13 = 13/55 = 0.236
+FIBS-DIFF3: 31/3 = 55/13 = 4.236
+FIBS: For price discovery, should be 1 1.618 2.618 4.236
+FIBS: 1+1.618=2.618, 1.618+2.618=4.236
+FIBS: "krill-how-Fibs-work1.JPG"
+
+CAPITAL: 2018 crash had $150k of his own and $80k of friends and family
+CAPITAL: now portfolio between 7 and 10 figs
+CAPITAL: 1% risk for him is now more than his old monthly salary, not mentally comfortable risking more than this (says his "risk-averse" and cannot do the sizes loma does)
+
+LIQUIDITY: Need to think where liquidity is located, not just the MAs
+LIQUIDITY: "krill-liquidity-theory1.JPG"
 
 ## end general / generic end
 
@@ -1108,7 +1130,16 @@ MARKET-STRUCTURE: Must consider MS when scanning
 MARKET-STRUCTURE: bid HLs, asks LH
 MARKET-STRUCTURE: also mentioned general MS like Lomas "triple drive dying momentum" need to know these patterns
 MARKET-STRUCTURE: "krill-bullish-and-bearish-rising-structure-LOMA-triple-drive-dying-momentum1.JPG"
-1h37m in
+HSAKA: He's very good at writing, so much so that he creates his own narratives
+D1-SAFE-BUYS: If above all the D1-macro MAs and D1-ema13 is giving clean support, D1-ema13 is a very safe buy (1h39m)
+D1-SAFE-BUYS: Especially if the coin is trending hard (ETC was the chart used to explain this)
+D1-SAFE-BUYS: Very nice setup for folk that don't have a lot of time to trade
+FVG: Ineffeciencies tend to get filled with very high probability
+NARRATIVES: Very important and can cause a coin to pump hard, very good for pumps no use for dumps
+HUBOI: doesn't trade there doesn't have enough volume now
+GAINZY-RSI: Just uses the vertical bars to indicate a div or not (and these occur on any "div", doesn't have to be near extreme unlike CBS)
+ALERT-SHARING: TradingView doesn't allow you to share your alerts (but you can share watchlists so other can import them) - something he's been asking TradingView for 
+
 
 =====************************************************=====
 ------------------  Krill checklist  ---------------------

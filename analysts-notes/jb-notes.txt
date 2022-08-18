@@ -51,3 +51,13 @@ SS-STEP2.0: would I take similar trade on BTC (eg: bearish)?
 SS-STEP3.0: LTF-entry created (eg: bearish entry)
 SS-STEP3.1: no resting liquidity nearby (eg: below)
 SS-STEP3.2: no knife-catching
+
+===== atticus / CHoCH / QM (Quasimodo)
+ATTICUS: https://atticus-wierix.notion.site/atticus-wierix/HTF-fu-dQM-d7001834c25c4456bb1ca7cd14c56880
+TS-GUIDES: https://tradingstrategyguides.com/quasimodo-trading-strategy/
+QM: Distorted Head & Shoulder (H&S) pattern
+QM: CHoCH
+QM: Shark harmonic
+QM: Harder to spot than H&S
+QM: "jb-atticus-notion-site-1.JPG"
+QM: "jb-atticus-notion-site-7-quasimodo-pattern-CHoCH.JPG"
