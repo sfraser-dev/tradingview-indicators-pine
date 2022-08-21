@@ -20,6 +20,10 @@ TERMINOLOGY: Mad love
 
 TIMING: Best scalp trades should happen fast / quick
 TIMING: "jb-gmt-short-45k-position-size4-best-trades-happen-fast.JPG"
+
+BIG-MOVES: Often LTF ranges to play (m1) after a large manipulation move
+BIG-MOVES: "jb-ltf-ranges-after-big-manipulation-moves-can-play1.JPG"
+
 ===== End Generic
 
 ===== FU / sweep
@@ -58,6 +62,8 @@ TS-GUIDES: https://tradingstrategyguides.com/quasimodo-trading-strategy/
 QM: Distorted Head & Shoulder (H&S) pattern
 QM: CHoCH
 QM: Shark harmonic
+QM: Over / under pattern of UB
 QM: Harder to spot than H&S
 QM: "jb-atticus-notion-site-1.JPG"
 QM: "jb-atticus-notion-site-7-quasimodo-pattern-CHoCH.JPG"
+

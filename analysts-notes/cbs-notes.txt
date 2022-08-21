@@ -1043,6 +1043,28 @@ MQ-ERRORS: "cbs-trb-short-error-should-have-flipped-long-rsi-great-1-H4.JPG"
 MQ-ERRORS: Seeing this, I should have closed and flipped long.
 MQ-ERRORS: Also, I just took one entry
 
+SWING-TRADER-MINDSET: Playing a D3 bear div (eg: ETC D3 rsi bear div)
+SWING-TRADER-MINDSET: Multiple (i) HTF divs at (ii) HTF RESISTANCE (need both)
+SWING-TRADER-MINDSET: Volatility, hard to stick to LTF positions (chopped out)
+SWING-TRADER-MINDSET: Volatility happens like this when market about to change direction quickly
+SWING-TRADER-MINDSET: Continued weakness, markets couldn't push higher on lower timeframe bull divs
+SWING-TRADER-MINDSET: Understand playing a HTF bear div trying to get LTF entries will get chopped, try again.
+SWING-TRADER-MINDSET: History of HTF divs like this - they rarely lie and they rarely fail.
+SWING-TRADER-MINDSET: "cbs-great-performance-HTF-divs1.JPG"
+SWING-TRADER-MINDSET: CBS was saying in chat that he thought the big impulse down was yet to come; kept trying to get into short via LTF entries
+SWING-TRADER-MINDSET: I commented on this myself trying in Ducc's group, H4 harmonics just chop and not M & W patterns
+SWING-TRADER-MINDSET-1: HTF bear bivs at HTF resistance
+SWING-TRADER-MINDSET-2: Volatility / choppines at this SR
+SWING-TRADER-MINDSET-3: Failure of LTF bull divs to push up
+SWING-TRADER-MINDSET-4: Rarely lie and rarely fail
+
+DISTRIBUTION: High volatility at HTF resistance
+DISTRIBUTION: Sellers slapping down advances
+DISTRIBUTION-OPTTION1: rally complete about to sell off
+DISTRIBUTION-OPTTION2: blow off top above HTF resistance then sell off
+DISTRIBUTION-OPTTION3: wrong, it'll flip HTF resistance to support
+DISTRIBUTION: "cbs-volatility-at-resistance-distribution-TRB-1.JPG" 
+
 ===== Generic Notes (end)
 
 ===== https://www.youtube.com/watch?v=UmoYQGcl4v8

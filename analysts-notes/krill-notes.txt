@@ -707,6 +707,8 @@ SHITCOINS: "krill-shitcoin-pump-1-D1-structure-usual-primed-for-pump.JPG"
 SHITCOINS: The pattern is: "flat 1h MA100 EMA200 MA300 parallel band with price hovering above 1h MA100 with retests into 1h EMA200 with 4h EMA200 also parallel below the 1h MA band"
 SHITCOINS: "krill-shitcoin-pump-11-explanation-pattern-hes-recognised-PATTERN-EXPLANATION.JPG"
 SHITCOINS: Uses 40k-70k ("smaller") positions and liquidity is very bad even with this small amount
+SHITCOINS: very neg funding coins, observe ones that reclaimed m15-ma100, ideally m15-ma100 curling up, and haven't popped yet.
+SHITCOINS: "krill-shitcoin-negative-funding-play-on-m15ma100-curling-up.JPG"
 
 SL-TF-MOMENTUM: SL placement depends on momentum & timeframe
 SL-TF-MOMENTUM: The higher the TF, the wider the SL
@@ -730,6 +732,13 @@ CAPITAL: 1% risk for him is now more than his old monthly salary, not mentally c
 
 LIQUIDITY: Need to think where liquidity is located, not just the MAs
 LIQUIDITY: "krill-liquidity-theory1.JPG"
+
+DISCRETIONARY: He doesn't have the skills to be a quant, but he's a very good discretionary trader
+DISCRETIONARY: "krill-maths-biochemistry-discetionary-trader-not-quant.JPG"
+
+SHORT-THE-BOUNCE: After a H1-ema200 bounce, short H1-ma100, it's part of the system
+SHORT-THE-BOUNCE: "krill-short-H1ma100-after-a-H1ema200-bounce1.JPG"
+
 
 ## end general / generic end
 
@@ -1130,6 +1139,12 @@ MARKET-STRUCTURE: Must consider MS when scanning
 MARKET-STRUCTURE: bid HLs, asks LH
 MARKET-STRUCTURE: also mentioned general MS like Lomas "triple drive dying momentum" need to know these patterns
 MARKET-STRUCTURE: "krill-bullish-and-bearish-rising-structure-LOMA-triple-drive-dying-momentum1.JPG"
+MARKET-STRUCTURE-MOMENTUM-101: Parabolic moves (MA separate & increasing volume) with rounded tops (MAs compress with reducing volume)
+MARKET-STRUCTURE-MOMENTUM-101: "krill-momentum-parabolic-rounded-top-like-loma-triple-dying3.JPG"
+MARKET-STRUCTURE-MOMENTUM-101: MS is king but there are different kinds of bullish MS
+MARKET-STRUCTURE-MOMENTUM-101: strong bullish MS, distance between HHs and HLs increasing, stong momentum
+MARKET-STRUCTURE-MOMENTUM-101: weak bullish MS, distance between HHs and HL decreasing, weak momentum
+MARKET-STRUCTURE-MOMENTUM-101: "krill-momentum-parabolic-rounded-top-like-loma-triple-dying3-MS-king.JPG"
 HSAKA: He's very good at writing, so much so that he creates his own narratives
 D1-SAFE-BUYS: If above all the D1-macro MAs and D1-ema13 is giving clean support, D1-ema13 is a very safe buy (1h39m)
 D1-SAFE-BUYS: Especially if the coin is trending hard (ETC was the chart used to explain this)
