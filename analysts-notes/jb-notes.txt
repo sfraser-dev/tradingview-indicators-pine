@@ -13,6 +13,7 @@ OB: Loma: demand OB is first up candle after a down move
 OB: Loma: supply OB is first down candle after an up move
 OB: Loma-Rahmat: OB is candle that sweeps local liquidity
 OB: Talin: It's an OB ZONE, not a single candle
+OB: It's not a valid OB+ if there is liquidity just below it
 
 ===== Begin Generic
 TERMINOLOGY: Shout out to all those that took the trade with me
@@ -67,3 +68,15 @@ QM: Harder to spot than H&S
 QM: "jb-atticus-notion-site-1.JPG"
 QM: "jb-atticus-notion-site-7-quasimodo-pattern-CHoCH.JPG"
 
+===== rez ICT 2022 Mentorship Overview
+REZ-ICT: "jb-rez-ict-mentorship-crypto-trading-strat-1.JPG"
+https://twitter.com/resistanceflip/status/1561706855738605570?s=20&t=aT6ivAMFhA8nBLq9YDpEOg
+REZ-ICT: (1) H4 swing high (mid candle higher two adjacent)
+REZ-ICT: (2) H4 swing high is taken
+REZ-ICT: (3) mark m15 low (m15L1) that takes H4 high
+REZ-ICT: (4) msb below this m15 low (body - MB style)
+REZ-ICT: (5) IMPULSE THROUGH m15 LOW LEAVING **FVG**
+REZ-ICT: --(vi) new m15 low made (m15L2)
+REZ-ICT: --(vii) H4 swing high and m15L2 is a weeRange
+REZ-ICT: --(viii) price ABOVE weeRangeEQ and INTO FVG
+REZ-ICT: --(ix) SL above H4 swing high

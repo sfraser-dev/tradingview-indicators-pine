@@ -23,7 +23,8 @@ Demand only needs to sweep the high to validate
 MB (ATZ) Demands Zones / JohnnyB
 Demand needs to MSB the high to validate
 Note: WW refers to these as Liquidity Bases (LBs) and these are "stronger" than his demand zones (MSB & untouched)
-JohhnyB and the "new wave" of SMC mark their demands like MB
+JohnnyB and the "new wave" of SMC mark their demands like MB
+JohnnyB it's not a valid demand if there is liquidity just below it
 
 -- RP MSS confirmation and CBS method very similar
 (1) RP breakers (in his ranges) are like a CBS rsi 50-cross with MSB (the impulse breaking the supply produces rsi 50 cross and get in on retest of the MSB). But the breaker is the candle used for the MSB.

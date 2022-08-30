@@ -479,6 +479,16 @@ TRADE-EXECUTION: Handling layered entries not filled
 TRADE-EXECUTION: Adding to winning position
 TRADE-EXECUTION: Dealing with layered entries giving full SLs but partial wins if not all entries hit on a winning trade
 TRADE-EXECUTION: "loma-sizing-layered-entries-and-adding-blacksphere-7-mq-chart-example.JPG"
+
+BOUNCE-NOT-REVERSAL: Loma execution style posted trades
+BOUNCE-NOT-REVERSAL: Loma catches BOUNCES first, not going for reversal
+BOUNCE-NOT-REVERSAL: Wide SL with layered weighted entries  (trying to catch wick right next to invalidation for biggest entry, but not always accomplished)
+BOUNCE-NOT-REVERSAL: First TP usually less than 1R from first entry (BOUNCE catch)
+BOUNCE-NOT-REVERSAL: Second/third TP may aim for possible reversal
+BOUNCE-NOT-REVERSAL: So high win-rate with lots of small winners (not all entries hit and only TP1 hit)
+BOUNCE-NOT-REVERSAL: Occasional home-run (all entries hit, huge position built right next to invalidation (very tight stop on the final biggest entry position))
+BOUNCE-NOT-REVERSAL: Lots of small nibbles, occasional Michelin Starred meal
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL

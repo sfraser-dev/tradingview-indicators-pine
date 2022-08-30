@@ -79,6 +79,8 @@ TERMINOLOGY: "Thought process"
 TERMINOLOGY: "extension point" heading up to extreme to create 
 TERMINOLOGY: RSI full rotation to the upside (from oversold to overbought)
 TERMINOLOGY: RSI rotation to the downside (from overbought to oversold)
+TERMINOLOGY: Full continuation down still (lost 50, still heading to oversold)
+TERMINOLOGY: Full continuation up still (claimed 50, still heading to overbought)
 TERMINOLOGY: The worry is AO may just give a small nubben above zero line then another full rotation to the downside
 TERMINOLOGY: Thought process
 TERMINOLOGY: Cool off (on RSI)
@@ -88,6 +90,9 @@ TERMINOLOGY: Exhaustion rally into bear divs
 TERMINOLOGY: Calls a channel deviation an "overthrow" TERMINOLOGY: "cbs-channel-overthrow-deviation-examples1.JPG"
 TERMINOLOGY: discussion point
 TERMINOLOGY: very extended RSI, hyper extended RSI
+TERMINOLOGY: loss of 50 (start dropping below it)
+TERMINOLOGY: rejecting from 50 (down "bounce" from 50)
+TERMINOLOGY: bouncing from 50 (up bounce from 50)
 
 DOMINO: RSI can have domino effects on different timeframes.
 H1 bull div, H4 bouncing 50, D1 & D3 plenty room to expand up
@@ -1065,6 +1070,8 @@ DISTRIBUTION-OPTTION2: blow off top above HTF resistance then sell off
 DISTRIBUTION-OPTTION3: wrong, it'll flip HTF resistance to support
 DISTRIBUTION: "cbs-volatility-at-resistance-distribution-TRB-1.JPG" 
 
+OVERVIEW: If clear/strong m15 bull divs do nothing (no up move) and kind-of/weak m15 bear divs cause pukes, this tells us the market is VERY WEAK
+
 ===== Generic Notes (end)
 
 ===== https://www.youtube.com/watch?v=UmoYQGcl4v8
@@ -1140,6 +1147,21 @@ DEGEN: 10k deposited into Bybit, high leverage
 DEGEN: (8BTC) 150k btc long (70x leverage), also in 2 shorts
 DEGEN: Really pushing the degen account
 TRADER-TOM-STYLE: Enters position, looks to add if proved correct, has specific TP targets to get out
+
+===== https://www.youtube.com/watch?v=e1VUdjRBcGI
+HTF Trading - Giving Up on Set Ups and Overtrading Yourself Out of Plays
+SWING-TRADER: He's a swing trader that looks for LTF entries
+SWING-TRADER: eg: HTF bear divs into HTF resistance 
+SWING-TRADER: Looking for shorts based on simple HTF analysis
+SWING-TRADER: 1) remember what we're trading and why
+SWING-TRADER: 2) ignore LTF action unless it directly cntributes to LTF thought process
+SWING-TRADER: 3) understand the expectation of where we're trading. LTF versus HTF positioning
+SWING-TRADER: Might get a few SLs (lose 1% each time) but need to take these loses to hit the home run
+SWING-TRADER: If you want to be a successful HTF (D3 swing) trader, MUST keep attempting LTF (m15) entries despite SLs
+SWING-TRADER: LTF entries keeps you focused
+SWING-TRADER: Don't discord / CT distract you (they will)
+SWING-TRADER: "cbs-HTF-SwingTrader-LTF-entries-1.JPG"
+
 
 =======
 1. RANGING: Divs (~14 candles max, extremes, lock-in)
