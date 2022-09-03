@@ -741,6 +741,8 @@ SHORT-THE-BOUNCE: "krill-short-H1ma100-after-a-H1ema200-bounce1.JPG"
 
 TRADING-COMPONENTS: "TA is 20% of trading then it's 40% strategy (crafting good setups), 30% emotion control/discipline, 10% luck"
 
+SCALPING-ETHOS: "scalping is no emotion no greed otherwise NGMI - lower timeframe = more opportunities for trades, and also higher probability of quickly roundtripping your entry"
+
 ## end general / generic end
 
 =====+++++=====

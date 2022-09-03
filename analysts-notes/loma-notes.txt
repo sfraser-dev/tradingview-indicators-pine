@@ -489,6 +489,17 @@ BOUNCE-NOT-REVERSAL: So high win-rate with lots of small winners (not all entrie
 BOUNCE-NOT-REVERSAL: Occasional home-run (all entries hit, huge position built right next to invalidation (very tight stop on the final biggest entry position))
 BOUNCE-NOT-REVERSAL: Lots of small nibbles, occasional Michelin Starred meal
 
+SHITCOIN-APP: https://app.laevitas.ch/altsderivs/BINANCE/perpetualswaps
+SHITCOIN-APP: "Highly recommend you guys use this app for Binance-related shitcoin searches"
+SHITCOIN-APP: "Be creative with it, sort things of importance: Volume, OI, Funding, etc"
+SHITCOIN-APP: "loma-shitcoin-app-for-binance-futures.JPG"
+
+LAYERED-ENTRIES: New journal 220901, new entry approach?
+LAYERED-ENTRIES:
+"loma-decreasing-exponential-entries1.JPG"
+LAYERED-ENTRIES: These seem to have big initial entry then smaller extra entries (I presume layered, increasing size as it goes deeper into SL trying to catch wick)
+LAYERED-ENTRIES: ..he norally says start small then add more and more, bigges add right next to invalidation, try for very very lucky entry
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
