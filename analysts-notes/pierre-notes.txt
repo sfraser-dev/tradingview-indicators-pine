@@ -50,6 +50,8 @@ METHOD: ---
 METHOD: Horizontal and trend are designed so that the trade goes with the prevailing & established market structure & trend
 METHOD-SUMMARY: Stoch is used to help with timing
 METHOD: "pierre-trend-system-is-designed-to-long-on-bullish-MS-1.JPG"
+METHOD: Krill: "Pierre nearly exclusively trades trend continuation patterns" (not trend reversal patterns)
+METHOD: "krill-when-is-the-trend-reclaimed-continuation-or-reversal-1.JPG"
 
 === Pierre use of MAs
 MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs

@@ -18,6 +18,7 @@ OB: It's not a valid OB+ if there is liquidity just below it
 ===== Begin Generic
 TERMINOLOGY: Shout out to all those that took the trade with me
 TERMINOLOGY: Mad love
+TERMINOLOGY: Let me know if you longed it with me!
 
 TIMING: Best scalp trades should happen fast / quick
 TIMING: "jb-gmt-short-45k-position-size4-best-trades-happen-fast.JPG"
@@ -80,3 +81,5 @@ REZ-ICT: --(vi) new m15 low made (m15L2)
 REZ-ICT: --(vii) H4 swing high and m15L2 is a weeRange
 REZ-ICT: --(viii) price ABOVE weeRangeEQ and INTO FVG
 REZ-ICT: --(ix) SL above H4 swing high
+
+

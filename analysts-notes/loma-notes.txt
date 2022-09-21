@@ -410,6 +410,7 @@ INVALIDATION-SZ: EG: Short just below SR, short more at SR, short even more just
 STAIRS-UP: Staircase up pattern never ends well
 STAIRS-UP: stairs up, elevator down
 STAIRS-UP: "loma-staircase-up-never-ends-well-elevator-down1.png"
+STAIRS-UP: When it takes weeks to grind up constantly (people start to become a bit greedy) then gets utterly rugged in a couple of days with brutal red candles, VERY bearish
 
 ===== https://www.youtube.com/watch?v=jiS6P3mMsm4
 "Loma's Lounge: Bear Market Rally or Reversal?"
@@ -500,6 +501,28 @@ LAYERED-ENTRIES:
 LAYERED-ENTRIES: These seem to have big initial entry then smaller extra entries (I presume layered, increasing size as it goes deeper into SL trying to catch wick)
 LAYERED-ENTRIES: ..he norally says start small then add more and more, bigges add right next to invalidation, try for very very lucky entry
 
+OB: https://www.youtube.com/watch?v=bUgvJOWEScc  (46 minutes)
+OB: "loma-OB-how-he-draws-and-uses-orderblocks-1.JPG"
+OB: Takes the most significant areas in his opinion
+OB: He uses OBs as support and resistance
+OB: But SR means nothing if not put into context
+OB-SUPPLY: DOWN candle open after pump (HIGHEST CLOSE)
+OB-DEMAND: UP candle open after dump (LOWEST CLOSE)
+OB: He likes to have them there, but they're not auto buys or sells
+OB: Uses them as a supplement to what he sees going on in the market
+OB: Don't buy at the begining of a LOMA-OB, buy after it's been successfully swept
+OB: Just because something is at support does not mean you have to buy it
+OB: Just because something is at resistance does not mean you have to sell it
+OB: Looking for specific reactions (eg: Koz style sweep and reclaim) - much better area to enter than demand top
+
+BACKTESTING: Don't need to backtest, market condtions always changing, understand the TA you use and adapt that to the market condtions.
+
+HARD-STOPS: don't need hard stops after TPing
+HARD-STOPS: "loma-no-hard-stops-after-TPing.JPG"
+
+TRIPLE-DRIVE-DYING-MOMENTUM: CHART: "loma-triple-drive-dying-momentum-full-breakdown1.JPG"
+TRIPLE-DRIVE-DYING-MOMENTUM: FULL-BREAKDOWN: "loma-triple-drive-dying-momentum-full-breakdown2.JPG" 
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
@@ -584,3 +607,13 @@ IMPULSE-CANDLES: Want to see them not get retraced; this is a sign of weakness (
 VIDEO: Part1- https://www.youtube.com/watch?v=a3wL0OktSrA
 VIDEO: Part2- https://www.youtube.com/watch?v=d3mmLd_VO0w
 VIDEO: Part3- https://www.youtube.com/watch?v=S12sK6nC-OQ
+
+===== https://www.youtube.com/watch?v=MnggNCzBTUM
+TITLE: Loma's Lounge Ep.3: CPI, BTC and PAIN
+TA: People think TA is used to predict the market, it's not, it's used to define your risk (9 mins)
+TA: Is not really real, it's a mental and technical framework to define risk
+ICT: ICT methods work, he's just far too wordy and repackages other concepts, vastly over complicates it. Loma use PA, just more simply.
+MARKET-BIAS-INDICATOR: If price takes 2 days to go up, then 1 H4 candle wipes it all out, bears are in charge of markets
+PROFITABLE: Took Loma 2 years to make money (42 mins)
+PROFITABLE: Didn't happen overnight, was eating shit, ate less shit, became break even, then marginally profitable, then profitable, then the bull market came and he banged!
+PROFITABLE: It happened gradually, but to others it looked like he did it overnight.

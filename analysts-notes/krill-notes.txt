@@ -694,7 +694,7 @@ AO-DIFF-PARAMETERS: (1) ...catch move early but unconfirmed
 AO-DIFF-PARAMETERS: (2) ...catch move later with more probability of success 
 AO-DIFF-PARAMETERS: default AO parameters (sma5 and sma34) provide a decent balance between anticipation and confirmation  
 AO-DIVS: Don't mean much to him
-AO-DIVS: "syas we made a HH, but the new H wasn't high enough to increase gap between short-term MAs
+AO-DIVS: "says we made a HH, but the new H wasn't high enough to increase gap between short-term MAs
 AO-DIVS: are great when you get an extended range, helps to clear the noise during chop, similar to when my MAs start curling up in a range
 AO-DIVS: if you just have 2 price "peaks" you're much better off using RSI divs
 AO-DIVS: "krill-AO-divs-dont-mean-much-to-him.JPG"
@@ -743,6 +743,21 @@ TRADING-COMPONENTS: "TA is 20% of trading then it's 40% strategy (crafting good 
 
 SCALPING-ETHOS: "scalping is no emotion no greed otherwise NGMI - lower timeframe = more opportunities for trades, and also higher probability of quickly roundtripping your entry"
 
+DALAI-LAMA: "Volume is key for possible dalai-lama" (along with trend reclaim)
+DALAI-LAMA: "krill-dalai-lama-volume-is-key1.JPG"
+
+TREND-RECLAIM: The trend is reclaimed when we break above & ideally next candle close above too
+TREND-RECLAIM: Trend rarely goes from bearish to bullish, always a period of chop (chop through the trend)
+TREND-RECLAIM: "krill-when-is-the-trend-reclaimed-continuation-or-reversal-1.JPG"
+TREND-RECLAIM: Continuation or reversal?
+TREND-RECLAIM: Reversal: not clear with trend, check for compressions on a lower TF
+TREND-RECLAIM: Reversal: also need to use PA / liquidity
+TREND-RECLAIM: Continuation: just bid the trend (this is nearly what Pierre does exclusively)
+
+CORRECT-TREND: m15-ema13 bearish trend is ONLY of interest if we're already trending below H1-ema13
+CORRECT-TREND: H1-ema13 is ONLY of interest if we're trending below H4-ema13
+CORRECT-TREND: "krill-when-is-the-trend-valid-2.JPG"
+
 ## end general / generic end
 
 =====+++++=====
@@ -752,6 +767,7 @@ The best lows are when the lows are swept
 MFI Money Flow Index
 MFI is RSI but weighted by volume
 MFI resets (oversold) are better than RSI for his system
+MFI "krill-indicators-used-rsi-mfi-stochRSI-1.JPG"
 When ETH/BTC pumps but BTC weak usually ends up giving a market wide correction
 Mostly daytrades, he not great swing trader (hates drawdown)
 MICRO bias (btc) is D1-ma50 (ie: H12-ma100)
@@ -805,6 +821,11 @@ DAYTRADE: Look at HTFs first, then H1 for entries
 DAYTRADE: Krill is daytrader mostly on H1 chart
 STOCH: He added Stoch RSI after Pierre's success with it
 STOCH: Careful with Stoch without other confluence, it can remail oversold a very long time
+STOCH: He uses Stoch as Pierre uses it
+STOCH: Great for H4-trend retests with Stoch confluence
+STOCH: Stoch floored and H4-trend support is a long
+STOCH: Stoch maxxed and H4-trend resistance is a short
+STOCH: "krill-indicators-used-rsi-mfi-stochRSI-1.JPG"
 CLEANCHART: He keeps only ema200 when scanning (removes ma100, ma300 and ema13)
 H12: H12 timeframe is tricky, works on some coins but not on others (works on ETH)
 CHOPPY-PA: If have a strong compression but price is choppy around it, then ignore compression, it is gone (would like to see a quick reaction)
@@ -837,6 +858,8 @@ NO-FUTS: Flipping shitcoins in 2019 for 10-20%, Pierre
 NO-FUTS: Buying H4-ema200.
 NO-FUTS: This is how they survived the bear market
 GAINZY-RSI: The vertical bars on this indicator represent divs (but not necessarily in extremes)
+GAINZY-RSI: He doesn't use the different RSI colors
+GAINZY-RSI: "krill-indicators-used-rsi-mfi-stochRSI.JPG"
 BANANA: Reversal from downtrend, want to see ma100 starting to turn up with ema200 & ma300 tightening / flattening
 COMPRESSION: D1 macros together and flat is good 
 COMPRESSION: trend (& H4-200ema) support and curling up

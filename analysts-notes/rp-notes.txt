@@ -1,2 +1,8 @@
 TERMINOLOGY: Clutch
 TERMINOLOGY: Love to see it
+TERMINOLOGY: X.XR booked
+
+METHODOLOGY: HTF OBs (loose, only sweep needed to validate)
+METHODOLOGY: LTF ranges between HTF OBs
+METHODOLOGY: LTF OBs in the way of liquidity points ignored
+METHODOLOGY: "aggr-MQ-RP-methodology1.JPG"
