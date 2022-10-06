@@ -16,23 +16,23 @@
 220405 https://youtu.be/4ZaNy89b4AE
 220408 https://youtu.be/8B8-3o6VFHM
 *** [[wassifier summaries starts from 220412; Loma Youtube links in there]]***
-- 220412 https://youtu.be/3jdnwCOke0I 
-220415 https://youtu.be/0oMMQPg2NEQ
-220419 https://youtu.be/CXrQwYX-j48
-220422 https://youtu.be/NJldYD3CF44
-220426 https://youtu.be/ytXW8GR6O4A
-220426 https://youtu.be/mNIE2StNqkY (same date again)
-220429 https://youtu.be/VuIYimV6XE0
-220503 https://youtu.be/WajSZ92YYYI
-220506 https://youtu.be/DBDT9fBCUNk
-220510 https://youtu.be/9Xsh-3K_gIU
-220513 https://youtu.be/MyV23q23HmU
-220520 https://youtu.be/O7N3AcCyGP0
-220524 https://youtu.be/hhid-V0wqG0
-220531 https://youtu.be/8QJmMCC1CRQ
-220603 https://youtu.be/I6262aNpVTw
-- Lance Breitstein https://www.youtube.com/watch?v=a3wL0OktSrA
-220614 https://youtu.be/ZquwIXhfx5w
+-- 220412 https://youtu.be/3jdnwCOke0I 
+-- 220415 https://youtu.be/0oMMQPg2NEQ
+-- 220419 https://youtu.be/CXrQwYX-j48
+-- 220422 https://youtu.be/NJldYD3CF44
+-- 220426 https://youtu.be/ytXW8GR6O4A
+-- 220426 https://youtu.be/mNIE2StNqkY (same date again)
+-- 220429 https://youtu.be/VuIYimV6XE0
+-- 220503 https://youtu.be/WajSZ92YYYI
+-- 220506 https://youtu.be/DBDT9fBCUNk
+-- 220510 https://youtu.be/9Xsh-3K_gIU
+-- 220513 https://youtu.be/MyV23q23HmU
+-- 220520 https://youtu.be/O7N3AcCyGP0
+-- 220524 https://youtu.be/hhid-V0wqG0
+-- 220531 https://youtu.be/8QJmMCC1CRQ
+-- 220603 https://youtu.be/I6262aNpVTw
+--- Lance Breitstein https://www.youtube.com/watch?v=a3wL0OktSrA
+-- 220614 https://youtu.be/ZquwIXhfx5w
 
 =====*****
 Loma — 27/04/2021
@@ -521,8 +521,52 @@ HARD-STOPS: don't need hard stops after TPing
 HARD-STOPS: "loma-no-hard-stops-after-TPing.JPG"
 
 TRIPLE-DRIVE-DYING-MOMENTUM: CHART: "loma-triple-drive-dying-momentum-full-breakdown1.JPG"
-TRIPLE-DRIVE-DYING-MOMENTUM: FULL-BREAKDOWN: "loma-triple-drive-dying-momentum-full-breakdown2.JPG" 
+TRIPLE-DRIVE-DYING-MOMENTUM: FULL-BREAKDOWN: "loma-triple-drive-dying-momentum-full-breakdown2.JPG"
 
+METICULOUS: Loma: "good" trading should be meticulous and dull. Careful analysis, copied over and over again.
+It's hard but boring if that makes sense, like doing taxes
+METICULOUS: "loma-profitable-trading-is-boring-meticulous-and-repetitive.JPG"
+
+SWEEP: A sweep only matters if there is continuation (FOLLOW-THROUGH)
+
+SPELL-RETEST: The low of the consolidation that led to the high before the PoB on HIGH TIME FRAME LEVELS
+SPELL-RETEST: "loma-spell-low-of-consolidation-retest.png"
+
+DAILY-ROUTINE: "loma-daily-routine-check-top-10-coins-and-narratives-and-checkFeed.png"
+
+DISTRIBUTION: Distribtion is sweep plus slowinging momentum
+DISTRIBUTION: "loma-distribution-is-sweep-and-slowing-momentum.png"
+
+CHECK: Loma checks trades he's in every 5 minutes
+
+FRAMEWORK: TA is a framework to manage market perspective and manage risk
+FRAMEWORK: No-one says TA is 100 or 80%, it is truely a coin-flip if trading 50 or 60% hitrates 
+FRAMEWORK: Important as TA tells you when you are wrong, so can still make money even with 40 or 50% hitrate
+FRAMEWORK: TA could be EW, FA new, MP, moon cycles, OI - just a way to understand the market
+
+JOURNAL-GOAL-SEP2022: Started with $1M, up 50% a month later, no 30% winners, just 5% here, couple% there
+JOURNAL-GOAL-SEP2022: Loma calls this slow and steady!
+JOURNAL-GOAL-SEP2022: Doesn't matter if miss 3 or 5 setups, irrelevant
+JOURNAL-GOAL-SEP2022: Sometimes the right approach doesn't win, focus on the PROCESS, be PATIENT..
+JOURNAL-GOAL-SEP2022: ..don't TILT, make consistantly good decisions (9/10), don't focus on results
+JOURNAL-GOAL-SEP2022: slow and steady, don't try and get rich quick
+JOURNAL-GOAL-SEP2022: Bear market is just in and out, try and compound a bit here and there
+JOURNAL-GOAL-SEP2022: Bull market is when you get your 10x, 20x and 30% trades
+JOURNAL-GOAL-SEP2022: difficult market, move slow, bet small, get in sync with market..
+JOURNAL-GOAL-SEP2022: ..start nailing trades (big coins, btc, eth, etc), then go hard (introduce smaller alts)
+
+TRIPLE-DRIVE-DYING-MOMENTUM: MQ: Use Heikin Ashi candles / RSI / AO?
+TRIPLE-DRIVE-DYING-MOMENTUM: MQ: "loma-triple-drive-dying-momentum-heikinAshi-1.png"
+
+LOMA-TA: I actually employ probably the most basic of TA, but it comes down to refining discretionary..
+LOMA-TA: ..skills and general market intuition that does it for me.
+LOMA-TA: "loma-not-good-at-TA-but-discretionary-skills-and-market-intuition.png"
+
+CEO: If CEOs are stepping down, it's because they don't see a bull market soon (they stay for bull markets)
+
+CASH: Holding cash is essentially a 1x short
+
+MARKET: 
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL

@@ -9,6 +9,8 @@ Hsaka Twitter Thread
 https://twitter.com/hsakatrades/status/1030321802403373057?lang=en-GB
 CJ (Killmex) Orderflow
 https://twitter.com/godcomplex96/status/1552988984938225665?s=21&t=oMz8iqCXO0naRRCLjA8AIA
+VISION: General: https://yourtradingcoach.com/
+VISION: Pivots: https://www.tradingsim.com/day-trading/pivot-points
 
 =====
 VWAP: Vision: all the big boys use VWAPs
@@ -65,3 +67,8 @@ This is the hardest job in the world.. I would say 7+ years is probably average,
 Yeh most people do this game when they're retired.
 In their 60's
 key thing is to not system hop man. That is literally where you leak time.
+
+===== start generic
+SFP-SWEEP: "aggr-not-every-sweep-is-an-sfp-has-to-be-swing-point1.png"
+SFP-SWEEP: Now every sweep is a SFP, SFP should be of a clear swing point
+===== end generic

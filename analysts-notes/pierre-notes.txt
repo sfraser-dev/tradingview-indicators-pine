@@ -1,3 +1,9 @@
+=== Education MAs NYO
+UB, KRILLIN, and Pierre NYO Stream - Lots of MA theory with Krill 220928:
+VIDEO-U-K-P: https://www.youtube.com/watch?v=Ctl5J2Z71vw
+VIDEO-U-K-P: https://www.youtube.com/watch?v=zKYAGIhvItw (1m 30s clip of textbook MA pattern)
+VIDEO-U-K-P: UB-Krill-Pierre-NYO-220913.pdf Wassie summary
+PATTERN: H1-ma100 usually gives deadcat bounce, then taps H1-trend, then dumps to H1-ema200 textbook EMA pattern
 === Many MAs on one indicator (just use Krill's script instead)
 INDICATOR: Name of the indicator: "Andre's 8EMA+8MA+BB+Ichimoku"
 INDICATOR: here's the Youtube video he made back then to set it up: https://www.youtube.com/watch?v=almTrFf3Q3c
@@ -52,6 +58,11 @@ METHOD-SUMMARY: Stoch is used to help with timing
 METHOD: "pierre-trend-system-is-designed-to-long-on-bullish-MS-1.JPG"
 METHOD: Krill: "Pierre nearly exclusively trades trend continuation patterns" (not trend reversal patterns)
 METHOD: "krill-when-is-the-trend-reclaimed-continuation-or-reversal-1.JPG"
+
+METHOD: Pierre is a H4/D1 trader who will try and compound his trades.
+METHOD: Krill is a daytrader/scalper who tries to nail entries and TP along the way (doesn't compound).
+METHOD: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot (not so many compressions on H4)
+METHOD: "praise-from-pierre-for-explaining-his-system-1.png"
 
 === Pierre use of MAs
 MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs
@@ -109,4 +120,52 @@ GAP-FILL: "pierre-macro-MA-gap-fill-education1.JPG"
 GAP-FILL: Different from Krill!
 GAP-FILL: Krill needs ma100 to start to curl-up AND ema200 to be flat, Pierre does not
 GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-4-krill-disagrees.JPG"
+
+===== TERMINOLOGY
+All eyes on
+Curious to see
+I'm extremely curious to see
+To be honest
+Super curious
+Super excited
+Let's see how it goes (what we get)
+Can't be surprised
+I insist 
+Sit on my hands
+As discussed previously (huge text walls citing every possibility)
+As discussed and shared
+As expected
+Rode Sol last summer, amazing
+Rode Luna to 3 figs, 
+Must hold
+Must break
+Don't forget to pay yourself
+Don't hesitate to take some profits
+I'm an analyst, not a trader 
+Took a small size trade, risky, because BTC
+Sad for btc, sad.
+Nothing has changed
+Must read
+Feels good
+LMAO! Hahahaha! lol
+What can I say
+Yup
+Nice bounce (for us)
+And denied
+Indeed
+It's a shake
+That's one good battle
+Congratulations everyone
+Congrats (to everyone who got in trade even though entry wasn't hit)
+What a banger trade
+Good place to secure profits
+Feels good
+GG
+Perfection
+Hopefully we get answers to these questions (unelected spokesman for crypto)
+Scary (enters long trade but "scary" as BTC at resistance, "be careful")
+Takes a Loma trade (or CBS), then starts analysing after it's done well ("I'm also in")
+Talk like he is BTC when it's doing well: "we've made a strong move up, great to see!"
+"we've made a good move off H1-trend, GG to anyone that bid this (huge) area that I said might be important but didn't say to long it let alone provide a setup for it"
+We're fighting to break
 

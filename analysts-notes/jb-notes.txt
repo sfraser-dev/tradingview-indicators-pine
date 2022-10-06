@@ -26,14 +26,19 @@ TIMING: "jb-gmt-short-45k-position-size4-best-trades-happen-fast.JPG"
 BIG-MOVES: Often LTF ranges to play (m1) after a large manipulation move
 BIG-MOVES: "jb-ltf-ranges-after-big-manipulation-moves-can-play1.JPG"
 
+MON-RANGE: https://twitter.com/mindset_btc/status/1558423271779213312?s=46&t=q8SkeiIHS9d6Pbp9FjEqYA
+MON_RANGE: "jb-importance-of-mondays-range0.png"
+
 ===== End Generic
 
-===== FU / sweep
+===== MEANINGS
 FU: Means Fuck You, Sweep
 FU: Consolidation under bearish sweep means dump
 FU: Consolidation above bullish sweep means pump
 FU: "jb-GMT-short-FU-is-liquidity-raid2-consolidation-under-FU-bearish.JPG"
 FU: Like SZ - break, consolidate, break again
+NEOK-M1>M1: "m1 > m1" means 1 min sweep & break of structure
+NEOK-M1>M1: "jb-neok-trade-recaps-M1-to-M1-meaning.JPG"
 
 ===== NOTION: JB's TA Methodology:
 MB-MS: Use wicks to mark HH, HL, LH, LL (MB style)
@@ -82,4 +87,12 @@ REZ-ICT: --(vii) H4 swing high and m15L2 is a weeRange
 REZ-ICT: --(viii) price ABOVE weeRangeEQ and INTO FVG
 REZ-ICT: --(ix) SL above H4 swing high
 
+===== neok how he finds his setups
+SETUP-TEMPLATE: "jb-neok-how-he-finds-his-setups.png"
+SETUP-TEMPLATE: (1) Mark out H1 levels on BTC and ETH
+SETUP-TEMPLATE: (2) wait for price to these levels
+SETUP-TEMPLATE: (3) LTF confirmation at these levels long/short
+SETUP-TEMPLATE: (4) prefers LTF BoS (impulse) resulting in a FVG
+SETUP-TEMPLATE: (5.0) (short) SL above the high, TP at SSL (sell side liquidity) or FVG fill
+SETUP-TEMPLATE: (5.1) (long) SL below the low, TP at BSL (buy side liquidity) or FVG fill  
 

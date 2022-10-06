@@ -647,6 +647,7 @@ TREND-DOMINOS-EDU: can also be used in conjuction with other PA, like UBs range 
 SWING-TRADING: "krill-MAs-for-swing-setups.JPG"
 SWING-TRADING: Best MA setups for swing trading
 SWING: Flattening of D1-ma100 + D1-ema200, H4-ema200 reclaimed & D1-ema13 turning continuous support
+SWING: He doesn't swing much, but expects at least an x2 when he does (doesn't want to wait long for 4R when he can have multiple 4R trades scalping)
 
 TREND-RIDING-EMA13: H4-ema13 is for trend-riding, NOT REVERSALS
 TREND-RIDING-EMA13: V-reversals are rare, and so are instant H4-ema13 long support to H4-ema13 short resistance, expect chop first
@@ -758,6 +759,27 @@ CORRECT-TREND: m15-ema13 bearish trend is ONLY of interest if we're already tren
 CORRECT-TREND: H1-ema13 is ONLY of interest if we're trending below H4-ema13
 CORRECT-TREND: "krill-when-is-the-trend-valid-2.JPG"
 
+BEST-MAs: "I know at first having a lot of moving averages on your chart can be a bit overwhelming"
+BEST-MAs: "ema13/21 for the trend is important, especially if you're reading Pierre's analysis and trade ideas on top of mine"
+BEST-MAs: "ema200 is the best and depending on the time frame there is this key info that m15-ema200 is pretty much the same as H4-EMA13, so that means we can translate low TF compressions on the m15 chart into H4 trend reclaims and rejections"
+BEST-MAs: "H4-ema200 is great to display on every single time frame, and ma100 is also good on every single timeframe."
+BEST-MAs: "ma20/ema54/ema89 from my indicator can be ignored."
+BEST-MAs: "And a bit controversial take because it's a very popular one for stocks and even crypto, but I think ma200 isn't great at all and I always ignore it and prefer to work with ma300 which makes the compressions with ma100 and ema200 in my system."
+BEST-MAs: "krill-MA-system-what-MAs-are-the-best.JPG"
+
+MACRO-TIMEFRAME: Krill Created new channel, "macro-trades" based off H4, D1 and D3 charts
+MACRO-TIMEFRAME: "krill-macro-plan-channel-H4-D1-D3-charts.JPG"
+
+STRONG-IMPULSE: After strong impulse from the lows, look to enter safely on H1-trend
+STRONG-IMPULSE: After strong impulse from the lows, look to enter aggressively on m15-trend for parabolic moves
+
+NEWS: Krill doesn't really read the news, info is baked into the chart
+
+WICKED-OUT: Would rather have a tight stop with high R than a loose stop with low R.
+WICKED-OUT: Will get wicked out more, but much better EV.
+
+JOURNAL: https://twitter.com/MeCryptoCookie/status/1337313101583093760?s=20&t=0jErpacPLyXMi_qFuYI6NQ
+JOURNAL: Add 2 more columns, MAE & MFE, what happened to coin after closing the trade?
 ## end general / generic end
 
 =====+++++=====

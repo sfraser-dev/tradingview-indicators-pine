@@ -1070,8 +1070,11 @@ DISTRIBUTION-OPTTION2: blow off top above HTF resistance then sell off
 DISTRIBUTION-OPTTION3: wrong, it'll flip HTF resistance to support
 DISTRIBUTION: "cbs-volatility-at-resistance-distribution-TRB-1.JPG" 
 
-OVERVIEW: If clear/strong m15 bull divs do nothing (no up move) and kind-of/weak m15 bear divs cause pukes, this tells us the market is VERY WEAK
+MARKET-OVERVIEW: If clear/strong m15 bull divs do nothing (no up move) and kind-of/weak m15 bear divs cause pukes, this tells us the market is VERY WEAK
 
+WANING-MOMENTUM: Not a bull div according to CBS's RSI rules, but price making LLs and RSI making HLs is "waning momentum" or a "reduction in momentum".
+WANING-MOMENTUM: Perhaps more than 14 candles and not in an extreme so NOT a rsi bull div
+WANING-MOMENTUM: May act like a bull div BUT such structures can nuke easily, taking out all the lows (elevator down)
 ===== Generic Notes (end)
 
 ===== https://www.youtube.com/watch?v=UmoYQGcl4v8
