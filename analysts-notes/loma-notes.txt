@@ -566,7 +566,8 @@ CEO: If CEOs are stepping down, it's because they don't see a bull market soon (
 
 CASH: Holding cash is essentially a 1x short
 
-MARKET: 
+
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
@@ -661,3 +662,33 @@ MARKET-BIAS-INDICATOR: If price takes 2 days to go up, then 1 H4 candle wipes it
 PROFITABLE: Took Loma 2 years to make money (42 mins)
 PROFITABLE: Didn't happen overnight, was eating shit, ate less shit, became break even, then marginally profitable, then profitable, then the bull market came and he banged!
 PROFITABLE: It happened gradually, but to others it looked like he did it overnight.
+
+===== "https://www.youtube.com/watch?v=7u-nrjwW64A" 
+TITLE: Loma's Lounge Ep.8: IS THIS A BOTTOM OR SCAM?
+R-SCAM: 15m30s
+R-SCAM: "loma-dont-take-R-seriously.png"
+R-SCAM: Doesn't take R seriously, can't pay your bills with "R"
+R-SCAM: There are people that don't tweak their setup midway (move SL closer to entry to increase R then post the chart)..
+R-SCAM: .. but he's seen many tweak their trades (move SL) and post them, are trying to scam people with this
+R-SCAM: You account for your portfolio for how much money you make in percentages, 2x 10x your account
+R-SCAM: If you're not tweaking / manipulating the R as the trade progresses, then R is fine
+PERSONALITY: you can tell successful traders by their personality
+PERSONALITY: they will not get offended easily
+PERSONALITY: HighStakesCapita doxxed himself as poker pro, Loma says poker and trading very similar personality needed
+LEVEL-RECLAIM: Loma marked H4 SR level, would consider it reclaimed if if 2 H1 candles close above it
+LEVEL-RECLAIM: If you were short, then close short on 1st H1 close above the SR, open long on 2nd H1 close above SR
+LEVEL-RECLAIM: "a failed short is a good reason to long"
+LEVEL-RECLAIM: this is a bit like SZ confirmation (SZ goes into much lower TFthough, break HTF SR, hold abv, LTF MSB again)
+OVERNIGHT: Loma will only leave overnight positions if he "can define the risk"
+CORRECT-TT: Hard for him to verbalise this thought process on stream, normally done instictively
+CORRECT-TT: Loma is statistically wrong 40% of the time - so always making levels (TA) so market can show him when he's wrong
+CORRECT-TT: If market were to tell me am an idiot, how would it do it?
+CORRECT-TT: If market were to cuff me, how would it do it?
+CORRECT-TT: Loma is "risk averse" - how could I be wrong, how am I going to get fucked over..
+CORRECT-TT: ..most people are the opposite, they think "how much money am I going to make"..
+CORRECT-TT: .. 20% upside, I can 5x my account, I can DOUBLE my account in one trade!
+CORRECT-TT: He's assuming he could be wrong, how would market verify he is in fact wrong (TraderTom style)
+SYSTEM: Loma started in bull market, easy, just used RSI (OB/OS/div) easy money
+SYSTEM: See what's giving you 80% of your results and just double down in that
+SYSTEM: Loma is good trader in all conditions except for "range-bound"; he steps away in the chop
+SYSTEM: Will take a trade based on invalidation (like SZ), 2% SL, BNB, whole account position size
