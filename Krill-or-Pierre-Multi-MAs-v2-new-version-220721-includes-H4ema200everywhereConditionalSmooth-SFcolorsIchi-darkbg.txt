@@ -166,7 +166,7 @@ plot((m_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_m, linew
 // fill macro MAs (Ichi cloud!)
 fillColorSelectK = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fillColorSelectP = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
-fillColorSelectM = (ma100 > ma300) ? color.new(#d1d4dc, 90) : color.new(#ec407a, 90)
+fillColorSelectM = (ma100 > ma300) ? color.new(#d1d4dc, 75) : color.new(#ec407a, 75)    // very transparent touch of {grey,pink}
 fill(p100maK, p300maK, k_col_selected ? fillColorSelectK : na, title="K Ichi", display=display.none)
 fill(p100maP, p300maP, p_col_selected ? fillColorSelectP : na, title="P Ichi", display=display.none)
 fill(p100maM, p300maM, m_col_selected ? fillColorSelectM : na, title="M Ichi")
