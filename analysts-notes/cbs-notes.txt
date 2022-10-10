@@ -1173,7 +1173,33 @@ TREND: Will make a lot more money if you adopt the thought process to being on t
 TREND: "cbs-not-a-bearish-retest-CHECK-HTF-1.JPG"
 TREND: This is why pumping market keep pumping, no break in HTF structure but people zoom in, try to short, just provide liquity for more pumping
 
-=======
+===== https://www.youtube.com/watch?v=qUyyaEkhgWw
+RENKO PART 2 EDUCATION: Renko: Guppy, LTF - HTF, Momentum, Taking Trades, Confluence, Position Building
+RENKO2-GUPPY-PARAMETERS: "cbs-parameters-used-for-his-guppy-on-renko1.png"
+RENKO2-GUPPY-MAs: Strong trend, MAs wide apart, ready for reversal, MAs close together / tighten
+RENKO2-AO: AO works the same with renko as it does with candlesticks
+RENKO2-AO: AO very important in showing where the momentum is coming from (>0 bull, <0 bear, divs)
+RENKO2-ENTRY-CHECKLIST: (1) AO bull div (possible trend shift)
+RENKO2-ENTRY-CHECKLIST: (2) flip above guppy MAs too (possible trend shift)
+RENKO2-ENTRY-CHECKLIST: (3) AO crossover above 0 (possible trend shift)
+RENKO2-ENTRY-CHECKLIST: (4) renko bullish market structure break (using clear swing highs and lows) (possible trend shift)
+RENKO2-ENTRY-CHECKLIST-FLUID: This is why he takes partial positions, not all 4 checklist criteria met yet..
+RENKO2-ENTRY-CHECKLIST-FLUID: ..build position slowly then full position size when all 4 criteria met..
+RENKO2-ENTRY-CHECKLIST-FLUID: ..4 criteria met means we are following the new trend (domino effect when using renko)
+RENKO2-CBS-NORMAL-ENTRY-STYLE: Using LTF renko to enter a MTF/HTF renko trend (nailing entries)
+RENKO2-TP: (1) AO crossover below 0
+RENKO2-TP: (2) Fall back into the guppy trend
+RENKO2-TP: (3) After falling back into guppy, can't escape it (Krill: chop as trend changes)
+RENKO2-TREND-FOLLOW: Renko is all about following the trend
+RENKO2-TREND-FOLLOW: So exit renko trade when losing the trend
+RENKO2-MS: Use CLEAR swing highs and lows to mark MS in renko
+RENKO2-SUMMARY: renko good for LTF sclaping utilisiling MAs via guppy to follow trend
+RENKO2-SUMMARY: LTF entries on MTF/HTF, renko gives good indication as to when trend is changing
+RENKO2-SUMMARY: renko is a trend based trading method, THIS IS WHAT'S IT FOR, get into trend and stay in trend for as long as possible
+RENKO2-SUMMARY: renko is for following TREND, also using guppy (MA based) and AO (MA based)
+
+
+======= CBS summary
 1. RANGING: Divs (~14 candles max, extremes, lock-in)
 2. TRENDING: Retest of 50 level in strong TRENDING markets
 3. BREAKOUT: 50 level cross with MSB / pattern-BO (momentum, new trend)
