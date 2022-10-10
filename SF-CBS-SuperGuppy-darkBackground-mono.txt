@@ -4,7 +4,8 @@
 
 //Daryl Guppy Super EMA's
 study(title="Super Guppy MQ", shorttitle="SuperGuppy MQ", overlay=true)
-src = close, 
+src = close,
+
 len1 = input(6, minval=1, title="Fast EMA 1")
 len2 = input(3, minval=1, title="Fast EMA 2")
 len3 = input(5, minval=1, title="Fast EMA 3")
@@ -88,9 +89,10 @@ colslowS = ema8 < ema9 and ema9 < ema10 and ema10 < ema11 and ema11 < ema12 and 
 //colFinal2 = colslowL  ? lime : colslowS ? red : gray
 //-- #FF69B4 hot pink (light pink) -- #FF1493 deep pink (dark pink)
 //colFinal = colfastL and colslowL? lime : colfastS and colslowS?  #FF69B4 : gray //
-//colFinal2 = colslowL  ? green : colslowS ? #FF1493 : gray 
-colFinal = colfastL and colslowL? #c0c2c2 : colfastS and colslowS?  #3e3e3e : #909090  //
-colFinal2 = colslowL  ? #c0c2c2 : colslowS ? #3e3e3e : #909090 
+//colFinal2 = colslowL  ? green : colslowS ? #FF1493 : gray
+
+colFinal = colfastL and colslowL? #dadada : colfastS and colslowS?  #7e7e7e : #aaaaaa 
+colFinal2 = colslowL  ? #dadada : colslowS ? #7e7e7e : #aaaaaa
 
 //Fast EMA Plots
 p1=plot(ema1, title="Fast EMA 1", style=line, linewidth=2, color=colFinal)
