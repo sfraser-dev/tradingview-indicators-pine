@@ -554,6 +554,7 @@ JOURNAL-GOAL-SEP2022: Bear market is just in and out, try and compound a bit her
 JOURNAL-GOAL-SEP2022: Bull market is when you get your 10x, 20x and 30% trades
 JOURNAL-GOAL-SEP2022: difficult market, move slow, bet small, get in sync with market..
 JOURNAL-GOAL-SEP2022: ..start nailing trades (big coins, btc, eth, etc), then go hard (introduce smaller alts)
+JOURNAL-GOAL-SEP2022: See gdrive loma-trade-recaps-sept2022 folder.. makes it look so easy up 50% in a month
 
 TRIPLE-DRIVE-DYING-MOMENTUM: MQ: Use Heikin Ashi candles / RSI / AO?
 TRIPLE-DRIVE-DYING-MOMENTUM: MQ: "loma-triple-drive-dying-momentum-heikinAshi-1.png"
@@ -566,6 +567,7 @@ CEO: If CEOs are stepping down, it's because they don't see a bull market soon (
 
 CASH: Holding cash is essentially a 1x short
 
+LUCKY-LIKELY: "Aim for lucky entries and likely exits"
 
 
 ===== GENERIC end
