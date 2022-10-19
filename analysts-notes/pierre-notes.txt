@@ -63,6 +63,14 @@ METHOD: Pierre is a H4/D1 trader who will try and compound his trades.
 METHOD: Krill is a daytrader/scalper who tries to nail entries and TP along the way (doesn't compound).
 METHOD: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot (not so many compressions on H4)
 METHOD: "praise-from-pierre-for-explaining-his-system-1.png"
+METHOD-COMPRESSION: Pierre uses H4 compressions between H4-trend and H4-macros (H4-ema200 and/or H4-ma100).. H4-trend-macro-banana
+METHOD-COMPRESSION: ..doesn't seem to use other compressions (ma100, ema200 & ma300 on all TFs, Krill's original banana compression)..
+METHOD-COMPRESSION: .. Krill also uses H4-trend-macro-banana too; but Pierre removed ma300 from his charts so no original banana comp for him.
+METHOD-COMPRESSION: "pierre-compression1.jpg"
+METHOD-COMPRESSION: pierre-H1trend-H1ma100-compression1.jpg"
+METHOD-COMPRESSION: pierre-compression-trend-ma100-1.jpg"
+METHOD-COMPRESSION: "pierre-H4trend-H4macro-compression-he-likes-1.png"
+
 
 === Pierre use of MAs
 MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs
@@ -108,6 +116,13 @@ TRADES-TAKEN: If he posts a setup and entry is tapped, assume he has taken it (2
 
 COMPOUNDING: Bullish compounding on retests of taken highs
 COMPOUNDING: "pierre-bullish-compound-plans-taken-highs-retested.JPG"
+
+EMA200-MA100: Macro MAs are just noise reducers (no longer using ma200 or ma300 on his charts)
+EMA200-MA100: Very common and popular MAs 
+EMA200-MA100: play the gaps between them, break ma100 play gap to ema200
+EMA200-MA100: HTF indicator of how market is moving, clean pivot/SR, use them as targets
+EMA200-MA100: Horizontal levels more important than any MA in Pierre's system
+
 ==== End GENERIC
 
 ===== Gap fills & "reversal reclaim"
@@ -123,11 +138,13 @@ GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-4-krill-disagrees.JPG"
 
 ===== TERMINOLOGY
 All eyes on
+Crucial
 Curious to see
 I'm extremely curious to see
 To be honest
 Super curious
 Super excited
+Super comfy
 Let's see how it goes (what we get)
 Can't be surprised
 I insist 
@@ -154,6 +171,7 @@ Nice bounce (for us)
 And denied
 Indeed
 It's a shake
+Ooof
 That's one good battle
 Congratulations everyone
 Congrats (to everyone who got in trade even though entry wasn't hit)
@@ -162,6 +180,7 @@ Good place to secure profits
 Feels good
 GG
 Perfection
+It's super clean
 Hopefully we get answers to these questions (unelected spokesman for crypto)
 Scary (enters long trade but "scary" as BTC at resistance, "be careful")
 Takes a Loma trade (or CBS), then starts analysing after it's done well ("I'm also in")

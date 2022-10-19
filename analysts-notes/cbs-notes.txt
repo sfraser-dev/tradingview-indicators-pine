@@ -1198,6 +1198,11 @@ RENKO2-SUMMARY: LTF entries on MTF/HTF, renko gives good indication as to when t
 RENKO2-SUMMARY: renko is a trend based trading method, THIS IS WHAT'S IT FOR, get into trend and stay in trend for as long as possible
 RENKO2-SUMMARY: renko is for following TREND, also using guppy (MA based) and AO (MA based)
 
+=====Risk Management - What Can I Say?
+TITLE: https://youtu.be/uxsJOuoi34Y
+BULL: Want to have way more risk on the table in bull markets
+BULL: Infinite returns on upside, not so with shorts
+BULL: Maths of shorting is worse (bnb at $250, $75 move up is 50%, $75 move down is 33%)  
 
 ======= CBS summary
 1. RANGING: Divs (~14 candles max, extremes, lock-in)

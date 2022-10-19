@@ -295,6 +295,7 @@ NARRATIVE: Narrative and interest in the coin? This is all you need.
 NARRATIVE: He's a visual chart guy "loma-visual-chart-guy.JPG"
 NARRATIVE: Retrace every pump!
 NARRATIVE: Research coins so you know the narratives for forever-hodl longs
+NARRATIVE: If trading an alt (not BTC or ETH) then always check the news, if Apple just bought the alt, TA won't matter
 S&P-SLOW: Look at S&P on weekly because it moves so SLOW
 BOOKS: (49m): "Thinking in bets" by Annie Duke
 BOOKS: (49m): "Alpha trader" by Brent Donnely
@@ -569,6 +570,22 @@ CASH: Holding cash is essentially a 1x short
 
 LUCKY-LIKELY: "Aim for lucky entries and likely exits"
 
+BEAR-MARKET: Need to adapt mindset from bull (easy) to bearish market. Either sit out and preserve capital, or mostly short
+
+HERD: Don't following the apeing herd after tweet, if they've all bought, who's going to buy it after me? Everyone's already in
+HERD: Shilling a coin like RSR, that has 75k position size limit on binance (ie: no liquidity), it's going to die hard after the shill
+
+FVG-TA: Don't need them, probably doing too much TA is using them
+FVG-TA: All you need is SR and discretionary info
+FVG-TA: If understand SR, you're in full control of the standard colors, add in discretioary (some PA know how) and profit. That's all
+FVG-TA: discretionary: buyers need to step in here to stop chart looking awful (clean invalidation)
+FVG-TA: discretionary: sellers need to step in here to chart breaking out (clean invalidation)
+
+LADDER-ENTRIES: "If your normal position size is 200k, then enter 100k here and 100k here.."
+LADDER-ENTRIES: "..give avg entry of X, SL 3%, potential TP 10%, that's a good R trade"
+
+ONE-DIRECTION: He used to get chopped a lot when he started trading.. road to profitability was to only focus..
+ONE-DIRECTION: .. taking one direction in his trades.. either just long or just short, don't long and short
 
 ===== GENERIC end
 
@@ -627,6 +644,7 @@ LOMA-SETUPS-RR: R is just a way to manipulate your trading strategies...
 LOMA-SETUPS-RR: ...low winrate needs high R
 LOMA-SETUPS-RR: ...high winrate only needs low R
 LOMA-SETUPS-RR: You can only enter a trade with a base R
+LOMA-SETUPS-RR: RR is relative to EV / trade expectation, no point in huge R if it rarely plays out
 GREED: So much greed in the general retail market...
 GREED: If this is reversal into start of bull market...
 GREED: ...don't need to catch every percentage point to make bank

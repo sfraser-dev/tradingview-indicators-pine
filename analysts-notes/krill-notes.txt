@@ -780,6 +780,12 @@ WICKED-OUT: Will get wicked out more, but much better EV.
 
 JOURNAL: https://twitter.com/MeCryptoCookie/status/1337313101583093760?s=20&t=0jErpacPLyXMi_qFuYI6NQ
 JOURNAL: Add 2 more columns, MAE & MFE, what happened to coin after closing the trade?
+
+APEING-POINTLESS: many market buys will leave the books empty on the buy side
+APEING-POINTLESS: MM's job is to try to ensure optimal liquidity at all times
+APEING-POINTLESS: MM will tend to sell and bring back price to where it was trading before the aping
+APEING-POINTLESS: even more true for altcoins with less liquidity than BTC or ETH
+APEING-POINTLESS: (MQ: creates an inefficiency / single-prints)
 ## end general / generic end
 
 =====+++++=====
