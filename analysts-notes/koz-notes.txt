@@ -21,6 +21,8 @@ OLD-COIN-ANALYSIS: FTM: bullish only once pivot at 0.6 reclaimed (buy on strengt
 OLD-COIN-ANALYSIS: MATIC: buy on strength abv range high abt 1.8
 OLD-COIN-ANALYSIS: defi coins he likes & watching: snx, yfi, sushi, aave
 
+TERMINOLOGY: "X is where I'd like to do business"
+
 =====
 BIG-MARKET-DUMP: but coin stays in range = STRONG
 BIG-MARKET-DUMP: and coin recovers quickly = STRONG
