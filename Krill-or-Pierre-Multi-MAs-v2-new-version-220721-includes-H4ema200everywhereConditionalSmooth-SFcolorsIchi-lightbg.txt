@@ -112,27 +112,25 @@ ema32Col_p =    color.new(#f23645, 0)
 ema34Col_p =    color.new(#f23645, 0)
 
 // M colors
-// K colours
 h4ema200Col_m = color.new(color.blue, 0)
-ma300Col_m =    color.new(#ab47bc, 0)
-ma200Col_m =    color.new(color.orange, 0)
-ema200Col_m =   color.new(#5d606b, 0)
-ma100Col_m =    color.new(#2962ff, 0)
-ema13Col_m =    color.new(color.black, 0)
-ema21Col_m =    color.new(#1eb025, 0)
-ema25Col_m =    color.new(#1eb025, 0)
-ema32Col_m =    color.new(#1eb025, 0)
-ema34Col_m =    color.new(#1eb025, 0)
+ma300Col_m =    color.new(#9598a1, 0)
+ma200Col_m =    color.new(color.blue, 0)
+ema200Col_m =   color.new(color.black, 0)
+ma100Col_m =    color.new(#5d606b, 0)
+ema13Col_m =    color.new(color.orange, 0)
+ema21Col_m =    color.new(color.orange, 0)
+ema25Col_m =    color.new(color.orange, 0)
+ema32Col_m =    color.new(color.orange, 0)
+ema34Col_m =    color.new(color.orange, 0)
 
 // Plot K lines
 plot(na, title="---------- K ----------", color=color.red)
 plot(h4ema200plot and (k_col_selected==true) ? h4ema200 : na, title="4hEMA200", color=h4ema200Col_k, linewidth=2)
-p300maK=plot((k_col_selected==true) ? ma300 : na, title="MA300", color=ma300Col_k, linewidth=1, style=plot.style_circles)
+p300maK=plot((k_col_selected==true) ? ma300 : na, title="MA300", color=ma300Col_k, linewidth=1, style=plot.style_cross)
 plot((k_col_selected==true) ? ma200 : na, title="MA200", color=ma200Col_k, linewidth=2, display=display.none)
 plot((k_col_selected==true) ? EMA200() : na, title="EMA200", color=ema200Col_k, linewidth=2, style=plot.style_line) 
 p100maK=plot((k_col_selected==true) ? ma100 : na, title="MA100", color=ma100Col_k, linewidth=1, style=plot.style_circles)
 plot((k_col_selected==true) ? ema13 : na, title="EMA13", color=ema13Col_k, linewidth=1)
-// switch between displaying the default fast EMAs of K & P
 plot((k_col_selected==true) ? ema21 : na, title="EMA21", color=ema21Col_k, linewidth=1, style=plot.style_stepline)
 plot((k_col_selected==true) ? ema25 : na, title="EMA25", color=ema25Col_k, linewidth=1, style=plot.style_stepline, display=display.none)
 plot((k_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_k, linewidth=1, style=plot.style_cross, display=display.none)
@@ -154,15 +152,15 @@ plot((p_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_p, linew
 // Plot M lines
 plot(na, title="---------- M ----------", color=color.red)
 plot(h4ema200plot and (m_col_selected==true) ? h4ema200 : na, title="4hEMA200", color=h4ema200Col_m, linewidth=2)
-p300maM=plot((m_col_selected==true) ? ma300 : na, title="MA300", color=ma300Col_m, linewidth=1, style=plot.style_circles, display=display.none)
+p300maM=plot((m_col_selected==true) ? ma300 : na, title="MA300", color=ma300Col_m, linewidth=1, style=plot.style_cross)
 plot((m_col_selected==true) ? ma200 : na, title="MA200", color=ma200Col_m, linewidth=2, display=display.none)
 plot((m_col_selected==true) ? EMA200() : na, title="EMA200", color=ema200Col_m, linewidth=2, style=plot.style_line) 
-p100maM=plot((m_col_selected==true) ? ma100 : na, title="MA100", color=ma100Col_m, linewidth=1, style=plot.style_circles, display=display.none)
+p100maM=plot((m_col_selected==true) ? ma100 : na, title="MA100", color=ma100Col_m, linewidth=1, style=plot.style_circles)
 plot((m_col_selected==true) ? ema13 : na, title="EMA13", color=ema13Col_m, linewidth=1)
 // switch between displaying the default fast EMAs of K & P
 plot((m_col_selected==true) ? ema21 : na, title="EMA21", color=ema21Col_m, linewidth=1, style=plot.style_stepline, display=display.none)
-plot((m_col_selected==true) ? ema25 : na, title="EMA25", color=ema25Col_m, linewidth=1, style=plot.style_stepline, display=display.none)
-plot((m_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_m, linewidth=1, style=plot.style_cross, display=display.none)
+plot((m_col_selected==true) ? ema25 : na, title="EMA25", color=ema25Col_m, linewidth=1, style=plot.style_stepline)
+plot((m_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_m, linewidth=1, style=plot.style_cross)
 plot((m_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_m, linewidth=1, style=plot.style_cross, display=display.none)
 
 // fill macro MAs (Ichi cloud!)
@@ -171,5 +169,5 @@ fillColorSelectP = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color
 fillColorSelectM = (ma100 > ma300) ? color.new(#a4dfe6, 75) : color.new(#c2c5cd, 75)    // very transparent touch of {blue,black}
 fill(p100maK, p300maK, color=k_col_selected ? fillColorSelectK : na, title="K", display=display.none)
 fill(p100maP, p300maP, color=k_col_selected ? fillColorSelectP : na, title="P", display=display.none)
-fill(p100maM, p300maM, color=m_col_selected ? fillColorSelectM : na, title="M")
+fill(p100maM, p300maM, color=m_col_selected ? fillColorSelectM : na, title="M", display=display.none)
 
