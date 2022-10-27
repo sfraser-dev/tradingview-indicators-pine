@@ -603,6 +603,11 @@ SFP-FOLLOW-THROUGH: "loma-sfp-with-follow-through-continuation-explained.png"
 
 SLEEP-EXECUTION: For his journal trades, doesn't go to sleep with trades open (because he uses discretionary stops)
 
+TERMINOLOGY: Yo
+TERMINOLOGY: Bro
+TERMINOLOGY: The juice ain't worth the squeeze
+TERMINOLOGY: Narrative
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL

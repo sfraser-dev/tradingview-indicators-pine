@@ -29,6 +29,11 @@ BIG-MOVES: "jb-ltf-ranges-after-big-manipulation-moves-can-play1.JPG"
 MON-RANGE: https://twitter.com/mindset_btc/status/1558423271779213312?s=46&t=q8SkeiIHS9d6Pbp9FjEqYA
 MON_RANGE: "jb-importance-of-mondays-range0.png"
 
+MONDAY: His biggest losing day is always a monday (from journal)
+MONDAY: So he doesn't trade Monday
+
+WICKS-SCALPING: He waits for wicks into his PoIs then retracement
+WICKS-SCALPING: reverse from PoI then SL above wick
 ===== End Generic
 
 ===== MEANINGS
