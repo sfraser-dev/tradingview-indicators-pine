@@ -1,6 +1,7 @@
 TERMINOLOGY: Clutch
 TERMINOLOGY: Love to see it
 TERMINOLOGY: X.XR booked
+TERMINOLOGY: LFG
 
 METHODOLOGY: HTF OBs (loose, only sweep needed to validate)
 METHODOLOGY: LTF ranges between HTF OBs

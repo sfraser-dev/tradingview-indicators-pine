@@ -34,6 +34,10 @@ MONDAY: So he doesn't trade Monday
 
 WICKS-SCALPING: He waits for wicks into his PoIs then retracement
 WICKS-SCALPING: reverse from PoI then SL above wick
+
+PRICE: Monthly and yearly subscription prices will be half price of OG Soldiers (joined first month)
+PRICE: If leave and come back, then you will lose OG Soldier status
+PRICE: "jb-half-price-for-original-members-monthly-or-yearly1.png"
 ===== End Generic
 
 ===== MEANINGS

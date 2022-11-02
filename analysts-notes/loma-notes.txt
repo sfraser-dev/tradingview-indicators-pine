@@ -605,8 +605,118 @@ SLEEP-EXECUTION: For his journal trades, doesn't go to sleep with trades open (b
 
 TERMINOLOGY: Yo
 TERMINOLOGY: Bro
-TERMINOLOGY: The juice ain't worth the squeeze
+TERMINOLOGY: Peace
 TERMINOLOGY: Narrative
+TERMINOLOGY: The juice ain't worth the squeeze
+
+DECISIVE: When something decisive happens after price has been indecisive, tend to continue (not look back)
+DECISIVE: eg: 3 month range broken out of, will look for it to continue up
+DECISIVE: "loma-decisive-move-out-of-long-range.png"
+
+DISCRETIONARY-SL: Start buying just above SR, buy at SR, hopeful catch of wick below SR.
+DISCRETIONARY-SL: If start closing below the SR though, start reducing position size
+DISCRETIONARY-SL: "loma-discretionary-SL-hard-and-soft-example.png"
+
+PoE: Point of expansion level / SR
+PoE: "loma-Po3-PoE-point-of-expansion.png"
+
+COMPARISON: Loma expert at comparing coins in his head (SUSHI has broken out of 2 month range, CRV is still in its 2 month range)..
+COMPARISON: ..so CRV chart looks shit (weak) even though just still ranging
+COMPARISON: only want to buy chad coins
+
+SIMPLE: Keep is simple, SR reclaimed, long, SR lost, short
+SIMPLE: It's emotions that ruin trading results
+SIMPLE: Best longs are failed shorts and best shorts are failed longs
+SIMPLE: TT style? Keep longing reclaim of level and keep shorting loss of level?
+SIMPLE: "loma-point-of-expansion-example-ENS-just-keep-it-simple-TTstylePerhaps.png"
+
+FUTURES-LISTING: Introduces whole range of new traders that trade long and short (as opposed to long only on spot)
+FUTURES-LISTING: Like introducing a new species into an ecosystem
+FUTURES-LISTING: When SBF list new perp (from previous spot only) it's down only from that point
+
+WHAT-TO-TRADE: He only looks at top 15 or 20 by volume on binance
+WHAT-TO-TRADE: Wants to see good liquidity (not super wicky, as these need wide stops and small position sizes)
+WHAT-TO-TRADE: What looks good, top performers, newer coins with narrative
+
+HOW-TO-MAKE-IT: Loma end of stream rant on question "Can I make it with $20k"
+HOW-TO-MAKE-IT: Must be serious. Must put in the time / effort. 3 hours a day is NOT enough, you have to "show up"
+HOW-TO-MAKE-IT: eg. 3am, need to babysit trade, must WORK HARD, cannot just tread water
+HOW-TO-MAKE-IT: Loma started with less than $20k
+HOW-TO-MAKE-IT: --
+HOW-TO-MAKE-IT-LIST: Watch streams
+HOW-TO-MAKE-IT-LIST: Learn how to apply strategies
+HOW-TO-MAKE-IT-LIST: Follow people on Twitter, go through their page and extract what value you can
+HOW-TO-MAKE-IT-LIST: Test it out, see what works for you
+HOW-TO-MAKE-IT-LIST: Be disciplined
+HOW-TO-MAKE-IT-LIST: Follow your own strategies
+HOW-TO-MAKE-IT-LIST: Follow your stop loss
+HOW-TO-MAKE-IT-LIST: Don't take big losses
+HOW-TO-MAKE-IT-LIST: ** Learn to be uncomfortable in the market **
+HOW-TO-MAKE-IT-LIST: Control your emotions
+HOW-TO-MAKE-IT: --
+HOW-TO-MAKE-IT: All this is WORK and EFFORT, can't half-ass it!
+HOW-TO-MAKE-IT: Might reach the point where you don't need to watch streams, read books, don't need to practice strats..
+HOW-TO-MAKE-IT: ..but until this point must WORK YOUR ASS OFF
+HOW-TO-MAKE-IT: Make friens with yourself, your own trading demons, it's not whales, CZ, SBF, Elon that's fucking you, it's you.
+HOW-TO-MAKE-IT: With $20k, you can for sure reach the point where you never need to worry about money again
+HOW-TO-MAKE-IT: Eventually, you'll become your own ally, a voice in your head..
+HOW-TO-MAKE-IT: .."you shouldn't be doing that bro, don't add more, cut the position bro"..
+HOW-TO-MAKE-IT: ..listen to this voice, go from greedy demon in your head to a friend that helps you..
+HOW-TO-MAKE-IT: ..the money will the flow
+
+STRONG-COIN-PA: Strong coins have different PA than weak coins - try and play these strong coins, cost opportunity playing the weaker coins
+
+HOLDING-SR-IS-STRONG: Dropping to an SR and chopping there is strong (can wick below but not close below)
+HOLDING-SR-IS-STRONG: Like SZ level reclaim (SZ: "impulse no use to me"), like CBS rsi resetting, like Pierre Stoch resetting
+HOLDING-SR-IS-STRONG: "loma-holding-a-SR-level-is-a-sign-of-strength-1.png"
+
+REACTION: It not a "price area" thing, it's a "reaction thing" that we want to see (follow through / continuation)
+REACTION: Prices drifts towards the lows and is IMMEDIATELY bought back up - lots of aggressive buyers at this area
+REACTION: "loma-interested-in-price-area-AND-correct-reactions-at-that-area.png"
+
+SHARP-MOVES: Always some sort of consolidation between sharp moves up (or down)
+SHARP-MOVES: On HTF (D3), might look like up only, but zoom in a bit (H4), will always have some sort of consolidation
+SHARP-MOVES: Very few sharp moves don't have any consolidation
+
+MAIN-RULE-OF-TRADING: Make consistantly good decisions, don't overthink going for moonshots, boring and predictable
+
+LOMA-DAILY-ROUTINE: Doesn't care about Asia session, London session, etc in his trading
+LOMA-DAILY-ROUTINE: Wake up, have a drink (juice or WARM WATER), scan the market, set alerts
+LOMA-DAILY-ROUTINE: If already in a trade, try not to touch it, just fuck off and do something else (run errands etc)
+LOMA-DAILY-ROUTINE: The less time you spend staring at a chart the better, staring at a chart IS NOT TRADING
+LOMA-DAILY-ROUTINE: You can't make anything happen when staring all the time at an H4 chart
+
+CANDLE-ANALYSIS: uses black and white candles as they don't draw emotions
+CANDLE-ANALYSIS: where are they taking place (SR levels)
+CANDLE-ANALYSIS: how fast they dump or pump (follow-through, continuation)
+CANDLE-ANALYSIS: doesn't use candle patterns per se
+CANDLE-ANALYSIS: SFPs are the biggest candle pattern that he will use
+
+OVERNIGHT: will sometimes abandon his "no overnight positions" rule for his journal (eg: nothing happening during the day)
+
+STREAM-WATCHING: don't skip forward when watching streams of analysts, you'll miss lots of nuance, valuable info
+STREAM-WATCHING: watching his stream, pause the video before he charts and compare your chart to his (don't be lazy!)
+STREAM-WATCHING: learning to trade is not linear..
+STREAM-WATCHING: ..watch a hundred hours of video, 70 hours churning, not helping much..
+STREAM-WATCHING: ..20 quite useful, 10 very useful and boost your trading
+STREAM-WATCHING: In any competitve sport, like trading, any small amount of effort goes a LONG way (like learning from his stream)
+
+BEST-TRADERS-HE-LIKES: Twitter guys that use size: Bitbit, GCR, TraderMayne, Pierre, AltCoinPsycho, All Haven Analysts, Baylisk
+BEST-TRADERS-HE-LIKES: Podcast: "Chat With Traders" Mike Bellafiori
+
+DIAGONALS: diagonals are a scam, don't use (or only use sparingly WITH SRs)
+DIAGONALS: diagonals are only needed by traders that don't use SRs (horizontals) properly
+
+TA-LOMA-USED-BEFORE: patterns (bull flags), indicator (macd, rsi, volume), MAs.. then dedicated himself to PA
+TA-LOMA-USED-BEFORE: once learned price action, indicators and MAs became much more useful
+TA-LOMA-USED-BEFORE: eventually didn't need indicators anymore (after 1000s of trades)
+TA-LOMA-USED-BEFORE: hardest part wasn't the TA, it was mastering his emotions
+TA-LOMA-USED-BEFORE: SR is FUNDAMENTAL! Fundamentals is key. 
+TA-LOMA-USED-BEFORE: market profile, order flow, normal candlesticks, renko can all be used for SR
+TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: SR is where the market is buying, where the market is selling..
+TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: ..focus on how many are selling, how strong is the selling, how strong is the buying..
+TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: ..shouldn't be focused on "OMG, RSI is over 70!".. master these fundamentals
+TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: Make sure you study!
 
 ===== GENERIC end
 
@@ -635,7 +745,7 @@ https://www.youtube.com/watch?v=js5iVKsDyfA
 COINS-GOOD: MATIC, APE, OP
 COINS-BAD: SOL (weak)
 HODL: Looks (Arthur is a big looks guy, dramatic and very rich)
-HODL: Synapse, very illiquid, market-buy 5k moves price 1%
+HODL: Synapse, very illiquid, market-buy 5k moves price 1% (he has 250k-300k worth of spot synapse, 221026)
 TRADING-SECRET: Let your good idead play out, give them time
 ONE-SIDE: Try and just trade one side
 ONE-SIDE: Down only in bad market, up only in good market
@@ -699,6 +809,7 @@ TITLE: Loma's Lounge Ep.3: CPI, BTC and PAIN
 TA: People think TA is used to predict the market, it's not, it's used to define your risk (9 mins)
 TA: Is not really real, it's a mental and technical framework to define risk
 ICT: ICT methods work, he's just far too wordy and repackages other concepts, vastly over complicates it. Loma use PA, just more simply.
+ICT: Loma hasn't been able to sit through 1 ICT video in full, ICT is a very dull presenter, he makes simple concepts very hard
 MARKET-BIAS-INDICATOR: If price takes 2 days to go up, then 1 H4 candle wipes it all out, bears are in charge of markets
 PROFITABLE: Took Loma 2 years to make money (42 mins)
 PROFITABLE: Didn't happen overnight, was eating shit, ate less shit, became break even, then marginally profitable, then profitable, then the bull market came and he banged!
@@ -733,3 +844,23 @@ SYSTEM: Loma started in bull market, easy, just used RSI (OB/OS/div) easy money
 SYSTEM: See what's giving you 80% of your results and just double down in that
 SYSTEM: Loma is good trader in all conditions except for "range-bound"; he steps away in the chop
 SYSTEM: Will take a trade based on invalidation (like SZ), 2% SL, BNB, whole account position size
+
+===== https://www.youtube.com/watch?v=D1jS5GDuqFk
+TITLE: Loma's Lounge Ep.14: ALL ACCORDING TO PLAN?
+OB: 2m30s into the video
+OB: Loma doesn't use traditional / original sense of OBs
+OB: Look where significant PA has occurred (SR)
+OB: So his OBs are really just SRs
+LOMA-REVERSE-OBs: MQ: He tends to mark some SRs as OBs, but in reverse..
+LOMA-REVERSE-OBs: MQ: demand: the first up candle after impulse down
+LOMA-REVERSE-OBs: MQ: supply: the first down candle after impulse up
+BTC-CHART: Need to know what BTC doing (bullish / bearish) for alt coin bias
+BTC-CHART: BTC very tricky to trade, easier to trade alts (BTC trade only once every 10/15 trades in his journal)
+RANGE: doesn't like when prices fall back into a range and close there
+EXECUTION: hard and soft stops
+EXECUTION: soft stops are tighter (used when awake)
+EXECUTION: hard SLs are wide, give low R trades (safety net incase sleeping)
+EXECUTION: "loma-eth-fomc-trade-plan-loma-execution3-current-trade-execution.png"
+EXECUTION: Give it a couple of candle closes to establish a low / base (SZ style execution of Loma: "wait - this is where you fuck up")
+EXECUTION: "loma-trade-trigger-doge-wait-like-sz-give-it-a-couple-of-candle-closes.png"
+20m39s

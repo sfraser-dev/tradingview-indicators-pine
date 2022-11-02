@@ -786,6 +786,12 @@ APEING-POINTLESS: MM's job is to try to ensure optimal liquidity at all times
 APEING-POINTLESS: MM will tend to sell and bring back price to where it was trading before the aping
 APEING-POINTLESS: even more true for altcoins with less liquidity than BTC or ETH
 APEING-POINTLESS: (MQ: creates an inefficiency / single-prints)
+
+DEADCAT-BOUNCE-MA100: when a strong uptrend and ema13 support lost, ma100 likely only a deadcat bounce..
+DEADCAT-BOUNCE-MA100: ..as ema13 is now resistance, ema200 is stronger support
+DEADCAT-BOUNCE-MA100: "krill-typical-ma100-deadcat-bounce-1.png"
+DEADCAT-BOUNCE-MA100: "krill-ma100-deadcat-bounce-area1.png"
+
 ## end general / generic end
 
 =====+++++=====
@@ -1004,7 +1010,7 @@ STANDARD: Just playing probabilities, risk management & math
 BBALL: Base hits rather than home runs
 BBALL: Big moves up will have volatile moves down
 JOURNAL: Slows down trading process
-TRADING: TA 20%, RiskManagement 40%, mindsetAndLuck 40%
+TRADING: TA 20%, RiskManagement 40%, mindsetAndLuck 40% (psychology)
 TRADING: Variance caused by luck tempered via risk management
 CBS: Issue with CBS (BO) is he buys at resistance
 HTF-TREND: Daily MA reversal pattern happens once or twice a year
@@ -1209,6 +1215,10 @@ HUBOI: doesn't trade there doesn't have enough volume now
 GAINZY-RSI: Just uses the vertical bars to indicate a div or not (and these occur on any "div", doesn't have to be near extreme unlike CBS)
 ALERT-SHARING: TradingView doesn't allow you to share your alerts (but you can share watchlists so other can import them) - something he's been asking TradingView for 
 
+=== One-to-ones still to watch
+BLACKSPHERE: https://www.youtube.com/watch?v=U5ArkZH-_1Q
+G333: https://www.youtube.com/watch?v=jjDnn2nKJUU
+AGGER: https://youtu.be/NHhbQEs2Xz4
 
 =====************************************************=====
 ------------------  Krill checklist  ---------------------

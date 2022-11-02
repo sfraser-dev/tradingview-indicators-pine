@@ -95,7 +95,7 @@ TERMINOLOGY: rejecting from 50 (down "bounce" from 50)
 TERMINOLOGY: bouncing from 50 (up bounce from 50)
 
 DOMINO: RSI can have domino effects on different timeframes.
-H1 bull div, H4 bouncing 50, D1 & D3 plenty room to expand up
+DOMINO: H1 bull div, H4 bouncing 50, D1 & D3 plenty room to expand up
 DOMINO: Can have relative domino effect. Market dumping, but coinX hasn't dumped as much with H4 below 50 room to extend down further, H12 crossing below 50, D1 & D3 rotating strong to the downside (even though above 50) indicates coinX has strong potential to dump to the same level as the rest of the market.
 DOMINO: Make sure no time-frame (HTF) has a bear div on recent highs (as it may not have played out yet, the 50 resets may have further to drop) 
 
@@ -1023,6 +1023,7 @@ BEAR-DIV-THROUGH-RESISTANCE: "cbs-bear-div-through-resistance-90percent-itll-pum
 BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: "cbs-mq-question-H4-rsi-div-through-resistance1.JPG"
 BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: MQ: H4 bear div breaking through reistanceno
 BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: CBS: no, look at HTF levels for rejections at these levels
+BEAR-DIV-THROUGH-RESISTANCE: "cbs-not-a-div-bullish-momentum-yet-to-come.png"
 
 STONKS: Good buying strategy in bull market just buy higher highs
 PIERRE: He's been slaying the bear market
