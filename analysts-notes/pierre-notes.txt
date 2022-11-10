@@ -79,6 +79,8 @@ MA-USAGE: Macro MAs can be used for SLs and TPs
 MA-USAGE: Krill: Can judge relative performance between cons on their ability to hold MAs (eg: coin X held H4-ma100 on the dump but coin B didn't - look for shorts on coin B)
 MA-USAGE: "pierre-stoch-usage-risk-adjust-aresgod3-sf-original-answer.JPG"
 
+
+
 === Pierre trend DEVIATIONS
 TREND-DEVIATIONS: "pierre-trend-DEVIATION-using-stoch-and-SR.JPG"
 --
@@ -122,6 +124,11 @@ EMA200-MA100: Very common and popular MAs
 EMA200-MA100: play the gaps between them, break ma100 play gap to ema200
 EMA200-MA100: HTF indicator of how market is moving, clean pivot/SR, use them as targets
 EMA200-MA100: Horizontal levels more important than any MA in Pierre's system
+
+TREND-TO-TREND-AVOID-CHOP: Keep longing the H4-trend until it's lost..
+TREND-TO-TREND-AVOID-CHOP: ..once H4-trend lost, wait for (i) H4-trend to be reclaimed or (ii) D1-trend below..
+TREND-TO-TREND-AVOID-CHOP: .. avoid the chop between H4-trend and D1-trend (Krill note: H1-ema200 should be between H4-trend and D1-trend)
+TREND-TO-TREND-AVOID-CHOP: "pierre-play-H4trend-until-lost-then-wait-for-D1trend-avoid-chop1.png"
 
 ==== End GENERIC
 
@@ -195,4 +202,7 @@ Talk like he is BTC when it's doing well: "we've made a strong move up, great to
 We're fighting to break
 Can't wait to see what we get tomorrow
 I mean.. (trails off as if he's the best analyst that has ever lived)
+Gotta love to see it!
+Manifest it
 
+===== TERMINOLOGY END

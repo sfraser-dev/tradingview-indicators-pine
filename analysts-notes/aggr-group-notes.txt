@@ -11,6 +11,8 @@ CJ (Killmex) Orderflow
 https://twitter.com/godcomplex96/status/1552988984938225665?s=21&t=oMz8iqCXO0naRRCLjA8AIA
 VISION: General: https://yourtradingcoach.com/
 VISION: Pivots: https://www.tradingsim.com/day-trading/pivot-points
+DIV-REJECTION-CANDLES: Div gives an impulse, price meets trend (13/25ema) from below, rejects from there, AO div confirms, then continue impulse
+DIV-REJECTION-CANDLES: "aggr-div-playouts-rejection-candles1.png"
 
 =====
 VWAP: Vision: all the big boys use VWAPs

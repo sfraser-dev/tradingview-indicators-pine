@@ -459,7 +459,7 @@ INDEXES: Compare different crypto sectors
 INDEXES: Defi Index (ftx)
 INDEXES: Altcoin Index (ftx)
 INDEXES: Shitcoin Index (ftx)
-HODL: SYNAPSE is a good long term play, accumulate now for next bull market
+HODL: SYNAPSE is a good long term play, accumulate now for next bull market (he liked using it, one of the best bridges he's used, tokenomics good too)
 FOMO: You want to be in coins people are FOMOing into, fuck support, they're front-running support by 3%
 FOMO: Do you want people to wait for lower prices to buy (no!) or do you want them to be fomoing in?
 LADDER-ENTRIES: Pyramid entries, small to big, in OB / SR.
@@ -472,6 +472,7 @@ COPY-MARKET: If it's not doing anything, we should step away
 COPY-MARKET: Flow with the market
 COPY-MARKET: Most people lose money as they go against the market (impose THEIR will on the market), keep adding to their long as the market dumps - BE LIKE WATER
 
+PPE: Plan, Patience, Execute
 ===== GENERIC start
 CANDLE-RANGE: Use the candle that breaks out of the range as the range to ladder entries to long
 CANDLE-RANGE: "loma-use-candle-that-broke-out-of-range-as-range-to-buy1.png"
@@ -863,4 +864,43 @@ EXECUTION: hard SLs are wide, give low R trades (safety net incase sleeping)
 EXECUTION: "loma-eth-fomc-trade-plan-loma-execution3-current-trade-execution.png"
 EXECUTION: Give it a couple of candle closes to establish a low / base (SZ style execution of Loma: "wait - this is where you fuck up")
 EXECUTION: "loma-trade-trigger-doge-wait-like-sz-give-it-a-couple-of-candle-closes.png"
-20m39s
+EXECUTION-WHEN-IN-HTF-SUPPORT: You don't want to hail mary support (D1), we don't know if it'll hold or die
+EXECUTION-WHEN-IN-HTF-SUPPORT: take a small starter position at D1 support, add on confirmation of reclaim of H4 level higher
+EXECUTION-WHEN-IN-HTF-SUPPORT: "loma-execution-when-in-HTF-support.png"
+TRADING-BASED-ON-FA: Should be swings, not scalps
+BINANCE-LISTING: coins that get listed on binance tend do all do well initially
+HIS-JOURNAL-IS-A-DEGEN-ACCOUNT: He's take 3%, 4%, 5% risk on each trade in journal..
+HIS-JOURNAL-IS-A-DEGEN-ACCOUNT: ..often multiple trades at a time, even though market kind of sucks right now
+HIS-JOURNAL-IS-A-DEGEN-ACCOUNT: he doesn't take this much risk on his larger account (because he can't)
+HIS-JOURNAL-IS-A-DEGEN-ACCOUNT: sensible traders will take 1% or 2% risk max per trade
+LONG-TERM-BAG: Means hodl for about 3 months
+NATURE-OF-THE-TRADING-GAME: PvP, take money from other pepole, need to give false narratives
+NATURE-OF-THE-TRADING-GAME: need people to believe things that just ain't so, so they part with their money
+NATURE-OF-THE-TRADING-GAME: imagine it's just loma v. composite man, composite man tries to sell him narratives...
+NATURE-OF-THE-TRADING-GAME: ..confuse him, trick him, rush him, make him greedy (too big position)
+NATURE-OF-THE-TRADING-GAME: smoke & mirrors, designed to give you too much and too little information..
+NATURE-OF-THE-TRADING-GAME: ..designed for you to lose mony, transfer of wealth from people who understand the game..
+NATURE-OF-THE-TRADING-GAME: .. to people who don't understand the game (dumb money and smart money)
+LOMA-STARTING-CAPITAL: started with 2k, lost it all, then put in $500 every pay check, considered it like a video game..
+LOMA-STARTING-CAPITAL: or paying for an education.. people like to jump into the deep end (big postion sizes)
+LOMA-STARTING-CAPITAL: .. you need to EARN the right to trade big position sizes, need to be able to make money with..
+LOMA-STARTING-CAPITAL: ..spot before getting bigger position sizes and using leverage.. FOCUS ON THE PROCESS..
+LOMA-STARTING-CAPITAL: ..need to be consistant, disciplined, need to show up every day
+LOMA-STARTING-CAPITAL: ..took Loma 2 years to make his first million
+LOMA-STARTING-CAPITAL: He made his first million in a bear market
+LOMA-STARTING-CAPITAL: ..took him 1.5 years to be mentally ready for trading, that he understood trading, or what he needed to do to make it
+LOMA-STARTING-CAPITAL: ..it happens very quickly when you "get it"
+LOMA-STARTING-CAPITAL: ..big thing for him was getting wiped out on leverage, put 10k in, tried to trade it, kept getting wiped out
+LOMA-STARTING-CAPITAL: ..when he understood what his weakenesses were, used strategies to mitigate them, 
+LOMA-STARTING-CAPITAL: ..his strategy now is to mitigate the dumb shit he could possibly do
+LOMA-STARTING-CAPITAL: ..first step of trading is realising YOU ARE YOUR BIGGEST ENEMY
+LOMA-STARTING-CAPITAL: ..so how would you go about BEATING YOURSELF in the market
+LOMA-STARTING-CAPITAL: ..loma would beat himself by leveraging too hard, entering too early, too large a size, mabe fomo..
+LOMA-STARTING-CAPITAL: ..taking sub-optimal trades (just to be in a trade), not focusing on the correct narratives..
+LOMA-STARTING-CAPITAL: ..things like this fucked him a lot, so created strategies to not do these
+LOMA-STARTING-CAPITAL: .. no overnight trades, max risk 2% or 3%, only trade the top 10 in volume..
+LOMA-STARTING-CAPITAL: ..only trade the top 15 in MOVERS (based on percentage moves)
+LOMA-STARTING-CAPITAL: internal controls for trading, self-regulation, works very well for loma
+LOMA-STARTING-CAPITAL: He kept a journal to realise all these mistakes that he had to rectify. MUST JOURNAL
+LOMA-STARTING-CAPITAL: 
+48m0s

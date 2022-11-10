@@ -1076,6 +1076,12 @@ MARKET-OVERVIEW: If clear/strong m15 bull divs do nothing (no up move) and kind-
 WANING-MOMENTUM: Not a bull div according to CBS's RSI rules, but price making LLs and RSI making HLs is "waning momentum" or a "reduction in momentum".
 WANING-MOMENTUM: Perhaps more than 14 candles and not in an extreme so NOT a rsi bull div
 WANING-MOMENTUM: May act like a bull div BUT such structures can nuke easily, taking out all the lows (elevator down)
+
+DIV-REJECTION-CANDLES: Div gives an impulse, price meets trend (13/25ema) from below, rejects from there, AO div confirms, then continue impulse
+DIV-REJECTION-CANDLES: "aggr-div-playouts-rejection-candles1.png"
+
+DIV-FAILS-TO-FORM: Blacksphere pointed out that a bull div that looks to be forming, but then gets invalidated, will likely give another leg down in price
+DIV-FAILS-TO-FORM: "aggr-blacksphere-rsi-invalidated-bull-div-likely-extension-down1.png"
 ===== Generic Notes (end)
 
 ===== https://www.youtube.com/watch?v=UmoYQGcl4v8
