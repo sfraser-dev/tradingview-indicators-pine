@@ -38,6 +38,13 @@ WICKS-SCALPING: reverse from PoI then SL above wick
 PRICE: Monthly and yearly subscription prices will be half price of OG Soldiers (joined first month)
 PRICE: If leave and come back, then you will lose OG Soldier status
 PRICE: "jb-half-price-for-original-members-monthly-or-yearly1.png"
+
+JB-PROCESS-3-THINGS-TO-LOOK-FOR: OBs, ranges and FVG is what he uses day in and day out
+JB-PROCESS-3-THINGS-TO-LOOK-FOR: 3-THINGS: liq to liq
+JB-PROCESS-3-THINGS-TO-LOOK-FOR: 3-THINGS: external liq to internal liq
+JB-PROCESS-3-THINGS-TO-LOOK-FOR: HTF PoI, LTF PoI, entry when it REACTS, stops below recent low, market entry (doesn't use limit orders)
+JB-PROCESS-3-THINGS-TO-LOOK-FOR: draw OBs and liq grabs on HTF, LTF for entries (fvg, BoS)
+JB-PROCESS-3-THINGS-TO-LOOK-FOR: equal lows / highs are the biggest magnet for liquidity, don't take trade if liquidity resting against you
 ===== End Generic
 
 ===== MEANINGS
@@ -105,3 +112,8 @@ SETUP-TEMPLATE: (4) prefers LTF BoS (impulse) resulting in a FVG
 SETUP-TEMPLATE: (5.0) (short) SL above the high, TP at SSL (sell side liquidity) or FVG fill
 SETUP-TEMPLATE: (5.1) (long) SL below the low, TP at BSL (buy side liquidity) or FVG fill  
 
+===== Begin generic
+RISK: For his scalping, risks usually 5% of his portfolio
+RISK: With his tight scalping stops, usually risks 50-70% of his portfolio at 10x lev
+RISK: 2000 portfolio, 50% = 1000, 10x = 10000 pos size, 1% SL, risking $100 (100/2000 = 5%)
+===== End generic

@@ -390,6 +390,7 @@ TRIPLE-DRIVE-DYING-MOMENTUM: So his demand/supply is about momentum, not blocks
 TRIPLE-DRIVE-DYING-MOMENTUM: "loma-demand-supply-momentum-game-thoery-GMT-1.JPG"
 TRIPLE-DRIVE-DYING-MOMENTUM: (SF: check with RSI and AO)
 TRIPLE-DRIVE-DYING-MOMENTUM: game thoery of demand/supply, demand is decreasing supply increasing thus reducing momentum
+TRIPLE-DRIVE-DYING-MOMENTUM: "loma-triple-drive-dying-momentum-example-and-bull-pennant-example.png"
 TA: Just get 3/4 things that go "hand-in-hand", don't learn too much or you'll get conflicted; get good at execution
 JOURNEY: The journey of a trader is to make money! Feelings, opinons, likes, DOES NOT MATTER, only go for best performing asset and squeeze the most money as possible from ut
 
@@ -601,6 +602,7 @@ SFP-FOLLOW-THROUGH: SFP confirms on candle close
 SFP-FOLLOW-THROUGH: Follow-through confirms if NEXT candle closes below the LOW (wick) of the SFP candle
 SFP-FOLLOW-THROUGH: Follow-through also referred to as continuation
 SFP-FOLLOW-THROUGH: "loma-sfp-with-follow-through-continuation-explained.png"
+SFP-FOLLOW-THROUGH: "loma-lowest-close-should-give-the-bearish-restest-NO-FOLLOW-THROUGH-so-weak-here.png"
 
 SLEEP-EXECUTION: For his journal trades, doesn't go to sleep with trades open (because he uses discretionary stops)
 
@@ -719,6 +721,32 @@ TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: ..focus on how many are selling, how strong 
 TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: ..shouldn't be focused on "OMG, RSI is over 70!".. master these fundamentals
 TA-LOMA-USED-BEFORE-WHERE-TO-FOCUS: Make sure you study!
 
+CAPITULATION-ALERTS: very important to mark out vHTF levels you would buy at after terrible news (and set alerts)
+CAPITULATION-ALERTS: need to do this so you don't get caught up in the emotional CT turmoil
+CAPITULATION-ALERTS: need to have a strategy for this as you'll be too scared to buy
+CAPITULATION-ALERTS: mark out some god-tier level where you'll START buying (10% or 15%)
+
+TWITTER-NARRATIVE-ACCOUNTS-TO-FOLLOW: These have good understanding of news events, lots of signal, very little noise
+TWITTER-NARRATIVE-ACCOUNTS-TO-FOLLOW: tier10k (db), coindesk, fintech frank, larry cermack, tree of alpha, hsaka, bitbit
+TWITTER-NARRATIVE-ACCOUNTS-TO-FOLLOW: don't follow people that don't shove TA up your ass
+TWITTER-NARRATIVE-ACCOUNTS-TO-FOLLOW: "loma-who-to-follow-for-narratives-on-twitter.png"
+
+EXTREME-EMOTIONS: at the extremes of the chart, there are extreme emotions (reflected by extreme wicks)
+EXTREME-EMOTIONS: the ones that control their emotions will nearly always win
+EXTREME-EMOTIONS: wicks are people fomoing in and out, or being forced in or out, people that can't handle the stress
+EXTREME-EMOTIONS: euphoria at the tops and depression at the lows
+EXTREME-EMOTIONS: Loma lost 50k/100k cryptotopia and it was all he had in crypto, need mental strength to continue, he was devestated for a week 
+
+TRADING-RISK: part of trading is taking a risk, you have to take a risk 
+
+MAKING-MONEY-GAME-THEORY: only way you make money trading if buying is if more people buy after you
+MAKING-MONEY-GAME-THEORY: only way you make money trading if selling is if more people sell after you
+
+FTX-BLOWUP: market makers are gone right now, that is why prices are very volatile right now
+
+CT-CHADS: don't get upset when they lose a heap, they know it's part of the game
+CT-CHADS: new traders go beserk on CT when there is real bearish drama, not seasoned
+CT-CHADS: practice stoicism to be an awesome trader, control your emotions, TA isn't important, EMOTIONAL CONTROL
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
@@ -858,13 +886,14 @@ LOMA-REVERSE-OBs: MQ: supply: the first down candle after impulse up
 BTC-CHART: Need to know what BTC doing (bullish / bearish) for alt coin bias
 BTC-CHART: BTC very tricky to trade, easier to trade alts (BTC trade only once every 10/15 trades in his journal)
 RANGE: doesn't like when prices fall back into a range and close there
-EXECUTION: hard and soft stops
-EXECUTION: soft stops are tighter (used when awake)
-EXECUTION: hard SLs are wide, give low R trades (safety net incase sleeping)
-EXECUTION: "loma-eth-fomc-trade-plan-loma-execution3-current-trade-execution.png"
-EXECUTION: Give it a couple of candle closes to establish a low / base (SZ style execution of Loma: "wait - this is where you fuck up")
-EXECUTION: "loma-trade-trigger-doge-wait-like-sz-give-it-a-couple-of-candle-closes.png"
-EXECUTION-WHEN-IN-HTF-SUPPORT: You don't want to hail mary support (D1), we don't know if it'll hold or die
+EXECUTION-AT-SUPPORT: hard and soft stops
+EXECUTION-AT-SUPPORT: soft stops are tighter (used when awake)
+EXECUTION-AT-SUPPORT: hard SLs are wide, give low R trades (safety net incase sleeping)
+EXECUTION-AT-SUPPORT: "loma-eth-fomc-trade-plan-loma-execution3-current-trade-execution.png"
+EXECUTION-AT-SUPPORT: Give it a couple of candle closes to establish a low / base (SZ style execution of Loma: "wait - this is where you fuck up")..
+EXECUTION-AT-SUPPORT: .. we can't trade impulses, we can only trade level to level (reclaim-hold-expandAwayMSB - bullish MS on LTF)
+EXECUTION-AT-SUPPORT: "loma-support-trade-trigger-doge-wait-like-sz-give-it-a-couple-of-candle-closes.png"
+EXECUTION-WHEN-IN-HTF-SUPPORT: You don't want to hail mary support (D1), we don't know if it'll hold or die (not full portfolio knife catching)
 EXECUTION-WHEN-IN-HTF-SUPPORT: take a small starter position at D1 support, add on confirmation of reclaim of H4 level higher
 EXECUTION-WHEN-IN-HTF-SUPPORT: "loma-execution-when-in-HTF-support.png"
 TRADING-BASED-ON-FA: Should be swings, not scalps
@@ -902,5 +931,36 @@ LOMA-STARTING-CAPITAL: .. no overnight trades, max risk 2% or 3%, only trade the
 LOMA-STARTING-CAPITAL: ..only trade the top 15 in MOVERS (based on percentage moves)
 LOMA-STARTING-CAPITAL: internal controls for trading, self-regulation, works very well for loma
 LOMA-STARTING-CAPITAL: He kept a journal to realise all these mistakes that he had to rectify. MUST JOURNAL
-LOMA-STARTING-CAPITAL: 
-48m0s
+LOMA-STARTING-CAPITAL: Loma lost everything in 2018/2019
+
+===== Loma's Lounge Ep.17: GEMINI, GATE, BYBIT, HUOBI? 221116
+https://www.youtube.com/watch?v=XJn9oUd8fio&t=224s 
+EXCHANGES: Bybit is a little worrisome
+THREE-TAP: 3-tap, kinda a triple drive, but not really
+THREE-TAP: 1st low sets low
+THREE-TAP: 2nd low is HL
+THREE-TAP: 3rd low is HL
+THREE-TAP: is based on HLs
+THREE-TAP: higher buying interest all the time yet still in range, hasn't expanded yet
+THREE-TAP: sign that people happy to buy at these prices and accumulate
+THREE-TAP: Loma uses 3-tap idea
+TRIPLE-DRIVE: LL, LL, LL (in a channel), buy when breaks out of channel
+TRIPLE-DRIVE: Loma doesn't really use this typical triple-drive idea
+SUPPORT-STRENGTH: 23m30s into stream, visual representation of what want to see at support
+SUPPORT-STRENGTH: at support, we like to see prices immediately bought back up
+SUPPORT-STRENGTH: do NOT want to see prices hovering at support
+SUPPORT-STRENGTH: "loma-support-strength-buyup-with-follow-through-want-to-see-this.png"
+SUPPORT-STRENGTH: But note from "EXECUTION-AT-SUPPORT:" Loma said "give it a couple of candle closes to establish a base" (SZ style)..
+SUPPORT-STRENGTH: .. we can't trade impulses, we can only trade level to level (reclaim-hold-expandAwayMSB - bullish MS on LTF)
+BLIND-BID: never blind-bid (knife-catch) with entire portfolio
+BYBIT-OFFER: after FTX, bybit $30k to influencer accounts that deposit very large amounts
+BYBIT-OFFER: $250k deposit for $30k trading bonus
+BYBIT-OFFER: user typed that it's a standard bonus for everyone, not just Loma
+BYBIT-OFFER: not everyone will hit the trading volume to get the bonus
+BYBIT-OFFER: 150M trading volume in 30days needed to get the $30k
+BYBIT-OFFER: so it's like a free lone to bybit, very few people can do this
+BYBIT-OFFER: especially in current PA conditions, would need about 100 trades using full account (massive scalping)
+BYBIT-OFFER: Loma thought it was a little suss they DM'd 
+BYBIT-OFFER: Loma hasn't even traded 150M total volume over the last few weeks, and he's heard that liquidity for alts is poor on Bybit (OK for majors)
+BINANCE-RECOVERY-FUND: buy every coin that is in CZ's recovery fund
+BULK: trading is about catching the bulk of the move, NOT every single percentage point

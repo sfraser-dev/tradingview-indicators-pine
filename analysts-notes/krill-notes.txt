@@ -792,6 +792,9 @@ DEADCAT-BOUNCE-MA100: ..as ema13 is now resistance, ema200 is stronger support
 DEADCAT-BOUNCE-MA100: "krill-typical-ma100-deadcat-bounce-1.png"
 DEADCAT-BOUNCE-MA100: "krill-ma100-deadcat-bounce-area1.png"
 
+COMPRESSION-m15: Blacksphere: Check H1 & H4 for confluence. If shorting m15-compression, check for H1/H4 MA resistance too
+COMPRESSION-m15: "aggr-krill-system-compression-example-3.png"
+
 ## end general / generic end
 
 =====+++++=====

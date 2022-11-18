@@ -73,4 +73,15 @@ key thing is to not system hop man. That is literally where you leak time.
 ===== start generic
 SFP-SWEEP: "aggr-not-every-sweep-is-an-sfp-has-to-be-swing-point1.png"
 SFP-SWEEP: Now every sweep is a SFP, SFP should be of a clear swing point
+
+VISION-ROUGH-SIZING: using leverage as it's meant to be used (1k, 2k or 5k then high leverage 20x, 50x)
+VISION-ROUGH-SIZING: paid 80k in eth metamask fees in 2021
+
+VISION: anything less than m15 timeframe stresses him out
+VISION: trading is meant to be boring but he loves it
+VISION: just wants to buy spot and chill, this is where you make good money..
+VISION: ..can trade legacy markets if want to actively trade
+AVG-JO: should trade US futures instead of crypto if you can in the UK
+AVG-JO: news traders are in a telegram group with themselves, all buy, hasaka tweets about it, FREE MONEY
+AGGR: trade the news with pair trades 
 ===== end generic
