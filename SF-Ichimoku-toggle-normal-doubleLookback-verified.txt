@@ -24,7 +24,7 @@ fill(p1, p2, color = leadLine1 > leadLine2 ? (normalIchi?colGreen:na) : (normalI
 
 // Double look-back Ichimoku (used as default by Predictimoku)
 conversionPeriodsDLB = input.int(20, minval=1, title="Conversion Line Length (double)", group="Double Lookback Ichimoku")
-basePeriodsDLB = input.int(60, minval=1, title="Base Line Length", group="Double Lookback Ichimoku")
+basePeriodsDLB = input.int(60, minval=1, title="Base Line Length (double)", group="Double Lookback Ichimoku")
 laggingSpan2PeriodsDLB = input.int(120, minval=1, title="Leading Span B Length (double)", group="Double Lookback Ichimoku")
 displacementDLB = input.int(30, minval=1, title="Displacement (double)", group="Double Lookback Ichimoku")
 donchianDLB(len) => math.avg(ta.lowest(len), ta.highest(len))
