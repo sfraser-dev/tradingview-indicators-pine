@@ -130,6 +130,10 @@ TREND-TO-TREND-AVOID-CHOP: ..once H4-trend lost, wait for (i) H4-trend to be rec
 TREND-TO-TREND-AVOID-CHOP: .. avoid the chop between H4-trend and D1-trend (Krill note: H1-ema200 should be between H4-trend and D1-trend)
 TREND-TO-TREND-AVOID-CHOP: "pierre-play-H4trend-until-lost-then-wait-for-D1trend-avoid-chop1.png"
 
+WHY-IS-TREND-EMA13-TO-EMA32: legacy from bots that were used on Huboi from 2019
+WHY-IS-TREND-EMA13-TO-EMA32: "pierre-why-he-uses-ema-13-25-32-as-the-trend-is-legacy-of-old-huboi-bots.png"
+ 
+
 ==== End GENERIC
 
 ===== Gap fills & "reversal reclaim"

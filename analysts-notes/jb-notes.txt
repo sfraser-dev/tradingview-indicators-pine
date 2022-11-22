@@ -45,6 +45,10 @@ JB-PROCESS-3-THINGS-TO-LOOK-FOR: 3-THINGS: external liq to internal liq
 JB-PROCESS-3-THINGS-TO-LOOK-FOR: HTF PoI, LTF PoI, entry when it REACTS, stops below recent low, market entry (doesn't use limit orders)
 JB-PROCESS-3-THINGS-TO-LOOK-FOR: draw OBs and liq grabs on HTF, LTF for entries (fvg, BoS)
 JB-PROCESS-3-THINGS-TO-LOOK-FOR: equal lows / highs are the biggest magnet for liquidity, don't take trade if liquidity resting against you
+
+BOS-CHOCH: https://forex.quora.com/What-is-are-the-difference-s-between-change-of-character-and-break-of-structure-in-forex-trading
+BOS-CHOCH: BoS happens on higher timeframe, CHoCH happens on lower timeframe
+
 ===== End Generic
 
 ===== MEANINGS
@@ -53,8 +57,9 @@ FU: Consolidation under bearish sweep means dump
 FU: Consolidation above bullish sweep means pump
 FU: "jb-GMT-short-FU-is-liquidity-raid2-consolidation-under-FU-bearish.JPG"
 FU: Like SZ - break, consolidate, break again
-NEOK-M1>M1: "m1 > m1" means 1 min sweep & break of structure
+NEOK-M1>M1: "m1 > m1" means 1 min sweep followed by m1 break of structure (sometimes just writes it "m1m1")
 NEOK-M1>M1: "jb-neok-trade-recaps-M1-to-M1-meaning.JPG"
+NEOK-M1>M1: Note: these are CHoCHs; BoS is for the high timeframe, CHoCH is for the low timeframe (see BOS-CHOCH:)
 
 ===== NOTION: JB's TA Methodology:
 MB-MS: Use wicks to mark HH, HL, LH, LL (MB style)
@@ -110,7 +115,12 @@ SETUP-TEMPLATE: (2) wait for price to these levels
 SETUP-TEMPLATE: (3) LTF confirmation at these levels long/short
 SETUP-TEMPLATE: (4) prefers LTF BoS (impulse) resulting in a FVG
 SETUP-TEMPLATE: (5.0) (short) SL above the high, TP at SSL (sell side liquidity) or FVG fill
-SETUP-TEMPLATE: (5.1) (long) SL below the low, TP at BSL (buy side liquidity) or FVG fill  
+SETUP-TEMPLATE: (5.1) (long) SL below the low, TP at BSL (buy side liquidity) or FVG fill
+METHODOLGY-EXPLAINED-H1SR-m5m5-FVG: Find a clear SR level on H1 (H1SR)
+METHODOLGY-EXPLAINED-H1SR-m5m5-FVG: Look for sweep of a low followed by a MSB of a high around the H1SR (m5m5; means m5 sweep followed by m5 MSB)
+METHODOLGY-EXPLAINED-H1SR-m5m5-FVG: watch for FVG to for an entry (buy) in FVG
+METHODOLGY-EXPLAINED-H1SR-m5m5-FVG: "jb-neok-his-ict-methodology-explained-in-detail-2-H1SR-m5m5-fvg.png"
+METHODOLGY-EXPLAINED-LONDON-CHoCH: CHoCH short based on taking HTF liquidity (London high) then LTF Bos with FVG entry 
 
 ===== Begin generic
 RISK: For his scalping, risks usually 5% of his portfolio

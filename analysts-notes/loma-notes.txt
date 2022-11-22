@@ -747,6 +747,8 @@ FTX-BLOWUP: market makers are gone right now, that is why prices are very volati
 CT-CHADS: don't get upset when they lose a heap, they know it's part of the game
 CT-CHADS: new traders go beserk on CT when there is real bearish drama, not seasoned
 CT-CHADS: practice stoicism to be an awesome trader, control your emotions, TA isn't important, EMOTIONAL CONTROL
+
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
@@ -964,3 +966,45 @@ BYBIT-OFFER: Loma thought it was a little suss they DM'd
 BYBIT-OFFER: Loma hasn't even traded 150M total volume over the last few weeks, and he's heard that liquidity for alts is poor on Bybit (OK for majors)
 BINANCE-RECOVERY-FUND: buy every coin that is in CZ's recovery fund
 BULK: trading is about catching the bulk of the move, NOT every single percentage point
+
+===== https://www.youtube.com/watch?v=HFYQjDYHDcM
+TITLE: Loma's Lounge Ep.18: NEW EPISODE, SAME PRICE
+BUYING-THE-2021-LOWS: the "double bubble"
+BUYING-THE-2021-LOWS: he bought quite a lot of spot alts at the 2021 lows, but didn't hold long enough..
+BUYING-THE-2021-LOWS: ..he'd have made 70M on these alone if he held longer (they all did multiples)..
+BUYING-THE-2021-LOWS: ..he bought 7 figs of each coin, but the number started getting big for him so he sold
+BUYING-THE-2021-LOWS: something he wants to rectify, buy a little of each coin so he can hold for longer
+BUYING-THE-2021-LOWS: bought 20% of spot for 221115, 10% btc and 10% eth spot right now, would like to work this to about 35/65 btc/eth
+
+EXECUTION-LOMA-SZ-JB: Loma, SZ and JB all have very similar triggers / execution
+EXECUTION-LOMA-SZ-JB: all HTF direction based on SR then LTF confirmation of HTF direction (follow-through) 
+EXECUTION-LOMA-SZ-JB: Loma follow-through: HTF SR impulse above, want to see SR hold and then FOLLOW-THROUGH to the upside (continuation)
+EXECUTION-LOMA-SZ-JB: SZ break: impulse above HTF horizontal, consolidate (range) abv the level, break (MSB) above the consolidation
+EXECUTION-LOMA-SZ-JB: JB reaction: sweep low into HTF OB+ then LTF BoS to upside (FVG starter entry), watches for REACTION to add to position
+EXECUTION-LOMA-SZ-JB: "loma-sz-jb-execution-level-reclaim-failing-PA-size-off-and-get-out-1.png"
+EXECUTION-LOMA-SZ-JB-MB: Martyn is also using HTF PoIs (OBs), liq grabs and LTF BoS for entry trigger now just like JB  
+EXECUTION-LOMA-BIG-CANDLE-DOWN: how to "knife-catch" 32m30s into stream..
+EXECUTION-LOMA-BIG-CANDLE-DOWN: buying big candle down is ok, but not sophisticated enough..
+EXECUTION-LOMA-BIG-CANDLE-DOWN: want to buy big candle down into support and then see LTF strength (prices popping back up)
+DEX: after FTX blow-up, now is the time for dexes (self custody) and metaverse (buy art, trade weird assets)
+DEX: no bad actors on DEX (like SBF at FTX)
+
+VOLATILITY: As price falls, volatility increases
+VOLATILITY: As price rises, volatility decreases (takes more to move the market)
+VOLATILITY: This is what a lot of people don't understand
+VOLATILITY: When btc at 3k, it was moving 15/20% up and down within an hour
+
+DEVIL-HORN-PATTERN: deviation above level with "devil horns" (sell wicks) 
+DEVIL-HORN-PATTERN: just trolling with devil horns - it's a psuedo double top (but with smaller gap inbetween)
+DEVIL-HORN-PATTERN: "loma-devil-horn-pattern1.png"
+DEVIL-HORN-PATTERN-DOUBLE-TOP: normally want to wait for twice the duration of the pump, if the pump took 5 days..
+DEVIL-HORN-PATTERN-DOUBLE-TOP: want consolidation of 7-10 days.. then 2nd pump
+DEVIL-HORN-PATTERN: for devil horns, if pump took 5 days, consolidation shorter before 2nd pump (about 5 days)
+DEVIL-HORN-PATTERN: "loma-devil-horn-pattern4-double-top-devil-horns-difference.png"
+
+VIP-MAX: Loma has VIP max on Binance (so he likes BNB coin!)
+
+LISTING-PRICES-NEW-COINS: when a new coin trades below its listing value, usually a good buy, founders will buy it
+
+GCR: GCR said, market is awful, if you've been putting in the work for the last year, you'll be reqarded for it in the future. Don't give up
+46m
