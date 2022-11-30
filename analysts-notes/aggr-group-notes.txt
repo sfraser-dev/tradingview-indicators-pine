@@ -13,6 +13,7 @@ VISION: General: https://yourtradingcoach.com/
 VISION: Pivots: https://www.tradingsim.com/day-trading/pivot-points
 DIV-REJECTION-CANDLES: Div gives an impulse, price meets trend (13/25ema) from below, rejects from there, AO div confirms, then continue impulse
 DIV-REJECTION-CANDLES: "aggr-div-playouts-rejection-candles1.png"
+TradingAcademy-Supply-and-Demand: https://www.youtube.com/watch?v=uX6TUrTxD7U
 
 =====
 VWAP: Vision: all the big boys use VWAPs

@@ -49,6 +49,10 @@ JB-PROCESS-3-THINGS-TO-LOOK-FOR: equal lows / highs are the biggest magnet for l
 BOS-CHOCH: https://forex.quora.com/What-is-are-the-difference-s-between-change-of-character-and-break-of-structure-in-forex-trading
 BOS-CHOCH: BoS happens on higher timeframe, CHoCH happens on lower timeframe
 
+REZ-MACRO-DOWNTREND-LONGS: in a macro downtrend all longs are countertrend when you zoom out enough..
+REZ-MACRO-DOWNTREND-LONGS: ..there has been no daily msb, no weekly msb - in this case, take the H4 chart as the HTF chart.
+REZ-MACRO-DOWNTREND-LONGS: "jb-rez-macro-downtrend-H4-chart-becomes-HTF-chart-for-countertrend-longs.png"
+
 ===== End Generic
 
 ===== MEANINGS
@@ -127,3 +131,35 @@ RISK: For his scalping, risks usually 5% of his portfolio
 RISK: With his tight scalping stops, usually risks 50-70% of his portfolio at 10x lev
 RISK: 2000 portfolio, 50% = 1000, 10x = 10000 pos size, 1% SL, risking $100 (100/2000 = 5%)
 ===== End generic
+
+===== Masterclass Video PoI (Nov 2022)
+JB-POIs: 1) OBs, 2) Liq-grab, 3) Ranges
+JB-POIs: Note: his liq-grabs don't have to be sweeps, can be closes to (deviation liq-grabs)
+OB: JB marks same as MB style, they need to give a MSB via big impulse (with FVG too)
+OB: down candle before impulse up that broke MS
+OB: up candle before impulse down that broke MS
+OB: OB much better if it occurs AFTER a HTF liq-grab
+POI-EX1: (1) HTF liq-grab (extLiq)
+POI-EX1: (2) then move that creates LTF MSB (intLiq) (MB-style OB created with FVG)
+POI-EX1: "jb-HTF-OB-occurring-at-a-liqGrab-btc.png"
+POI-EX2: (1) Can also be in a HTF OB (extLiq) 
+POI-EX2: (2) and then a LTF sweep (intLiq) occurs into the this HTF OB (murfski likes these)
+POI-EX2: "jb-liqGrab-into-HTF-OB-eth.png"
+POI: prices typically move from external liq (HTF) to internal liq (LTF)
+POI: want to be positioned for next liquidity draw (if above, want to long)
+POI: (1) HTF POI
+POI: (2) LTF POI 
+POI: (3) see reaction 
+POI: (4) stops above previous taken liquidity (for short)
+POI: (5) trade invalid if resting liquidity above (for short)
+REACTION: doesn't use limit orders as he wants to see reaction first
+REACTION: "jb-reaction-he-is-looking-for.png"
+
+===== Masterclass Video Market Structure (MS) (Nov 2022)
+KILLZONES: they work in crypto as well as fx
+KILLZONES: asia H, asia L, prev deay H, prev day L
+KILLZONES: killzones give more volatility (like NY open) as it's when big boys make there plays in fx / stocks, crypto also follows that sentiment
+FAKE-MSB-POIs: lots of fake MSBs, need to wait for price to come to PoIs to give better chance of playing out
+FAKE-MSB-POIs: no reaction at POI, then NO TRADE
+
+===== Masterclass Video Order Blocks (OBs) (Nov 2022)

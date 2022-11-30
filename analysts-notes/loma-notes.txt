@@ -1007,4 +1007,48 @@ VIP-MAX: Loma has VIP max on Binance (so he likes BNB coin!)
 LISTING-PRICES-NEW-COINS: when a new coin trades below its listing value, usually a good buy, founders will buy it
 
 GCR: GCR said, market is awful, if you've been putting in the work for the last year, you'll be reqarded for it in the future. Don't give up
-46m
+
+===== Loma's Lounge Ep.18: WHERE IS THE BID https://www.youtube.com/watch?v=NeidgIPedcY
+BUILDING-FOLIO: no leverage, but all-in every trade (spot)
+BUILDING-FOLIO: market in, market out, bad
+BUILDING-FOLIO: when leverage started, he'd 3x or 4x all-in all the time
+BUILDING-FOLIO: trading is a sport or a game, start at level 1, side quests, need to get experience in order to play the game well
+EDGE: always want to trade on the edge
+EDGE: best long is a failed short, best short is a failed long
+EDGE: trade should get invalidate quickly to minimise risk and you can get out
+BOTTOMS: when coins start to pump and find bottoms, it's not because of more buyers, it's because the sellers are gone
+BOTTOMS: if the sellers are gone, then it should be able to flip SR levels bullishly
+BOTTOMS: "loma-SR-strength-and-weakenss"
+ECHO-BUBBLE: a large significant bounce but it doesn't reach previous ATH (echos get weaker and weaker)
+
+===== Loma's Lounge Ep.19: BLACK FRIDAY SALE ON CRYPTO? OR DARKER DAYS TO COME? https://www.youtube.com/watch?v=0l0EqqgHb5g
+MEAT-OF-THE-MOVE: most of your money comes from the meat of the move, not catching knifes / bottoms
+MEAT-OF-THE-MOVE: "loma-consolidation-reclaim-number-of-candles-about-20.png"
+MEAT-OF-THE-MOVE: "HOLDING-SR-IS-STRONG:"
+REVERSAL-BOTTOMS: downtrend then bottom, don't try and knfie catch the pico bottom
+REVERSAL-BOTTOMS: bottom will be choppy and scammy, best entry is NOT the bottom, but higher up when breaking out of bottom range
+REVERSAL-BOTTOMS: nearly always the best bet to take the first retest after strength on medium to high timeframe - best risk adjusted bet
+REVERSAL-BOTTOMS: the only way you don't make money following a trend is if you get in at the end of the trend 
+REVERSAL-BOTTOMS: "loma-trend-reversal-PA-4.png"
+SL-PLACEMENT: at the structural low before the move up
+SL-PLACEMENT: "loma-SL-placed-at-structural-low-before-the-move-up.png"
+RULES: make consistently good decisions
+FOSSIL-PUMPS-UNCORRELATED: ltc, xrp, qtum, xmr, stellar
+FOSSIL-PUMPS-UNCORRELATED: usually a very bad sign when these pump alone
+RECLAIM-To-TREND: better to buy reclaims, possible start of new trends
+LOMA-RANGES: mark out highs and lows aprroximately, should be a SR at the 50% too
+LOMA-RANGES: he doesn't use Fib tool with EQ at 0.5, he uses SR boxes to give himself more leeway
+LOMA-SCANNING: biggest movers, usually biggest movers on D1 or D3 time-frames
+LOMA-SCANNING: largest weekly mover doesn't really use, should be able to tell it from largest D1/D3 movers
+LOMA-SCANNING: if trading intra-day, look at H1 and H4
+LOMA-SCANNING: this shows what people are willing to put their money into
+LOMA-SCANNING: but always, always, always look at narrative for biggest mover
+LOMA-SCANNING: if no narrative, it's random occurance (fat finger, PnD group)
+LOMA-SCANNING: you DON'T have to agree with the narrative, loma often doesn't
+LOMA-SCANNING: your feelings don't matter, your gut feeling counts though, need to develop gut feeling
+HAVEN: goal isn't for you guys to stay in the haven, goal is for you guys to improve and be self sufficient
+HAVEN: learn what you can, pick up some skills, then get the fuck out
+HAVEN: loma wants us guys to be very independent and need to pay for any services
+HAVEN: all loma wants is in the future "how is XXX such a great trader"... it's coz he was in the haven for a while..
+HAVEN: ..this is the only marketing that loma wants to do
+

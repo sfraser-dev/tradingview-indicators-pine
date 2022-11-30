@@ -798,6 +798,15 @@ COMPRESSION-m15: "aggr-krill-system-compression-example-3.png"
 FRACTAL: A LTF (H1) compression to possible HTF (H4) trend riding
 FRACTAL: "krill-MQ-fractal-example-H1banana-and-H4trend-1-H1.png"
 
+TRAD-FI: forex on m15 and H1
+TRAD-FI: metals (and possibly other commodities, uranium, oil, etc) on D1 and D3
+TRAD-FI: stocks on D1 and D3 charts
+TRAD-FI: "krill-forex-channel-start-and-focuses.png"
+
+TRAD-FI-NOT-24HOURS: crypto is open 24 hours so MAs align across timeframes
+TRAD-FI-NOT-24HOURS: but tradfi isn't 24 hours so this alignment is lost
+TRAD-FI-NOT-24HOURS: system still works, but can't assume H4ema200 == D1-ema32 anymore (as Pierre does)
+TRAD-FI-NOT-24HOURS: "krill-MAs-for-stocks-do-not-align-across-timeframes-like-crypto-coz-not-open-24hours.png"
 ## end general / generic end
 
 =====+++++=====
