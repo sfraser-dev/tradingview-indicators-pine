@@ -807,6 +807,36 @@ TRAD-FI-NOT-24HOURS: crypto is open 24 hours so MAs align across timeframes
 TRAD-FI-NOT-24HOURS: but tradfi isn't 24 hours so this alignment is lost
 TRAD-FI-NOT-24HOURS: system still works, but can't assume H4ema200 == D1-ema32 anymore (as Pierre does)
 TRAD-FI-NOT-24HOURS: "krill-MAs-for-stocks-do-not-align-across-timeframes-like-crypto-coz-not-open-24hours.png"
+
+MAs-AND-RANGES: Awesome educational write-up about how MAs and ranges are used together to help decide reversal or continuation bias
+MAs-AND-RANGES: There are 3 types of setup (1) Reversals (2) Continuations (3) Ranges 
+MAs-AND-RANGES-REVERSALS-1: HTF SR and MA-banana (great for slower FULL reversal)
+MAs-AND-RANGES-REVERSALS-2: HTF SR + divergence (good for (rare) V-reversals, but dead-cat bounce longs in bear market)
+MAs-AND-RANGES-CONTINUATION-1: immediate continuation off ema13/ema21 
+MAs-AND-RANGES-CONTINUATION-2: re-accumulation continution via compression
+MAs-AND-RANGES-CONTINUATION-3: MAs are fractal, m15-compression will OVERLAP H4-trend (m15-ema200 == H4-ema13)
+MAs-AND-RANGES-CONTINUATION-4: MAs are fractal, H1-compression  will OVERLAP D1-trend (almost, H1-ema200 == D1-ema8)
+MAs-AND-RANGES-RANGING: ** range identification can be useful in MA-reversals and MA-continuations **
+MAs-AND-RANGES-RANGING: longs at RL and shorts at RH are actually lower timeframe MA-reversals
+MAs-AND-RANGES-REVERSION: reversion could also be called a fourth play (after reversals, continuations and ranges) 
+MAs-AND-RANGES-REVERSION: but this is covered by ranges for horizontal reversion
+MAs-AND-RANGES-REVERSION: and by ema13/21 continuation for MA reversion
+MAs-AND-RANGES-PLAN: must know if you're playing a continuation, a reversal or a range
+MAs-AND-RANGES-PLAN: in a range for a long time, need to plan if it's a break out or a deviation
+MAs-AND-RANGES-PLAN: in a trending environment, must plan for (1) parabolic blow-off top, (2) continutaion or (3) reversal
+MAs-AND-RANGES-PLAN: obviously, don't apply range strategies when it's trending and don't apply trend strategies when it's ranging..
+MAs-AND-RANGES-PLAN: .. for example, don't ape into H1-trend retest within a H1-compression, it'll likely dump hard to H1-ma100 and ignore H1-trend
+MAs-AND-RANGES-INTERTWINED: a "LTF" trending market will be in a very "HTF" range, zoom out to see the range, RH likely top of trending market
+MAs-AND-RANGES-INTERTWINED: a "LTF" range will likely result in chopped up "LTF" MAs, don't use these chopped "LTF" MAs to trade, sit on your hands
+MAs-AND-RANGES-SZ-STYLE: after big move (impulse), don't assume V-reversal (rare, we don't trade), assume consolidation / range will occur
+MAs-AND-RANGES-SZ-STYLE: if consolidation looks good, and want to long, buy support (or deviation below) for good RR trade
+MAs-AND-RANGES-PLAY-RANGE-MULTIPLE-TIMES: In range/consolidation and sure of reversal but not when (NOT using MAs here!)
+MAs-AND-RANGES-PLAY-RANGE-MULTIPLE-TIMES: can buy RL/deviation (embrace wicks) and sell RH (35%) multiple times, earn perhaps 0.5R+ while waiting
+MAs-AND-RANGES-PLAY-RANGE-MULTIPLE-TIMES: allows you to build up a larger position without increasing risk (since sure of reversal)
+MAs-AND-RANGES-COMBOS: mini ranges / consolidations (range trading) will occur in a strongly trending market..
+MAs-AND-RANGES-COMBOS: ..and if we zoom out, the strongly trending market will be occurring in a much bigger range
+MAs-AND-RANGES-COMBOS: ..ranges within trends and trends with ranges (fractal)
+MAs-AND-RANGES: "krill-education-MAcontinuation-MAreversal-and-Ranges-AWESOME-01.png"
 ## end general / generic end
 
 =====+++++=====
