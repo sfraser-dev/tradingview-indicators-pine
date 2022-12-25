@@ -104,7 +104,8 @@ TRIPLE-DIVS: should ALWAYS ASSUME triple divs, build positions fluidly based on 
 TRIPLE-DIVS: No more than 14 candles between each peak of the triple div, not 14 candles for the whole triple div structure
 "cbs-triple-divs-can-be-more-than-14-candles-1.jpg"
 
-AGREEMENT: Much better to have AO agreement with a RSI div. Doesn't need to be a matching AO div, but at least AO momentum ("waning momentum") must be in agreement with the RSI div
+AGREEMENT: Much better to have AO agreement with a RSI div. Doesn't need to be a matching 
+ div, but at least AO momentum ("waning momentum") must be in agreement with the RSI div
 
 TRENDLINES: These show momentum (loma gradients), playing TL breakouts is momentum shift plays
 
@@ -1213,6 +1214,9 @@ TITLE: https://youtu.be/uxsJOuoi34Y
 BULL: Want to have way more risk on the table in bull markets
 BULL: Infinite returns on upside, not so with shorts
 BULL: Maths of shorting is worse (bnb at $250, $75 move up is 50%, $75 move down is 33%)  
+
+=====CBS AO (reintroduction) 221212 https://youtu.be/gTeNdzCKI4k
+MEMBERS-CHART-EXAMPLE: "cbs-ao-D1-chart-detailed-analysis-1.png"
 
 ======= CBS summary
 1. RANGING: Divs (~14 candles max, extremes, lock-in)

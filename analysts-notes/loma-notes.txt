@@ -594,6 +594,7 @@ SR: Always mark the high of the last EXPANSION up
 SR: (Always mark the low of the last EXPANSION down)
 SR: Use the Higher High Lower Low Live indicator for these (like RP "uses" of his vHTF OBs); clear swing points
 SR: "loma-SR-always-box-the-last-expansion-up-or-down1-crv.png"
+SR: Likes to focus on the area just before PoB to mark SR bloc
 
 FOLIO-SIZE-100M: https://www.youtube.com/watch?v=Urma-I6W7EQ (32m)
 FOLIO-SIZE-100M: Q: "Loma, are you at 9 figures?". A: "Barely"
@@ -748,6 +749,11 @@ CT-CHADS: don't get upset when they lose a heap, they know it's part of the game
 CT-CHADS: new traders go beserk on CT when there is real bearish drama, not seasoned
 CT-CHADS: practice stoicism to be an awesome trader, control your emotions, TA isn't important, EMOTIONAL CONTROL
 
+RANGES: I always draw my ranges as blocks as having just 1 single number (Fib range) doesn't give robust strategies
+
+EXECUTION: Loma, as a whale, will have 6 or 7 entry levels
+EXECUTION: Normal folk, not insane size, 4 or 5 entries should suffice
+EXECUTION: "loma-execution-layered-bid-he-will-use-6-or-7-entries.png"
 
 ===== GENERIC end
 
@@ -1068,10 +1074,16 @@ BULL-MARKET: but need to stay up late and wake up early, make very good money
 RECLAIMS: reclaim an SR, want to see it break above, retest with price IMMEDIATELY catching a bid
 RECLAIMS: "loma-not-what-we-want-to-see-for-a-reclaim.png"
 RECLAIMS: reclaims are a sign of strength, presumably at accumulation areas, want to see this
+RECLAIMS: not missing much of a move up waiting for a reclaim of SR but taking on a lot of risk
 RECLAIMS: prices don't just accumulate and pump overnight, well shouldn't, if pump is to be longer lasting
 RECLAIMS: not as cool to be a reclaim trader, but it is a much more robust strategy
 RECLAIMS: LOMA IS A RECLAIM TRADER (sz is a reclaim trader, MA trend traders are reclaim traders)
 RECLAIMS: greatest trick devil ever played on traders is making them think they can catch bottoms
+TWAP-EXECUTION: ***************************************************************************************************
+TWAP-EXECUTION: Time Weighted Average Price
+TWAP-EXECUTION: with reclaim of SR, just buy every hour that the SR reclaim holds (this is TWAP)
+TWAP-EXECUTION: "loma-H1-long-locations-including-reclaim-of-PoB-level-twap.png"
+TWAP-EXECUTION: ***************************************************************************************************
 TPs: use closes, not wicks, prices tend to hit the closes more than they do the wicks
 PATTERNS: patterns such as triangles, H&S, bull-flags are just the result of understanding PA
 PATTERNS: loma likes using PA, not patterns, but all roads lead to rome, use which ever brings you the best results
@@ -1106,3 +1118,54 @@ NEXT-NARRATIVE: still not great HTF, but LTF, showing good relative strength com
 NEXT-NARRATIVE: loma likes UNI (because he likes the uniswap dex) - the "binance" of dexs hasn't been established yet
 NEXT-NARRATIVE: uniswap first decent dex for spot trading
 ON-CHAIN-TOOLS: loma asked "do you use any on-chain tools like hyblock" - yes, I do, laevitas also good
+
+===== https://youtu.be/lZNyMitf1Dk LOMAS_LOUNGE_s02-e22-POST-FOMC-NUKE
+BOTTOMING-STRUCTURE: Like SZ, can't deal with V-reversal... bottoming structure must form a bit of a range
+BOTTOMING-STRUCTURE: "loma-what-a-bottoming-structure-looks-like-just-like-SZ.png"
+SOPHISTICATED-COINS: Low time-frame BTC and ETH have much more sophisticated traders, Loma doesn't really like trading them..
+SOPHISTICATED-COINS: .. where you think think you should place a SL you should actually bid there - severe gamesmanship on LTF btc and eth
+SOPHISTICATED-COINS: coins like SOL are "cleaner" on LTF, SR respected more
+BINANCE-JOURNAL-ACCT: Loma removed all money from his personal account on binance ($30M dollars), just keeping his journal account
+BINANCE-JOURNAL-ACCT: Loma is going to try and get his journal account "The Haven Account" into the top 10 of Binance leaderboard
+BINANCE-JOURNAL-ACCT: GCR is on the leaderboard right now and Loma is going to hunt him
+BINANCE-JOURNAL-ACCT: He'll share the journal at the start of each month only (otherwise why would people join the haven? UB & CBS furious)
+BINANCE-JOURNAL-ACCT: Since he's removed his personal money the journal will be his main journal
+
+===== 221221 Loma's Lounge Ep.23: XMAS SPECIAL https://www.youtube.com/watch?v=obSQDfcc3YU
+VOLUME: look at BTC and ETH on coinmarketcap and check their 30-day volume
+VOLUME: binance futures used to have 500M daily volume, now 200M daily volume (holidays, FTX collapse)
+MS: MS is defined by the TREND
+MS: if trend is down then MS is down
+STAKING: announcement of staking is nearly always bearish (ape)..
+STAKING: ..folk think staking, people buy, hold / stake, price up only, supply locked up..
+STAKING: ..but markets never this simple, nearly always priced in already
+SUPPORT: a good support is ABOVE an area that is being contested
+SUPPORT: people want to buy ABOVE the sticking point therefore acts as support
+SUPPORT: if resistance is $100, wants to see it break above $100 then trade at 103, 104..
+SUPPORT: ..does NOT want to see it trade at 100, 98, 100, 97 etc
+SUPPORT: "loma-looks-like-underside-retest-good-and-bad-support.png"
+TA: is your way of "understanding" the market
+TA: is only to define your RR (SL, reward, risk)
+TA: must look at REACTIONS at certain levels
+TRIPLE-DRIVE-DYING-MOMENTUM: highest hitrate trade in recent times (52min)
+TRIPLE-DRIVE-DYING-MOMENTUM: "loma-distrubution-pattern-LEVER-example6-played-out-dying-momentum.png"
+TRIPLE-DRIVE-DYING-MOMENTUM: such an easy short because I know right away when I'm wrong
+TRIPLE-DRIVE-DYING-MOMENTUM: this is THE very definition of distribution
+TRIPLE-DRIVE-DYING-MOMENTUM: buying starts to slow and momemntum slows down
+TA: buying is green candle, selling is red candle, buying and selling is real
+TA: some buying then lots of selling (upside wick, selling wick)
+TA: some selling then lots of buying (downside wick, buying wick)
+TA: TA is real because candles are real, TA is the aggregation of buying and selling
+CRAP-PA: Loma's not really trading much right now because bad PA and less participants and he's already made it
+CRAP-PA: but if he hadn't made it, he would for sure be trading as need to put in the screen time and (semi) succeed in difficult conditions
+CRAP-PA: he's also relatively young so would get bored retired, still in the game as he needs something to do
+SCANNING: sorts by percentage change then scans through there
+SCANNING: looking at HNT, it has pumped 32%, looks to see when the next funding cycle is (it's in 1h42m)
+SCANNING: checks the volume (using the vol tool, volume bars at the bottom)
+SCANNING: check the narrative to see if there's a reason for the big pump
+SCANNING: If trading funding, need to use lower timeframes (changes every 8 hours)
+PIERRE: will write you a novel to say don't trade right now, go have a beer and spend time with your family
+PIERRE: he's amazing, he's good, what could be said in 5 sentences, he'll use 5 paragraphs, but he's loveable
+PIERRE: he tries to break everything down in the most super simple noob friendly way
+CRAZY-COMMUNITIES: token with crazy community, don't care about TA, but in it for the shits and giggles
+CRAZY-COMMUNITIES: axs, gmt, previously sol (like nfts, liked the ecosystem, the games on it)

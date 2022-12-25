@@ -19,6 +19,8 @@ OB: It's not a valid OB+ if there is liquidity just below it
 TERMINOLOGY: Shout out to all those that took the trade with me
 TERMINOLOGY: Mad love
 TERMINOLOGY: Let me know if you longed it with me!
+TERMINOLOGY: Took this trade with X (X posted it in community charts)
+TERMINOLOGY: Who took this trade with me
 
 TIMING: Best scalp trades should happen fast / quick
 TIMING: "jb-gmt-short-45k-position-size4-best-trades-happen-fast.JPG"
