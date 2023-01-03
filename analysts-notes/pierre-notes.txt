@@ -132,8 +132,11 @@ TREND-TO-TREND-AVOID-CHOP: "pierre-play-H4trend-until-lost-then-wait-for-D1trend
 
 WHY-IS-TREND-EMA13-TO-EMA32: legacy from bots that were used on Huboi from 2019
 WHY-IS-TREND-EMA13-TO-EMA32: "pierre-why-he-uses-ema-13-25-32-as-the-trend-is-legacy-of-old-huboi-bots.png"
- 
 
+MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: BTC and ETH both below D1-trends
+MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: So look for alts bearishly retesting D1-trend with confluent horizontal SR resistance
+MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: "pierre-MA-system-robotic-BTC-below-D1-trend-look-to-short-alts1.png"
+MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: This is his robotic MA system (a bit like like JB's "secret sauce")
 ==== End GENERIC
 
 ===== Gap fills & "reversal reclaim"

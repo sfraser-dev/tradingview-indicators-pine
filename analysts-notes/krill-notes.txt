@@ -837,6 +837,10 @@ MAs-AND-RANGES-COMBOS: mini ranges / consolidations (range trading) will occur i
 MAs-AND-RANGES-COMBOS: ..and if we zoom out, the strongly trending market will be occurring in a much bigger range
 MAs-AND-RANGES-COMBOS: ..ranges within trends and trends with ranges (fractal)
 MAs-AND-RANGES: "krill-education-MAcontinuation-MAreversal-and-Ranges-AWESOME-01.png"
+
+EV: In HTF high conviction trades (swings), use wider stops (so not wicked out) - EV on these trades comes from win-rate, not RR
+EV: Note: a little different to CBS; CBS will accepts the SLs and enter multiple times aiming for high RR on MTF/HTF swing trades 
+EV: "krill-high-conviction-trade-EV-comes-from-winrate-not-RR-1.png"
 ## end general / generic end
 
 =====+++++=====
