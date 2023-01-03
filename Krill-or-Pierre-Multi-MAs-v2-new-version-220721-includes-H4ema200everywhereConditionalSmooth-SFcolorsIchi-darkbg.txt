@@ -48,6 +48,10 @@ ema25Length = input.int(defval = 25, minval = 1)
 ema32Source = input(defval = close)
 ema32Length = input.int(defval = 32, minval = 1)
 
+//ema 33
+ema33Source = input(defval = close)
+ema33Length = input.int(defval = 33, minval = 1)
+
 //ema 34
 ema34Source = input(defval = close)
 ema34Length = input.int(defval = 34, minval = 1)
@@ -70,6 +74,7 @@ ema13 = ta.ema(ema13Source, ema13Length)
 ema21 = ta.ema(ema21Source, ema21Length)
 ema25 = ta.ema(ema25Source, ema25Length)
 ema32 = ta.ema(ema32Source, ema32Length)
+ema33 = ta.ema(ema33Source, ema33Length)
 ema34 = ta.ema(ema34Source, ema34Length)
 EMA200() => 
     ema200 = 0.0
@@ -97,6 +102,7 @@ ema13Col_k =  color.new(#00FF00, 0)
 ema21Col_k=   color.new(#00FF00, 0)
 ema25Col_k =  color.new(#00FF00, 0)
 ema32Col_k =  color.new(#00FF00, 0)
+ema33Col_k =  color.new(#00FF00, 0)
 ema34Col_k =  color.new(#00FF00, 0)
 
 // P colours
@@ -109,6 +115,7 @@ ema13Col_p =    color.new(#00FFFF, 0)
 ema21Col_p =    color.new(#00FFFF, 0)
 ema25Col_p =    color.new(#00FFFF, 0)
 ema32Col_p =    color.new(#f23645, 0)
+ema33Col_p =    color.new(#f23645, 0)
 ema34Col_p =    color.new(#f23645, 0)
 
 // M colors
@@ -121,6 +128,7 @@ ema13Col_m =  color.new(#ffb74d, 0)
 ema21Col_m=   color.new(#ffb74d, 0)
 ema25Col_m =  color.new(#ffb74d, 0)
 ema32Col_m =  color.new(#ffb74d, 0)
+ema33Col_m =  color.new(#ffb74d, 0)
 ema34Col_m =  color.new(#ffb74d, 0)
 
 
@@ -135,6 +143,7 @@ plot((k_col_selected==true)? ema13 : na, title="EMA13", color=ema13Col_k, linewi
 plot((k_col_selected==true) ? ema21 : na, title="EMA21", color=ema21Col_k, linewidth=1, style=plot.style_stepline)
 plot((k_col_selected==true) ? ema25 : na, title="EMA25", color=ema25Col_k, linewidth=1, style=plot.style_stepline, display=display.none)
 plot((k_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_k, linewidth=1, style=plot.style_cross, display=display.none)
+plot((k_col_selected==true) ? ema33 : na, title="EMA33", color=ema33Col_k, linewidth=1, style=plot.style_cross, display=display.none)
 plot((k_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_k, linewidth=1, style=plot.style_cross, display=display.none)
 
 // Plot P lines
@@ -148,6 +157,7 @@ plot((p_col_selected==true)? ema13 : na, title="EMA13", color=ema13Col_p, linewi
 plot((p_col_selected==true) ? ema21 : na, title="EMA21", color=ema21Col_p, linewidth=1, style=plot.style_stepline, display=display.none)
 plot((p_col_selected==true) ? ema25 : na, title="EMA25", color=ema25Col_p, linewidth=1, style=plot.style_stepline)
 plot((p_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_p, linewidth=1, style=plot.style_cross)
+plot((p_col_selected==true) ? ema33 : na, title="EMA33", color=ema33Col_p, linewidth=1, style=plot.style_cross, display=display.none)
 plot((p_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_p, linewidth=1, style=plot.style_cross, display=display.none)
 
 // Plot M lines
@@ -160,7 +170,8 @@ p100maM=plot((m_col_selected==true)? ma100 : na, title="MA100", color=ma100Col_m
 plot((m_col_selected==true)? ema13 : na, title="EMA13", color=ema13Col_m, linewidth=1)
 plot((m_col_selected==true) ? ema21 : na, title="EMA21", color=ema21Col_m, linewidth=1, style=plot.style_stepline, display=display.none)
 plot((m_col_selected==true) ? ema25 : na, title="EMA25", color=ema25Col_m, linewidth=1, style=plot.style_stepline)
-plot((m_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_m, linewidth=1, style=plot.style_cross)
+plot((m_col_selected==true) ? ema32 : na, title="EMA32", color=ema32Col_m, linewidth=1, style=plot.style_cross, display=display.none)
+plot((m_col_selected==true) ? ema33 : na, title="EMA33", color=ema33Col_m, linewidth=1, style=plot.style_cross)
 plot((m_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_m, linewidth=1, style=plot.style_cross, display=display.none)
 
 // fill macro MAs (Ichi cloud!)
