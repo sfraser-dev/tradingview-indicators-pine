@@ -755,6 +755,9 @@ EXECUTION: Loma, as a whale, will have 6 or 7 entry levels
 EXECUTION: Normal folk, not insane size, 4 or 5 entries should suffice
 EXECUTION: "loma-execution-layered-bid-he-will-use-6-or-7-entries.png"
 
+EXECUTION: will close a trade if it's too resistant or if it starts to CONSOLIDATE ON LTFs
+EXECUTION: ie: no follow through
+EXECUTION: "loma-execution-will-close-if-price-begins-to-consolidate-on-LTF.png"
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
@@ -1169,3 +1172,37 @@ PIERRE: he's amazing, he's good, what could be said in 5 sentences, he'll use 5 
 PIERRE: he tries to break everything down in the most super simple noob friendly way
 CRAZY-COMMUNITIES: token with crazy community, don't care about TA, but in it for the shits and giggles
 CRAZY-COMMUNITIES: axs, gmt, previously sol (like nfts, liked the ecosystem, the games on it)
+
+===== 2023-MEANS-NEW-YEAR-SAME-PA-230104 https://youtu.be/mAptYsfRbzw?t=295
+SMALLER-ACCTS-FOCUS-ON-ALTS: Q: "Loma, why do you say smaller accounts should focus on alts if I can get a couple of R per week trading majors?"
+SMALLER-ACCTS-FOCUS-ON-ALTS: if trading btc or eth, need to size up, bigger size affects you mentally
+SMALLER-ACCTS-FOCUS-ON-ALTS: more sophistacted traders trade btc and eth (they can't get huge size on illiquid alts)
+SMALLER-ACCTS-FOCUS-ON-ALTS: Alts tend to have a narrative and tend to be predictable based on PA
+BTC-NEWER-TRADERS: Should only use H4 and above as PA more tricky / sophisticated / competative
+BTC-NEWER-TRADERS: Even Loma doesn't really trade m15 on majors, better casino tables to play to take other people's money 
+STRONG-COIN: when prices are going to trend hard, don't tend to get nice retests for entry, forced to kind of fomo in
+STRONG-COIN: "loma-trending-coin-few-good-retests-sol.png"
+TRIPLE-DRIVE-DYING-MOMENTUM: Bullish case is just the reverse
+TRIPLE-DRIVE-DYING-MOMENTUM: "loma-dont-short-pumps-without-bearish-structure-forming-6-bullish-triple-drive-dying-momentum.png"
+FUNDS: Funds / whales don't market buy, they have more sophisticated buying models, it's very rarely "up only"
+OB-FULL-RETRACE-ISSUE: full retrace is not stength (like OBs tend to be)
+OB-FULL-RETRACE-ISSUE: want to see it break out of a resistance (level1) then pump to an old support (level2)
+OB-FULL-RETRACE-ISSUE: the retrace should be to level2 (strong), not level1 (weak)
+OB-FULL-RETRACE-ISSUE: "loma-full-retrace-OB-issue-1.png"
+TRUST-YOUR-FEELINGS: many of the best traders he knows just use a simple chart
+TRUST-YOUR-FEELINGS: they've been trading so long, can just pull out their phone and say "looks heavy" or "looks strong"
+TRUST-YOUR-FEELINGS: they can just look at the PA and get an accurate bias, so their hitrate is good
+LEADERBOARD-BINANCE: goal is to get into the top 10 (at least). probably not too hard
+LEADERBOARD-BINANCE: really wants to get into the top 3 ($20M area)
+CT-NARRATIVES: can get in very early if you follow the right people (outspoken, will definitely shill their bags)
+CT-NARRATIVES: they may not always be right, but they will die with their bags, always commenting, always tweeting
+CT-NARRATIVES: he always follows these people, might be wrong, but easy trade, they shill coin, if it doesn't move, coin is fucked, easy short
+CT-NARRATIVES: if Degen-Spartan shills a coin and doesn't move, then all his buying has been met with equal selling
+CT-NARRATIVES: if it does indeed go up, Loma will just sit in it
+CT-NARRATIVES: "loma-narrative-degen-sparten-via-cointelegraph-top-people-in-crypto.png"
+CT-NARRATIVES: "loma-ct-narrative-example-LDO.png"
+
+===== https://www.youtube.com/watch?v=O7s37AuivW4 Loma's Lounge Ep.2: THE TREND IS YOUR FRIEND 230107
+EXECUTION: as a trader, you need to know when to cut a trade before it hits your SL.
+EXECUTION: The market will tend to tip its hand on LTF (if organic move, not if its a pump and dump)
+10mins

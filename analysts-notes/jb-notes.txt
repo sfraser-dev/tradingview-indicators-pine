@@ -55,6 +55,12 @@ REZ-MACRO-DOWNTREND-LONGS: in a macro downtrend all longs are countertrend when 
 REZ-MACRO-DOWNTREND-LONGS: ..there has been no daily msb, no weekly msb - in this case, take the H4 chart as the HTF chart.
 REZ-MACRO-DOWNTREND-LONGS: "jb-rez-macro-downtrend-H4-chart-becomes-HTF-chart-for-countertrend-longs.png"
 
+REZ-FVG-REBALANCE: (1) bullish FVG created (imbalance below price)
+REZ-FVG-REBALANCE: (2) bullish FVG filled (balanced)
+REZ-FVG-REBALANCE: (3) price goes back above the high of the bullish FVG (rebalanced)
+REZ-FVG-REBALANCE: Price shoud not go back below the filled FVG again (acts as support)
+REZ-FVG-REBALANCE: "jb-rez-education-fvg-imbalance-balance.png"
+
 ===== End Generic
 
 ===== MEANINGS
@@ -165,3 +171,40 @@ FAKE-MSB-POIs: lots of fake MSBs, need to wait for price to come to PoIs to give
 FAKE-MSB-POIs: no reaction at POI, then NO TRADE
 
 ===== Masterclass Video Order Blocks (OBs) (Nov 2022)
+RP: put Rektproof's OB PDF on screen (agrees with this)
+RP: JB learned most of his TA from RP. RP is a beast
+POI: often have an OB on HTF and FVG on LTF combine these two for great trade setup
+JB-OBs: where large orders entered the market and where they are likely to defend
+JB-OBs: Uses martyn's style, must close below previous low for a MSB (not a wick below)
+JB-OBs: wait to hit OB and then reverse before entering manually / market. Don't place limits, especially in crypto
+JB-OBs: JB uses ALL of the candle (wicks too) to mark the OB (like RP)
+JB-OBs: what is needed to be valid for JB:
+JB-OBs: (1) HTF external liq-grab (liquidity engineered)
+JB-OBs: (2) HTF external MSB
+JB-OBs: (3) HTF external OB created
+JB-OBs: (4) LTF internal watch for reaction on OB retest (ltf BoS, ltf sweeps PoI/OB, ltf fvg at PoI/OB).. see this ALL THE TIME (JB entry model)
+JB-OBs: Should use H1 upwards for OBs (H1, H4, ++)
+JB-OBs: If price front runs a OB then 
+JB-OBs: loves ltf sweeps in his PoIs
+JB-OBs: love PA where there's FVGs and OBs created (martyn style)
+JB-OBs: reaction at OB: just don't want to see price go straight through OB, want to manually see it defended first
+JB-OBs: he will sometimes try and catch a wick using internal liquidity being taken
+JB-OBs: he uses ancheFvg tool a lot
+JB-MONDAYS-HIGH-RANGE: only time he'll short instantly is when Monday's high is taken (but internal liq-grab of Monday's high, not an external liq-grab)
+JB-SECRET-SAUCE: basically, sweeps at his PoIs
+JB-EXECUTION: will give himself 2 attempts at the same trade (when scalping with tight SLs), no more than 2!
+JB-EXECUTION: doesn't tend to trade BTC, charts BTC but trades alts off of that
+JB-EXECUTION: like Loma, JB says BTC PA is just to difficult / sophisticated, easier on alts
+
+===== Masterclass Ranges (Nov 2022)
+MON: Monday is a no trade day for JB, he waits for Monday's range to form
+MON: backtesting shows 77% of mon low or mon high being ran on Tues
+RP: pulled up RPs range educational material
+JB: uses only 1, 0.5 and 0 on his Fib tool for ranges
+BIAS: if in HTF downtrend, favour shorting range high (as opposed to longing range low)
+EQ: price above EQ is bullish, price below EQ is bearish
+BYBIT: Can adjust leverage on-the-fly on bybit
+
+===== Masterclass Secret Sauce (Nov 2022)
+still to watch
+
