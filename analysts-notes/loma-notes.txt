@@ -758,6 +758,19 @@ EXECUTION: "loma-execution-layered-bid-he-will-use-6-or-7-entries.png"
 EXECUTION: will close a trade if it's too resistant or if it starts to CONSOLIDATE ON LTFs
 EXECUTION: ie: no follow through
 EXECUTION: "loma-execution-will-close-if-price-begins-to-consolidate-on-LTF.png"
+
+EXECUTION-HARD-AND-SOFT-SL: sol short trade bit of a "wtf?" but actually explains his execution, 250k position size of 2M account
+EXECUTION-HARD-AND-SOFT-SL: soft SL was H1 close above 17 (approx 4% SL)
+EXECUTION-HARD-AND-SOFT-SL: hard SL was reclaim of D1 block about 17.8 (approx 10% SL)
+EXECUTION-HARD-AND-SOFT-SL: Position size is based on the HARD SL: 1% risk of 2M account is about 200k position size with a 10% SL
+EXECUTION-HARD-AND-SOFT-SL: So, position size based on hard SL on HTF but soft SL based on soft SL on LTF
+EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-1.png"
+EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-2.png"
+EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-3.png"
+EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-4-mq-chart.png"
+EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-1.png"
+EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-6-sluis-only-risking-25k-1percent.png"
+
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
