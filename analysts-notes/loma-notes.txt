@@ -251,7 +251,7 @@ https://www.youtube.com/watch?v=HizotFUkGgE
 PUMPS: Big pumps with full retrace is BEARISH, lack of momentum
 TIMEFRAMES: Establish H1 level (via D1) then goto 15m to refine
 WEAKNESS: Mult pushes up, full retrace, then LH
-WEAKNESS: see: TRIPLE-DRIVE-DYING-MOMENTUM
+WEAKNESS: see: EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM
 SFP: SFP on multiple timeframes with follow through = strong signal = sfp confirmed
 RSI: He doesn't use as other indicators will have already confirmed it by the time rsi confirms
 LEADING: If recent leading coin is dumping, then whole market market will dump
@@ -381,16 +381,16 @@ SZ: Consolidation above the highs (horizontal level) is good for a long
 MS: Use HTF (daily) for market structure (not H4)
 DEFENCE: Correct way to learn to trade is defensive strategy first, risk management
 DEFENCE: Many make lots of money, but few can keep it (Su Zhu 9 billion in profits, but can't hold onto it)
-TRIPLE-DRIVE-DYING-MOMENTUM: Visual test, pumps and pull backs
-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
-TRIPLE-DRIVE-DYING-MOMENTUM: First pump big wih shallow pullback, 2nd pump smaller with deeper pullback, 3rd pump smaller with bigger pullback
-TRIPLE-DRIVE-DYING-MOMENTUM: momentum is waning
-TRIPLE-DRIVE-DYING-MOMENTUM: Check this HTFs (H4 at least)
-TRIPLE-DRIVE-DYING-MOMENTUM: So his demand/supply is about momentum, not blocks
-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-demand-supply-momentum-game-thoery-GMT-1.JPG"
-TRIPLE-DRIVE-DYING-MOMENTUM: (SF: check with RSI and AO)
-TRIPLE-DRIVE-DYING-MOMENTUM: game thoery of demand/supply, demand is decreasing supply increasing thus reducing momentum
-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-triple-drive-dying-momentum-example-and-bull-pennant-example.png"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Visual test, pumps and pull backs
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: First pump big wih shallow pullback, 2nd pump smaller with deeper pullback, 3rd pump smaller with bigger pullback
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: momentum is waning
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Check this HTFs (H4 at least)
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: So his demand/supply is about momentum, not blocks
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-demand-supply-momentum-game-thoery-GMT-1.JPG"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: (SF: check with RSI and AO)
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: game thoery of demand/supply, demand is decreasing supply increasing thus reducing momentum
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-triple-drive-dying-momentum-example-and-bull-pennant-example.png"
 TA: Just get 3/4 things that go "hand-in-hand", don't learn too much or you'll get conflicted; get good at execution
 JOURNEY: The journey of a trader is to make money! Feelings, opinons, likes, DOES NOT MATTER, only go for best performing asset and squeeze the most money as possible from ut
 
@@ -485,14 +485,14 @@ TRADE-EXECUTION: Adding to winning position
 TRADE-EXECUTION: Dealing with layered entries giving full SLs but partial wins if not all entries hit on a winning trade
 TRADE-EXECUTION: "loma-sizing-layered-entries-and-adding-blacksphere-7-mq-chart-example.JPG"
 
-BOUNCE-NOT-REVERSAL: Loma execution style posted trades
-BOUNCE-NOT-REVERSAL: Loma catches BOUNCES first, not going for reversal
-BOUNCE-NOT-REVERSAL: Wide SL with layered weighted entries  (trying to catch wick right next to invalidation for biggest entry, but not always accomplished)
-BOUNCE-NOT-REVERSAL: First TP usually less than 1R from first entry (BOUNCE catch)
-BOUNCE-NOT-REVERSAL: Second/third TP may aim for possible reversal
-BOUNCE-NOT-REVERSAL: So high win-rate with lots of small winners (not all entries hit and only TP1 hit)
-BOUNCE-NOT-REVERSAL: Occasional home-run (all entries hit, huge position built right next to invalidation (very tight stop on the final biggest entry position))
-BOUNCE-NOT-REVERSAL: Lots of small nibbles, occasional Michelin Starred meal
+EXECUTION-BOUNCE-NOT-REVERSAL: Loma execution style posted trades
+EXECUTION-BOUNCE-NOT-REVERSAL: Loma catches BOUNCES first, not going for reversal
+EXECUTION-BOUNCE-NOT-REVERSAL: Wide SL with layered weighted entries  (trying to catch wick right next to invalidation for biggest entry, but not always accomplished)
+EXECUTION-BOUNCE-NOT-REVERSAL: First TP usually less than 1R from first entry (BOUNCE catch)
+EXECUTION-BOUNCE-NOT-REVERSAL: Second/third TP may aim for possible reversal
+EXECUTION-BOUNCE-NOT-REVERSAL: So high win-rate with lots of small winners (not all entries hit and only TP1 hit)
+EXECUTION-BOUNCE-NOT-REVERSAL: Occasional home-run (all entries hit, huge position built right next to invalidation (very tight stop on the final biggest entry position))
+EXECUTION-BOUNCE-NOT-REVERSAL: Lots of small nibbles, occasional Michelin Starred meal
 
 SHITCOIN-APP: https://app.laevitas.ch/altsderivs/BINANCE/perpetualswaps
 SHITCOIN-APP: "Highly recommend you guys use this app for Binance-related shitcoin searches"
@@ -524,8 +524,8 @@ BACKTESTING: Don't need to backtest, market condtions always changing, understan
 HARD-STOPS: don't need hard stops after TPing
 HARD-STOPS: "loma-no-hard-stops-after-TPing.JPG"
 
-TRIPLE-DRIVE-DYING-MOMENTUM: CHART: "loma-triple-drive-dying-momentum-full-breakdown1.JPG"
-TRIPLE-DRIVE-DYING-MOMENTUM: FULL-BREAKDOWN: "loma-triple-drive-dying-momentum-full-breakdown2.JPG"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: CHART: "loma-triple-drive-dying-momentum-full-breakdown1.JPG"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: FULL-BREAKDOWN: "loma-triple-drive-dying-momentum-full-breakdown2.JPG"
 
 METICULOUS: Loma: "good" trading should be meticulous and dull. Careful analysis, copied over and over again.
 It's hard but boring if that makes sense, like doing taxes
@@ -560,8 +560,8 @@ JOURNAL-GOAL-SEP2022: difficult market, move slow, bet small, get in sync with m
 JOURNAL-GOAL-SEP2022: ..start nailing trades (big coins, btc, eth, etc), then go hard (introduce smaller alts)
 JOURNAL-GOAL-SEP2022: See gdrive loma-trade-recaps-sept2022 folder.. makes it look so easy up 50% in a month
 
-TRIPLE-DRIVE-DYING-MOMENTUM: MQ: Use Heikin Ashi candles / RSI / AO?
-TRIPLE-DRIVE-DYING-MOMENTUM: MQ: "loma-triple-drive-dying-momentum-heikinAshi-1.png"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: MQ: Use Heikin Ashi candles / RSI / AO?
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: MQ: "loma-triple-drive-dying-momentum-heikinAshi-1.png"
 
 LOMA-TA: I actually employ probably the most basic of TA, but it comes down to refining discretionary..
 LOMA-TA: ..skills and general market intuition that does it for me.
@@ -751,13 +751,13 @@ CT-CHADS: practice stoicism to be an awesome trader, control your emotions, TA i
 
 RANGES: I always draw my ranges as blocks as having just 1 single number (Fib range) doesn't give robust strategies
 
-EXECUTION: Loma, as a whale, will have 6 or 7 entry levels
-EXECUTION: Normal folk, not insane size, 4 or 5 entries should suffice
-EXECUTION: "loma-execution-layered-bid-he-will-use-6-or-7-entries.png"
+EXECUTION-AMOUNT-OF-ENTRIES: Loma, as a whale, will have 6 or 7 entry levels
+EXECUTION-AMOUNT-OF-ENTRIES: Normal folk, not insane size, 4 or 5 entries should suffice
+EXECUTION-AMOUNT-OF-ENTRIES: "loma-execution-layered-bid-he-will-use-6-or-7-entries.png"
 
-EXECUTION: will close a trade if it's too resistant or if it starts to CONSOLIDATE ON LTFs
-EXECUTION: ie: no follow through
-EXECUTION: "loma-execution-will-close-if-price-begins-to-consolidate-on-LTF.png"
+EXECUTION-CLOSE-EARLY: will close a trade if it's too resistant or if it starts to CONSOLIDATE ON LTFs
+EXECUTION-CLOSE-EARLY: ie: no follow through
+EXECUTION-CLOSE-EARLY: "loma-execution-will-close-if-price-begins-to-consolidate-on-LTF.png"
 
 EXECUTION-HARD-AND-SOFT-SL: sol short trade bit of a "wtf?" but actually explains his execution, 250k position size of 2M account
 EXECUTION-HARD-AND-SOFT-SL: soft SL was H1 close above 17 (approx 4% SL)
@@ -848,8 +848,8 @@ PUBLIC: He'd never publicly share a trade unless he wanted folk to also buy the 
 PUBLIC: Folk that share trades (CT) are
 TOPS: want to see nice clean consolidation at resistance if it's to break
 TOPS: this means it's obviously not nuking
-TOPS: don't want to see pump, retrace, pump less retrace more, pump even less retrace even more (make LH too) see: "TRIPLE-DRIVE-DYING-MOMENTUM"
-TOPS: CBS also said today that increasing volatility is associated with tops forming (TRIPLE-DRIVE-DYING-MOMENTUM)
+TOPS: don't want to see pump, retrace, pump less retrace more, pump even less retrace even more (make LH too) see: "EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM"
+TOPS: CBS also said today that increasing volatility is associated with tops forming (EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM)
 IMPULSE-CANDLES: Want to see them not get retraced; this is a sign of weakness (ie: their FVG should be support)
 
 ===== Lance Breitstein (8 figure profits 2 years in a row)
@@ -1020,7 +1020,7 @@ DEVIL-HORN-PATTERN: deviation above level with "devil horns" (sell wicks)
 DEVIL-HORN-PATTERN: just trolling with devil horns - it's a psuedo double top (but with smaller gap inbetween)
 DEVIL-HORN-PATTERN: "loma-devil-horn-pattern1.png"
 DEVIL-HORN-PATTERN-DOUBLE-TOP: normally want to wait for twice the duration of the pump, if the pump took 5 days..
-DEVIL-HORN-PATTERN-DOUBLE-TOP: want consolidation of 7-10 days.. then 2nd pump
+DEVIL-HORN-PATTERN-DOUBLE-TOP: ..want consolidation of 7-10 days.. then 2nd pump
 DEVIL-HORN-PATTERN: for devil horns, if pump took 5 days, consolidation shorter before 2nd pump (about 5 days)
 DEVIL-HORN-PATTERN: "loma-devil-horn-pattern4-double-top-devil-horns-difference.png"
 
@@ -1095,11 +1095,11 @@ RECLAIMS: prices don't just accumulate and pump overnight, well shouldn't, if pu
 RECLAIMS: not as cool to be a reclaim trader, but it is a much more robust strategy
 RECLAIMS: LOMA IS A RECLAIM TRADER (sz is a reclaim trader, MA trend traders are reclaim traders)
 RECLAIMS: greatest trick devil ever played on traders is making them think they can catch bottoms
-TWAP-EXECUTION: ***************************************************************************************************
-TWAP-EXECUTION: Time Weighted Average Price
-TWAP-EXECUTION: with reclaim of SR, just buy every hour that the SR reclaim holds (this is TWAP)
-TWAP-EXECUTION: "loma-H1-long-locations-including-reclaim-of-PoB-level-twap.png"
-TWAP-EXECUTION: ***************************************************************************************************
+EXECUTION-TWAP: ***************************************************************************************************
+EXECUTION-TWAP: Time Weighted Average Price
+EXECUTION-TWAP: with reclaim of SR, just buy every hour that the SR reclaim holds (this is TWAP)
+EXECUTION-TWAP: "loma-H1-long-locations-including-reclaim-of-PoB-level-twap.png"
+EXECUTION-TWAP: ***************************************************************************************************
 TPs: use closes, not wicks, prices tend to hit the closes more than they do the wicks
 PATTERNS: patterns such as triangles, H&S, bull-flags are just the result of understanding PA
 PATTERNS: loma likes using PA, not patterns, but all roads lead to rome, use which ever brings you the best results
@@ -1163,11 +1163,11 @@ SUPPORT: "loma-looks-like-underside-retest-good-and-bad-support.png"
 TA: is your way of "understanding" the market
 TA: is only to define your RR (SL, reward, risk)
 TA: must look at REACTIONS at certain levels
-TRIPLE-DRIVE-DYING-MOMENTUM: highest hitrate trade in recent times (52min)
-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-distrubution-pattern-LEVER-example6-played-out-dying-momentum.png"
-TRIPLE-DRIVE-DYING-MOMENTUM: such an easy short because I know right away when I'm wrong
-TRIPLE-DRIVE-DYING-MOMENTUM: this is THE very definition of distribution
-TRIPLE-DRIVE-DYING-MOMENTUM: buying starts to slow and momemntum slows down
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: highest hitrate trade in recent times (52min)
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-distrubution-pattern-LEVER-example6-played-out-dying-momentum.png"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: such an easy short because I know right away when I'm wrong
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: this is THE very definition of distribution
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: buying starts to slow and momemntum slows down
 TA: buying is green candle, selling is red candle, buying and selling is real
 TA: some buying then lots of selling (upside wick, selling wick)
 TA: some selling then lots of buying (downside wick, buying wick)
@@ -1195,13 +1195,14 @@ BTC-NEWER-TRADERS: Should only use H4 and above as PA more tricky / sophisticate
 BTC-NEWER-TRADERS: Even Loma doesn't really trade m15 on majors, better casino tables to play to take other people's money 
 STRONG-COIN: when prices are going to trend hard, don't tend to get nice retests for entry, forced to kind of fomo in
 STRONG-COIN: "loma-trending-coin-few-good-retests-sol.png"
-TRIPLE-DRIVE-DYING-MOMENTUM: Bullish case is just the reverse
-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-dont-short-pumps-without-bearish-structure-forming-6-bullish-triple-drive-dying-momentum.png"
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Bullish case is just the reverse
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: "loma-dont-short-pumps-without-bearish-structure-forming-6-bullish-triple-drive-dying-momentum.png"
 FUNDS: Funds / whales don't market buy, they have more sophisticated buying models, it's very rarely "up only"
-OB-FULL-RETRACE-ISSUE: full retrace is not stength (like OBs tend to be)
-OB-FULL-RETRACE-ISSUE: want to see it break out of a resistance (level1) then pump to an old support (level2)
-OB-FULL-RETRACE-ISSUE: the retrace should be to level2 (strong), not level1 (weak)
-OB-FULL-RETRACE-ISSUE: "loma-full-retrace-OB-issue-1.png"
+EXECUTION-OB-FULL-RETRACE-ISSUE: full retrace is not stength (OBs will tend to be full retraces to their origin)
+EXECUTION-OB-FULL-RETRACE-ISSUE: want to see it break out of a resistance (level1) then pump to an old support (level2)
+EXECUTION-OB-FULL-RETRACE-ISSUE: the retrace should be to level2 (strong), not level1 (weak)
+EXECUTION-OB-FULL-RETRACE-ISSUE: "loma-full-retrace-OB-issue-1.png"
+EXECUTION-OB-FULL-RETRACE-ISSUE: EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: 
 TRUST-YOUR-FEELINGS: many of the best traders he knows just use a simple chart
 TRUST-YOUR-FEELINGS: they've been trading so long, can just pull out their phone and say "looks heavy" or "looks strong"
 TRUST-YOUR-FEELINGS: they can just look at the PA and get an accurate bias, so their hitrate is good
@@ -1218,4 +1219,59 @@ CT-NARRATIVES: "loma-ct-narrative-example-LDO.png"
 ===== https://www.youtube.com/watch?v=O7s37AuivW4 Loma's Lounge Ep.2: THE TREND IS YOUR FRIEND 230107
 EXECUTION: as a trader, you need to know when to cut a trade before it hits your SL.
 EXECUTION: The market will tend to tip its hand on LTF (if organic move, not if its a pump and dump)
-10mins
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: easy to trade, happens often, plays out well often
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: You could call it the UB-over-under, UB-retest, the power of 3 (consolidate, manipulation (deviation) expansion).. 
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: ..call it whatever you like, the same stuff just gets repackaged all the time 
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: "loma-execution-favourite-setup-pump-abv-sr-dip-below-sr-reclaim-sr-PDR-1.png"
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: shared trade success example: "loma-pump-dip-reclaim-example-sol-1.png"
+
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim old lows)
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bearish retests, he likes to use the highs as the retest areas (ie: reclaim old highs)
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: "loma-prefers-to-use-lows-for-bullish-retest-areas.png"
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: loma-use-lows-for-bullish-SR-retest-entries.png"
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: EXECUTION-OB-FULL-RETRACE-ISSUE:
+TRX-JUSTIN-SUN: founder of announcement of an announcment, then when announcing, there's more to come!
+EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: spending consolidating at SR gives time for absorbtion
+EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: "loma-sr-reclaim-break-hold-msb-SZ-gives-time-to-absorb-buying.png"
+NARRATIVE: narrative is king in an illiquid market
+SFP: the most significant high should be used to declare an SFP (not taking a close-by (local) high)
+SFP: most significant highs should be used for marking SFPs on H4 and D1 charts
+SFP: SFP of local highs ok for H1 trading
+SFP: "loma-most-significant-high-for-SFP.png"
+UB-BURN: look at this coin, scary PA, limited returns, right up UB's ally
+
+
+===== Loma's Lounge Ep.3: THE PULLBACK SPECIAL https://www.youtube.com/watch?v=HUdbvlxyscE
+WAIT-FOR-RECLAIM: waiting for a reclaim of SR is like paying a 1% or 2% insurance fee
+V-REVERSALS: not good... folk want to see constant small gains (constant strength) to get comfy and for crypto to boom again
+V-REVERSALS: V-reversals don't give this comfy feeling
+RANGES: Prefers to draw his blue boxes rather than range Fibs
+EXHAUSTION: print a new high on D1 (but a sweep) then the day after fail to trade above it is exhaustion
+SCENARIOS: should always have two scenarios for a trade (small pullback or level reclaim), might be wrong, but SHOULDN'T HAPPEN THAT OFTEN
+SCENARIOS: "loma-plan-for-different-scenarios.png"
+PUMPING-COINS: market leaders will pump first and the most.. others will follow from folk who missed the market leader pump but won't pump as much
+DIIFERENT-WAYS-TO-MAKE-MONEY: don't lose so much by fomo, wait for confirmation / consolidation / reclaim, reducing big losses increases PnL ("best loser wins")
+EXECUTIO-SR-BOXES: Q: "loma i see you draw your boxes on the daily.If you see the pullback/reclaim on what timeframe do you wanna see a pullback/reclaim hold the box?"
+EXECUTIO-SR-BOXES: A: "great question: you want lower-time-frames to start to flip - LTFs will work their way into HTFs"
+EXECUTIO-SR-BOXES: A: "start with H1, looks like pullback coming, look at H4, perhaps H1 pullback is H4 consolidation, D1 level holding"
+PIERRE: he's a very good educator / teacher
+JIM: Loma doesn't really use order-flow, knows the terminologies, but not the TA
+DOGE-SHIB: doesn't like these coins, but prefers shib over doge, better returns
+
+===== TRADE EXECUTION SNIPPETS
+TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
+EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals
+EXECUTION-AMOUNT-OF-ENTRIES: whales 6 or 7, normie 4 or 5
+EXECUTION-CLOSE-EARLY: no FOLLOW THROUGH through (too resistant, consolidte on LTF)
+EXECUTION-HARD-AND-SOFT-SL: H1 soft SL about 4% away, D1 hard SL about 10% away (size for hard)
+EXECUTION-AT-SUPPORT: like SZ, give it a couple of candle closes
+EXECUTION-WHEN-IN-HTF-SUPPORT: Don't knife catch, starter position D1 OB, add on H4 level reclaim higher
+EXECUTION-LOMA-SZ-JB: Loma, SZ and JB all have very similar triggers / execution
+EXECUTION-TWAP: with reclaim of SR, just buy every hour that the SR reclaim holds (this is TWAP)
+EXECUTION-OB-FULL-RETRACE-ISSUE: full retrace is not stength (OBs will tend to be full retraces to their origin)
+DEVIL-HORNS pump 5 days, sweep 5 days later
+DOUBLE-TOP pump 5 days, sweep 7-10 days later
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim old lows)
+EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
