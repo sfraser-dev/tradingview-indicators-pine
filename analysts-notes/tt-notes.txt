@@ -1,9 +1,59 @@
-UK 100: (ftse) 10 (~7000)
+UK 100: (ftse) 10 (~7000) ... TT SL ~15 to 20
 GERMANY 40 (dax): 5 (~14000) ... TT SL ~25 to 40
-US Tech 100 (nasdaq): 6 (~11000)
-Wall Street 30 (dow): 2 (~33500) ... TT SL ~25 to 40
+WALL STREET 30 (dow): 2 (~33500) ... low because high value 
+US TECH 100 (nasdaq): 6 (~11000)  SIX IS TOO HIGH! (more volatile), try 2
 
-Live stream 230110
+TT SLs generally ~25 to 40 in DAX, NAS and DOW
+TT SLs generally ~15 in FTSE
+PIPS: 1 pip = 0.0001; 1.1200 plus 1 pip is 1.1201
+
+mq minis: 
+ftse 3 points 15 SL (risk 45)
+dax 1.5 points 30 SL (risk 45)
+dow 1.5 points 30 SL (risk 45)
+nasdaq 1.2 points 35 SL (risk 42)
+
+Lowest amount allowed ftse: 0.5
+Lowest amount allowed dax: 0.5
+Lowest amount allowed nasdaq: 0.5
+Lowest amount allowed dow: 0.5
+
+
+----- begin generic
+TD365: tight spreads 
+TD365: fixed spreads (don't increase spreads when volatile (eg: FOMC, NFT))
+TARGETS: TT doesn't have set targets (TPs manually), only sets entries and SLs
+WORK: £100k a year his peak earning, but in at 5am until 8pm, bust his balls, prep on weekends too, they got his pound of flesh too
+WORK: 4 dax points a day @100 is also £100k pa
+PREFERANCE: TT prefers shorting to longing
+ADD-ON: Sometimes TT will add on, sometimes he will not
+SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle), BO 2 points above or below
+DAX-TRADE-SIZE: TT trades £200 per point on Dax (230111)
+GUARENTEED-SLs: they have a minimum distance away they need to be (and it's far away!)
+DOUBLE-TOP: in a bull market, don't sell double tops
+TRADING-TIME: 2am-4am spread 10 points in dow
+TRADING-TIME: need to be active when there's volatility
+TRADING-TIME: need to be an expert in the time-frame you're trading
+TT-STARTING-OUT: 25pts, risk 25pts, risking £600, 10% risk, short, FTSE, started £5000 now over £200k
+TT-STARTING-OUT: don't confuse a bull market for talent
+GOOD-TRADERS: good traders need to have a good exit strategy for trades (TP, close early)
+GOOD-TRADERS: need prooper risk management and control
+INDICATORS: TT - Stochastics good for trading in ranges
+INDICATORS: TT - MAs good for trending markets
+CITY-INDEX: he used to work City Index brokerage
+BAD-DAY: TT's worst day statistically is Tues
+FRIDAY: takes it easier on a Fri, wants to win, but not to ruin the weekend
+PSYCH: fit body fit mind
+PSYCH: trading can be brutal to your mental health
+PSYCH: tries to not look and his daily PnL to not get too euphoric or depressed
+PSYCH: need to have indifference so you can make logical descisions, not emotional ones
+PSYCH: exercising helps tremendously, brisk walking for at least an hour, not a high pulse rate
+PSYCH: don't try and get every point in the market, just try and have winning days
+STRIVES-FOR: (1) consistancy (2) avoid big losing days
+FOLLOWERS: we are the source of his PnL, we make him accountable, makes him want to get better and better, we make him more money
+----- end generic
+
+-----Live stream 230110
 NATURE-OF-TRADING: this is what trading is
 NATURE-OF-TRADING: hold, evaluate, patience, compare charts
 DOW: indicies very segmented via opening and closing times
