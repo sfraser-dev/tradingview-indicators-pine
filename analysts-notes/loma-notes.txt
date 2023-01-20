@@ -612,6 +612,7 @@ TERMINOLOGY: Bro
 TERMINOLOGY: Peace
 TERMINOLOGY: Narrative
 TERMINOLOGY: The juice ain't worth the squeeze
+TERMINOLOGY: The market usually tips its hand
 
 DECISIVE: When something decisive happens after price has been indecisive, tend to continue (not look back)
 DECISIVE: eg: 3 month range broken out of, will look for it to continue up
@@ -771,6 +772,15 @@ EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard
 EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-1.png"
 EXECUTION-HARD-AND-SOFT-SL: "loma-execution-sol-trade-soft-SL-invalided-but-hard-SL-not-hit-6-sluis-only-risking-25k-1percent.png"
 
+MACRO-BULL-TREND-JOINING: usually a 1/10 chance that we're reversing macro trend
+MACRO-BULL-TREND-JOINING: There are so many little rallies that happen across the board throughout a bad year.
+MACRO-BULL-TREND-JOINING: IF it's a really rally with a real new uptrend, you're going to have opportunities to get in later.
+MACRO-BULL-TREND-JOINING: might not have bought $3.4K BTC last time on that "real new uptrend"
+MACRO-BULL-TREND-JOINING: But guess what, people still made so much money buying at $15K, $20K or maybe even higher.
+MACRO-BULL-TREND-JOINING: "loma-how-to-think-in-possible-new-bullish-trend.png"
+
+TRADE-CRITERIA: how much to risk depends on market conditions, liquidity, futures/spot funding, confidence
+TRADE-CRITERIA: "loma-what-he-looks-for-in-a-trade.png"
 ===== GENERIC end
 
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
@@ -1216,7 +1226,7 @@ CT-NARRATIVES: if it does indeed go up, Loma will just sit in it
 CT-NARRATIVES: "loma-narrative-degen-sparten-via-cointelegraph-top-people-in-crypto.png"
 CT-NARRATIVES: "loma-ct-narrative-example-LDO.png"
 
-===== https://www.youtube.com/watch?v=O7s37AuivW4 Loma's Lounge Ep.2: THE TREND IS YOUR FRIEND 230107
+===== Loma's Lounge Ep.2: THE TREND IS YOUR FRIEND 230107: https://www.youtube.com/watch?v=O7s37AuivW4 
 EXECUTION: as a trader, you need to know when to cut a trade before it hits your SL.
 EXECUTION: The market will tend to tip its hand on LTF (if organic move, not if its a pump and dump)
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups
@@ -1234,6 +1244,7 @@ EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: EXECUTION-OB-FULL-RETRACE-ISSUE:
 TRX-JUSTIN-SUN: founder of announcement of an announcment, then when announcing, there's more to come!
 EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: spending consolidating at SR gives time for absorbtion
 EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: "loma-sr-reclaim-break-hold-msb-SZ-gives-time-to-absorb-buying.png"
+EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: "loma-great-example-of-a-level-reclaim.png"
 NARRATIVE: narrative is king in an illiquid market
 SFP: the most significant high should be used to declare an SFP (not taking a close-by (local) high)
 SFP: most significant highs should be used for marking SFPs on H4 and D1 charts
@@ -1252,14 +1263,26 @@ SCENARIOS: should always have two scenarios for a trade (small pullback or level
 SCENARIOS: "loma-plan-for-different-scenarios.png"
 PUMPING-COINS: market leaders will pump first and the most.. others will follow from folk who missed the market leader pump but won't pump as much
 DIIFERENT-WAYS-TO-MAKE-MONEY: don't lose so much by fomo, wait for confirmation / consolidation / reclaim, reducing big losses increases PnL ("best loser wins")
-EXECUTIO-SR-BOXES: Q: "loma i see you draw your boxes on the daily.If you see the pullback/reclaim on what timeframe do you wanna see a pullback/reclaim hold the box?"
-EXECUTIO-SR-BOXES: A: "great question: you want lower-time-frames to start to flip - LTFs will work their way into HTFs"
-EXECUTIO-SR-BOXES: A: "start with H1, looks like pullback coming, look at H4, perhaps H1 pullback is H4 consolidation, D1 level holding"
+EXECUTION-SR-BOXES: Q: "loma I see you draw your boxes on the daily.If you see the pullback/reclaim on what timeframe do you wanna see a pullback/reclaim hold the box?"
+EXECUTION-SR-BOXES: A: "great question: you want lower-time-frames to start to flip - LTFs will work their way into HTFs"
+EXECUTION-SR-BOXES: A: "start with H1, looks like pullback coming, look at H4, perhaps H1 pullback is H4 consolidation, D1 level holding"
 PIERRE: he's a very good educator / teacher
 JIM: Loma doesn't really use order-flow, knows the terminologies, but not the TA
 DOGE-SHIB: doesn't like these coins, but prefers shib over doge, better returns
 
-===== Loma's Lounge Ep.3: THE PULLBACK SPECIAL https://www.youtube.com/watch?v=HUdbvlxyscE
+===== Loma's Lounge Ep.4: BEARS BTFO!!!!: https://youtu.be/q_ooYq6vfJ0
+TREND-STRENGTH: As trend gets stronger, candles get bigger, as trend begins to wane, candles get smaller (Heiken Ashi style)
+TREND-STRENGTH: "loma-candle-size-equates-to-trend-strength-heiken-ashi-style.png"
+EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
+EXECUTION-RECLAIM-THE-LOWS: "loma-flip-level-SZ-style-for-long-or-dying-momentum-for-short1.png"
+HOW-TO-TRADE-SIMPLY: generally just keep making good decisions again and again and over time you'll make money over a series of trades
+HOW-TO-TRADE-SIMPLY: if you long in bull market, short in bear, sell resistance, buy support, will have a successful trading career
+MARKET-LEADING-COINS: they tend to lead on the way up AND on the way down
+TRADE-REVERSE: best longs are failed shorts and best shorts are failed longs
+CONSOLIDATION-DISTRIBUTION: distribution will have highs taken and sold off into a couple of times, whenever it tries to BO, it gets sold back into the range
+CONSOLIDATION-DISTRIBUTION: consolidation will look more like compression
+CONSOLIDATION-DISTRIBUTION: "loma-example-of-distribution-and-consolidation-avax.png"
+CONSOLIDATION-DISTRIBUTION: distribution is very much like JBs short setups (sweep, fvg, internal BoS to downside)
 
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
@@ -1276,4 +1299,5 @@ DEVIL-HORNS pump 5 days, sweep 5 days later
 DOUBLE-TOP pump 5 days, sweep 7-10 days later
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups
 EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim old lows)
+EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper

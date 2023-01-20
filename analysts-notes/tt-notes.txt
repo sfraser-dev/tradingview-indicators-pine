@@ -7,11 +7,11 @@ TT SLs generally ~25 to 40 in DAX, NAS and DOW
 TT SLs generally ~15 in FTSE
 PIPS: 1 pip = 0.0001; 1.1200 plus 1 pip is 1.1201
 
-mq minis: 
-ftse 3 points 15 SL (risk 45)
-dax 1.5 points 30 SL (risk 45)
-dow 1.5 points 30 SL (risk 45)
-nasdaq 1.2 points 35 SL (risk 42)
+mq minis: (malware
+ftse 6 points 12 SL (risk 72)
+dax 4 points 25 SL (risk 100)
+dow 3 points 30 SL (risk 90) ... wider stop at opens though!
+nasdaq 2 points 45 SL (risk 90)
 
 Lowest amount allowed ftse: 0.5
 Lowest amount allowed dax: 0.5
@@ -51,6 +51,22 @@ PSYCH: exercising helps tremendously, brisk walking for at least an hour, not a 
 PSYCH: don't try and get every point in the market, just try and have winning days
 STRIVES-FOR: (1) consistancy (2) avoid big losing days
 FOLLOWERS: we are the source of his PnL, we make him accountable, makes him want to get better and better, we make him more money
+ADD-ON-BUFFER: TT: "I don't really have enough profits on the ftse to buffer me (if adding on)"
+ADD-ON: would like to see momentum on my side before adding on
+ADD-ON: (1) add to enforce the correct behaviour
+ADD-ON: (2) compound gains when right, press the position (when the market has momentum)
+ADD-ON: (3) never add to losing trades
+ADD-ON: fine line between aggressive and reckless
+ADD-ON: if the market is weaker, perhaps don't add on or add on only 10%
+ADD-ON: TT always adds on 1R (although some ppl add on fractions of R)
+ADD-ON: can be very profitable with only 50% winrate
+ADD-ON: "tt-when-to-add-on-1.png"
+DOW-WIN-LOSE-DAYS: DOW has gone up lots in last 10 years, but distribution of win/lose days is still 50/50 (winning days just pump more than losing days dump)
+FORTE: PA forte following the direction what's happening TOADY
+MAJORS: FTSE and DAX the 2 major indicies in Europe, if one is going up and the other isn't, sentiment not agreeing
+COVER-PnL: while trading, just cover the PnL showing with another trade (or notepad)
+GAPS: 48% of indicies gaps get filled on the day
+GAPS: "tt-indicies-gap-filled-on-the-day-48percent-1.png"
 ----- end generic
 
 -----Live stream 230110
@@ -70,3 +86,39 @@ PSYCH: TT never intends to retire, love to learn, knowledge, to share this knowl
 PSYCH: bought a soup kitchen, car for them to shop with, he took food hygiene course
 PSYCH: Addiction: awful to see ppl, drink, nicotine, drugs, pain killer additicion
 PSYCH: divorce, drank too much, AA, 15th July 2015 was his last drink, 7 years ago
+
+----- Trading Manual Singles TA Course PDF from website
+TRADING-TA: trading is 90% psychology and 10% TA
+TRADING-TA: Go with long term trend (D1 bear) and fade the short term trend (H1 bull)
+TRADING-TA: ABCD pattern (very similar to harmonic ABCD, CHoCH), could just be a 2 moves down correction
+TRADING-TA: chances of it being a trend change are much lower than trend continuation
+TRADING-TA: "tt-ABCD-trend-continuation-2-move-down-correction1.png"
+TRADING-TA: SZ style trigger for trend reversal
+TRADING-TA: "tt-sz-style-trigger1.png"
+NEWS: https://www.forexfactory.com/calendar (TT: red flagged items) (MQ: db news on twitter also)
+NEWS: most important each month is NFP (monthly labour report), GDP FOMC (FED) interest rates
+NEWS: https://www.cnbc.com/world/?region=world
+LOSERS: The way you handle your losses will tell you more about your potential to become a profitable trader than any other indicator
+3-DAY-SWING-CHART: The 3-day swing chart is constructed using the highs and lows of the last 4 trading days..
+3-DAY-SWING-CHART: For instance if today the current price trades below the lowest low of the last 3 days, then the trend is down
+TT-FOREX-PAIRS-SWINGS: Euro Dollar, Sterling Dollar, Dollar Swiss, Dollar Yen, Euro Yen, and Sterling Yen.
+TT-FOREX-PAIRS-DAY-TRADING: Sterling Dollar and Euro Dollar, and from time to time the rather volatile Euro Yen.
+TT-FOREX-PAIRS: each pair has its quirks, don't get bogged down
+CHART-TIMEFRAMES: W1 (ma89), D1 (3-day-bar-rule), H4/H1 swing trading, m15/m10 good intermediary timeframe, m5/m1 for entries (he's a scalper)
+CHART-TIMEFRAMES: Uses ma89 on W1 chart to determine HTF trend
+8-CANDLESTICK-PATTERNS: standard, spinningTop, doji, umbrellas (hangingMan, hammer), shavedTop, shavedBottom, marabozo, inverseUmbrellas (shootingStar, invertedHammer)
+4-BAR-FRACTAL: current bar is bar 1. Bar1 must CLOSE above the high of bar2 AND above the high of bar4 (ie: bar1 must msb bars 2 and 4) 
+4-BAR-FRACTAL: "tt-entry-method-4-bar-fractal-1.png"
+DIVS: used as normal, but was using wicks and stoch in his example
+ADDING-TO-WINNERS: the most successful traders he knows adds to winners
+ADDING-TO-WINNERS: this will bring success rate down and often nice PnL will disappear
+ADDING-TO-WINNERS: but with big profits on a 40% success hit rate doing this will more than make up for lower win rate and emotional strain of PnL disappering
+ADDING-TO-WINNERS: the higher the timeframe, the more you should add to
+PSYCH: Untrained traders become scared when they should be hopeful, and they become hopeful when they should be scared
+
+--- TA notes
+MQ-CHoCH: hh, hl, hh, hh, hl, HH, LL (bull-SHARK @top = bearish, in on FVG, trend reversal)
+TT-ABCD: 2 move down trend CONTINUATION (hh, hl, hh, hl, [LH,LL,LH,LL], up trend) [ABCD] continue up trend after ABCD 2 move down
+CHoCH-ABCD: CHoCH reversal is bull-SHARK at top, ABCD trend continuation is a bull-BAT at the top (hl, hh, hl, lh, ll - trend continues up) 
+TT-SZ-trigger: CHoCH but BO entry short when LL is broken below again (after LH/FVG reversal point)
+3-DAY-SWING-CHART: should be used on daily chart, anything else gives too many signals
