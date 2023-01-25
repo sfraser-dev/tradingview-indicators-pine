@@ -1236,8 +1236,9 @@ EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: ..call it whatever you like, the same stuf
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: "loma-execution-favourite-setup-pump-abv-sr-dip-below-sr-reclaim-sr-PDR-1.png"
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: shared trade success example: "loma-pump-dip-reclaim-example-sol-1.png"
 
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim old lows)
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bearish retests, he likes to use the highs as the retest areas (ie: reclaim old highs)
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim much older lows from prior structure)
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bearish retests, he likes to use the highs as the retest areas (ie: reclaim much older lows from prior structure)
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: this is like a reclaim of an old "range" (the lows of the old range reclaimed or the highs of the old range reclaimed)
 EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: "loma-prefers-to-use-lows-for-bullish-retest-areas.png"
 EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: loma-use-lows-for-bullish-SR-retest-entries.png"
 EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: EXECUTION-OB-FULL-RETRACE-ISSUE:
@@ -1284,6 +1285,33 @@ CONSOLIDATION-DISTRIBUTION: consolidation will look more like compression
 CONSOLIDATION-DISTRIBUTION: "loma-example-of-distribution-and-consolidation-avax.png"
 CONSOLIDATION-DISTRIBUTION: distribution is very much like JBs short setups (sweep, fvg, internal BoS to downside)
 
+===== https://www.youtube.com/watch?v=Sp6ykY1kB1o Loma's Lounge Ep.5: BITZLATOOOOOOO!!!
+MS: He uses closes for marking MS, not wicks
+EXECUTION-CONSOLIDATION: consolidation is used for building entries (make sure you know the difference between consolidation/accum and distribution)
+EXECUTION-CONSOLIDATION: most people wait for pump then fomo in (most ppl don't make money)
+EXECUTION-CONSOLIDATION: chase the consolidation and have an opinion on which direction it'll go
+EXECUTION-CONSOLIDATION: if you're still in the process of building but prices break out, you can add another 25% or 30% (fixed risk dynamic positioning!) 
+EXECUTION-CONSOLIDATION: "loma-execution-consolidation-PA-we-want-to-build-positions-examples.png"
+POSITION-BUILD: build position slowly, especially on D1, no need to rush
+NARRATIVES: crypto runs on narratives, no point buying xrp, coin must have narrative and PA!
+EXECUTION-AFTER-SWEEP: if we sweep then get massive buying candle, buy in the consolidation of the body of the massive buying candle
+EXECUTION-AFTER-SWEEP: "loma-execution-H4-buying-value-after-sweep-area-op1.png"
+
+===== https://www.youtube.com/watch?v=2Xtnox-8ueM Aptos Army
+LOSE-MONEY-MOST-PEOPLE: (1) they're counter trend trading & (2) trading too much (flipping long and short)
+LOSE-MONEY-MOST-PEOPLE: don't do this for a better strik rate
+LOSE-MONEY-MOST-PEOPLE: most people don't make money so try and do what they don't (TT style)
+LOSE-MONEY-MOST-PEOPLE: focus on the process, do the right things consistently, generally keep making good decisions
+LOSE-MONEY-MOST-PEOPLE: need to be comfortable in a losing position and evaluate PA with a clear mind
+PSYCHE-TT-STYLE: biggest losses come from: (1) letting it run -no SL (2) adjusting the setup too much (3) change TF (4) keep buying as it goes against you
+PSYCHE-TT-STYLE: so shouldn't we do the opposite from what causes the biggest losses (TT style); let the winners run
+PSYCHE-TT-STYLE: what is on the way up I just kept adding? (58 minutes into the stream)
+PSYCHE-TT-STYLE: "loma-execution-tt-style-add-to-winners-compounding-positions.png"
+DISTRIBUTION-OR-CONSOLIDATION: rule of thumb, if you don't see crazy wicks above the highs
+DISTRIBUTION-OR-CONSOLIDATION: order flow is much cleaner for seeing distributive / accumulation PA (shows how much into each wick)
+DISTRIBUTION-OR-CONSOLIDATION: "loma-distribution-accumulation-PA-example1.png"
+SCAN: loma scans the market every day
+
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
 EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals
@@ -1298,6 +1326,8 @@ EXECUTION-OB-FULL-RETRACE-ISSUE: full retrace is not stength (OBs will tend to b
 DEVIL-HORNS pump 5 days, sweep 5 days later
 DOUBLE-TOP pump 5 days, sweep 7-10 days later
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim old lows)
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim much older lows from previous structure)
 EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
+EXECUTION-CONSOLIDATION: consolidation is used for building entries (make sure you know the difference between consolidation/accum and distribution)
+EXECUTION-AFTER-SWEEP: if we sweep then get massive buying candle, buy in the consolidation of the body of the massive buying candle

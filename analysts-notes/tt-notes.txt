@@ -7,11 +7,12 @@ TT SLs generally ~25 to 40 in DAX, NAS and DOW
 TT SLs generally ~15 in FTSE
 PIPS: 1 pip = 0.0001; 1.1200 plus 1 pip is 1.1201
 
-mq minis: (malware
+mq minis: (malwarebytes off)
 ftse 6 points 12 SL (risk 72)
 dax 4 points 25 SL (risk 100)
 dow 3 points 30 SL (risk 90) ... wider stop at opens though!
 nasdaq 2 points 45 SL (risk 90)
+WIDER STOPS OFTEN ON MARKET OPEN 
 
 Lowest amount allowed ftse: 0.5
 Lowest amount allowed dax: 0.5
@@ -27,7 +28,8 @@ WORK: £100k a year his peak earning, but in at 5am until 8pm, bust his balls, p
 WORK: 4 dax points a day @100 is also £100k pa
 PREFERANCE: TT prefers shorting to longing
 ADD-ON: Sometimes TT will add on, sometimes he will not
-SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle), BO 2 points above or below
+SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle) is signal bar
+SCHOOL-RUN: BO 2 points above or below. SL discretionary (40 points, abv/below the signal bar, 1/2 way up signal bar)
 DAX-TRADE-SIZE: TT trades £200 per point on Dax (230111)
 GUARENTEED-SLs: they have a minimum distance away they need to be (and it's far away!)
 DOUBLE-TOP: in a bull market, don't sell double tops
@@ -67,6 +69,7 @@ MAJORS: FTSE and DAX the 2 major indicies in Europe, if one is going up and the 
 COVER-PnL: while trading, just cover the PnL showing with another trade (or notepad)
 GAPS: 48% of indicies gaps get filled on the day
 GAPS: "tt-indicies-gap-filled-on-the-day-48percent-1.png"
+COMPARE: when ftse not participating in a dax rally, want to short the ftse
 ----- end generic
 
 -----Live stream 230110
