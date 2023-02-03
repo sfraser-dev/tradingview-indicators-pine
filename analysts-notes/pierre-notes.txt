@@ -155,6 +155,54 @@ GAP-FILL: Different from Krill!
 GAP-FILL: Krill needs ma100 to start to curl-up AND ema200 to be flat, Pierre does not
 GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-4-krill-disagrees.JPG"
 
+===== Trade plans for multiple coins based on BTC 
+MQ overview: Use BTC and ETH for general market bias (D1 or H4 horizontals and MAs)
+MQ overview: choose alts that were (1) strong when BTC was weak (2) any narrative (eg: AI) (3) chose leaders of that narrative, not laggards
+MQ overview: build a plan for your trade (entry, invalidation, tps, risks)
+MQ overview: if you miss your altcoin entry, can dive into m15/H1 to catch entry (higher risk, needs more babysitting)
+MQ overview: "pierre-education-multiple-coins-trade-planning-based-on-BTC-1.png"
+
+1) Take your #BTC and #ETH charts, clean everything on the chart, keep D1 trend, H4 trend, 200 EMA and 100 MA on it,
+
+2) Highlight on both charts levels you consider as "crucial to defend for upside to remain valid", for both right now
+   it's basically 23.1-23.3k and 1,600-1,620,
+   => These levels are your invalidation on BTC and ETH and invalidation for your bullish bias on both (and therefore most likely on rest of the market)?
+
+3) Make a list of alts you want to be focused on, try to not to spread too much, keep the list relatively short (max 5),
+
+4) For these alts you want to be focused on: Alts that have been holding the best while BTC was shaky, alts that have ongoing
+   narrative (even if really dumb, ie AI narrative), alts that lead these narratives... Don't try to focus on laggards, this is
+   environment for leaders right now.
+   => You can use the alts i've been focus on as examples if you want... There's a reason i've been all over
+   #INJ/USDT - SWING - H4 trend based entry #GMX-USDT _ D1-H4 Long #MASK [monitoring H4 trend retest and 3.4-3.6 region]
+   #LRC/USDT - SCALP - H4 Long past few days... ;).
+
+5) Same way than for BTC and ETH, highlight the D1/H4 trends and most important horizontal levels... Can be recent highs,
+   can be ATH, can be last support retested... Depends on the chart,
+
+6) Based on these levels and confluence, you can start building trading plans, in current conditions most of the time they will look like this:
+  - Entry = "As close as possible to H4/D1 trend retest in confluence with XXX horizontal level"
+  - Invalidation = "On H4/D1 close below confluence of H4/D1 trend and XXX horizontal level"
+  - Target #1 = "Recent highs"
+  - Target #2 = "TBD"
+  - Risk = Continuation setups, aggressive approach, risk must be adjusted
+
+7) If you start seeing these shitcoins moving away too ... rapidly from your "ideal" entries...
+   Then a solution is to dive into lower TF (usually H1/15 min). Or...
+   To start again at 3) and find other setups...
+   => It's important not to chase too much, this can backfire rapidly, especially if you're not an expert in scalping
+   and don't have TIME AND/OR DISCIPLINE to manage/babysitt positions,
+   => #MASK [monitoring H4 trend retest and 3.4-3.6 region] and #LRC/USDT - SCALP - H4 Long second scalp or
+   latest #INJ/USDT - SWING - H4 trend based entry compounding entries on 15min/H1/H4 trend retests can be very good examples of diving into lower TF to chase entries.
+
+8) Print baguettes.
+
+It's forbidden to:
+- Enter a setup then come in the chat asking "should I exit ?"... No. You don't enter if you don't have a trading plan. If you have a trading plan this question shouldn't exist.
+- APE because you saw a random dumb thread on Twitter... No. You build your own setups and trades.
+
+Voilà... I wanted to close my day on this note because I know many might be sidelines right now and wondering what to do.
+
 ===== TERMINOLOGY
 All eyes on
 Crucial

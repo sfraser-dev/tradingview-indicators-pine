@@ -783,6 +783,7 @@ TRADE-CRITERIA: how much to risk depends on market conditions, liquidity, future
 TRADE-CRITERIA: "loma-what-he-looks-for-in-a-trade.png"
 ===== GENERIC end
 
+
 ==== Loma's Lounge: RETURN OF THE BULLLLLLL
 https://www.youtube.com/watch?v=2yTElgRTFKA
 COMPOUNDING: Open multiple alt trades at once to compound on bullish BTC
@@ -1312,6 +1313,22 @@ DISTRIBUTION-OR-CONSOLIDATION: order flow is much cleaner for seeing distributiv
 DISTRIBUTION-OR-CONSOLIDATION: "loma-distribution-accumulation-PA-example1.png"
 SCAN: loma scans the market every day
 
+===== Loma's Lounge Ep.6: CONTINUATION!!! https://www.youtube.com/watch?v=CsdlgLJMml4&t=83s
+EXECUTION-CONSOLDIATION: You're looking to buy consolidation, not looking to buy pumps (fomo)
+EXECUTION-HARD-SOFT-SL: "loma-execution-SOFT-no-closes-below-level1-HARD-no-trading-at-all-below-level2.png"
+PNL-GOALS: loma thinks you can make 4% a week consistently with a "small" 50k portfolio
+PNL-GOALS: loma thinks you can make 1% a week consistently with upto a 10M portfolio
+PNL-GOALS: but focus on the process and don't focus on making money, just make consistently good decisions (avoid huge losses)
+EXECUTION-TWAP: Build your positions slowly, don't buy in all at once!
+EXECUTION-TWAP: Binance has a TWAP option! Average bids over the course of 4 hours, an hour, or 12 hours a day
+
+===== Loma's Lounge Ep.7: BULAS ONLY https://youtube.com/live/EJtv6PDOueA?feature=share
+PO3: power of 3 is just a level reclaim
+PO3: "loma-power-of-3-is-just-a-level-reclaim1.png"
+PO3: "loma-power-of-3-is-just-a-level-reclaim2.png"
+
+4mins
+
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
 EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals
@@ -1331,3 +1348,4 @@ EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see th
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
 EXECUTION-CONSOLIDATION: consolidation is used for building entries (make sure you know the difference between consolidation/accum and distribution)
 EXECUTION-AFTER-SWEEP: if we sweep then get massive buying candle, buy in the consolidation of the body of the massive buying candle
+

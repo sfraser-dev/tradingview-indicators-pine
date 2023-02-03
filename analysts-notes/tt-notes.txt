@@ -8,17 +8,21 @@ TT SLs generally ~15 in FTSE
 PIPS: 1 pip = 0.0001; 1.1200 plus 1 pip is 1.1201
 
 mq minis: (malwarebytes off)
-ftse 6 points 12 SL (risk 72)
-dax 4 points 25 SL (risk 100)
-dow 3 points 30 SL (risk 90) ... wider stop at opens though!
-nasdaq 2 points 45 SL (risk 90)
-WIDER STOPS OFTEN ON MARKET OPEN 
+ftse 8 points 15 SL (risk 105)
+dax 4 points 30 SL (risk 120)
+dow 2 points 60 SL (risk 120) ... wider stop at opens though!
+nasdaq 3 points 40 SL (risk 120)
+
+WIDER STOPS OFTEN ON MARKET OPEN
+230125: ftse 17, dax 27, dow 60/65, nas 42
+
+TT-RISK-PER-POINT-PER-INDEX:
+230115: ftse 300, dax 200, dow 100, nas 200
 
 Lowest amount allowed ftse: 0.5
 Lowest amount allowed dax: 0.5
 Lowest amount allowed nasdaq: 0.5
 Lowest amount allowed dow: 0.5
-
 
 ----- begin generic
 TD365: tight spreads 
@@ -28,8 +32,8 @@ WORK: £100k a year his peak earning, but in at 5am until 8pm, bust his balls, p
 WORK: 4 dax points a day @100 is also £100k pa
 PREFERANCE: TT prefers shorting to longing
 ADD-ON: Sometimes TT will add on, sometimes he will not
-SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle) is signal bar
-SCHOOL-RUN: BO 2 points above or below. SL discretionary (40 points, abv/below the signal bar, 1/2 way up signal bar)
+EXEC-SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle) is signal bar
+EXEC-SCHOOL-RUN: BO 2 points above or below. SL discretionary (40 points, abv/below the signal bar, 1/2 way up signal bar)
 DAX-TRADE-SIZE: TT trades £200 per point on Dax (230111)
 GUARENTEED-SLs: they have a minimum distance away they need to be (and it's far away!)
 DOUBLE-TOP: in a bull market, don't sell double tops
@@ -70,6 +74,23 @@ COVER-PnL: while trading, just cover the PnL showing with another trade (or note
 GAPS: 48% of indicies gaps get filled on the day
 GAPS: "tt-indicies-gap-filled-on-the-day-48percent-1.png"
 COMPARE: when ftse not participating in a dax rally, want to short the ftse
+PSYCH: TT skill is being emotionally detached from trade outcome
+KILL-ZONE: 2 hours at start of trading is where the volatility is, much harder to trade out with this volatility (slower pace out with this opening 2 hours)
+STOP-LOSS-MOVEMENT: lows and highs measured with wicks (not body closes)..
+STOP-LOSS-MOVEMENT: ..on m15, if current bar PA doesn't go above the prior bar and current bar makes a new low, can move SL down above current bar
+CASH-FUTURES: Cash market is physical stocks that are trading where futures are just mirroring real stocks
+ROSETTA-STONE: TT's rosetta stone is his mindset
+SP500: S&P and DOW are 99% correlated, spread on DOW is better, this is why he trades DOW and not S&P
+CORRELATION: ftse/dax holding while dow/nas drop, usually dow/nas will come back
+CORRELATION: ftse/dax dropping while dow/nas drop, usually dow/nas will drop back
+INTUITIVE-TRADER: he's a very intuitive trader, looking at history, gives him his bias (does plenty of research)
+INTUITIVE-TRADER: don't overcomplicate, based trading rules are just one sentence
+INTUITIVE-TRADER: TT gets feedback from lots of other index all the time (ftse, dax, dow, nas)
+RULES: He want add to a losing trade, but if underwater on a nas short, and wants to re-short, he might open a short on the dow (bending the rules)
+WHY-FREE-CHANNEL: trading is tough, we are his outlet to vent
+EXEC-RULE-OF-4-FOMC: during the FOMC press conference, works on the dow and the nas, for short term SCALP
+EXEC-RULE-OF-4-FOMC: m10 charts, FOMC@7pm, conference 30 mins after, wait for the m10 bar (730pm-740pm) to close, long above, short below
+EXEC-RULE-OF-4-FOMC: "tt-strategy-fomc-rule-of-four-1-works-on-dow-and-nas.png"
 ----- end generic
 
 -----Live stream 230110
@@ -119,9 +140,27 @@ ADDING-TO-WINNERS: but with big profits on a 40% success hit rate doing this wil
 ADDING-TO-WINNERS: the higher the timeframe, the more you should add to
 PSYCH: Untrained traders become scared when they should be hopeful, and they become hopeful when they should be scared
 
+===== Brief Manual on PA
+NAKED: Uses naked charts
+OPEN-CLOSES: Although no indicators, previous days high and low are important
+
+===== Best Loser Wins - Flip The Switch https://www.youtube.com/watch?v=siRWczImFtg
+(from about 10mins into video)
+M15-SELL-ON-CLOSE: usually trades m5, but if had a few losers, use m15
+M15-SELL-ON-CLOSE: sell-on-close of current candle (4-BAR-FRACTAL-ish entry)
+STOP-LOSS-MOVEMENT: lows and highs measured with wicks (not body closes)..
+STOP-LOSS-MOVEMENT: ..on m15, if current bar PA doesn't go above the prior bar and current bar makes a new low, can move SL down above current bar
+HARMONIC-RETRACEMENTS: Book Larry Pesavento called Pattern Recognition with Fibonacci Ratios
+
 --- TA notes
 MQ-CHoCH: hh, hl, hh, hh, hl, HH, LL (bull-SHARK @top = bearish, in on FVG, trend reversal)
 TT-ABCD: 2 move down trend CONTINUATION (hh, hl, hh, hl, [LH,LL,LH,LL], up trend) [ABCD] continue up trend after ABCD 2 move down
 CHoCH-ABCD: CHoCH reversal is bull-SHARK at top, ABCD trend continuation is a bull-BAT at the top (hl, hh, hl, lh, ll - trend continues up) 
 TT-SZ-trigger: CHoCH but BO entry short when LL is broken below again (after LH/FVG reversal point)
 3-DAY-SWING-CHART: should be used on daily chart, anything else gives too many signals
+8-CANDLESTICK-PATTERNS: 
+4-BAR-FRACTAL: current bar is bar 1. Bar1 must CLOSE above the high of bar2 AND above the high of bar4 (ie: bar1 must msb bars 2 and 4)
+EXEC-SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle) is signal bar
+EXEC-RULE-OF-4-FOMC: m10 charts, FOMC@7pm, conference 30 mins after, wait for the m10 bar (730pm-740pm) to close, long above, short below
+
+

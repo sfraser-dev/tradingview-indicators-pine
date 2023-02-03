@@ -841,6 +841,29 @@ MAs-AND-RANGES: "krill-education-MAcontinuation-MAreversal-and-Ranges-AWESOME-01
 EV: In HTF high conviction trades (swings), use wider stops (so not wicked out) - EV on these trades comes from win-rate, not RR
 EV: Note: a little different to CBS; CBS will accepts the SLs and enter multiple times aiming for high RR on MTF/HTF swing trades 
 EV: "krill-high-conviction-trade-EV-comes-from-winrate-not-RR-1.png"
+
+H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
+H1-TREND-CONTINUATION-STRATEGY: 1. Type of setup: Continuation (1h EMA13 reclaim on reversal is a different setup)
+H1-TREND-CONTINUATION-STRATEGY: 2. Context: As we're looking for continuation of the momentum we ideally wanna play this when:
+   a. We have a strong trend, ie: price already trading above 4h trend, even better if broke out of a 4h or 1h reversal or continuation compression
+   b. We just had a reversal with a very strong impulse from the lows (extremely good on BTC, especially like BTC SFP's/swept/spring from the lows of a range)
+   c. Actually a sub-case of a. except we just had a very strong trend or parabolic move following the 15m trend. Once 15m trend is lost, you're looking to bet
+      that 1h EMA13 will still hold. (of course if giga blow-off into HTF resistance don't do that, you're better off looking for a short...).
+      Note: do not play 15m trend reclaim, high probability of price just chopping around it. Once 15m trend is lost, the parabolic move is over
+H1-TREND-CONTINUATION-STRATEGY: 3. Entry: bid between EMA13 and EMA21 - if the context is very bullish, usually EMA13 won't break, but still wicks between 13 and 21 are for buying. 
+H1-TREND-CONTINUATION-STRATEGY: 4. Filters for confluence:  
+   - fully reset 1h stoch RSI
+   - horizontal S/R level around the same level as 1h EMA13/21
+H1-TREND-CONTINUATION-STRATEGY: 5. Signs to avoid the setup: (opposite of confluence) 
+   - make sure you have marked your HTF levels and you're not in HTF resistance. Daily tf exhaustion, daily bearish divs.
+   - if the coin already gave 3-4 1h continuations, well either it should/should have gone parabolic, or the 1h trend is getting exhausted.
+   Works best on 1st and 2nd consolidation above 1h trend.
+   - in these cases you likely wanna wait for 4h or daily trend
+H1-TREND-CONTINUATION-STRATEGY: 6. Stop: below EMA21 ideally between 25 and 30 or just a bit below 21 will do - I would say try to figure out the optimal R:R, especially if we're in case c.
+   after a parabolic move EMA30 may be too far and ruin the R:R. If in a. and long consolidation above EMA13 then slightly below 21 is just fine.
+H1-TREND-CONTINUATION-STRATEGY: 7. Targets: you usual liquidity levels, order blocks, HTF horizontals, HTF MAs - nothing special on this setup. But since we're looking for a
+   continuation leg, big and quick candles should be TP'ed partially even if not hitting the planned partial targets.
+
 ## end general / generic end
 
 =====+++++=====
