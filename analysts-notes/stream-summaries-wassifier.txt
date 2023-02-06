@@ -15,6 +15,7 @@ Jim intro to orderflow concepts https://www.youtube.com/watch?v=HSCKScgyKRY
 Jim https://www.youtube.com/watch?v=drgVFTspSZc
 Jim exercise in sizing helped him find profitable systems https://www.youtube.com/watch?v=drgVFTspSZc
 CBS Education Emotional trading overload https://youtu.be/dwR-X2Bnx44
+Krill-market-scan-chart-requests-230203 https://youtu.be/GgO-ojin7l4?t=195
 
 ======= With summaries
 LOMA 17: https://www.youtube.com/watch?v=3jdnwCOke0I
@@ -125,5 +126,7 @@ LOMAS_LOUNGE_ep6-APTOS-ARMY-230120 https://youtu.be/2Xtnox-8ueM?t=46
 CBSStreamSummaryJan25_2023-EmergencyVolatilityBroadcast.pdf https://youtu.be/f3f6Ejhq8Qc?t=225
 LOMAS_LOUNGE_ep6-CONTINUATION-230125 https://youtu.be/CsdlgLJMml4?t=83
 PierreUBStreamSummaryNYO-230127 https://youtu.be/qf36Umj9v78?t=269
-LOMAS_LOUNGE_ep7-BULAS-ONLY-210127 https://youtube.com/live/EJtv6PDOueA?feature=share
+NW:: LOMAS_LOUNGE_ep7-BULAS-ONLY-210127 https://youtube.com/live/EJtv6PDOueA?feature=share
 PierreUBStreamSummaryNYO-230130 https://youtu.be/R5SZG1LSgF4?t=284
+PierreUBStreamSummaryNYO-230202 https://youtu.be/SXihA03iATE?t=262
+NW:: LOMAS_LOUNGE_ep9_30k-OR-BUST-230202 https://youtu.be/EdztDCnDCVk?t=28 (no episode 8)

@@ -781,6 +781,9 @@ MACRO-BULL-TREND-JOINING: "loma-how-to-think-in-possible-new-bullish-trend.png"
 
 TRADE-CRITERIA: how much to risk depends on market conditions, liquidity, futures/spot funding, confidence
 TRADE-CRITERIA: "loma-what-he-looks-for-in-a-trade.png"
+
+EXECUTION-RELATIVE-STRENGTH: He'll very often say a coin is weak (even though going up) by comparing it to another coin
+EXECUTION-RELATIVE-STRENGTH: CRV is well up today, but still in it's medium time frame range. ETH is up more and cleared its old range a few days ago
 ===== GENERIC end
 
 
@@ -1348,4 +1351,5 @@ EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see th
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
 EXECUTION-CONSOLIDATION: consolidation is used for building entries (make sure you know the difference between consolidation/accum and distribution)
 EXECUTION-AFTER-SWEEP: if we sweep then get massive buying candle, buy in the consolidation of the body of the massive buying candle
+EXECUTION-RELATIVE-STRENGTH: He'll very often say a coin is weak (even though going up) by comparing it to another coin
 

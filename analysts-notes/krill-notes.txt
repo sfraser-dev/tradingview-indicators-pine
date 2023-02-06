@@ -864,6 +864,11 @@ H1-TREND-CONTINUATION-STRATEGY: 6. Stop: below EMA21 ideally between 25 and 30 o
 H1-TREND-CONTINUATION-STRATEGY: 7. Targets: you usual liquidity levels, order blocks, HTF horizontals, HTF MAs - nothing special on this setup. But since we're looking for a
    continuation leg, big and quick candles should be TP'ed partially even if not hitting the planned partial targets.
 
+COMPRESSION-BETWEEN-MAs: consolidating BELOW D1-ema200 and D1-ema13
+COMPRESSION-BETWEEN-MAs: GOOD: D1-ema200 flattening/curl-up with D1-ema13 very ascending
+COMPRESSION-BETWEEN-MAs: BAD: D1-ema200 weaker with D1-ema13 flat
+COMPRESSION-BETWEEN-MAs: "krill-education-hard-consolidation-between-MAs-1.png"
+
 ## end general / generic end
 
 =====+++++=====

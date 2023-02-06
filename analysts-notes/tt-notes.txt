@@ -10,8 +10,8 @@ PIPS: 1 pip = 0.0001; 1.1200 plus 1 pip is 1.1201
 mq minis: (malwarebytes off)
 ftse 8 points 15 SL (risk 105)
 dax 4 points 30 SL (risk 120)
-dow 2 points 60 SL (risk 120) ... wider stop at opens though!
 nasdaq 3 points 40 SL (risk 120)
+dow 2 points 60 SL (risk 120) ... wider stop at opens though!
 
 WIDER STOPS OFTEN ON MARKET OPEN
 230125: ftse 17, dax 27, dow 60/65, nas 42
@@ -91,6 +91,10 @@ WHY-FREE-CHANNEL: trading is tough, we are his outlet to vent
 EXEC-RULE-OF-4-FOMC: during the FOMC press conference, works on the dow and the nas, for short term SCALP
 EXEC-RULE-OF-4-FOMC: m10 charts, FOMC@7pm, conference 30 mins after, wait for the m10 bar (730pm-740pm) to close, long above, short below
 EXEC-RULE-OF-4-FOMC: "tt-strategy-fomc-rule-of-four-1-works-on-dow-and-nas.png"
+BIKE: Trading is like riding a bike, it's much easier to do when it's moving
+PARENTS: mother ran a home (for kids with issues), father sailor, best friends were Jehova Witnesses (watch tower and wake up magazines)
+PARENTS: acromonious divorce, TT needed to be picked up by the police when going between them
+PARENTS: one parent (mum stronger believer) told TT to pray and the other said don't do it - TT dated a muslim girl in college
 ----- end generic
 
 -----Live stream 230110
