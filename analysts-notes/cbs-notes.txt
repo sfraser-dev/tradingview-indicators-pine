@@ -1014,6 +1014,7 @@ SF-SUMMARY: m15 PA chop / consolidate below SR resistance only resetting RSI (co
 SF-SUMMARY: SL below m15 consolidations try and catch BO / impulse
 
 ===== Generic Notes (start)
+BEAR-DIV-THROUGH-RESISTANCE: breaking a divergence (ie: bear div is bullish) 
 BEAR-DIV-THROUGH-RESISTANCE: 90% of the time, in a trending market, this breaks upwards with force
 BEAR-DIV-THROUGH-RESISTANCE: daily update 1st Nov 2021
 BEAR-DIV-THROUGH-RESISTANCE: clear bear div on eth
@@ -1209,11 +1210,22 @@ RENKO2-SUMMARY: LTF entries on MTF/HTF, renko gives good indication as to when t
 RENKO2-SUMMARY: renko is a trend based trading method, THIS IS WHAT'S IT FOR, get into trend and stay in trend for as long as possible
 RENKO2-SUMMARY: renko is for following TREND, also using guppy (MA based) and AO (MA based)
 
-=====Risk Management - What Can I Say?
+===== Risk Management - What Can I Say?
 TITLE: https://youtu.be/uxsJOuoi34Y
 BULL: Want to have way more risk on the table in bull markets
 BULL: Infinite returns on upside, not so with shorts
 BULL: Maths of shorting is worse (bnb at $250, $75 move up is 50%, $75 move down is 33%)  
+
+===== Updated Approach (to how he's giving signals) https://www.youtube.com/watch?v=PPDKyvKbrLM
+STOP-LOSSES: he tends to place below impulse candle (long) or above impulse candle (short)
+LAYERED-ENTRIES: create positions in smaller chunks
+LAYERED-ENTRIES: build a position over TIME (TWAP), for example, every time CBS mentions / updates the trade add a bit more to the position
+LAYERED-ENTRIES: plan to have about 5 different positions, buy some, buy a little more when it dips (but still valid) buy a little more on strength
+LAYERED-ENTRIES: "cbs-tt-style-add-to-winners-gmt-example1.png"
+LAYERED-ENTRIES: As well as TT-style adding on to winners, CBS will have a plan to buy some now (33%), buy more on dip to SR (33%), buy more on strength (breakout) 
+LAYERED-ENTRIES: *** detailed charts explaining how he layers entries to build trades ***
+LAYERED-ENTRIES: *** "cbs-crafting-multiple-entries-based-on-trade-plan-23.png" *** Public Trading Account 230208
+LAYERED-ENTRIES: it's so important to attack the market and not be defensive (TT style, aggressive, big winners small losers)
 
 =====CBS AO (reintroduction) 221212 https://youtu.be/gTeNdzCKI4k
 MEMBERS-CHART-EXAMPLE: "cbs-ao-D1-chart-detailed-analysis-1.png"

@@ -784,6 +784,9 @@ TRADE-CRITERIA: "loma-what-he-looks-for-in-a-trade.png"
 
 EXECUTION-RELATIVE-STRENGTH: He'll very often say a coin is weak (even though going up) by comparing it to another coin
 EXECUTION-RELATIVE-STRENGTH: CRV is well up today, but still in it's medium time frame range. ETH is up more and cleared its old range a few days ago
+
+FIRM: vSluis says that loma has a firm to execute his trades for him
+FIRM: "loma-doesnt-execute-his-own-trades-a-firm-does-it-for-him.png"
 ===== GENERIC end
 
 
