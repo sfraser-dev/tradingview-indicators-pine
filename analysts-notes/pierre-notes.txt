@@ -56,13 +56,13 @@ METHOD: ---
 METHOD: Horizontal and trend are designed so that the trade goes with the prevailing & established market structure & trend
 METHOD-SUMMARY: Stoch is used to help with timing
 METHOD: "pierre-trend-system-is-designed-to-long-on-bullish-MS-1.JPG"
-METHOD: Krill: "Pierre nearly exclusively trades trend continuation patterns" (not trend reversal patterns)
-METHOD: "krill-when-is-the-trend-reclaimed-continuation-or-reversal-1.JPG"
+METHOD-KRILL-PIERRE-DIFFERENCE: Krill: "Pierre nearly exclusively trades trend continuation patterns" (not trend reversal patterns)
+METHOD-KRILL-PIERRE-DIFFERENCE: "krill-when-is-the-trend-reclaimed-continuation-or-reversal-1.JPG"
 
-METHOD: Pierre is a H4/D1 trader who will try and compound his trades.
-METHOD: Krill is a daytrader/scalper who tries to nail entries and TP along the way (doesn't compound).
-METHOD: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot (not so many compressions on H4)
-METHOD: "praise-from-pierre-for-explaining-his-system-1.png"
+METHOD-KRILL-PIERRE-DIFFERENCE: Pierre is a H4/D1 trader who will try and compound his trades.
+METHOD-KRILL-PIERRE-DIFFERENCE: Krill is a daytrader/scalper who tries to nail entries and TP along the way (doesn't compound).
+METHOD-KRILL-PIERRE-DIFFERENCE: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot (not so many compressions on H4)
+METHOD-KRILL-PIERRE-DIFFERENCE: "praise-from-pierre-for-explaining-his-system-1.png"
 METHOD-COMPRESSION: Pierre uses H4 compressions between H4-trend and H4-macros (H4-ema200 and/or H4-ma100).. H4-trend-macro-banana
 METHOD-COMPRESSION: ..doesn't seem to use other compressions (ma100, ema200 & ma300 on all TFs, Krill's original banana compression)..
 METHOD-COMPRESSION: .. Krill also uses H4-trend-macro-banana too; but Pierre removed ma300 from his charts so no original banana comp for him.
@@ -142,6 +142,9 @@ MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: BTC and ETH both below D1-trends
 MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: So look for alts bearishly retesting D1-trend with confluent horizontal SR resistance
 MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: "pierre-MA-system-robotic-BTC-below-D1-trend-look-to-short-alts1.png"
 MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: This is his robotic MA system (a bit like like JB's "secret sauce")
+
+D1-TREND-FIRST-RETEST: Don't long first retest of D1-trend after a big move - likely to be lots of chop
+D1-TREND-FIRST-RETEST: "pierre-dont-bid-first-test-of-daily-trend-on-big-move.png"
 ==== End GENERIC
 
 ===== Gap fills & "reversal reclaim"
@@ -275,4 +278,5 @@ Homerun
 What a week we've just had (market pumped, he made a little on trades, not great, co-opting market strength for making himslef look better)
 Killer entry and great timing (by me! even if only a small size entry)
 Close enough (copying SZ, but using "close enough" saying could be some chop over the weekend, draws dodgy range to so it was a bit choppy, I'm great)
+Could get interesting
 ===== TERMINOLOGY END

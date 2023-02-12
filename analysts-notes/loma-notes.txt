@@ -787,6 +787,11 @@ EXECUTION-RELATIVE-STRENGTH: CRV is well up today, but still in it's medium time
 
 FIRM: vSluis says that loma has a firm to execute his trades for him
 FIRM: "loma-doesnt-execute-his-own-trades-a-firm-does-it-for-him.png"
+
+TOP-PERFORMING-COIN: 1. New(ish) coin
+TOP-PERFORMING-COIN: 2. Good narrative (Staking Derivs)
+TOP-PERFORMING-COIN: 3. PA above months of consolidation-base
+TOP-PERFORMING-COIN: "loma-what-constitutes-a-top-performing-coin.png"
 ===== GENERIC end
 
 
