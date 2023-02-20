@@ -84,7 +84,7 @@ GRADIENT-SLOPES: Momentum rounded out
 =====*****
 RANGE-PATTERNS: In a range bound environment; cheesy patterns tend to work (eg: channel)
 
-=====*****
+=====-----
 https://www.youtube.com/watch?v=UELfdO22jHo&t=139s
 Support and Resistance Workshop by "The Haven"
 TA: SR = supply/demand = OBs = FTA = buy/sell walls
@@ -146,7 +146,6 @@ NARRATIVE&LEVELS: most of the money you make is going to come from average trade
 NARRATIVE&LEVELS: Natural human reaction, hate losing, so move SLBE
 NARRATIVE&LEVELS: He mostly bids the mid to low part of the choppy range
 NARRATIVE&LEVELS: Put yourself into the shoes of a new, average or intermediate trader and ask "what are they feeling right now?", ecstasy, fear? What's the counterparty feeling?
---
 
 -- Loma Twitch live stream 211109
 https://www.twitch.tv/lomacrypto
@@ -162,12 +161,12 @@ TIMEFRAME: He's mostly a day trader, 5m or 15m charts
 SHIB: shib is indicative of the whole alt market
 SHIB: Doge & Shib won't pump together coz they share liquidity
 
---
+=====
 Twitch stream 211120
 Bottoms form when people stop market selling, not when people market buys. Check gradients.
 Ask if you took the trade 100 times, would it make money?
 
--- Twitch 211215
+===== Twitch 211215
 He doesn't like demands for trending alts, doesn't want to see the pump fully retracted
 Hardly any V reversals, but mellow out / consolidate / gradient less steep
 BNB always performs decently, binance is legit, should always hold BNB spot
@@ -176,7 +175,7 @@ People that come up as good traders come from bear markets
 Treat it like a video game, don't think about money value, it's a process (think of R). Risk 2% or 3% at a time. Make CONSISTANTLY good decisions.
 Can use full candles or just bodies to mark his OBs (SHSLs)
 
-==== Youtube live stream
+===== Youtube live stream
 https://www.youtube.com/watch?v=IX45MHlHPCc
 HAPPY: Euphoric 1h12mins (FOMC rate information, ROSE trade)
 HAPPY: "This trading shit is too fucking easy"
@@ -656,7 +655,7 @@ HOW-TO-MAKE-IT-LIST: Be disciplined
 HOW-TO-MAKE-IT-LIST: Follow your own strategies
 HOW-TO-MAKE-IT-LIST: Follow your stop loss
 HOW-TO-MAKE-IT-LIST: Don't take big losses
-HOW-TO-MAKE-IT-LIST: ** Learn to be uncomfortable in the market **
+HOW-TO-MAKE-IT-LIST: *** Learn to be uncomfortable in the market
 HOW-TO-MAKE-IT-LIST: Control your emotions
 HOW-TO-MAKE-IT: --
 HOW-TO-MAKE-IT: All this is WORK and EFFORT, can't half-ass it!
@@ -787,11 +786,26 @@ EXECUTION-RELATIVE-STRENGTH: CRV is well up today, but still in it's medium time
 
 FIRM: vSluis says that loma has a firm to execute his trades for him
 FIRM: "loma-doesnt-execute-his-own-trades-a-firm-does-it-for-him.png"
+FIRM: Ah, think vSluis got it wrong, he does take his own trades
+FIRM: "loma-does-take-his-own-trades-doesnt-use-a-firm.png"
 
 TOP-PERFORMING-COIN: 1. New(ish) coin
 TOP-PERFORMING-COIN: 2. Good narrative (Staking Derivs)
 TOP-PERFORMING-COIN: 3. PA above months of consolidation-base
 TOP-PERFORMING-COIN: "loma-what-constitutes-a-top-performing-coin.png"
+
+NEWS: tier10k is very good for following news
+
+EXECUTION-SR-RECLAIM-EDUCATION-BY-LOMA: Ranging, SFP below the range, back into range, BO & consolidate above the range
+EXECUTION-SR-RECLAIM-EDUCATION-BY-LOMA: "loma-execution-education-SR-reclaim1.png"
+
+FEAR-AT-SUPPORT: Get used to watching the fear as prices hit support, and get used to bidding that. I know it's counter intuitive..
+FEAR-AT-SUPPORT: ..but that's why most people struggle to generate consistent profit. Cause it's difficult and uncomfy.
+FEAR-AT-SUPPORT: "loma-get-used-to-watching-the-fear-as-prices-hit-support.png"
+
+EXECUTION-LOMA-SR-BLOCKS-AND-LINES: *** He uses blocks for support and resistance. He uses lines for where he thinks price will hover (range) for consolidation
+EXECUTION-LOMA-SR-BLOCKS-AND-LINES: "loma-SR-blocks-and-horizontal-line-meanings.png"
+EXECUTION-LOMA-SR-BLOCKS-AND-LINES: He wants to try and buy the bottom half of the consolidation if he thinks it'll break up
 ===== GENERIC end
 
 
@@ -799,7 +813,7 @@ TOP-PERFORMING-COIN: "loma-what-constitutes-a-top-performing-coin.png"
 https://www.youtube.com/watch?v=2yTElgRTFKA
 COMPOUNDING: Open multiple alt trades at once to compound on bullish BTC
 COMPOUNDING: Alts tend to give better RR than btc (bigger SLs, but more volatile, so better RR overall)
-LOMA-POSTION-SIZING: *** 18mins into video: AWESOME ***
+LOMA-POSTION-SIZING: *** 18mins into video: AWESOME
 LOMA-POSTION-SIZING: Use "whole" of portfolio when trading
 LOMA-POSTION-SIZING: "If risk is 4% and SL is 8%, only enter half portfolio size max"
 LOMA-POSTION-SIZING: 100,000 portfolio, risk 4000 of it, position size 50,000 (50,000*0.08=4000)
@@ -1117,11 +1131,11 @@ RECLAIMS: prices don't just accumulate and pump overnight, well shouldn't, if pu
 RECLAIMS: not as cool to be a reclaim trader, but it is a much more robust strategy
 RECLAIMS: LOMA IS A RECLAIM TRADER (sz is a reclaim trader, MA trend traders are reclaim traders)
 RECLAIMS: greatest trick devil ever played on traders is making them think they can catch bottoms
-EXECUTION-TWAP: ***************************************************************************************************
+EXECUTION-TWAP: ------------------------------------------------------------------------------------
 EXECUTION-TWAP: Time Weighted Average Price
 EXECUTION-TWAP: with reclaim of SR, just buy every hour that the SR reclaim holds (this is TWAP)
 EXECUTION-TWAP: "loma-H1-long-locations-including-reclaim-of-PoB-level-twap.png"
-EXECUTION-TWAP: ***************************************************************************************************
+EXECUTION-TWAP: ------------------------------------------------------------------------------------
 TPs: use closes, not wicks, prices tend to hit the closes more than they do the wicks
 PATTERNS: patterns such as triangles, H&S, bull-flags are just the result of understanding PA
 PATTERNS: loma likes using PA, not patterns, but all roads lead to rome, use which ever brings you the best results
@@ -1337,8 +1351,61 @@ EXECUTION-TWAP: Binance has a TWAP option! Average bids over the course of 4 hou
 PO3: power of 3 is just a level reclaim
 PO3: "loma-power-of-3-is-just-a-level-reclaim1.png"
 PO3: "loma-power-of-3-is-just-a-level-reclaim2.png"
+RANGES: he uses closes to mark RH and RL (like CBS) - not wicks
+EXECUTION: H4 close below X, will exit some of the position on a H1 close below X, will be fully out on H4 close below X
+SPOT: Always has some BTC and ETH, never JUST alts
+STREAMING: The purpose of him streaming is for us to get into trades before he posts them on dicord (better prices if construct own setup)
+BTC-KING: Must factor BTC into thinking for trading alts (btc looking bullish, buy strong looking alts, btc bearish, sell weak alts)
+H4-TIMEFRAME: expect trade to take at least 3 or 4 days to play out on H4
 
-4mins
+===== Loma's Lounge Ep.9: 30K OR BUST!!! https://www.youtube.com/watch?v=EdztDCnDCVk&t=28s
+NARRATIVES-BEST: in crypto, narratives are more important than knowing how to trade (60/40).
+NARRATIVES-BEST: knows a lot of people made lot of money just on narratives (AI coins etc) when bull market
+NARRATIVES-BEST: But important to know how to trade to manage risk
+PA-EMOTIONS: Price is reflection in human emotions, emotions on a chart
+BULLISH: when things are bullish, don't tend to get perfect retests
+BULLISH: "loma-when-things-are-bullish-dont-get-perfect-retests.png"
+TRX: Justin Sun will jump on any narrative that is hot, not a single independant thought - "me too" - leech coin
+DYING-MOMENTUM: selling will get more aggressive and happen faster
+DYING-MOMENTUM: "loma-example-of-toppy-chart-topped-out1.png"
+SR-RECLAIMS: level reclaims at the highs is NOT the same (weak) as level reclaim after long term (accumulation) range (strong)
+
+===== LOMAS_LOUNGE_ep10_ECHO-BUBBLE-230209 https://youtu.be/Age2Xi0nxK8?t=155
+BTC-CONSOLIDATION: BTC will consolidate for a few months at a time in a range
+BTC-CONSOLIDATION: When BTC ranges, generally good for alts
+BTC-CONSOLIDATION: buy alts when BTC at RL - BTC is an indicator for alts
+BTC-CONSOLIDATION: "loma-btc-consolidation-range-buy-alts-when-btc-at-RL.png"
+BTC-CONSOLIDATION: *** use BTC to gauge strength of alt market
+BTC-CONSOLIDATION: easy to make money when trending (everyone does)
+BTC-CONSOLIDATION: most don't make money when BTC ranging / consolidation (chopped)
+BTC-CONSOLIDATION: wait for range BO with follow-through
+NEW-COINS: people won't have bags of them highly underwater (unlike old coins) so more interest in them
+BUYING-CONSOLIDATION: "loma-wants-to-see-multiple-candles-holding-here-so-knows-theres-buying-holding-it-up.png"
+BUYING-CONSOLIDATION: loma wants to see price holding / consolidating with 3 or 4 candles (H4 chart)..
+BUYING-CONSOLIDATION: ..shows that people are will to buy at this level and hold prices
+HOW-MANY-TRADES: loma takes 20 or 30 trades per week (but not so many published as this in his journal, more picky)
+IF-LOMA-WAS-STARTING-OVER-TRADING: play with meaningful money but not scarey amount - get used to the emotions
+IF-LOMA-WAS-STARTING-OVER-TRADING: focus on the fundamentals
+IF-LOMA-WAS-STARTING-OVER-TRADING: Loma PA traer so focus on SR every day - get very good at marking SRs..
+IF-LOMA-WAS-STARTING-OVER-TRADING: ..then focus on 1 or 2 strategies (eg: (1) SR reclaim, (2) SR retest, (3) dying momentum, Po3 (just a SR reclaim with deviation!), range BO (level reclaim!))..
+IF-LOMA-WAS-STARTING-OVER-TRADING: ..then focus on this again and again and again for MONTHS on these (not goal to make money, goal is to LEARN)
+IF-LOMA-WAS-STARTING-OVER-TRADING: focus, don't go into autopilot, focus on the BORING fundamentals
+IF-LOMA-WAS-STARTING-OVER-TRADING: don't need to know how to hedge, don't need to know what options are, don't need to know about every bit of the economy
+IF-LOMA-WAS-STARTING-OVER-TRADING: ask WHY - Loma took trade X, why did he do that? dig deeper
+IF-LOMA-WAS-STARTING-OVER-TRADING: people will learn too much too fast, don;t focus on any one thing, just kinda bad at everything..
+IF-LOMA-WAS-STARTING-OVER-TRADING: ..bad at SR, bad at taking trades, bad at identifying narratives, bad at playing the range, bad at following a trend, bad with their emotions..
+IF-LOMA-WAS-STARTING-OVER-TRADING: ..because they didn't really spend any time on these things, just a little bit of time on each
+REAL-TIME-CHARTING-AND-TRADING: Q: can you walk us through step by step how you construct your trades Loma?
+REAL-TIME-CHARTING-AND-TRADING: "hate to break it to you brother, but this is the full efforts I put into charting / trade setups"
+REAL-TIME-CHARTING-AND-TRADING: what you see him do on his streams is the full effort he does for his actual trades (even constructs some on stream)..
+REAL-TIME-CHARTING-AND-TRADING: ..we are getting to see his full charting / trade-setup process on the streams.. 
+REAL-TIME-CHARTING-AND-TRADING: ..except on stream he charts random requests from members - he WOULDN'T normally construct a trade WITHOUT NARRATIVE
+REAL-TIME-CHARTING-AND-TRADING: trading should NOT be difficult, the simplier the better, the more hoops you have to jump through, the trade's too difficult..
+REAL-TIME-CHARTING-AND-TRADING: the trade is not robust, not going to get that setup consistently because there will be too many moving parts, can't control all the variables..
+REAL-TIME-CHARTING-AND-TRADING: ..traders can only control their entries and their exits, that's it!
+REAL-TIME-CHARTING-AND-TRADING: ..most traders piss this away, they let their emotions control them, they listen to CT, only worry about your ENTRIES and EXITS!
+TALKED-OUT-OF-POSITION: Loma wants people to talk him out his position, it looks kind of scary man, even though it's just retesting his SR - he LIKE this - when no-one wants to buy, that's when he wants to buy
+TWO-MOST-IMPORTANT-THINGS-IN-TRADING: Loma: "NARRATIVES and MARKET STRUCTURE are the 2 most important things in trading"
 
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
@@ -1359,5 +1426,9 @@ EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see th
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
 EXECUTION-CONSOLIDATION: consolidation is used for building entries (make sure you know the difference between consolidation/accum and distribution)
 EXECUTION-AFTER-SWEEP: if we sweep then get massive buying candle, buy in the consolidation of the body of the massive buying candle
-EXECUTION-RELATIVE-STRENGTH: He'll very often say a coin is weak (even though going up) by comparing it to another coin
+EXECUTION-RELATIVE-STRENGTH: He'll very often say a coin is weak (even though going up) - "looks heavy" - by comparing it to another coin
+EXECUTION: H4 close below X, will exit some of the position on a H1 close below X, will be fully out on H4 close below X
+EXECUTION-LOMA-SR-BLOCKS-AND-LINES: *** He uses blocks for support and resistance. He uses lines for where he thinks price will hover (range) for consolidation
+EXECUTION-LOMA-SR-BLOCKS-AND-LINES: He wants to try and buy the bottom half of the consolidation if he thinks it'll break up
+
 

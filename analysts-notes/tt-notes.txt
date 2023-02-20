@@ -100,7 +100,13 @@ PARENTS: one parent (mum stronger believer) told TT to pray and the other said d
 OPENING-TIMES: ftse and dax both open and close at the same time (8am open, 430pm close) UK times
 TD-365: Try incognito browser if having difficulties with TD365 cloud trading platform
 BIG-SMALL: "keep your losers small and your winners big" (opposite to what most people tend to do)
-
+EXECUTE-DAX-PIN-BAR-PATTERN: buy wick = rejection block in highly trending market
+EXECUTE-DAX-PIN-BAR-PATTERN: "tt-dax-pin-pattern-amsterdam-speech16.png"
+THAT-WAS-THEN-THIS-IS-NOW-SLIDE: "tt-that-was-then-this-is-now-slide.png"
+EDGE-STRONG-SUIT: TT makes his money by adding to the trade when the market goes in his favour
+EDGE-STRONG-SUIT: TT not afraid to pull the trigger a few times even if wrong first couple of times - "ok, didn't work, next"
+SL-PLACEMENT: dow, m1 candles, usually 20 or 30 points each, therefore a 80 point SL on the dow is reasonable
+SURFER: TT is a surfer, why he chose the trading profession
 ----- end generic
 
 -----Live stream 230110

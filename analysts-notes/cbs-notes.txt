@@ -1226,6 +1226,14 @@ LAYERED-ENTRIES: As well as TT-style adding on to winners, CBS will have a plan 
 LAYERED-ENTRIES: *** detailed charts explaining how he layers entries to build trades ***
 LAYERED-ENTRIES: *** "cbs-crafting-multiple-entries-based-on-trade-plan-23.png" *** Public Trading Account 230208
 LAYERED-ENTRIES: it's so important to attack the market and not be defensive (TT style, aggressive, big winners small losers)
+===== Attacking the market https://youtu.be/7yjdxF0oLj0
+ATTACK: - How to build positions
+ATTACK: - Why the "all in" approach doesn't work for most positioning
+ATTACK: - How to implement swing trade ideas with LTF positioning
+ATTACK: - How to use triggers to identify when to build or strengthen a position
+ATTACK: - Why this mindset is so important
+ATTACK: - How to utilise it in LTF and HTF scenarios
+ATTACK: - Why it's important to think about risk during these times
 
 =====CBS AO (reintroduction) 221212 https://youtu.be/gTeNdzCKI4k
 MEMBERS-CHART-EXAMPLE: "cbs-ao-D1-chart-detailed-analysis-1.png"

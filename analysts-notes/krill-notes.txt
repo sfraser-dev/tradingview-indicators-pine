@@ -843,7 +843,7 @@ EV: Note: a little different to CBS; CBS will accepts the SLs and enter multiple
 EV: "krill-high-conviction-trade-EV-comes-from-winrate-not-RR-1.png"
 
 H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
-H1-TREND-CONTINUATION-STRATEGY: 1. Type of setup: Continuation (1h EMA13 reclaim on reversal is a different setup)
+H1-TREND-CONTINUATION-STRATEGY: 1. Type of setup: Continuation (H1-EMA13 reclaim on reversal is a different setup)
 H1-TREND-CONTINUATION-STRATEGY: 2. Context: As we're looking for continuation of the momentum we ideally wanna play this when:
    a. We have a strong trend, ie: price already trading above 4h trend, even better if broke out of a 4h or 1h reversal or continuation compression
    b. We just had a reversal with a very strong impulse from the lows (extremely good on BTC, especially like BTC SFP's/swept/spring from the lows of a range)
@@ -868,6 +868,9 @@ COMPRESSION-BETWEEN-MAs: consolidating BELOW D1-ema200 and D1-ema13
 COMPRESSION-BETWEEN-MAs: GOOD: D1-ema200 flattening/curl-up with D1-ema13 very ascending
 COMPRESSION-BETWEEN-MAs: BAD: D1-ema200 weaker with D1-ema13 flat
 COMPRESSION-BETWEEN-MAs: "krill-education-hard-consolidation-between-MAs-1.png"
+
+BULL-MARKET-H4ema200-H4ma100: In strong bull market, H4-ema200 should hold and H4-ma100 resistance should break on the 2nd tap
+BULL-MARKET-H4ema200-H4ma100: "krill-bull-market-and-H4ma100-2taps-1.png"
 
 ## end general / generic end
 
@@ -1322,14 +1325,6 @@ TREND-DOMINOS-EDU: GENERAL CASE: m15-ema13 to H1-ema13 to H4-ema13 (to H1-ema200
 TREND-DOMINOS-EDU: Trending coins ride the trend fractally, riding LTF-trend successfully a few times, fail, bounce off HTF-trend below, then re-ride the LTF-trend
 TREND-DOMINOS-EDU: eg: bounce off H1-ema13 successfully a few times, then fail, bounce off H4-ema13 as support, then back to riding H1-ema13
 
---- covers 90% of plays Krill uses
-90%-OF-SETUPS: "krill-90percent-of-trades.JPG"
-90%-OF-SETUPS: (1.0) Dump vix to H4 or D1 ema200
-90%-OF-SETUPS: (2.0) Trend riding (trend ridden fractally across time-frames (dominos) (general and parabolic)
-90%-OF-SETUPS: (3.0) Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness
-90%-OF-SETUPS: (3.5) reversal reclaim pattern with trend support for possible trend reversal (combination of 2 and 3)
-90%-OF-SETUPS: (4.0) Range plays when MAs chopped 
-
 -- Krill close on trend reclaim (also Pierre)
 RECLAIM: Krill will SL beyond 28ema (uses 13/21emas for trend)
 RECLAIM: Pierre is more conservative (13/25/32emas for trend)
@@ -1349,4 +1344,19 @@ HISTORY: but must check what MA coin has reacted to before
 H1-100MA: H1-100ma acts as support on some coins
 H1-100MA: H1-100ma not respected by BTC as SR
 H1-100MA-slope: H1-100ma slope gradient very informative (esp BTC)
+
+--- EXECUTION: covers 90% of plays Krill uses
+90%-OF-SETUPS: "krill-90percent-of-trades.JPG"
+90%-OF-SETUPS: (1.0) Dump vix to H4 or D1 ema200
+90%-OF-SETUPS: (2.0) Trend riding (trend ridden fractally across time-frames (dominos) (general and parabolic)
+90%-OF-SETUPS: (3.0) Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness
+90%-OF-SETUPS: (3.5) reversal reclaim pattern with trend support for possible trend reversal (combination of 2 and 3)
+90%-OF-SETUPS: (4.0) Range plays when MAs chopped 
+
+-- EXECUTION
+H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
+REVERSAL-RECLAIM: Starts reclaiming each of these macro/cloud MAs (1st ma100, then ema200, then ma300) while riding the trend
+COMPRESSION-BO-SCAM-GAP-FILL: Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness
+TREND-RIDING: riding trend fractally across time-frames H1-trend to H4-trend to D1-trend; Pierre style
+
 
