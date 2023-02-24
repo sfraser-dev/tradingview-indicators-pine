@@ -806,6 +806,14 @@ FEAR-AT-SUPPORT: "loma-get-used-to-watching-the-fear-as-prices-hit-support.png"
 EXECUTION-LOMA-SR-BLOCKS-AND-LINES: *** He uses blocks for support and resistance. He uses lines for where he thinks price will hover (range) for consolidation
 EXECUTION-LOMA-SR-BLOCKS-AND-LINES: "loma-SR-blocks-and-horizontal-line-meanings.png"
 EXECUTION-LOMA-SR-BLOCKS-AND-LINES: He wants to try and buy the bottom half of the consolidation if he thinks it'll break up
+
+HORIZONTAL-LEVELS-RANGES-LIKE-PIERRE: Loma uses lines for where price will hover / range / cosolidate / CHOP; similar to Pierre
+HORIZONTAL-LEVELS-RANGES-LIKE-PIERRE: Pierre just uses these horizontals, he doesn't tend to use Loma / CBS / SR rectangles
+
+NARRATIVES-CRYPTO-CRED: crypto cred is good at seeing narratives
+NARRATIVES-CRYPTO-CRED: cred says trendy narrative driven coins are good, will have clean PA
+NARRATIVES-CRYPTO-CRED: "loma-cred-trendy-narratives-will-have-clean-charts.png"
+
 ===== GENERIC end
 
 
@@ -1407,6 +1415,61 @@ REAL-TIME-CHARTING-AND-TRADING: ..most traders piss this away, they let their em
 TALKED-OUT-OF-POSITION: Loma wants people to talk him out his position, it looks kind of scary man, even though it's just retesting his SR - he LIKE this - when no-one wants to buy, that's when he wants to buy
 TWO-MOST-IMPORTANT-THINGS-IN-TRADING: Loma: "NARRATIVES and MARKET STRUCTURE are the 2 most important things in trading"
 
+===== LOMAS_LOUNGE_ep11_BEARISH-ON-LOMAS-MIC-230215 https://youtu.be/dpyTJTCNDxg?t=3
+HTF-D3-W1: Doesn't like focusing on W1 or D3 - good to have a gauge, but useless if trading level to level..
+HTF-D3-W1: ..on H4 charts checking positions regularly each day 
+2024: Loma says hopefully he is not trading anymore in 2024
+CATALYSTS-EFFECTS: A lot of people care about catalysts when you should care about the effect instead
+CATALYSTS-EFFECTS: "SFP" didn't happen, no sweep, but strong buying wick, will have same effect as SFP
+CATALYSTS-EFFECTS: ..SFP catalyst didn't happen, but got same effect of SFP
+ACCUMULATION-DISTRIBUTION: distribution consolidation will have multiple pushes up and quick spikes back down
+ACCUMULATION-DISTRIBUTION: accumulation consolidation will mot have these impulses moves down. consolidation range BO / MSB / SZ-style trigger
+ACCUMULATION-DISTRIBUTION: "loma-acc-consolidation-versus-dist-spikeyness.png"
+EXEC-DYING-MOMENTUM-INVALIDATE: in order to invalidate "dying momentum" need to see prolonged consolidation - folk are willing to buy at this level
+EXEC-DYING-MOMENTUM-INVALIDATE: "loma-looks-like-distribution-here-HFT-mult-push-up-spike-down-how-to-invalidate.png"
+CONSOLIDATION-AT-SR-RESISTANCE: depending on PA at the SR, should be bullish - but most people short - check what it did at the lows
+CONSOLIDATION-AT-SR-RESISTANCE: consolidation for a move up - consolidation will present to you guys an opportunity to compund your trades / add-on / TT
+CONSOLIDATION-AT-SR-RESISTANCE: what most people do at consolidation at SR - despit strong reaction at lows - is SHORT!
+CONSOLIDATION-AT-SR-RESISTANCE: could be bias, watch too much news - this is how people lose money
+CONSOLIDATION-AT-SR-RESISTANCE: when market is strong (eg: bad news does't really nuke whole market, bad news is good news) 
+GOOD-TRADER-PNL: all the good traders Loma knows take it level to level (up and down) gives a nice upward PnL over time..
+GOOD-TRADER-PNL: will avoid the 20% nukes, but won't get huge 40% winners, more stable when taking it level to level - trail SL on runners
+GOOD-TRADER-PNL: bad traders will have too many big hits with nukes down really hurting overall PnL, good traders will generally avoid the big nukes
+GOOD-TRADER-PNL: "loma-what-good-trader-PnL-should-look-like.png"
+EXECUTION-LOMA-BUYS-CONSOLIDATION-CANDLES: Loma buys consolidation candles in his mini-ranges around an SR - he does NOT buy impulse candles
+EXECUTION-LOMA-BUYS-CONSOLIDATION-CANDLES: "loma-dont-buy-impulse-candles-buy-consolidation-candles.png"
+EXECUTION-LOMA-BUYS-CONSOLIDATION-CANDLES: "loma-dont-buy-impulse-candles-buy-consolidation-candles2.png"
+
+===== Loma's Lounge Ep.12: CONSOLIDATION HOUR https://www.youtube.com/watch?v=bpYdMrpPX5A
+CHOP-PLAYS: BTC sideways movement will shakeout plenty of folk due to the chop
+CHOP-PLAYS: after big BTC move, expect consolidation, price doesn't usually go from extreme to extreme (V reversal)
+CHOP-PLAYS: wait for consolidation / range to form - buy RL and sell RH
+CHOP-PLAYS: don't have to be up or down, can also bet on sideways movement (range)
+CHOP-PLAYS: BTC trading near RH - buy alts when BTC at range EQ or RL
+CHOP-PLAYS: Loma uses BTC as an indicator for alts (not RSI, not MAs) - he doesn't really trade BTC, he trades narrative driven alts
+CHOP-PLAYS: "loma-sideways-movement-is-a-good-shakeout-play-ranges.png"
+LTF-ENTRY: Loma like to chart on m30 timeframe when looking for a LTF entry
+LTF-ENTRY: what you want (HTF level retest) and what the market is willing to give you (not HTF level retest) are different things (so use m30 for LTF entry)
+RANGE-SETUPS: bullish on coin, 1st bid at range EQ, 2nd bid at RL
+RANGE-SETUPS: "loma-constructing-setup-based-on-his-range.png"
+WEAK-LEVEL-RECLAIM: reclaims above SR, but teetering at the SR, no real follow through upwards
+WEAK-LEVEL-RECLAIM: "loma-weak-level-reclaim-no-follow-through.png"
+
+===== 230222 Loma's Lounge Ep.13: LIVESTREAMING THE LOCAL BOTTOM https://www.youtube.com/watch?v=1o5y0J3xcPw&t=74s
+LOMA-GRADIENTS=BOTTOMING-MA-PATTERN: gradients steep down, less steep down, sideways, start going up, steep gradient up
+LOMA-GRADIENTS=BOTTOMING-MA-PATTERN: like bottoming MA pattern, happens on all timeframes
+LOMA-GRADIENTS=BOTTOMING-MA-PATTERN: "loma-bottoming-out-pattern-down-less-down-sideways-up-likeMAbottomeOut1.png"
+REVERSALS: lots of down, don't give just one or two candles at support SR, need to see MOMENTUM DOWN STALLING - more candles to show buyers here - GRADIENTS
+SOL-RETEST-REGRET: He could have bought sol at $2 on OBVIOUS, clean D1 retest, but he was scared, didn't respect the retest.. went to $250, HUGE regret for Loma
+SOL-RETEST-REGRET: He was scared of what people were saying, he talked himeself out of it - but invalidation was easy - he says just play the chart, don't listen to the fear
+SOL-RETEST-REGRET: "loma-just-buy-obvious-retests-dont-be-scared-huge-sol-regret1.png"
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: soft SL on a close based on TA - hard SL quite a bit further away, should only rarely be hit (market cascading down)
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: but position size based on hard SL (word case scenario)
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: Loma says his hard SLs rarely get hit
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: "loma-position-sizing-with-hard-and-soft-SLs-1.png"
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: The bigger risk trades he will probably only risk 4-5% max if hard SL hit
+JOB: got to treat trading like a job, it's not a get rich quick scheme
+
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
 EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals
@@ -1420,7 +1483,7 @@ EXECUTION-TWAP: with reclaim of SR, just buy every hour that the SR reclaim hold
 EXECUTION-OB-FULL-RETRACE-ISSUE: full retrace is not stength (OBs will tend to be full retraces to their origin)
 DEVIL-HORNS pump 5 days, sweep 5 days later
 DOUBLE-TOP pump 5 days, sweep 7-10 days later
-EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups
+EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups (many names for this, Po3, under-over, etc)
 EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim much older lows from previous structure)
 EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
@@ -1430,5 +1493,6 @@ EXECUTION-RELATIVE-STRENGTH: He'll very often say a coin is weak (even though go
 EXECUTION: H4 close below X, will exit some of the position on a H1 close below X, will be fully out on H4 close below X
 EXECUTION-LOMA-SR-BLOCKS-AND-LINES: *** He uses blocks for support and resistance. He uses lines for where he thinks price will hover (range) for consolidation
 EXECUTION-LOMA-SR-BLOCKS-AND-LINES: He wants to try and buy the bottom half of the consolidation if he thinks it'll break up
-
-
+EXECUTION-LOMA-BUYS-CONSOLIDATION-CANDLES: Loma buys consolidation candles in his mini-ranges around an SR - he does NOT buy impulse candles (CHOP-PLAYS:)
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: soft SL on a close based on TA - hard SL quite a bit further away, should only rarely be hit (market cascading down)
+EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: The bigger risk trades he will probably only risk 4-5% max if hard SL hit

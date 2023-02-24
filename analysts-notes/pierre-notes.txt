@@ -50,7 +50,7 @@ METHOD: (i) Horizontal pulled from prev high ("must hold")
 METHOD: (ii) If horizontal held, long will be a from HL
 METHOD: (iii) Bullish trend (pointing up)
 METHOD: (iv) trend retest buy will be a from a HL
-METHOD: (v) Enter on the SECOND retest of horizontal & trend, NOT THE FIRST, let market structure establish itself
+METHOD: (v) Enter on the SECOND retest of horizontal & trend, NOT THE FIRST, let market structure establish itself first
 METHOD: (B) Stoch used to help with timing (and risk adjustment)
 METHOD: ---
 METHOD: Horizontal and trend are designed so that the trade goes with the prevailing & established market structure & trend
@@ -61,14 +61,15 @@ METHOD-KRILL-PIERRE-DIFFERENCE: "krill-when-is-the-trend-reclaimed-continuation-
 
 METHOD-KRILL-PIERRE-DIFFERENCE: Pierre is a H4/D1 trader who will try and compound his trades.
 METHOD-KRILL-PIERRE-DIFFERENCE: Krill is a daytrader/scalper who tries to nail entries and TP along the way (doesn't compound).
-METHOD-KRILL-PIERRE-DIFFERENCE: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot (not so many compressions on H4)
+METHOD-KRILL-PIERRE-DIFFERENCE: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot..
+METHOD-KRILL-PIERRE-DIFFERENCE: ..(not so many compressions on H4)
 METHOD-KRILL-PIERRE-DIFFERENCE: "praise-from-pierre-for-explaining-his-system-1.png"
-METHOD-COMPRESSION: Pierre uses H4 compressions between H4-trend and H4-macros (H4-ema200 and/or H4-ma100).. H4-trend-macro-banana
+METHOD-COMPRESSION: Pierre uses H4-compressions between H4-trend and H4-macros (H4-ema200 and/or H4-ma100).. H4-trend-macro-banana
 METHOD-COMPRESSION: ..doesn't seem to use other compressions (ma100, ema200 & ma300 on all TFs, Krill's original banana compression)..
 METHOD-COMPRESSION: .. Krill also uses H4-trend-macro-banana too; but Pierre removed ma300 from his charts so no original banana comp for him.
 METHOD-COMPRESSION: "pierre-compression1.jpg"
-METHOD-COMPRESSION: pierre-H1trend-H1ma100-compression1.jpg"
-METHOD-COMPRESSION: pierre-compression-trend-ma100-1.jpg"
+METHOD-COMPRESSION: "pierre-H1trend-H1ma100-compression1.jpg"
+METHOD-COMPRESSION: "pierre-compression-trend-ma100-1.jpg"
 METHOD-COMPRESSION: "pierre-H4trend-H4macro-compression-he-likes-1.png"
 
 ===== Education descibing his Trend/MA TA methodology again 
@@ -79,12 +80,12 @@ METHOD: "pierre-education-his-MA-system-explained-again.png"
 
 === Pierre use of MAs
 MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs
-MA-USAGE: He uses MAs for bias (pointing up/down, steep/shallow, gaps between MAs, MA order)
+MA-USAGE: He uses MAs for bias (pointing up/down, steep/shallow, gaps between MAs, MA order).. 
+MA-USAGE-ACRONYM: DOGG (direction (up/down), order, gradient (steep/shallow), gaps)
 MA-USAGE: Macro MAs can be used for SLs and TPs
-MA-USAGE: Krill: Can judge relative performance between cons on their ability to hold MAs (eg: coin X held H4-ma100 on the dump but coin B didn't - look for shorts on coin B)
+MA-USAGE: Krill: Can judge relative performance between cons on their ability to hold MAs (eg: coin X held H4-ma100 on the dump but coin Y didn't -
+MA-USAGE: ..look for shorts on coin Y)
 MA-USAGE: "pierre-stoch-usage-risk-adjust-aresgod3-sf-original-answer.JPG"
-
-
 
 === Pierre trend DEVIATIONS
 TREND-DEVIATIONS: "pierre-trend-DEVIATION-using-stoch-and-SR.JPG"
@@ -145,9 +146,29 @@ MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: This is his robotic MA system (a bit li
 
 D1-TREND-FIRST-RETEST: Don't long first retest of D1-trend after a big move - likely to be lots of chop
 D1-TREND-FIRST-RETEST: "pierre-dont-bid-first-test-of-daily-trend-on-big-move.png"
+
+PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: H1-trend fails to H4-trend (fails to H1-ema200==D1-ema8) fails to D1-trend
+PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: "pierre-H1trend-to-H4trend-to-H1ema200-to-D1trend-cascading-just-like-krill.png"
+PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: "krill-ema200-and-trend-overlaps1.JPG - Shortcut.png"
+
+LOMA-HORIZONTAL-LEVELS-RANGES-LIKE-PIERRE: Loma uses lines for where price will hover / range / cosolidate / CHOP; similar to Pierre
+LOMA-HORIZONTAL-LEVELS-RANGES-LIKE-PIERRE: Pierre just uses these horizontals, he doesn't tend to use Loma / CBS / SR rectangles
+
+SIMPLE-SYSTEM: An over simplification/explication of the basis of my system
+SIMPLE-SYSTEM: D1-trending up below PA? H4-trend bullish below PA? Bid H4-trend retests from above.
+SIMPLE-SYSTEM: D1-trending down? No longs.
+SIMPLE-SYSTEM: D1-trending up? H4-trend is above price? WAIT for H4-trend to be reclaimed (or can play D1-trend retest from above)..
+SIMPLE-SYSTEM: ..(or H1-ema200 (D1-ema8) just before D1-trend). 
+SIMPLE-SYSTEM: D1-trend affects his bias.
+SIMPLE-SYSTEM: H4-trend affects how he manages the position.
+SIMPLE-SYSTEM: H4-trend getting chopped? Sit on hands.
+SIMPLE-SYSTEM-EXTRA: NEVER bid D1-trend retest from above on 1st tap (often, this is a trap)
+SIMPLE-SYSTEM-EXTRA: BETTER to bid H4-trend reclaims after a D1-trend retest from above - means most likely BUYING INTO MOMENTUM.
+SIMPLE-SYSTEM-EXTRA-ALSO: If H4-trend getting chopped, needs consolidation period, no scalping (H1/H4 is a Pierre scalp!), keep focus on D1-trend
+SIMPLE-SYSTEM-EXTRA-ALSO: Can be used with Loma consolidations (after an impulsive move - Loma horizontal lines)
 ==== End GENERIC
 
-===== Gap fills & "reversal reclaim"
+===== Pierre's gap fills & "reversal reclaim"
 GAP-FILL: (1) flip the trend
 GAP-FILL: (2) aim for ma100
 GAP-FILL: (3) flip ma100
@@ -158,12 +179,13 @@ GAP-FILL: Different from Krill!
 GAP-FILL: Krill needs ma100 to start to curl-up AND ema200 to be flat, Pierre does not
 GAP-FILL: "pierre-reclaim-D1trends-to-D1ma100-to-D1ema200-4-krill-disagrees.JPG"
 
-===== Trade plans for multiple coins based on BTC 
-MQ overview: Use BTC and ETH for general market bias (D1 or H4 horizontals and MAs)
-MQ overview: choose alts that were (1) strong when BTC was weak (2) any narrative (eg: AI) (3) chose leaders of that narrative, not laggards
-MQ overview: build a plan for your trade (entry, invalidation, tps, risks)
-MQ overview: if you miss your altcoin entry, can dive into m15/H1 to catch entry (higher risk, needs more babysitting)
-MQ overview: "pierre-education-multiple-coins-trade-planning-based-on-BTC-1.png"
+===== Trade plans for multiple coins using BTC / ETH for general market strength 
+MQ overview of the following 9 points: Use BTC and ETH for general market bias (D1/H4 horizontals and MAs)
+MQ overview of the following 9 points: choose alts that were (1) strong when BTC was weak (2) any narrative, eg: AI coins..
+MQ overview of the following 9 points: ..(3) chose leaders of that narrative, not laggards
+MQ overview of the following 9 points: build a plan for your trade (entry, invalidation, tps, risks)
+MQ overview of the following 9 points: if you miss your altcoin entry, can dive into m15/H1 to catch entry (higher risk, needs more babysitting)
+MQ overview of the following 9 points: "pierre-education-multiple-coins-trade-planning-based-on-BTC-1.png"
 
 1) Take your #BTC and #ETH charts, clean everything on the chart, keep D1 trend, H4 trend, 200 EMA and 100 MA on it,
 
@@ -173,15 +195,15 @@ MQ overview: "pierre-education-multiple-coins-trade-planning-based-on-BTC-1.png"
 
 3) Make a list of alts you want to be focused on, try to not to spread too much, keep the list relatively short (max 5),
 
-4) For these alts you want to be focused on: Alts that have been holding the best while BTC was shaky, alts that have ongoing
-   narrative (even if really dumb, ie AI narrative), alts that lead these narratives... Don't try to focus on laggards, this is
+4) For these alts you want to be focused on: Alts that have been holding the best while BTC was shakey, alts that have ongoing
+   narratives (even if really dumb, eg. AI narrative), alts that lead these narratives... Don't try to focus on laggards, this is
    environment for leaders right now.
    => You can use the alts i've been focus on as examples if you want... There's a reason i've been all over
    #INJ/USDT - SWING - H4 trend based entry #GMX-USDT _ D1-H4 Long #MASK [monitoring H4 trend retest and 3.4-3.6 region]
    #LRC/USDT - SCALP - H4 Long past few days... ;).
 
 5) Same way than for BTC and ETH, highlight the D1/H4 trends and most important horizontal levels... Can be recent highs,
-   can be ATH, can be last support retested... Depends on the chart,
+   can be ATH, can be last support retested... depends on the chart,
 
 6) Based on these levels and confluence, you can start building trading plans, in current conditions most of the time they will look like this:
   - Entry = "As close as possible to H4/D1 trend retest in confluence with XXX horizontal level"
@@ -200,11 +222,44 @@ MQ overview: "pierre-education-multiple-coins-trade-planning-based-on-BTC-1.png"
 
 8) Print baguettes.
 
-It's forbidden to:
-- Enter a setup then come in the chat asking "should I exit ?"... No. You don't enter if you don't have a trading plan. If you have a trading plan this question shouldn't exist.
-- APE because you saw a random dumb thread on Twitter... No. You build your own setups and trades.
+9) It's forbidden to:
+   - ask "should I exit"? NO! You don't enter if you don't have a trading plan. If you had a trading plan this question wouldn't exist.
+   - ape in because you saw a random dumb thread on Twitter.. No - you build your own setups and trades.
 
-Voilà... I wanted to close my day on this note because I know many might be sidelines right now and wondering what to do.
+Voilà... I wanted to close my day on this note because I know many might be sidelined right now and wondering what to do.
+
+===== An over simplification/explication of the basis of my system (while answering a question in #member-questions) SIMPLE-SYSTEM: 
+MQ overview of these 9 points: Is D1-trending up?
+                               (i)  Yes - is H4 is trending up? Retest H4-trend from above (primary trade)
+                               (ii) Yes - H4 isn't trending up? Reclaim above H4-trend (secondary) or wait for D1-trend retest (not 1st retest though)
+MQ overview of these 9 points: D1-trend determines general bias, H4-trend determines trade management
+MQ overview of these 9 points: if H4-trend getting chopped, sit on hands, focus on D1 chart
+MQ overview of these 9 points: never bid first trend RECLAIM 
+MQ overview of these 9 points: don't bid 1st retests of D1-trends, wait for D1-trend successful retest AND H4-trend RECLAIM (buying into momentum)
+MQ overview of these 9 points: if H4-trend not being respected expect more consolidation. Sit on hands, focus on D1 chart, don't get chopped
+
+The overall and OVERLY SIMPLIFIED approach I have is:
+(1) - Is XXX is D1 uptrend?
+      Yes -> Look primarily for long on H4 trend retests,
+      No -> Don’t even think about longs.
+   - Is XXX in H4 uptrending within D1 uptrend ?
+     Yes -> Continue to chase longs on H4 trend retests as long as defended,
+     No -> Wait for H4 uptrend to be reclaimed or D1 uptrend lower to be retested before considering adding/re entering ->
+        (ie either play the gap fills lower, either wait for retests.)
+
+(2) The D1-trend will affect my general bias toward XXX, the H4 trend will often affect how actively manage the position.
+
+(3) I have a rule for when the H4 trend does NOT get respected (lost and reclaimed constantly), and it’s usually to stay the fuck out
+and come back to a D1 focus until chart « reset » (ie H4-trend flat, H4 100 MA and H4 200 EMA at same value than H4 trend).
+
+(4) So I have a set of additional rules:
+    - I never bid a first trend retest after reclaim (ie I never bid D1 trend retest from above after a period of D1 downtrend for example,
+      it often helps avoiding traps).
+    - I always prefer bidding H4 trend reclaims than D1 trend retests (because once D1 trend retested and H4 trend reclaimed you have strength
+      confirmations and are most likely buying into momentum [see early Jan H4 trend + H4 200 EMA reclaim on BTC, or even last week 21.8-22.0k
+      reclaim to have an understanding of what I’m saying],
+    - If H4 trend not respected most likely means asset needs consolidation period == most likely not interesting to actively scalp == stay focus
+      on D1 trend and don’t get chop for nothing,
 
 ===== TERMINOLOGY
 All eyes on
@@ -279,4 +334,5 @@ What a week we've just had (market pumped, he made a little on trades, not great
 Killer entry and great timing (by me! even if only a small size entry)
 Close enough (copying SZ, but using "close enough" saying could be some chop over the weekend, draws dodgy range to so it was a bit choppy, I'm great)
 Could get interesting
+Teleport to target
 ===== TERMINOLOGY END

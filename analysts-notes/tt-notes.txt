@@ -25,6 +25,9 @@ Lowest amount allowed nasdaq: 0.5
 Lowest amount allowed dow: 0.5
 
 ----- begin generic
+GAPS-CHARTS: eSignal charts $100/month is what he uses for his non-24hr gapped charts
+GAPS-CHARTS: says you can use TradingView to get the same info for free
+GAPS-CHARTS: can get close prices on Yahoo (https://finance.yahoo.com/quote/%5ENDX/history/)
 TD365: tight spreads 
 TD365: fixed spreads (don't increase spreads when volatile (eg: FOMC, NFT))
 TARGETS: TT doesn't have set targets (TPs manually), only sets entries and SLs
@@ -107,6 +110,11 @@ EDGE-STRONG-SUIT: TT makes his money by adding to the trade when the market goes
 EDGE-STRONG-SUIT: TT not afraid to pull the trigger a few times even if wrong first couple of times - "ok, didn't work, next"
 SL-PLACEMENT: dow, m1 candles, usually 20 or 30 points each, therefore a 80 point SL on the dow is reasonable
 SURFER: TT is a surfer, why he chose the trading profession
+AGE: TT is 53 in 2023
+EXEC-MONDAY-HIGH-THUR: "tt-strategy-monday-high-then-thur-01.png"
+TT-TA: he is pure naked chart trader with using models of what happened previously (after events, certain days, SRS, etc)
+SAYING: It's better wo be out wishing you were in than be in wishing you were out. (It's better to miss the ship than end up on the Titanic)
+BOOK: "The hour between dog and wolf: How Risk Taking Transforms Us, Body and Mind" by John Coates
 ----- end generic
 
 -----Live stream 230110
@@ -182,5 +190,6 @@ TT-SZ-trigger: CHoCH but BO entry short when LL is broken below again (after LH/
 4-BAR-FRACTAL: current bar is bar 1. Bar1 must CLOSE above the high of bar2 AND above the high of bar4 (ie: bar1 must msb bars 2 and 4)
 EXEC-SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle) is signal bar
 EXEC-RULE-OF-4-FOMC: m10 charts, FOMC@7pm, conference 30 mins after, wait for the m10 bar (730pm-740pm) to close, long above, short below
+EXEC-MONDAY-HIGH-THUR: "tt-strategy-monday-high-then-thur-01.png"
 
 
