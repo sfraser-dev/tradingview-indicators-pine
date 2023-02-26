@@ -18,10 +18,10 @@ TREND: Pierre is trend trader only
 TREND: says he's not good at ranges (MAs flat and getting chopped through)
 CALC: Compare current RSI with LOWEST RSI in lookback
 CALC: Scale this comparison by RSI range size
-RISK-TRENDING: If price approach SR & trend from below and Stoch overbought - go full risk short
-RISK-TRENDING: If price approach SR & trend from above and Stoch oversold - go full risk long
-RISK-CHOP: If in stong downtrend and Stoch goes from oversold to overbought without claiming above SR / trend - full risk short
-RISK-CHOP: If in stong uptrend and Stoch goes from overbought to oversold without claiming below SR / trend - full risk long
+RISK-TRENDING: If price approach SR & trend from below and Stoch overbought (high) - go full risk short
+RISK-TRENDING: If price approach SR & trend from above and Stoch oversold (low) - go full risk long
+RISK-CHOP: If in stong downtrend and Stoch goes from oversold (low) to overbought (high) without claiming above SR / trend - full risk short
+RISK-CHOP: If in stong uptrend and Stoch goes from overbought (high) to oversold (low) without claiming below SR / trend - full risk long
 RISK: "pierre-stoch-usage-risk-adjust-aresgod1.JPG"
 
 === Pierre's simple methodology (in order of priority)
@@ -32,7 +32,7 @@ METHOD: (3) Stoch RSI at cycle low
 METHOD: ---
 METHOD: Ideally:
 METHOD: Breaks above a horizontal SR
-METHOD: Breaking this SR causes StochRSI into overbought
+METHOD: Breaking this SR causes StochRSI into overbought (high)
 METHOD: Consolidate above SR (TraderSZ) allowing trend to catch up (Krill trend-consolidation-pattern / "flag")
 METHOD: "krill-trend-consolidation-pattern1.JPG"
 METHOD: Consolidate above SR allowing StochRSI to reset
@@ -42,7 +42,7 @@ TREND-TRADER: Pierre is a trend trader, not good at ranges
 TIMEFRAMES: He mostly just trades H4 and D1 (occasionally H1)
 TIMEFRAMES: Krill: H4-ema200 and D1-ema13 are the GOATs
 
-=== Pierre's Simple Trend System for going with MS
+=== Pierre's Simple Trend System for going with Market Structure
 METHOD: Pierre's simple 3 point method is designed to long on HH, HL, HH, HL structure, buying on a HL
 METHOD: ---
 METHOD: (A) Entering long on HL using horizontal and trend
@@ -62,7 +62,7 @@ METHOD-KRILL-PIERRE-DIFFERENCE: "krill-when-is-the-trend-reclaimed-continuation-
 METHOD-KRILL-PIERRE-DIFFERENCE: Pierre is a H4/D1 trader who will try and compound his trades.
 METHOD-KRILL-PIERRE-DIFFERENCE: Krill is a daytrader/scalper who tries to nail entries and TP along the way (doesn't compound).
 METHOD-KRILL-PIERRE-DIFFERENCE: Krill uses compressions a lot (happen often on LTF) whereas Pierre just rides the H4-trend a lot..
-METHOD-KRILL-PIERRE-DIFFERENCE: ..(not so many compressions on H4)
+METHOD-KRILL-PIERRE-DIFFERENCE: ..(not so many compressions on H4 or D1)
 METHOD-KRILL-PIERRE-DIFFERENCE: "praise-from-pierre-for-explaining-his-system-1.png"
 METHOD-COMPRESSION: Pierre uses H4-compressions between H4-trend and H4-macros (H4-ema200 and/or H4-ma100).. H4-trend-macro-banana
 METHOD-COMPRESSION: ..doesn't seem to use other compressions (ma100, ema200 & ma300 on all TFs, Krill's original banana compression)..
@@ -72,7 +72,7 @@ METHOD-COMPRESSION: "pierre-H1trend-H1ma100-compression1.jpg"
 METHOD-COMPRESSION: "pierre-compression-trend-ma100-1.jpg"
 METHOD-COMPRESSION: "pierre-H4trend-H4macro-compression-he-likes-1.png"
 
-===== Education descibing his Trend/MA TA methodology again 
+===== Education descibing his Trend/MA TA methodology again. keeps it simple
 METHOD: Pierre: "I usually have 2 horizontals on my charts, a "must hold" and a "must break"
 METHOD: Pierre: "I'm no market wizard or trading wizard, I'm a regular trend / swing trader"
 METHOD: Pierre: "I keep my charts simple, and my setups simple too"
@@ -80,8 +80,8 @@ METHOD: "pierre-education-his-MA-system-explained-again.png"
 
 === Pierre use of MAs
 MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs
-MA-USAGE: He uses MAs for bias (pointing up/down, steep/shallow, gaps between MAs, MA order).. 
-MA-USAGE-ACRONYM: DOGG (direction (up/down), order, gradient (steep/shallow), gaps)
+MA-USAGE: He uses MAs for bias (pointing up/down ([D]irection), MA [O]rder, steep/shallow ([G]radient), gaps between MAs ([G]aps)) - DOGG 
+MA-USAGE-ACRONYM: DOGG (Direction (up/down), Order, Gradient (steep/shallow), Gaps) - DOGG
 MA-USAGE: Macro MAs can be used for SLs and TPs
 MA-USAGE: Krill: Can judge relative performance between cons on their ability to hold MAs (eg: coin X held H4-ma100 on the dump but coin Y didn't -
 MA-USAGE: ..look for shorts on coin Y)
@@ -92,17 +92,17 @@ TREND-DEVIATIONS: "pierre-trend-DEVIATION-using-stoch-and-SR.JPG"
 --
 SYSTEM-BULLISH-REVERSAL: SR reclaimed above
 SYSTEM-BULLISH-REVERSAL: Trend EMAs need one previous successful retest (get in on second)
-SYSTEM-BULLISH-REVERSAL: Stoch floored
+SYSTEM-BULLISH-REVERSAL: Stoch oversold (low, floored)
 --
 DEVIATION-DOWNTREND?: price peaks above the trend
-DEVIATION-DOWNTREND?: Stoch floored
+DEVIATION-DOWNTREND?: Stoch oversold (low, floored)
 DEVIATION-DOWNTREND?: first trend retest from above
 DEVIATION-DOWNTREND?: cannot say SR fully reclaimed
 DEVIATION-DOWNTREND?: system requirements for longing (trend reversal) not met
 DEVIATION-DOWNTREND?: possibly just a trend deviation
 DEVIATION-DOWNTREND?: (Loma: if the case for longing isn't valid, look to short)
 --
-UPTREND-STRENGTH: Stoch resets to floored on retracement / "dump" without going below SR or below trend
+UPTREND-STRENGTH: Stoch resets to oversold (low, floored) on retracement / "dump" without going below SR or below trend
 
 === Bias
 D1-TREND-BIAS: Look at D1-trends (ema13, ema25 & ema32) to really help with bias
@@ -115,7 +115,7 @@ COMPOUND: "krill-doesnt-really-compound-MA-theory101-2.JPG"
 
 === Folio increasing
 FOLIO: "pierre-folio-increasing-month-on-month-SINGLE-SYSTEM.JPG"
-FOLIO: He's using a single system. Trade management, goes heavy when systmem says to, sits on hands when no signal
+FOLIO: He's using a single system. Trade management, goes heavy when system says to, sits on hands when no signal
 FOLIO: Clear invalidations using his TA system, trade on this, don't know what direction trade will take, assymetric betting based on TA invalidations?
 
 ==== Begin GENERIC
@@ -147,6 +147,7 @@ MAJORS-ALTS-RELATIONSHIP-ROBOTIC-SYSTEM: This is his robotic MA system (a bit li
 D1-TREND-FIRST-RETEST: Don't long first retest of D1-trend after a big move - likely to be lots of chop
 D1-TREND-FIRST-RETEST: "pierre-dont-bid-first-test-of-daily-trend-on-big-move.png"
 
+PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: Trend dominos
 PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: H1-trend fails to H4-trend (fails to H1-ema200==D1-ema8) fails to D1-trend
 PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: "pierre-H1trend-to-H4trend-to-H1ema200-to-D1trend-cascading-just-like-krill.png"
 PIERRE-TREND-CASCADING-JUST-LIKE-KRILL: "krill-ema200-and-trend-overlaps1.JPG - Shortcut.png"
@@ -229,14 +230,14 @@ MQ overview of the following 9 points: "pierre-education-multiple-coins-trade-pl
 Voilà... I wanted to close my day on this note because I know many might be sidelined right now and wondering what to do.
 
 ===== An over simplification/explication of the basis of my system (while answering a question in #member-questions) SIMPLE-SYSTEM: 
-MQ overview of these 9 points: Is D1-trending up?
-                               (i)  Yes - is H4 is trending up? Retest H4-trend from above (primary trade)
+MQ overview of these 4 points: Is D1-trending up?
+                               (i)  Yes - is H4 is trending up? Retest H4-trend from above (PRIMARY trade)
                                (ii) Yes - H4 isn't trending up? Reclaim above H4-trend (secondary) or wait for D1-trend retest (not 1st retest though)
-MQ overview of these 9 points: D1-trend determines general bias, H4-trend determines trade management
-MQ overview of these 9 points: if H4-trend getting chopped, sit on hands, focus on D1 chart
-MQ overview of these 9 points: never bid first trend RECLAIM 
-MQ overview of these 9 points: don't bid 1st retests of D1-trends, wait for D1-trend successful retest AND H4-trend RECLAIM (buying into momentum)
-MQ overview of these 9 points: if H4-trend not being respected expect more consolidation. Sit on hands, focus on D1 chart, don't get chopped
+MQ overview of these 4 points: D1-trend determines general bias, H4-trend determines trade management
+MQ overview of these 4 points: if H4-trend getting chopped, sit on hands, focus on D1 chart
+MQ overview of these 4 points: never bid first trend RECLAIM 
+MQ overview of these 4 points: don't bid 1st retests of D1-trends, wait for D1-trend successful retest AND H4-trend RECLAIM (buying into momentum)
+MQ overview of these 4 points: if H4-trend not being respected expect more consolidation. Sit on hands, focus on D1 chart, don't get chopped
 
 The overall and OVERLY SIMPLIFIED approach I have is:
 (1) - Is XXX is D1 uptrend?
