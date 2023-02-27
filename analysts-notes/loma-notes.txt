@@ -1470,6 +1470,9 @@ EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: "loma-position-sizing-with-hard-and-sof
 EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: The bigger risk trades he will probably only risk 4-5% max if hard SL hit
 JOB: got to treat trading like a job, it's not a get rich quick scheme
 
+===== 230224 Loma's Lounge Ep.14: ECHO BUBBLE OVER??? DID WE MISS THE TOP SHORT??? https://www.youtube.com/watch?v=POywmt5T8zc
+19m
+
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
 EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals

@@ -115,6 +115,10 @@ EXEC-MONDAY-HIGH-THUR: "tt-strategy-monday-high-then-thur-01.png"
 TT-TA: he is pure naked chart trader with using models of what happened previously (after events, certain days, SRS, etc)
 SAYING: It's better wo be out wishing you were in than be in wishing you were out. (It's better to miss the ship than end up on the Titanic)
 BOOK: "The hour between dog and wolf: How Risk Taking Transforms Us, Body and Mind" by John Coates
+EXEC-SFP-ENTRY-m10-BAR: one of TT's favorite patterns
+EXEC-SFP-ENTRY-m10-BAR: in uptranding market, m10 chart, SFP previous bars low for entry
+EXEC-SFP-ENTRY-m10-BAR: "tt-sfp-entry-in-strong-bull-market-1.png"
+
 ----- end generic
 
 -----Live stream 230110
@@ -191,5 +195,7 @@ TT-SZ-trigger: CHoCH but BO entry short when LL is broken below again (after LH/
 EXEC-SCHOOL-RUN: Dax, m15 chart, the second candle (0915-0930 CET candle) is signal bar
 EXEC-RULE-OF-4-FOMC: m10 charts, FOMC@7pm, conference 30 mins after, wait for the m10 bar (730pm-740pm) to close, long above, short below
 EXEC-MONDAY-HIGH-THUR: "tt-strategy-monday-high-then-thur-01.png"
+EXEC-SFP-ENTRY-m10-BAR: in uptranding market, m10 chart, SFP previous bars low for entry
+
 
 

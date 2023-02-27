@@ -872,6 +872,8 @@ COMPRESSION-BETWEEN-MAs: "krill-education-hard-consolidation-between-MAs-1.png"
 BULL-MARKET-H4ema200-H4ma100: In strong bull market, H4-ema200 should hold and H4-ma100 resistance should break on the 2nd tap
 BULL-MARKET-H4ema200-H4ma100: "krill-bull-market-and-H4ma100-2taps-1.png"
 
+MA-DOGG-ACRONYM: For MAs, [D]irection, [O]rder, [G]radient, [G]aps: DOGG (point up/down, order, steepness, gaps)
+
 ## end general / generic end
 
 =====+++++=====
@@ -1356,7 +1358,7 @@ H1-100MA-slope: H1-100ma slope gradient very informative (esp BTC)
 -- EXECUTION
 H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
 REVERSAL-RECLAIM: Starts reclaiming each of these macro/cloud MAs (1st ma100, then ema200, then ma300) while riding the trend
-COMPRESSION-BO-SCAM-GAP-FILL: Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness
-TREND-RIDING: riding trend fractally across time-frames H1-trend to H4-trend to D1-trend; Pierre style
+COMPRESSION-BO-SCAM-GAP-FILL: Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness (DOGG)
+TREND-RIDING: riding trend fractally across time-frames H1-trend to H4-trend (to H1-ema200/D1-ema8) to D1-trend; Pierre style
 
 

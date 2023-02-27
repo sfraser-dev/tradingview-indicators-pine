@@ -167,6 +167,14 @@ SIMPLE-SYSTEM-EXTRA: NEVER bid D1-trend retest from above on 1st tap (often, thi
 SIMPLE-SYSTEM-EXTRA: BETTER to bid H4-trend reclaims after a D1-trend retest from above - means most likely BUYING INTO MOMENTUM.
 SIMPLE-SYSTEM-EXTRA-ALSO: If H4-trend getting chopped, needs consolidation period, no scalping (H1/H4 is a Pierre scalp!), keep focus on D1-trend
 SIMPLE-SYSTEM-EXTRA-ALSO: Can be used with Loma consolidations (after an impulsive move - Loma horizontal lines)
+
+MAs-CHANGE-WITH-TIME: MAs will move throught the day / week.
+MAs-CHANGE-WITH-TIME: Price may not move much but the MAs may have changed character quite a bit (eg: krill's H1 consolidation pattern after impulse)
+MAs-CHANGE-WITH-TIME: Got to let H4/D1 trades STEW for quite a few days / week(s)
+
+H1-ANALYSIS-FOR-BTC: Trend cascade / dominos DOWN: H1-trend to H4-trend [to H1-ema200/D1-ema8] to D1-trend
+H1-ANALYSIS-FOR-BTC: Trend cascade / dominos UP: D1-trend [to H1-ema200/D1-ema8] to H4-trend to H1-trend
+  
 ==== End GENERIC
 
 ===== Pierre's gap fills & "reversal reclaim"
@@ -336,4 +344,5 @@ Killer entry and great timing (by me! even if only a small size entry)
 Close enough (copying SZ, but using "close enough" saying could be some chop over the weekend, draws dodgy range to so it was a bit choppy, I'm great)
 Could get interesting
 Teleport to target
+Stacked weekend (weekend full of bangers)
 ===== TERMINOLOGY END
