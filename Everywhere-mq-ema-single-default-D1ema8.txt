@@ -1,0 +1,16 @@
+//@version=5
+indicator(title="EMA", shorttitle="EMA", overlay=true, timeframe="1D", timeframe_gaps=true)
+len = input.int(8, minval=1, title="Length")
+src = input(close, title="Source")
+out = ta.ema(src, len)
+plot(out, title="EMA", color=color.red, linewidth=2, offset=0)
+
+ma(source, length, type) =>
+    switch type
+        "SMA" => ta.sma(source, length)
+        "EMA" => ta.ema(source, length)
+        "SMMA (RMA)" => ta.rma(source, length)
+        "WMA" => ta.wma(source, length)
+        "VWMA" => ta.vwma(source, length)
+
+
