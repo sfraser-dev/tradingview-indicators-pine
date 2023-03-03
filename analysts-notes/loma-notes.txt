@@ -814,6 +814,13 @@ NARRATIVES-CRYPTO-CRED: crypto cred is good at seeing narratives
 NARRATIVES-CRYPTO-CRED: cred says trendy narrative driven coins are good, will have clean PA
 NARRATIVES-CRYPTO-CRED: "loma-cred-trendy-narratives-will-have-clean-charts.png"
 
+USE-FUTURES-TO-GROW-SPOT: *** futures is a short term tool to grow account with leverage - also allows shorting ***
+USE-FUTURES-TO-GROW-SPOT: large spot holdings is where most people should end up - look for spot as a multiplier to futures gains
+USE-FUTURES-TO-GROW-SPOT: looking to grow account using futures then multiply this growth via spot holdings (at least 2x)
+USE-FUTURES-TO-GROW-SPOT: futures is temporary means to a longer term goal (of holding spot that will 2x)
+USE-FUTURES-TO-GROW-SPOT: big accounts using futures use LOW leverage, never at risk of liquidation (Loma often 1x, or less than 1x)
+USE-FUTURES-TO-GROW-SPOT: "loma-use-futures-temporarily-to-grow-spot-account1.png"
+
 ===== GENERIC end
 
 
@@ -1246,7 +1253,7 @@ EXECUTION-OB-FULL-RETRACE-ISSUE: full retrace is not stength (OBs will tend to b
 EXECUTION-OB-FULL-RETRACE-ISSUE: want to see it break out of a resistance (level1) then pump to an old support (level2)
 EXECUTION-OB-FULL-RETRACE-ISSUE: the retrace should be to level2 (strong), not level1 (weak)
 EXECUTION-OB-FULL-RETRACE-ISSUE: "loma-full-retrace-OB-issue-1.png"
-EXECUTION-OB-FULL-RETRACE-ISSUE: EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: 
+EXECUTION-OB-FULL-RETRACE-ISSUE: EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: 
 TRUST-YOUR-FEELINGS: many of the best traders he knows just use a simple chart
 TRUST-YOUR-FEELINGS: they've been trading so long, can just pull out their phone and say "looks heavy" or "looks strong"
 TRUST-YOUR-FEELINGS: they can just look at the PA and get an accurate bias, so their hitrate is good
@@ -1270,12 +1277,18 @@ EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: ..call it whatever you like, the same stuf
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: "loma-execution-favourite-setup-pump-abv-sr-dip-below-sr-reclaim-sr-PDR-1.png"
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: shared trade success example: "loma-pump-dip-reclaim-example-sol-1.png"
 
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim much older lows from prior structure)
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bearish retests, he likes to use the highs as the retest areas (ie: reclaim much older lows from prior structure)
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: this is like a reclaim of an old "range" (the lows of the old range reclaimed or the highs of the old range reclaimed)
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: "loma-prefers-to-use-lows-for-bullish-retest-areas.png"
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: loma-use-lows-for-bullish-SR-retest-entries.png"
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: EXECUTION-OB-FULL-RETRACE-ISSUE:
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: for bullish retests, he likes to use the old lows as the retest areas..
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: ..(ie: reclaim much older lows from prior structure)
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: for bearish retests, he likes to use the old highs as the retest areas..
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: ..(ie: reclaim much older lows from prior structure)
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: this is like a reclaim of an old "range" (the lows of the old range reclaimed
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: ..or the highs of the old range reclaimed)
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: bullish reclaim old lows for longs, bearish reclaim old highs for shorts
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: "loma-prefers-to-use-lows-for-bullish-retest-areas.png"
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: "loma-bullish-reclaim-old-lows-or-bearish-reclaim-old-highs"
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: loma-use-lows-for-bullish-SR-retest-entries.png"
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: this prevents the "full retrace" issue that Loma hates (strong coins don't full retrace to support)
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: EXECUTION-OB-FULL-RETRACE-ISSUE:
 TRX-JUSTIN-SUN: founder of announcement of an announcment, then when announcing, there's more to come!
 EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: spending consolidating at SR gives time for absorbtion
 EXECUTION-SZ-LEVEL-RECLAIM-ABSORBTION: "loma-sr-reclaim-break-hold-msb-SZ-gives-time-to-absorb-buying.png"
@@ -1308,8 +1321,8 @@ DOGE-SHIB: doesn't like these coins, but prefers shib over doge, better returns
 ===== Loma's Lounge Ep.4: BEARS BTFO!!!!: https://youtu.be/q_ooYq6vfJ0
 TREND-STRENGTH: As trend gets stronger, candles get bigger, as trend begins to wane, candles get smaller (Heiken Ashi style)
 TREND-STRENGTH: "loma-candle-size-equates-to-trend-strength-heiken-ashi-style.png"
-EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
-EXECUTION-RECLAIM-THE-LOWS: "loma-flip-level-SZ-style-for-long-or-dying-momentum-for-short1.png"
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: "loma-flip-level-SZ-style-for-long-or-dying-momentum-for-short1.png"
 HOW-TO-TRADE-SIMPLY: generally just keep making good decisions again and again and over time you'll make money over a series of trades
 HOW-TO-TRADE-SIMPLY: if you long in bull market, short in bear, sell resistance, buy support, will have a successful trading career
 MARKET-LEADING-COINS: they tend to lead on the way up AND on the way down
@@ -1471,8 +1484,53 @@ EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: The bigger risk trades he will probably
 JOB: got to treat trading like a job, it's not a get rich quick scheme
 
 ===== 230224 Loma's Lounge Ep.14: ECHO BUBBLE OVER??? DID WE MISS THE TOP SHORT??? https://www.youtube.com/watch?v=POywmt5T8zc
-19m
+EMOTION-SIZING: Q: You seem to lose small on losing trades (and be chill), while compounding hugely on winning trades 
+EMOTION-SIZING: proper sizing and emotional management
+EMOTION-SIZING: his journal account is much smaller than his personal account - hence he sleeps through SLs, keeps trades open..
+EMOTION-SIZING: that should have been stopped out - he's very chill, 2M journal acct is very small amount to him (100M portfolio)
+BOOKS-RECOMMENDED: "Alpha Trader" and "Thinking in Bets"
+BOOKS: People that read a lot of books aren't necessarily good traders - may have knowledge, but don't know how to apply that knowledge
+BOOKS: better to actually just trade and get used to the rollercoaster of emotions
+EDGE-NOT-SHINING: most people just don't survive in the game long enough to have their edge shine through
+MOMENTUM-DOWN-STALLING-GRADIENT: down, down, down, but gradient lessening, floor found & respected
+MOMENTUM-DOWN-STALLING-GRADIENT: "loma-momentum-down-beginning-to-stall-gradients-LDO.png"
+HTF-TRADING-SIMPLETONS: trading D3 or W1 charts, blindly selling "easy" resistance is why we get deviations / spike above to wreck them
+HTF-TRADING-SIMPLETONS: "loma-HTF-simpletons-reasons-for-HTF-deviations.png"
+TREND-TRADING: Most folk would do much better just focusing on the coins that are trending and reclaiming levels (ie: Pierre TA)
+BETTER-TRADER: scalp/daytrade and MTF to get more trades to become a better trader - HTF easier but not so many trades
+SLIPPAGE-ONE-BIG-POSITION: Loma, rather have 3 500k positions in different coins than 1 1.5M position..
+SLIPPAGE-ONE-BIG-POSITION: if market nukes, slippage on 1 big 1.5M position hitting SL much worse than 3 500k positions hitting their SLs
+LOMA-OBs: Q: Loma, one more question sorry. I noticed your OB's don't follow any strict criteria like Mayne/ICT. Is that right?
+LOMA-OBs: (1h14m into stream) yeah, he doesn't follow strict criteria for OBs like Mayne or ICT, because when he did..
+LOMA-OBs: ..price tended to overshoot or undershoot it - he didn't know what was going on, was he being too exact?
+LOMA-OBs: ..instead, look to see what price did around the formal OB- zone before and adjust.. 
+LOMA-OBs: .. if very wicky, use previous wicks to mark zone above formal OB- zone expecting a wick
+LOMA-OBs: .. or place asks below and above the formal OB- expecting scamminess of the formal (pristine) OB-
+LOMA-OBs: formal or LomaOB/LomaSRs are both just approximations, can use either (he prefers his obviously)
+LOMA-OBs: MOST IMPORTANT use is to check where price tends to react and what kind of reaction you should be expecting
+LOMA-OBs: .. OBs shouldn't be used to pinpoint EXACT entries, they define a bit of a range that you should EXPECT A CERTAIN REACTION FROM
+LOMA-OBs: Loma got fucked too many times being too formal with his OBs, changed to his more "LomaOBs are kind of a range area"
+LOMA-OBs: "loma-OBs-were-too-exact-and-didnt-work-for-him1.png"
+CBS-SYSTEM: more methodical, indicator reliant, easier to teach than Loma's subjective approach
+CBS-SYSTEM: very good if you're new to trading, set strategy, based on indicator
+CBS-SYSTEM: Loma, just use PA and own priopritary discretionary execution, much harder to teach Loma's discretionary execution
+CBS-SYSTEM: Loma doesn't have secret indicator, it's all about his execution, he just executes much better than others
 
+===== https://youtu.be/tYPD33PcNHI Loma's Lounge Ep.15: $28K OR THE MARKET IS WRONG
+BREAKOUT-CANDLE-LOMA-RANGE-DONT-CLOSE-BELOW: Don't want to see price close below candle that broke out of a Loma range
+BREAKOUT-CANDLE-LOMA-RANGE-DONT-CLOSE-BELOW: Soft SL on close below these breakout candles
+BREAKOUT-CANDLE-LOMA-RANGE-DONT-CLOSE-BELOW: "loma-dont-want-to-see-close-below-the-breakout-candle1.png"
+D3-CHARTS-VERY-CLEAN: D3 moves are very clean, gives very nice big picture, helps Loma with HTF levels/bias..
+D3-CHARTS-VERY-CLEAN: ..but he doesn't trade it, takes too long, use it as a lens for market bias
+D3-CHARTS-VERY-CLEAN: "loma-D3-charts-very-clean-levels-awesome-for-bias-but-not-trading.png"
+NAILING-REASON-FOR-PIERRE-SHORTING: nailed guess of D1-trend Pierre was using to short (and saw his horizontal bearish retest level)
+NAILING-REASON-FOR-PIERRE-SHORTING: "many roads to Rome", can use ICT, MAs, Mayne TA, EW, patterns, Loma style..
+NAILING-REASON-FOR-PIERRE-SHORTING: ..they all shine a light, but up to us to see what's shown by the light
+NAILING-REASON-FOR-PIERRE-SHORTING: MQ note: stick to 1 style of analysis, consistency, get to know this analysis intimately..
+NAILING-REASON-FOR-PIERRE-SHORTING: MQ note: work on improving execution with chosen TA methodology and DON'T mix and match, confusion
+NAILING-REASON-FOR-PIERRE-SHORTING: "loma-analysing-pierre-aptos-short-1.png"
+22m
+ 
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
 EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals
@@ -1487,8 +1545,8 @@ EXECUTION-OB-FULL-RETRACE-ISSUE: full retrace is not stength (OBs will tend to b
 DEVIL-HORNS pump 5 days, sweep 5 days later
 DOUBLE-TOP pump 5 days, sweep 7-10 days later
 EXEXUTION-FAV-SETUP-PUMP-DIP-RECLAIM: pump above SR, dip below SR, reclaim SR - one of his favorite setups (many names for this, Po3, under-over, etc)
-EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: for bullish retests, he likes to use the lows as the retest areas (ie: reclaim much older lows from previous structure)
-EXECUTION-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
+EXECUTION-RETEST-SR-MARKING-NO-FULL-RETRACE: bullish reclaim old lows for longs, bearish reclaim old highs for shorts
+EXECUTION-OLD-LOWS-RECLAIM-THE-LOWS: mark the lows of the the big move up (want to see these reclaimed as sign of strength).. ie: he's playing OB-BREAKERS
 EXECUTION-TRIPLE-DRIVE-DYING-MOMENTUM: Pumps get smaller and retraces gets deeper
 EXECUTION-CONSOLIDATION: consolidation is used for building entries (make sure you know the difference between consolidation/accum and distribution)
 EXECUTION-AFTER-SWEEP: if we sweep then get massive buying candle, buy in the consolidation of the body of the massive buying candle
@@ -1499,3 +1557,4 @@ EXECUTION-LOMA-SR-BLOCKS-AND-LINES: He wants to try and buy the bottom half of t
 EXECUTION-LOMA-BUYS-CONSOLIDATION-CANDLES: Loma buys consolidation candles in his mini-ranges around an SR - he does NOT buy impulse candles (CHOP-PLAYS:)
 EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: soft SL on a close based on TA - hard SL quite a bit further away, should only rarely be hit (market cascading down)
 EXECUTION-POSITION-SIZING-HARD-SOFT-SLs: The bigger risk trades he will probably only risk 4-5% max if hard SL hit
+

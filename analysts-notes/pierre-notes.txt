@@ -174,6 +174,27 @@ MAs-CHANGE-WITH-TIME: Got to let H4/D1 trades STEW for quite a few days / week(s
 
 H1-ANALYSIS-FOR-BTC: Trend cascade / dominos DOWN: H1-trend to H4-trend [to H1-ema200/D1-ema8] to D1-trend
 H1-ANALYSIS-FOR-BTC: Trend cascade / dominos UP: D1-trend [to H1-ema200/D1-ema8] to H4-trend to H1-trend
+
+KRILL-NOTES-MA-SWEEP: Pierre pointed out that MAs are like Price Action..
+KRILL-NOTES-MA-SWEEP: ..compression of macro MAs, trend MAs dump below these (sweep / SFP) then near vertical after this
+KRILL-NOTES-HTF-MA-GAPS: the stronger the trend, the bigger the gaps in the macro MAs
+
+PIERRE-SPOT-BTC-POSITIONS-YELLOW-RED-BALL-STYLE: Use W1-trend for bias and D1-trend for managing position for long term spot positions (red/yellow ball)
+PIERRE-SPOT-BTC-POSITIONS-YELLOW-RED-BALL-STYLE: A level deeper than his normal D1 for bias and H4 for managing the position
+PIERRE-SPOT-BTC-POSITIONS-YELLOW-RED-BALL-STYLE: "pierre-spot-bags-his-system-yellow-red-ball-W1-bias-D1-entry.png"
+
+PIERRE-HARD-AND-SOFT-TPs: He nearly always leaves some running to manually TP on loss of trend (usually H4-trend)
+PIERRE-HARD-AND-SOFT-TPs: "pierre-hard-targets-but-leave-some-running-maual-TP-on-trend-loss.png"
+
+SYSTEM-FORCES-PIERRE-TO-SHORT: if loss of H4-ema200 and below H4-trend (with D1-trend in bearish)
+SYSTEM-FORCES-PIERRE-TO-SHORT: "pierre-system-forces-him-to-short-loss-of-H4trend-and-H4ema200.png"
+
+LTF-TRENDS-DISRESPECTED-CHOP: If BTC LTF trends (H1-trend, H4-trend) disrespected, stay flat, heavy chop incoming, focus on D1 chart levels and D1-trend
+LTF-TRENDS-DISRESPECTED-CHOP: If BTC LTF trends respected, Pierre would take about 10 BTC trades per week
+LTF-TRENDS-DISRESPECTED-CHOP: "pierre-stop-scalping-H1-H4-if-trends-not-respected-or-10-BTC-per-week-if-trends-respected.png"
+LTF-TRENDS-DISRESPECTED-CHOP: This is what trending should look like: "pierre-education-H4trend-retest-history-analysis-BTC.png"
+
+EXECUTION-230303: Pierre layering entries, but going big on FIRST entry (75%)
   
 ==== End GENERIC
 

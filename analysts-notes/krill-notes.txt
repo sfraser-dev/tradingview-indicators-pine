@@ -71,7 +71,7 @@ COMP: All MAs super tight = big move soon
 
 BLUECHIP: link & bnb are two of the blue chips that you should be hodling
 
-GENERAL:' MA gets "reset" when it goes from falling to flat
+GENERAL: MA gets "reset" when it goes from falling to flat
 GENERAL: He uses log scale quite a lot
 GENERAL: If no (ma300 or ema200), switch on H4-ema200
 
@@ -105,7 +105,7 @@ HISTORY: If MA (ma100, ema200 or ma300) is acting as support in uptrend, keep bu
 TREND: ema13/ema25 acts as S/R on higher time-frames (D1+)
 
 EARLY-BANANA-BO: If price breaks out early from a forming banana compression, high chance it'll get retested from above
-"krill-early-breakout-of-banana-compression-means-likely-retested1.JPG"
+EARLY-BANANA-BO: "krill-early-breakout-of-banana-compression-means-likely-retested1.JPG"
 
 
 =====+++++=====
@@ -150,7 +150,7 @@ MA-PART1: A descending MA will be weak support and strong resistance
 MA-PART1: A "dip" is a retracement in an uptrend.
 
 MA-PART1: *** H4-ema200 is the absolute best one (GOAT)***
-MA-PART1: *** D1-ma100 is second most important one ***
+MA-PART1: *** D1-ema13 is second most important one ***
 MA-PART1: D1-ema13 starts pointing up AND being used for support
 MA-PART1: But H4-200ema is still sloping down and above therefore will be resistance so price still uncertain
 MA-PART1: Want to enter when price above D1-ema13 & H4-ema200 (and both pointing up) 
@@ -169,7 +169,7 @@ MA-PART1: 4) MAs (or compression) above or below price
 MA-PART1: Safer trade is to wait for the compression
 
 MA-PART1: Bollinger Bands derived from MAs, centre line is ma20.
-MA-PART1: MA/EMA compression is very like what BB does (but much better)
+MA-PART1: MA/EMA compression is very like what Bollinger Bands does (but much better)
 
 MA-PART1: Compression is a sign of volatility
 
@@ -370,7 +370,7 @@ REVERSAL-RECLAIM: MA100 & EMA200 start going flat or pointing up
 
 
 =====+++++=====
--- Krill general notes / generic notes
+-- Krill generic notes
 EXEC: He is primarily a scalper.
 EXEC: Even when in a swing trade, he'll remove some and add it back in as it's ongoing (constant compunding)
 GAPS: He scalps mostly H1-compressions to H4-ema200
@@ -874,7 +874,10 @@ BULL-MARKET-H4ema200-H4ma100: "krill-bull-market-and-H4ma100-2taps-1.png"
 
 MA-DOGG-ACRONYM: For MAs, [D]irection, [O]rder, [G]radient, [G]aps: DOGG (point up/down, order, steepness, gaps)
 
-## end general / generic end
+RISK-SCALP-DAYTRADES: Says he risks about 4k per scalp. Says he risks about 0.3% per scalp. So portfolio 4000/0.003 = 1.1M?
+RISK-SCALP-DAYTRADES: "krill-daytrading-risk-is-about-4k-per-trade-means-1p1M-portfolio-if-0p3percent-risk-per-trade.png"
+
+## end generic end
 
 =====+++++=====
 Video: krill-scan-usdt-pairs-211209

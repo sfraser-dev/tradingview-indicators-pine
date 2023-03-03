@@ -585,6 +585,8 @@ BREAK-BEAR-DIV: Unusual place to confirm bear div (1st peak in overbought, secon
 BREAK-BEAR-DIV: .. results in steep bear div angle..
 BREAK-BEAR-DIV: ...quite a lot of candles between peaks
 BREAK-BEAR-DIV: ..the push up is coming, expect momentum to carry on
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: 
+
 - Chill youtube 211204
 No wicks used when determining market structure (line charts)
 RSI D3 decent below 50 and W1 just dipping below very bearish
@@ -1014,18 +1016,21 @@ SF-SUMMARY: m15 PA chop / consolidate below SR resistance only resetting RSI (co
 SF-SUMMARY: SL below m15 consolidations try and catch BO / impulse
 
 ===== Generic Notes (start)
-BEAR-DIV-THROUGH-RESISTANCE: breaking a divergence (ie: bear div is bullish) 
-BEAR-DIV-THROUGH-RESISTANCE: 90% of the time, in a trending market, this breaks upwards with force
-BEAR-DIV-THROUGH-RESISTANCE: daily update 1st Nov 2021
-BEAR-DIV-THROUGH-RESISTANCE: clear bear div on eth
-BEAR-DIV-THROUGH-RESISTANCE: but it's occurring after flip and hold of very important SR level (4200)
-BEAR-DIV-THROUGH-RESISTANCE: the TRUE momentum for this move hasn't arrived
-BEAR-DIV-THROUGH-RESISTANCE: but also clear invalidation for quick close if wrong
-BEAR-DIV-THROUGH-RESISTANCE: "cbs-bear-div-through-resistance-90percent-itll-pump1.JPG"
-BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: "cbs-mq-question-H4-rsi-div-through-resistance1.JPG"
-BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: MQ: H4 bear div breaking through reistanceno
-BEAR-DIV-THROUGH-RESISTANCE-MQ-QUESTION: CBS: no, look at HTF levels for rejections at these levels
-BEAR-DIV-THROUGH-RESISTANCE: "cbs-not-a-div-bullish-momentum-yet-to-come.png"
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: breaking a divergence (ie: bear div is bullish) 
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: 90% of the time, in a trending market, this breaks upwards with force
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: daily update 1st Nov 2021
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: clear bear div on eth
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: but it's occurring after flip and hold of very important SR level (4200)
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: the TRUE momentum for this move hasn't arrived
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: but also clear invalidation for quick close if wrong
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: "cbs-bear-div-through-resistance-90percent-itll-pump1.JPG"
+BEAR-DIV-BREAK-THROUGH-RESISTANCE-MQ-QUESTION: "cbs-mq-question-H4-rsi-div-through-resistance1.JPG"
+BEAR-DIV-BREAK-THROUGH-RESISTANCE-MQ-QUESTION: MQ: H4 bear div breaking through reistanceno
+BEAR-DIV-BREAK-THROUGH-RESISTANCE-MQ-QUESTION: CBS: no, look at HTF levels for rejections at these levels
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: "cbs-not-a-div-bullish-momentum-yet-to-come.png"
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: BREAK-BEAR-DIV:
+BEAR-DIV-BREAK-THROUGH-RESISTANCE: "cbs-bear-div-above-SR-actually-bullish1.png"
+
 
 STONKS: Good buying strategy in bull market just buy higher highs
 PIERRE: He's been slaying the bear market
