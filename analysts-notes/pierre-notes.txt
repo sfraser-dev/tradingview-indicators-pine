@@ -366,4 +366,5 @@ Close enough (copying SZ, but using "close enough" saying could be some chop ove
 Could get interesting
 Teleport to target
 Stacked weekend (weekend full of bangers)
+Inverse moon-bag (holding a coin that is dumping - a small percentage of a "finished" trade that he'll actively manage with trailing SL (some MA))
 ===== TERMINOLOGY END

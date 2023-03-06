@@ -612,6 +612,7 @@ TERMINOLOGY: Peace
 TERMINOLOGY: Narrative
 TERMINOLOGY: The juice ain't worth the squeeze
 TERMINOLOGY: The market usually tips its hand
+TERMINOLOGY: Chop-solidate!
 
 DECISIVE: When something decisive happens after price has been indecisive, tend to continue (not look back)
 DECISIVE: eg: 3 month range broken out of, will look for it to continue up
@@ -1529,8 +1530,28 @@ NAILING-REASON-FOR-PIERRE-SHORTING: ..they all shine a light, but up to us to se
 NAILING-REASON-FOR-PIERRE-SHORTING: MQ note: stick to 1 style of analysis, consistency, get to know this analysis intimately..
 NAILING-REASON-FOR-PIERRE-SHORTING: MQ note: work on improving execution with chosen TA methodology and DON'T mix and match, confusion
 NAILING-REASON-FOR-PIERRE-SHORTING: "loma-analysing-pierre-aptos-short-1.png"
-22m
- 
+
+===== https://youtube.com/live/Gq-9ZUibyiE?feature=share WE ARE NOT GONNA MAKE IT 230303
+MS: when longing, you want the structure to look strong (mq: weak entry timeframe (H4) & weak HTF (D1/D3)): Pierre MA method
+MS: when shorting, you want the structure to look weak (mq: weak entry timeframe (H4) & weak HTF (D1/D3))
+NEW-LISTINGS: will pump, then usually retrace a lot of the pump, consilidate quite a while, then pump again
+NEW-LISTINGS: "loma-anatomy-of-new-listed-coin-pump-then-pullback-then-consolidate-then-pump.png"
+OLD-NEW-PA: new PA more important than old PA..
+OLD-NEW-PA: ..unless old PA major news, here's where 3 arrows sold everything, here's where FTX collapsed
+OLD-NEW-PA: new is anything within a couple of months
+LOMAS-SUCCESS-JOURNEY: started with $2000, worked a 9-5, would throw part of his paycheque into crypto when paid..
+LOMAS-SUCCESS-JOURNEY: ..would just lose money, then he stopped doing shit he knew he shouldn't have done..
+LOMAS-SUCCESS-JOURNEY: ..doesn't matter how much you start with, he's know people that started with just $500..
+LOMAS-SUCCESS-JOURNEY: ..and made millions. He's known people who made millions then lost it all in mar/apr 2020..
+LOMAS-SUCCESS-JOURNEY: ..then made it all back again and more, folk like lumdart, CL, countless others
+LOMAS-SUCCESS-JOURNEY: There's a certain PAIN THRESHOLD (TT-style) you have to get through to trade crypto..
+LOMAS-SUCCESS-JOURNEY: ..if you have this pain threshold, and know what you're doing, you will make money
+LOMAS-SUCCESS-JOURNEY: Must focus on the process, your methodology. Can be like CBS, dude that wins 30% of his trades..
+LOMAS-SUCCESS-JOURNEY: ..and make heaps of money, or be someone that makes lots of money fast but loses it fast because..
+LOMAS-SUCCESS-JOURNEY: ..risk not managed, FOCUS ON THE PROCESS, the amount of starting capital doesn't matter..
+LOMAS-SUCCESS-JOURNEY: ..if you gave CBS $5000, I'm sure he'd make his net worth back, it would just take him a little..
+LOMAS-SUCCESS-JOURNEY: ..bit of time
+
 ===== TRADE EXECUTION SNIPPETS
 TRADE-EXECUTION: Blacksphere fixed risked dynamic position sizing
 EXECUTION-BOUNCE-NOT-REVERSAL: 1R trades, playing bounces not reversals
