@@ -3,8 +3,17 @@ TRIGGERS: sz, loma & jb all have same kind of trigger
 TRIGGERS: neok too, H1SR, m15m15, fvg
 FRACTAL: krill H1-banana to H4-trend riding
 CORNIX-CODE-EXEC: enter kind of here, exit kind of there
-PA-MA: liquidity, retests, reclaims, sfps, inefficiencies [market structure, SRs, ranges]
-PA-MA: add in MA theory for confluence on top of PA
-TRADING-STYLE: PA + Pierre MA system, H4/D1 mostly
-TRADING-STYLE: H4 couple of days or weeks to play out, let trades STEW
-TRADING-STYLE: stick to H4/D1, can have multiple trades open at once, proper execution
+
+PA-AND-MAs: liquidity, retests, reclaims, sfps, inefficiencies [market structure, SRs, ranges]
+PA-AND-MAs: add in MA theory for confluence on top of PA
+MQ-TRADING-STYLE: PA + Pierre's ROBOTIC & SIMPLE MA system, H4/D1
+MQ-TRADING-STYLE: Use ROBOTIC & SIMPLE MA system as an indicator (for PA) and make it HOLISTIC
+MQ-TRADING-STYLE: Don't use too many indicators (eg: RSI, AO), my TA is PA plus Pierre MA system as a holistic indicator
+MQ-TRADING-STYLE: H4 couple of days or weeks to play out, let trades stew for a while, can take multiple H4 trades at a time
+WHY-PIERRE-MA-TA: ROBOTIC & SIMPLE rules for trending coins, sticks to D1 & H4 (occassionally H1 too)
+WHY-PIERRE-MA-TA: HOLISTIC Loma-esque approach when incorporating RISK/ON OFF FOR ALL CRYPTO and RELATIVE STRENGTH of different alts
+WHY-PIERRE-MA-TA: Loma-esque1-risk-on-off: Pierre MAs to gauge strength of BTC to determine RISK ON/OFF FOR ALL CRYPTO
+WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: simple to gauge RELATIVE STRENGTH of different alts..
+WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: ..all alts pumping, but altX still in range, altY broken out of range..
+WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: .. Pierre MAs: altX hasn't reclaimed trend, altY has reclaimed trend
+WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: Trade the alts with the best relative strength compared to other alts
