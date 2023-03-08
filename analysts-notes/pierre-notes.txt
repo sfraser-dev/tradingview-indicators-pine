@@ -195,6 +195,9 @@ LTF-TRENDS-DISRESPECTED-CHOP: "pierre-stop-scalping-H1-H4-if-trends-not-respecte
 LTF-TRENDS-DISRESPECTED-CHOP: This is what trending should look like: "pierre-education-H4trend-retest-history-analysis-BTC.png"
 
 EXECUTION-230303: Pierre layering entries, but going big on FIRST entry (75%)
+
+GAP-FILL-TO-D1-TREND: lose bullish H4-trend, can play short to fill the bullish D1-trend below (with horizontal (and Stoch)) confluence
+GAP-FILL-TO-D1-TREND: "pierre-gap-fill-lost-H4trend-down-to-FILL-D1trend-stx-1.png"
   
 ==== End GENERIC
 

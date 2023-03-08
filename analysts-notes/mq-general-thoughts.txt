@@ -3,13 +3,19 @@ TRIGGERS: sz, loma & jb all have same kind of trigger
 TRIGGERS: neok too, H1SR, m15m15, fvg
 FRACTAL: krill H1-banana to H4-trend riding
 CORNIX-CODE-EXEC: enter kind of here, exit kind of there
+FLUID-MAs: MAs change with time, they are fluid, not absolute
+MARK-DOUGLAS: Just take the trades, EXECUTE, every trade is a guess, stepping into the unknown..
+MARK-DOUGLAS: ..trust the PROCESS, TRUST YOUR TRADING JOURNAL to be up after 20 trades if you adhere to your system
+MARK-DOUGLAS: Stick to the same process, don't chop and change
 
 PA-AND-MAs: liquidity, retests, reclaims, sfps, inefficiencies [market structure, SRs, ranges]
 PA-AND-MAs: add in MA theory for confluence on top of PA
 MQ-TRADING-STYLE: PA + Pierre's ROBOTIC & SIMPLE MA system, H4/D1
 MQ-TRADING-STYLE: Use ROBOTIC & SIMPLE MA system as an indicator (for PA) and make it HOLISTIC
-MQ-TRADING-STYLE: Don't use too many indicators (eg: RSI, AO), my TA is PA plus Pierre MA system as a holistic indicator
-MQ-TRADING-STYLE: H4 couple of days or weeks to play out, let trades stew for a while, can take multiple H4 trades at a time
+MQ-TRADING-STYLE: Don't use too much TA or too many indicators - stick to the same TA approach ALL THE TIME.
+MQ-TRADING-STYLE: My TA is PA plus Pierre MA system. Stick with this, don't chop and change. Be consistent, know MY TA inside out.
+MQ-TRADING-STYLE: Use my TA holistically, trending coins, strength of BTC/crypto, relative strength of coins.
+MQ-TRADING-STYLE: H4 takes a lot of days or a week or two to play out, let them stew for a while, take multiple at a time TPing and compounding
 WHY-PIERRE-MA-TA: ROBOTIC & SIMPLE rules for trending coins, sticks to D1 & H4 (occassionally H1 too)
 WHY-PIERRE-MA-TA: HOLISTIC Loma-esque approach when incorporating RISK/ON OFF FOR ALL CRYPTO and RELATIVE STRENGTH of different alts
 WHY-PIERRE-MA-TA: Loma-esque1-risk-on-off: Pierre MAs to gauge strength of BTC to determine RISK ON/OFF FOR ALL CRYPTO
@@ -17,3 +23,7 @@ WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: simple to gauge RELATIVE STRENG
 WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: ..all alts pumping, but altX still in range, altY broken out of range..
 WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: .. Pierre MAs: altX hasn't reclaimed trend, altY has reclaimed trend
 WHY-PIERRE-MA-TA: Loma-esque2-relative-strength: Trade the alts with the best relative strength compared to other alts
+BE-MORE-LIKE-LOMA: Loma seems to be able to intuition where MAs are (Loma gradients less steep)
+BE-MORE-LIKE-LOMA: Loma seems to be able to intuition when momentum is waning without using any indicators (triple drive dying momentum)
+BE-MORE-LIKE-LOMA: Loma gradients = MAs start getting chopped at the end of a trend
+BE-MORE-LIKE-LOMA: Loma waning momentum = MT-trend changes from bullish to bearish (sneaky peak RSI / AO for bear divs too)
