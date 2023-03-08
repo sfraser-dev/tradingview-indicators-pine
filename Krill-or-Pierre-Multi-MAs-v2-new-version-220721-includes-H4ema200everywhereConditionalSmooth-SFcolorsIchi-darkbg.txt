@@ -107,7 +107,7 @@ ema34Col_k =  color.new(#00FF00, 0)
 
 // P colours
 h4ema200Col_p = color.new(color.orange, 0)
-ma300Col_p =    color.new(#ce93d9, 0)
+ma300Col_p =    color.new(#ce93d9, 10)
 ma200Col_p =    color.new(color.blue, 0)
 ema200Col_p =   color.new(#d1d4dc, 0)
 ma100Col_p =    color.new(#81c784, 0)
@@ -119,22 +119,29 @@ ema33Col_p =    color.new(#f23645, 0)
 ema34Col_p =    color.new(#f23645, 0)
 
 // M colors
-h4ema200Col_m=color.new(color.blue, 0)
-ma300Col_m =  color.new(#5d606b, 0)
+h4ema200Col_m=color.new(#ba68c8, 0)
+ma300Col_m =  color.new(#ffcc80, 20)
 ma200Col_m =  color.new(color.blue, 0) 
 ema200Col_m = color.new(color.white, 0)
-ma100Col_m =  color.new(#d1d4dc, 0)
-ema13Col_m =  color.new(#ffb74d, 0) 
-ema21Col_m=   color.new(#ffb74d, 0)
-ema25Col_m =  color.new(#ffb74d, 0)
-ema32Col_m =  color.new(#ffb74d, 0)
-ema33Col_m =  color.new(#ffb74d, 0)
-ema34Col_m =  color.new(#ffb74d, 0)
+ma100Col_m =  color.new(#fe5f55, 0)
+ema13Col_m =  color.new(#00FFFF, 0) 
+ema21Col_m=   color.new(#00FFFF, 0)
+ema25Col_m =  color.new(#00FFFF, 0)
+ema32Col_m =  color.new(#00FFFF, 0)
+ema33Col_m =  color.new(#00FFFF, 0)
+ema34Col_m =  color.new(#00FFFF, 0)
+//nice minimalist - h4ema200Col_m=color.new(color.blue, 0)
+//nice minimalist - ma300Col_m =  color.new(#5d606b, 0)
+//nice minimalist - ma200Col_m =  color.new(color.blue, 0) 
+//nice minimalist - ema200Col_m = color.new(color.white, 0)
+//nice minimalist - ma100Col_m =  color.new(#d1d4dc, 0)
+//nice minimalist - ema13Col_m =  color.new(#00FFFF, 0) 
+
 
 
 // Plot K lines
 plot(na, title="---------- K ----------", color=color.red)
-plot(h4ema200plot and (k_col_selected==true)? h4ema200 : na, title="4hEMA200", color=h4ema200Col_k, linewidth=2)
+plot(h4ema200plot and (k_col_selected==true)? h4ema200 : na, title="4hEMA200", color=h4ema200Col_k, linewidth=2, display=display.none)
 p300maK=plot((k_col_selected==true)? ma300 : na, title="MA300", color=ma300Col_k, linewidth=1, style=plot.style_circles)
 plot((k_col_selected==true) ? ma200 : na, title="MA200", color=ma200Col_k, linewidth=2, display=display.none)
 plot((k_col_selected==true) ? EMA200() : na, title="EMA200", color=ema200Col_k, linewidth=2, style=plot.style_line) 
@@ -149,7 +156,7 @@ plot((k_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_k, linew
 // Plot P lines
 plot(na, title="---------- P ----------", color=color.blue)
 plot(h4ema200plot and (p_col_selected==true)? h4ema200 : na, title="4hEMA200", color=h4ema200Col_p, linewidth=2, display=display.none)
-p300maP=plot((p_col_selected==true)? ma300 : na, title="MA300", color=ma300Col_p, linewidth=1, style=plot.style_circles, display=display.none)
+p300maP=plot((p_col_selected==true)? ma300 : na, title="MA300", color=ma300Col_p, linewidth=1, style=plot.style_circles)
 plot((p_col_selected==true)? ma200 : na, title="MA200", color=ma200Col_p, linewidth=2, display=display.none)
 plot((p_col_selected==true) ? EMA200() : na, title="EMA200", color=ema200Col_p, linewidth=2, style=plot.style_stepline) 
 p100maP=plot((p_col_selected==true)? ma100 : na, title="MA100", color=ma100Col_p, linewidth=1, style=plot.style_circles)
@@ -162,7 +169,7 @@ plot((p_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_p, linew
 
 // Plot M lines
 plot(na, title="---------- M ----------", color=color.red)
-plot(h4ema200plot and (m_col_selected==true)? h4ema200 : na, title="4hEMA200", color=h4ema200Col_m, linewidth=2)
+plot(h4ema200plot and (m_col_selected==true)? h4ema200 : na, title="4hEMA200", color=h4ema200Col_m, linewidth=2, display=display.none)
 p300maM=plot((m_col_selected==true)? ma300 : na, title="MA300", color=ma300Col_m, linewidth=1, style=plot.style_cross)
 plot((m_col_selected==true) ? ma200 : na, title="MA200", color=ma200Col_m, linewidth=2, display=display.none)
 plot((m_col_selected==true) ? EMA200() : na, title="EMA200", color=ema200Col_m, linewidth=2, style=plot.style_line) 
@@ -177,7 +184,7 @@ plot((m_col_selected==true) ? ema34 : na, title="EMA34", color=ema34Col_m, linew
 // fill macro MAs (Ichi cloud!)
 fillColorSelectK = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fillColorSelectP = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
-fillColorSelectM = (ma100 > ma300) ? color.new(#d1d4dc, 75) : color.new(#ec407a, 75)    // very transparent touch of {grey,pink}
+fillColorSelectM = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fill(p100maK, p300maK, k_col_selected ? fillColorSelectK : na, title="K", display=display.none)
 fill(p100maP, p300maP, p_col_selected ? fillColorSelectP : na, title="P", display=display.none)
 fill(p100maM, p300maM, m_col_selected ? fillColorSelectM : na, title="M", display=display.none)
