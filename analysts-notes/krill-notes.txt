@@ -283,15 +283,15 @@ SQUEEZE-PATTERN: Very flat macro MA/EMAs
 SQUEEZE-PATTERN: All the short EMAs in correct order curling up
 SQUEEZE-PATTERN: Increasing volume
 
-LAZY: *** Lazy mode 
-LAZY: MA cheat code (54mins, see krill-lazy-mode-cheat-code.jpg)
-LAZY: The lazy mode puts H4 & H1 MA/EMAs onto 1 chart for quick scan
-LAZY: Turn off all the candles! (remove price info!)
-LAZY: Long the supercross (all crossing flat H4ema200)
-LAZY: MA compression is best indicator of volatility
-LAZY: USE H4 CHART (My multi-indicator): ema13, ema25, ema34, ema55, ema100, (& H4-ma25==H1-ma100) & H4-ema200
-LAZY: Tight cluster of bullish crosses indicates volatility
-
+KRILL-LAZY: *** Lazy mode 
+KRILL-LAZY: MA cheat code (54mins, see krill-lazy-mode-cheat-code.jpg)
+KRILL-LAZY: The lazy mode puts H4 & H1 MA/EMAs onto 1 chart for quick scan
+KRILL-LAZY: Turn off all the candles! (remove price info!)
+KRILL-LAZY: Long the supercross (all crossing flat H4-ema200)
+KRILL-LAZY: MA compression is best indicator of volatility
+KRILL-LAZY: USE H4 CHART (my multi-indicator): ema13, ema25, ema34, ema55..
+KRILL-LAZY: ..ema100, H4-ema200 (& H4-ma25==H1-ma100)
+KRILL-LAZY: Tight cluster of bullish crosses indicates volatility
 
 
 =====+++++=====
@@ -364,6 +364,7 @@ https://www.youtube.com/watch?v=W3thQ5YZ_Ps&t=4215s
 REVERSAL-RECLAIM: Initially bearish
 (top=ma300, mid=ema200, bot=ma100)
 REVERSAL-RECLAIM: Starts reclaiming each of these macro/cloud MAs (1st ma100, then ema200, then ma300)
+REVERSAL-RECLAIM: REVERSAL MODE is when ma100 curls up and ema200 is flatteningF
 REVERSAL-RECLAIM: ALL THE WHILE having ema13 actings as support
 REVERSAL-RECLAIM: Compressing (ping-ponging) between ema200 and ma300.
 REVERSAL-RECLAIM: MA100 & EMA200 start going flat or pointing up
@@ -456,16 +457,17 @@ NEW: Look for the highest timeframe it occurs; it'll give a strong reaction
 NEW: "krill-smma100-highest-timeframe-new-listings-1.JPG"
 
 -- Trend flip to reversal - Krill method different to Pierre
-"krill-when-is-trend-flipped1.JPG"
-FRACTAL: Krill method is fractal
-FRACTAL: When is H1-trend flipped support, if it has broken and closed above the trend, check the 15m chart (fractal)
-FRACTAL: If the 15m chart has flat 15m-ma100 and 15m-ema200 then it's in reversal mode
-FRACTAL: If 15m is in reversal mode, the H1 trend should now be flipped (no need for Pierre second retest)
-FRACTAL: H1 PA will be choppy until H1-ma100 and H1-ema200 are flat (ready for reversal)
-FRACTAL: MAs are fractal (trend flip, macro reversal reclaim, compression)
-FRACTAL: 5m is in compression
-FRACTAL: 15m is in macro reversal reclaim pattern
-FRACTAL: H1 trend flip
+KRILL-TREND-FLIP-FRACTAL-METHOD: "krill-when-is-trend-flipped1.JPG"
+KRILL-TREND-FLIP-FRACTAL-METHOD: Krill method is fractal
+KRILL-TREND-FLIP-FRACTAL-METHOD: When is H1-trend flipped support, if it has broken and closed above the trend, check the m15 chart (fractal)
+KRILL-TREND-FLIP-FRACTAL-METHOD: If the m15 chart has flat m15-ma100 and m15-ema200 then it's in REVERSAL MODE
+KRILL-TREND-FLIP-FRACTAL-METHOD: If m15 is in REVERSAL MODE, the H1 trend should now be flipped (no need for Pierre second trend retest)
+KRILL-TREND-FLIP-FRACTAL-METHOD: (MQ: reversal mode is prerequisite for reversal reclaim)
+KRILL-TREND-FLIP-FRACTAL-METHOD: H1 PA will be choppy until H1-ma100 and H1-ema200 are flat (ready for reversal)
+KRILL-TREND-FLIP-FRACTAL-METHOD: MAs are fractal (trend flip, macro reversal reclaim, compression)
+KRILL-TREND-FLIP-FRACTAL-METHOD: m5 is in compression
+KRILL-TREND-FLIP-FRACTAL-METHOD: m15 is in macro REVERSAL MODE (reversal reclaim) pattern
+KRILL-TREND-FLIP-FRACTAL-METHOD: H1 trend flip
 
 -- Scalping tips
 SCALPING: For scalping, focus on 1) good entries 2) not taking losses
@@ -1350,7 +1352,7 @@ H1-100MA: H1-100ma acts as support on some coins
 H1-100MA: H1-100ma not respected by BTC as SR
 H1-100MA-slope: H1-100ma slope gradient very informative (esp BTC)
 
---- EXECUTION: covers 90% of plays Krill uses
+-- EXECUTION: covers 90% of plays Krill uses
 90%-OF-SETUPS: "krill-90percent-of-trades.JPG"
 90%-OF-SETUPS: (1.0) Dump vix to H4 or D1 ema200
 90%-OF-SETUPS: (2.0) Trend riding (trend ridden fractally across time-frames (dominos) (general and parabolic)
@@ -1363,5 +1365,14 @@ H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png
 REVERSAL-RECLAIM: Starts reclaiming each of these macro/cloud MAs (1st ma100, then ema200, then ma300) while riding the trend
 COMPRESSION-BO-SCAM-GAP-FILL: Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness (DOGG)
 TREND-RIDING: riding trend fractally across time-frames H1-trend to H4-trend (to H1-ema200/D1-ema8) to D1-trend; Pierre style
+
+-- PIERRE-SYSTEM-COMPLIMENTALS
+KRILL-TREND-FLIP-FRACTAL-METHOD: REVERSAL MODE is flattening ema200 and curling up ma100 on the previous timeframe..
+KRILL-TREND-FLIP-FRACTAL-METHOD: so if want to know if H4-trend has been reclaimed, check to see if H1 is in REVERSAL MODE
+KRILL-TREND-FLIP-FRACTAL-METHOD: this is a simplier method to judge if a trend has been reclaimed
+KRILL-TREND-FLIP-FRACTAL-METHOD: reversal mode is a precursor to reversal reclaim
+KRILL-LAZY: H4 chart, short rainbow EMAs supercross FLAT H4-ema200.. incoming volatility
+KRILL-LAZY: Pierre's MAs have quite a lot of the lazy MAs so can kind of see it about to happen
+
 
 

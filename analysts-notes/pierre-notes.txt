@@ -1,15 +1,15 @@
-=== Education MAs NYO
+===== Education MAs NYO
 UB, KRILLIN, and Pierre NYO Stream - Lots of MA theory with Krill 220928:
 VIDEO-U-K-P: https://www.youtube.com/watch?v=Ctl5J2Z71vw
 VIDEO-U-K-P: https://www.youtube.com/watch?v=zKYAGIhvItw (1m 30s clip of textbook MA pattern)
 VIDEO-U-K-P: UB-Krill-Pierre-NYO-220913.pdf Wassie summary
 PATTERN: H1-ma100 usually gives deadcat bounce, then taps H1-trend, then dumps to H1-ema200 textbook EMA pattern
-=== Many MAs on one indicator (just use Krill's script instead)
+===== Many MAs on one indicator (just use Krill's script instead)
 INDICATOR: Name of the indicator: "Andre's 8EMA+8MA+BB+Ichimoku"
 INDICATOR: here's the Youtube video he made back then to set it up: https://www.youtube.com/watch?v=almTrFf3Q3c
 INDICATOR: I'll share this in the last piece of my educational content!  All showed here on this chart: https://www.tradingview.com/x/NiOAr20y/
 
-=== Stoch info and using Stoch to adjust full risk
+===== Stoch info and using Stoch to adjust full risk
 STOCH: My Stoch Notes from Web:
 STOCH: Stoch RSI moves faster than RSI (from overbought to oversold)
 STOCH: Stoch RSI is not good in choppy / range-bound market; too many false signals
@@ -24,7 +24,7 @@ RISK-CHOP: If in stong downtrend and Stoch goes from oversold (low) to overbough
 RISK-CHOP: If in stong uptrend and Stoch goes from overbought (high) to oversold (low) without claiming below SR / trend - full risk long
 RISK: "pierre-stoch-usage-risk-adjust-aresgod1.JPG"
 
-=== Pierre's simple methodology (in order of priority)
+===== Pierre's simple methodology (in order of priority)
 METHOD: Pierre's simple 3 point method:
 METHOD: (1) Horizontal S/R flips and/or pivot 
 METHOD: (2) Trend (13/25 EMA)
@@ -42,7 +42,7 @@ TREND-TRADER: Pierre is a trend trader, not good at ranges
 TIMEFRAMES: He mostly just trades H4 and D1 (occasionally H1)
 TIMEFRAMES: Krill: H4-ema200 and D1-ema13 are the GOATs
 
-=== Pierre's Simple Trend System for going with Market Structure
+===== Pierre's Simple Trend System for going with Market Structure
 METHOD: Pierre's simple 3 point method is designed to long on HH, HL, HH, HL structure, buying on a HL
 METHOD: ---
 METHOD: (A) Entering long on HL using horizontal and trend
@@ -78,7 +78,7 @@ METHOD: Pierre: "I'm no market wizard or trading wizard, I'm a regular trend / s
 METHOD: Pierre: "I keep my charts simple, and my setups simple too"
 METHOD: "pierre-education-his-MA-system-explained-again.png"
 
-=== Pierre use of MAs
+===== Pierre use of MAs
 MA-USAGE: Mostly uses trend EMAs (13, 25 & 32), not macro MAs
 MA-USAGE: He uses MAs for bias (pointing up/down ([D]irection), MA [O]rder, steep/shallow ([G]radient), gaps between MAs ([G]aps)) - DOGG 
 MA-USAGE-ACRONYM: DOGG (Direction (up/down), Order, Gradient (steep/shallow), Gaps) - DOGG
@@ -87,7 +87,7 @@ MA-USAGE: Krill: Can judge relative performance between cons on their ability to
 MA-USAGE: ..look for shorts on coin Y)
 MA-USAGE: "pierre-stoch-usage-risk-adjust-aresgod3-sf-original-answer.JPG"
 
-=== Pierre trend DEVIATIONS
+===== Pierre trend DEVIATIONS
 TREND-DEVIATIONS: "pierre-trend-DEVIATION-using-stoch-and-SR.JPG"
 --
 SYSTEM-BULLISH-REVERSAL: SR reclaimed above
@@ -104,21 +104,21 @@ DEVIATION-DOWNTREND?: (Loma: if the case for longing isn't valid, look to short)
 --
 UPTREND-STRENGTH: Stoch resets to oversold (low, floored) on retracement / "dump" without going below SR or below trend
 
-=== Bias
+===== Bias
 D1-TREND-BIAS: Look at D1-trends (ema13, ema25 & ema32) to really help with bias
 D1-TREND-BIAS: "pierre-above-below-D1trend-for-bias-4-good.JPG"
 
-=== Compounding and trading philosophy 
+===== Compounding and trading philosophy 
 COMPOUND: Pierre compounds a lot (H4 / D1 trader, low RR trades)
 COMPOUND: Krill doesn't compound so much (scalper, high RR trades, tries to enter as close as possible to invalidation and TP on the way up)
 COMPOUND: "krill-doesnt-really-compound-MA-theory101-2.JPG"
 
-=== Folio increasing
+===== Folio increasing
 FOLIO: "pierre-folio-increasing-month-on-month-SINGLE-SYSTEM.JPG"
 FOLIO: He's using a single system. Trade management, goes heavy when system says to, sits on hands when no signal
 FOLIO: Clear invalidations using his TA system, trade on this, don't know what direction trade will take, assymetric betting based on TA invalidations?
 
-==== Begin GENERIC
+===== Begin GENERIC
 TRADES-TAKEN: "pierre-if-setup-shared-entry-retested-assume-he-is-in.JPG"
 TRADES-TAKEN: If he posts a setup and entry is tapped, assume he has taken it (220728)
 
@@ -198,8 +198,44 @@ EXECUTION-230303: Pierre layering entries, but going big on FIRST entry (75%)
 
 GAP-FILL-TO-D1-TREND: lose bullish H4-trend, can play short to fill the bullish D1-trend below (with horizontal (and Stoch)) confluence
 GAP-FILL-TO-D1-TREND: "pierre-gap-fill-lost-H4trend-down-to-FILL-D1trend-stx-1.png"
-  
-==== End GENERIC
+
+DUMP-AND-TREND-DISTANCE-AWAY: after impulse down, want to see LTF trends reclaimed relatively quickly..
+DUMP-AND-TREND-DISTANCE-AWAY: ..for example, reclaim H1-trend, then gap up to H4-trend, reclaim H4-trend, then gap up to D1-trend
+DUMP-AND-TREND-DISTANCE-AWAY: ..if they are not reclaimed quick, they get closer to price, meaning less chance of explosives moves up..
+DUMP-AND-TREND-DISTANCE-AWAY: ..more chance of chop for a while then trend-continuation down (Krill H1-trend-continuation-strategy in reverse)
+DUMP-AND-TREND-DISTANCE-AWAY: "pierre-level-to-level-trend-cascade-dominos.png"
+
+NEWLY-LISTED-SHITCOINS: After first correction on newly listed shitcoins, long on first reclaim of their LTF trends
+NEWLY-LISTED-SHITCOINS: "pierre-long-new-listed-shitcoins-on-LTF-trend-reclaims-after-first-correction.png"
+NEWLY-LISTED-SHITCOINS: "pierre-standard-new-listing-long-PnD-then-break-H4downtrend-1.png"
+
+BEST-LONGS-BEST-SHORTS: When D1-trend and H4-trend both bullish
+BEST-LONGS-BEST-SHORTS: If H4-trend up lost, best to wait for bullsih retest of D1-trend below..
+BEST-LONGS-BEST-SHORTS: ..AND RECLAIM of H4-trend up before longing, means buying into momentum
+--
+BEST-LONGS-BEST-SHORTS: When D1-trend and H4-trend both bearish
+BEST-LONGS-BEST-SHORTS: If H4-trend down lost, best to wait for bearish retest of D1-trend above..
+BEST-LONGS-BEST-SHORTS: ..AND RECLAIM of H4-trend down before shorting, means selling into momentum
+BEST-LONGS-BEST-SHORTS: "pierre-want-H4trend-and-D1trend-both-reclaimed-to-long1.png"
+===== End GENERIC
+
+===== ^^^^From Krill notes
+KRILL-TREND-FLIP-FRACTAL-METHOD: "krill-when-is-trend-flipped1.JPG"
+KRILL-TREND-FLIP-FRACTAL-METHOD: Krill method is fractal
+KRILL-TREND-FLIP-FRACTAL-METHOD: When is H1-trend flipped support, if it has broken and closed above the trend, check the m15 chart (fractal)
+KRILL-TREND-FLIP-FRACTAL-METHOD: If the m15 chart has flat m15-ma100 and m15-ema200 then it's in REVERSAL MODE
+KRILL-TREND-FLIP-FRACTAL-METHOD: If m15 is in REVERSAL MODE, the H1 trend should now be flipped (no need for Pierre second trend retest)
+KRILL-TREND-FLIP-FRACTAL-METHOD: (MQ: reversal mode is prerequisite for reversal reclaim)
+--
+KRILL-TREND-FLIP-FRACTAL-METHOD: REVERSAL MODE is flattening ema200 and curling up ma100 on the previous timeframe..
+KRILL-TREND-FLIP-FRACTAL-METHOD: so if want to know if H4-trend has been reclaimed, check to see if H1 is in REVERSAL MODE
+KRILL-TREND-FLIP-FRACTAL-METHOD: this is a simplier method to judge if a trend has been reclaimed
+KRILL-TREND-FLIP-FRACTAL-METHOD: reversal mode is a precursor to reversal reclaim
+
+KRILL-LAZY: H4 chart, short rainbow EMAs supercross FLAT H4-ema200.. incoming volatility
+KRILL-LAZY: Pierre's MAs have quite a lot of the lazy MAs so can kind of see it about to happen
+
+
 
 ===== Pierre's gap fills & "reversal reclaim"
 GAP-FILL: (1) flip the trend
@@ -232,7 +268,7 @@ MQ overview of the following 9 points: "pierre-education-multiple-coins-trade-pl
    narratives (even if really dumb, eg. AI narrative), alts that lead these narratives... Don't try to focus on laggards, this is
    environment for leaders right now.
    => You can use the alts i've been focus on as examples if you want... There's a reason i've been all over
-   #INJ/USDT - SWING - H4 trend based entry #GMX-USDT _ D1-H4 Long #MASK [monitoring H4 trend retest and 3.4-3.6 region]
+   #INJ/USDT - SWING - H4 trend based entry #GMX-USDT _ D1-H4 Long #MASK [monitoring H4-trend retest and 3.4-3.6 region]
    #LRC/USDT - SCALP - H4 Long past few days... ;).
 
 5) Same way than for BTC and ETH, highlight the D1/H4 trends and most important horizontal levels... Can be recent highs,
@@ -265,7 +301,7 @@ Voilà... I wanted to close my day on this note because I know many might be sid
 MQ overview of these 4 points: Is D1-trending up?
                                (i)  Yes - is H4 is trending up? Retest H4-trend from above (PRIMARY trade)
                                (ii) Yes - H4 isn't trending up? Reclaim above H4-trend (secondary) or wait for D1-trend retest (not 1st retest though)
-MQ overview of these 4 points: D1-trend determines general bias, H4-trend determines trade management
+MQ overview of these 4 points: *** D1-trend determines general bias, H4-trend determines trade management ***
 MQ overview of these 4 points: if H4-trend getting chopped, sit on hands, focus on D1 chart
 MQ overview of these 4 points: never bid first trend RECLAIM 
 MQ overview of these 4 points: don't bid 1st retests of D1-trends, wait for D1-trend successful retest AND H4-trend RECLAIM (buying into momentum)
@@ -370,4 +406,5 @@ Could get interesting
 Teleport to target
 Stacked weekend (weekend full of bangers)
 Inverse moon-bag (holding a coin that is dumping - a small percentage of a "finished" trade that he'll actively manage with trailing SL (some MA))
+GL HF (good luck have fun)
 ===== TERMINOLOGY END
