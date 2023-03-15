@@ -1031,6 +1031,10 @@ BEAR-DIV-BREAK-THROUGH-RESISTANCE: "cbs-not-a-div-bullish-momentum-yet-to-come.p
 BEAR-DIV-BREAK-THROUGH-RESISTANCE: BREAK-BEAR-DIV:
 BEAR-DIV-BREAK-THROUGH-RESISTANCE: "cbs-bear-div-above-SR-actually-bullish1.png"
 
+FUCK-YOU-BEAR-DIVS: 1. Momentum loss is a scam, market is too strong/squeezing, consolidation areas are too long
+FUCK-YOU-BEAR-DIVS: 2. PA typically fakes MS break prior to making a fresh high
+FUCK-YOU-BEAR-DIVS: m5 chart played out and then the 15m chart set up identically.
+FUCK-YOU-BEAR-DIVS: "cbs-fuck-you-bear-divs-more-up-to-come1.png"
 
 STONKS: Good buying strategy in bull market just buy higher highs
 PIERRE: He's been slaying the bear market

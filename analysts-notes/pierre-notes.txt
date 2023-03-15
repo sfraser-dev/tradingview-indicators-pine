@@ -219,23 +219,31 @@ BEST-LONGS-BEST-SHORTS: ..AND RECLAIM of H4-trend down before shorting, means se
 BEST-LONGS-BEST-SHORTS: "pierre-want-H4trend-and-D1trend-both-reclaimed-to-long1.png"
 ===== End GENERIC
 
-===== ^^^^From Krill notes
-KRILL-TREND-FLIP-FRACTAL-METHOD: "krill-when-is-trend-flipped1.JPG"
-KRILL-TREND-FLIP-FRACTAL-METHOD: Krill method is fractal
-KRILL-TREND-FLIP-FRACTAL-METHOD: When is H1-trend flipped support, if it has broken and closed above the trend, check the m15 chart (fractal)
-KRILL-TREND-FLIP-FRACTAL-METHOD: If the m15 chart has flat m15-ma100 and m15-ema200 then it's in REVERSAL MODE
-KRILL-TREND-FLIP-FRACTAL-METHOD: If m15 is in REVERSAL MODE, the H1 trend should now be flipped (no need for Pierre second trend retest)
-KRILL-TREND-FLIP-FRACTAL-METHOD: (MQ: reversal mode is prerequisite for reversal reclaim)
+===== ***From Krill notes
+KRILL-H4-TREND-LOSS: If H4-trend is lost, don't auto-bid H4-ema200 (D1-ema32), wait for H1-ema200 (D1-ema8) to catch up to H4-ema200 (D1-ema32)
+KRILL-H4-TREND-LOSS: Pierre always says never bid 1st retest of D1-trend(32) (H4-ema200) from above, often a trap
+KRILL-H4-TREND-LOSS: (MQ: wait also for H1-ema200 (D1-ema8) as well?)
+KRILL-H4-TREND-LOSS: (So, H4-trend loss, don't blindly bid D1-trend from above, wait for D1-ema8 to be reclaimed too)
+--
+EMA200-AND-TREND-OVERLAPS: m15-ema200 = H4-ema13
+EMA200-AND-TREND-OVERLAPS: H1-ema200  = D1-ema8
+EMA200-AND-TREND-OVERLAPS: H4-ema200  = D1-ema32  
+--
+KRILL-TREND-FLIP-FRACTAL-METHOD: *** MAs are fractal: trend flip -> reversal mode (-> reversal reclaim) -> compression)
+KRILL-TREND-FLIP-FRACTAL-METHOD: m15 is in REVERSAL RECLAIM or COMPRESSION
+KRILL-TREND-FLIP-FRACTAL-METHOD: H1 is in REVERSAL MODE
+KRILL-TREND-FLIP-FRACTAL-METHOD: H4 is TREND FLIPPING
 --
 KRILL-TREND-FLIP-FRACTAL-METHOD: REVERSAL MODE is flattening ema200 and curling up ma100 on the previous timeframe..
 KRILL-TREND-FLIP-FRACTAL-METHOD: so if want to know if H4-trend has been reclaimed, check to see if H1 is in REVERSAL MODE
 KRILL-TREND-FLIP-FRACTAL-METHOD: this is a simplier method to judge if a trend has been reclaimed
-KRILL-TREND-FLIP-FRACTAL-METHOD: reversal mode is a precursor to reversal reclaim
-
-KRILL-LAZY: H4 chart, short rainbow EMAs supercross FLAT H4-ema200.. incoming volatility
-KRILL-LAZY: Pierre's MAs have quite a lot of the lazy MAs so can kind of see it about to happen
-
-
+KRILL-TREND-FLIP-FRACTAL-METHOD: reversal mode is the precursor to reversal reclaim
+--
+KRILL-LAZY: Use H4 chart
+KRILL-LAZY: short rainbow EMAs H4-ema13, H4-ema25, H4-ema34, H4-ema55, H4-ema100 (and H4-ma25)
+KRILL-LAZY: short rainbow supercross (correct order) of FLAT H4-ema200 signifies incoming volatility
+KRILL-LAZY: Pierre's MAs have the first three of the short rainbow EMAs so can kind of see it about to happen
+KRILL-LAZY: Note: H4-ma25 == H1-ma100, H4-ema55 ~ H1ema200 -- are H1-ma100 & H1-ema200 in REVERSAL MODE?  
 
 ===== Pierre's gap fills & "reversal reclaim"
 GAP-FILL: (1) flip the trend
@@ -301,7 +309,7 @@ Voilà... I wanted to close my day on this note because I know many might be sid
 MQ overview of these 4 points: Is D1-trending up?
                                (i)  Yes - is H4 is trending up? Retest H4-trend from above (PRIMARY trade)
                                (ii) Yes - H4 isn't trending up? Reclaim above H4-trend (secondary) or wait for D1-trend retest (not 1st retest though)
-MQ overview of these 4 points: *** D1-trend determines general bias, H4-trend determines trade management ***
+MQ overview of these 4 points: *** D1-trend determines general bias, H4-trend determines trade management
 MQ overview of these 4 points: if H4-trend getting chopped, sit on hands, focus on D1 chart
 MQ overview of these 4 points: never bid first trend RECLAIM 
 MQ overview of these 4 points: don't bid 1st retests of D1-trends, wait for D1-trend successful retest AND H4-trend RECLAIM (buying into momentum)
