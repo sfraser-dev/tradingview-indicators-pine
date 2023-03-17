@@ -548,12 +548,12 @@ BAD-RR: "krill-cryptoCred-dynamicR-1.png"
 
 -- SL distance from entry, conviction and win-rate
 "krill-SL-distance-and-conviction1.JPG"
-SL-CONVICTION: The more conviction you have for a trade, the wider the stop should be (to prevent getting wicked out)
-SL-CONVICTION: The less conviction you have for a trade, the tighter the stop should be
-HIGH-CONVICTION: Wicks should be used to layer bids to get a better average entry
-HIGH-CONVICTION: High EV from high conviction plays comes from high win-rate
-LOW-CONVICTION: low conviction trade (low win-rate) but clean invalidation
-LOW-CONVICTION: High EV from low conviction trades comes from high RR
+CONVICTION-SL: The more conviction you have for a trade, the wider the stop should be (to prevent getting wicked out)
+CONVICTION-SL: The less conviction you have for a trade, the tighter the stop should be
+CONVICTION-HIGH: Wicks should be used to layer bids to get a better average entry
+CONVICTION-HIGH: High EV from high conviction plays comes from high win-rate
+CONVICTION-LOW: low conviction trade (low win-rate) but clean invalidation
+CONVICTION-LOW: High EV from low conviction trades comes from high RR
 
 -- Winrate, average R and EV (daily plan 220618)
 KRILLS-WINRATE: Consider my usual setup on long day-trades yielding an average 2.2R with a 45% hitrate on average I end up with an EV of 0.44 R per trade on average (=2.2*0.45-0.55*1). 
@@ -567,14 +567,24 @@ ALGO-FPS: "krill-automate-hama-FPS-passive-income-easy.JPG"
 TA-IMPORTANCE: TA is 25% of trading, the rest is execution and emotional control
 TA-IMPORTANCE: "krill-trading-is-25percent-TA-rest-is-execution-emotional-control.JPG"
 
+RISK-MANAGEMENT: Don't move SL, partial TP instead to make trade risk free
 RISK-MANAGEMENT: Awesome post by Krill (don't move SL)
 RISK-MANAGEMENT: - your entry may be visited again without invalidating the thesis behind your trade, so why close the trade?
-RISK-MANAGEMENT: - people move SL at breakeven thinking they won't lose money and they're de-risking, but for the same EV/derisking, you can sell 1/3rd of the position at +2R or half the position at +1R and derisk the same. 
+RISK-MANAGEMENT: - people move SL at breakeven thinking they won't lose money and they're de-risking, but for the same EV/derisking..
+RISK-MANAGEMENT:   you can sell 1/3rd of the position at +2R or half the position at +1R and derisk the same. 
 RISK-MANAGEMENT: - selling partially even allows you to re-add on entry if hit again to compound
-RISK-MANAGEMENT: - in many instances, you see a consolidation on support, you buy the low of that mini consolidation range, but that consolidation range is like 3-5% chop, so you assuming you're online a lot you could even range trade that consolidation, and constantly sell-rebuy and by the time the real pump comes your position could be fully de-risked and yet still be using full-size.
-RISK-MANAGEMENT: -selling partially also helps preventing mindfucking yourself during trade execution, if you haven't taken partial profits, you are more likely to panic close on a retracement, hence selling the dip. If you have taken partial profits you are less likely to panic close on a retracement or you may even add if your system says so (like Pierre/my trend base system with EMA13/21 turning continuous support)
-RISK-MANAGEMENT: -overall selling partially is just a superior solution. You want to move your SL ONLY if the invalidation of your thesis has changed, in such a case move SL according to the new invalidation
+RISK-MANAGEMENT: - in many instances, you see a consolidation on support, you buy the low of that mini consolidation range,
+RISK-MANAGEMENT:   but that consolidation range is like 3-5% chop, so you assuming you're online a lot you could even range trade that
+RISK-MANAGEMENT:   consolidation, and constantly sell-rebuy and by the time the real pump comes your position could be fully de-risked
+RISK-MANAGEMENT:   and yet still be using full-size.
+RISK-MANAGEMENT: - selling partially also helps preventing mindfucking yourself during trade execution, if you haven't taken partial
+RISK-MANAGEMENT:   profits, you are more likely to panic close on a retracement, hence selling the dip. If you have taken partial
+RISK-MANAGEMENT:   profits you are less likely to panic close on a retracement or you may even add if your system says so (like
+RISK-MANAGEMENT:   Pierre/my trend base system with EMA13/21 turning continuous support)
+RISK-MANAGEMENT: - overall selling partially is just a superior solution. You want to move your SL ONLY if the invalidation of
+RISK-MANAGEMENT:   your thesis has changed, in such a case move SL according to the new invalidation
 RISK-MANAGEMENT: "krill-dont-move-stop-partial-TPs-AWESOME-POST1.JPG"
+RISK-MANAGEMENT: "krill-TP-to-freeroll-SL-trick.png"
 
 90%-OF-SETUPS: 90% of Krill's setups are one of the following 4 setups (deep-retrace, trend, compression or range)
 90%-OF-SETUPS: "DEEP-RETRACE": long H4-ema200 or D1-ema200 retests from above on big dumps for coins in uptrends
@@ -850,27 +860,37 @@ EV: In HTF high conviction trades (swings), use wider stops (so not wicked out) 
 EV: Note: a little different to CBS; CBS will accepts the SLs and enter multiple times aiming for high RR on MTF/HTF swing trades 
 EV: "krill-high-conviction-trade-EV-comes-from-winrate-not-RR-1.png"
 
-H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
+H1-TREND-CONTINUATION-STRATEGY: For very strong trends (or impulse reversals after sweeping lows)
 H1-TREND-CONTINUATION-STRATEGY: 1. Type of setup: Continuation (H1-EMA13 reclaim on reversal is a different setup)
 H1-TREND-CONTINUATION-STRATEGY: 2. Context: As we're looking for continuation of the momentum we ideally wanna play this when:
-   a. We have a strong trend, ie: price already trading above 4h trend, even better if broke out of a 4h or 1h reversal or continuation compression
-   b. We just had a reversal with a very strong impulse from the lows (extremely good on BTC, especially like BTC SFP's/swept/spring from the lows of a range)
-   c. Actually a sub-case of a. except we just had a very strong trend or parabolic move following the 15m trend. Once 15m trend is lost, you're looking to bet
-      that 1h EMA13 will still hold. (of course if giga blow-off into HTF resistance don't do that, you're better off looking for a short...).
-      Note: do not play 15m trend reclaim, high probability of price just chopping around it. Once 15m trend is lost, the parabolic move is over
-H1-TREND-CONTINUATION-STRATEGY: 3. Entry: bid between EMA13 and EMA21 - if the context is very bullish, usually EMA13 won't break, but still wicks between 13 and 21 are for buying. 
+H1-TREND-CONTINUATION-STRATEGY:    a. We have a strong trend, ie: price already trading above H4 trend, even better if broke
+H1-TREND-CONTINUATION-STRATEGY:       out of a H4 or H1 reversal or continuation compression
+H1-TREND-CONTINUATION-STRATEGY:    b. We just had a reversal with a very strong impulse from the lows (extremely good on BTC,
+H1-TREND-CONTINUATION-STRATEGY:       especially like BTC SFP's/swept/spring from the lows of a range)
+H1-TREND-CONTINUATION-STRATEGY:    c. Actually a sub-case of a. except we just had a very strong trend or parabolic move following
+H1-TREND-CONTINUATION-STRATEGY:       the m15 trend. Once m15 trend is lost, you're looking to bet that 1h EMA13 will still hold.
+H1-TREND-CONTINUATION-STRATEGY:       (of course if giga blow-off into HTF resistance don't do that, you're better off looking
+H1-TREND-CONTINUATION-STRATEGY:       for a short...). Note: do not play 15m trend reclaim, high probability of price just chopping
+H1-TREND-CONTINUATION-STRATEGY:       around it. Once 15m trend is lost, the parabolic move is over
+H1-TREND-CONTINUATION-STRATEGY: 3. Entry: bid between EMA13 and EMA21 - if the context is very bullish, usually EMA13 won't break,
+H1-TREND-CONTINUATION-STRATEGY:    but still wicks between 13 and 21 are for buying. 
 H1-TREND-CONTINUATION-STRATEGY: 4. Filters for confluence:  
-   - fully reset 1h stoch RSI
-   - horizontal S/R level around the same level as 1h EMA13/21
+H1-TREND-CONTINUATION-STRATEGY:    - fully reset 1h stoch RSI
+H1-TREND-CONTINUATION-STRATEGY:    - horizontal S/R level around the same level as 1h EMA13/21
 H1-TREND-CONTINUATION-STRATEGY: 5. Signs to avoid the setup: (opposite of confluence) 
-   - make sure you have marked your HTF levels and you're not in HTF resistance. Daily tf exhaustion, daily bearish divs.
-   - if the coin already gave 3-4 1h continuations, well either it should/should have gone parabolic, or the 1h trend is getting exhausted.
-   Works best on 1st and 2nd consolidation above 1h trend.
-   - in these cases you likely wanna wait for 4h or daily trend
-H1-TREND-CONTINUATION-STRATEGY: 6. Stop: below EMA21 ideally between 25 and 30 or just a bit below 21 will do - I would say try to figure out the optimal R:R, especially if we're in case c.
-   after a parabolic move EMA30 may be too far and ruin the R:R. If in a. and long consolidation above EMA13 then slightly below 21 is just fine.
-H1-TREND-CONTINUATION-STRATEGY: 7. Targets: you usual liquidity levels, order blocks, HTF horizontals, HTF MAs - nothing special on this setup. But since we're looking for a
-   continuation leg, big and quick candles should be TP'ed partially even if not hitting the planned partial targets.
+H1-TREND-CONTINUATION-STRATEGY:    - make sure you have marked your HTF levels and you're not in HTF resistance.
+H1-TREND-CONTINUATION-STRATEGY:    - D1 tf exhaustion, daily bearish divs.
+H1-TREND-CONTINUATION-STRATEGY:    - if the coin already gave 3-4 H1 continuations, well either it should have gone parabolic,
+H1-TREND-CONTINUATION-STRATEGY:      or the H1 trend is exhausted. Works best on 1st and 2nd consolidation above H1 trend.
+H1-TREND-CONTINUATION-STRATEGY:    - in these cases you likely wanna wait for 4h or daily trend
+H1-TREND-CONTINUATION-STRATEGY: 6. Stop: below EMA21 ideally between EMA25 and EMA30 or just a bit below EMA21 will do - I would say try
+H1-TREND-CONTINUATION-STRATEGY:    to figure out the optimal R:R, especially if we're in case c. after a parabolic move EMA30 may be too
+H1-TREND-CONTINUATION-STRATEGY:    far and ruin the R:R. If in a. and long consolidation above EMA13 then slightly below 21 is just fine.
+H1-TREND-CONTINUATION-STRATEGY: 7. Targets: you usual liquidity levels, order blocks, HTF horizontals, HTF MAs - nothing special
+H1-TREND-CONTINUATION-STRATEGY:    on this setup. But since we're looking for a
+H1-TREND-CONTINUATION-STRATEGY:    continuation leg, big and quick candles should be TP'ed partially even if not hitting
+H1-TREND-CONTINUATION-STRATEGY:    the planned partial targets.
+H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
 
 COMPRESSION-BETWEEN-MAs: consolidating BELOW D1-ema200 and D1-ema13
 COMPRESSION-BETWEEN-MAs: GOOD: D1-ema200 flattening/curl-up with D1-ema13 very ascending
@@ -1243,7 +1263,7 @@ https://www.youtube.com/watch?v=dfp6LaC8eWI
 220606
 CONTINUATION: After impulse, expect H1-trend continuation to H4-ema200
 CONTINUATION: "krill-after-impulse-expect-H1trend-contination.png"
-ISSUE: Drawback of EMA system is no real price level when trying to guesstimate where the fast moving ema13 will go
+MA-ISSUE: Drawback of EMA system is no real price level when trying to guesstimate where the fast moving ema13 will go
 BULLISH-STRUCTURE: Coins that have a bullish structure (trend reclaimed, curl up, HH, HL, HH) will pump the most if BTC pops
 DIVS: Using Gainzy RSI Diags to identify divs (red and green vertical bars)
 DIVS: Krill / Gainzy divs are much less stringent than CBS divs
@@ -1369,10 +1389,19 @@ H1-100MA-slope: H1-ma100 slope gradient very informative (esp BTC)
 90%-OF-SETUPS: (4.0) Range plays when MAs chopped 
 
 -- EXECUTION
-H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png"
+H1-TREND-CONTINUATION-STRATEGY: "krill-education-H1trend-continuation-setup1.png" (can apply to other time-frames too)
 REVERSAL-RECLAIM: Starts reclaiming each of these macro/cloud MAs (1st ma100, then ema200, then ma300) while riding the trend
 COMPRESSION-BO-SCAM-GAP-FILL: Compression BO scam pump gap fill only (esp H1-banana to H4ema200), against the trend, see macro MA gaps and steepness (DOGG)
 TREND-RIDING: riding trend fractally across time-frames H1-trend to H4-trend (to H1-ema200/D1-ema8) to D1-trend; Pierre style
+-- conviction
+CONVICTION-SL: The more conviction you have for a trade, the wider the stop should be (to prevent getting wicked out)
+CONVICTION-SL: The less conviction you have for a trade, the tighter the stop should be
+CONVICTION-HIGH: Wicks should be used to layer bids to get better average entry, EV from high conviction plays comes from high win-rate
+CONVICTION-LOW: Low conviction trade (low win-rate) but clean invalidation, high EV from low conviction trades comes from high RR
+
+-- ISSUE WITH MAs
+MA-ISSUE: Drawback of EMA system is no real price level when trying to guesstimate where the fast moving ema13 will go
+MA-ISSUE: Have to kind of guess entries and targets based on the fast moving MAs
 
 -- PIERRE-SYSTEM-COMPLIMENTALS
 KRILL-H4-TREND-LOSS: If H4-trend is lost, don't auto-bid H4-ema200 (D1-ema32), wait for H1-ema200 (D1-ema8) to catch up to H4-ema200 (D1-ema32)
