@@ -179,6 +179,6 @@ fillColorSelectK = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color
 fillColorSelectP = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fillColorSelectM = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fill(p100maK, p300maK, color=k_col_selected ? fillColorSelectK : na, title="K", display=display.none)
-fill(p100maP, p300maP, color=k_col_selected ? fillColorSelectP : na, title="P", display=display.none)
+fill(p100maP, p300maP, color=p_col_selected ? fillColorSelectP : na, title="P", display=display.none)
 fill(p100maM, p300maM, color=m_col_selected ? fillColorSelectM : na, title="M", display=display.none)
 
