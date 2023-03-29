@@ -16,6 +16,7 @@ if (k_col_selected and p_col_selected and m_col_selected)
 macros_MAs_on = input.bool(defval = true, title="Macro MAs on")
 trend_MAs_on = input.bool(defval = true, title="Trend MAs on")
 h4ema200_everywhere_on = input.bool(defval = true, title="H4-ema200 everywhere on")
+ichi_macro_cloud_on = input.bool(defval = false, title="Ichimuko cloud for macro MAs on")
 
 // ma 20
 ma20Source = input(defval = close)
@@ -176,7 +177,7 @@ plot((m_col_selected==true) and (trend_MAs_on) ? ema34 : na, title="EMA34", colo
 fillColorSelectK = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fillColorSelectP = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
 fillColorSelectM = (ma100 > ma300) ? color.new(color.lime, 75) : color.new(color.red, 75)
-fill(p100maK, p300maK, color=k_col_selected ? fillColorSelectK : na, title="K", display=display.none)
-fill(p100maP, p300maP, color=p_col_selected ? fillColorSelectP : na, title="P", display=display.none)
-fill(p100maM, p300maM, color=m_col_selected ? fillColorSelectM : na, title="M", display=display.none)
+fill(p100maK, p300maK, k_col_selected and (ichi_macro_cloud_on) ? fillColorSelectK : na, title="K")
+fill(p100maP, p300maP, p_col_selected and (ichi_macro_cloud_on) ? fillColorSelectP : na, title="P")
+fill(p100maM, p300maM, m_col_selected and (ichi_macro_cloud_on) ? fillColorSelectM : na, title="M")
 
