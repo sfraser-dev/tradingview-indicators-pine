@@ -5,7 +5,7 @@
 // actual chart, then click "3dots", "Pin to scale", "Pinned to right side" to merge the scales into one
 indicator(title="Peanuts", shorttitle="Peanuts", overlay=false, timeframe="", timeframe_gaps=true)
 
-color_style_select = input.string(defval="K", title="K, P or M", options=["K", "P", "M"], group="Use K-col, P-col or M-col")
+color_style_select = input.string(defval="K", title="K, P or M", options=["K", "P", "M"], group="Use K, P, or M colors")
 
 k_col_selected = color_style_select == "K" ? true : false
 p_col_selected = color_style_select == "P" ? true : false
