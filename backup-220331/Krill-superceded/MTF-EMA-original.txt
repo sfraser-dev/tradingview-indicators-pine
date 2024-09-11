@@ -1,9 +1,0 @@
-//@version=3
-study("MTF EMA" , overlay=true)
-
-mtf = input(title="MTF", type=resolution, defval="1D")
-ma_length = input(20, title = "EMA Period")
-
-ma = security(tickerid, mtf, ema(close, ma_length))
-
-p = plot(ma, title="MTF EMA", color=blue , linewidth=1, offset=0)

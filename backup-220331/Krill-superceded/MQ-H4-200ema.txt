@@ -1,9 +1,0 @@
-//@version=3
-study("Krill" , overlay=true)
-
-mtf = input(title="MTF", type=resolution, defval="240")
-ma_length = input(200, title = "EMA Period")
-
-ma = security(tickerid, mtf, ema(close, ma_length))
-
-p = plot(ma, title="H4 200ema everywhere", color=blue , linewidth=1, offset=0)
